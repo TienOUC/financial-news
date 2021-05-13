@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 13 May 2021 13:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 May 2021 13:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【韩国国会批准任命金富谦为新任总理】韩国国会当地时间13日举行全体会议，通过了新任总理被提名人金富谦的任命批准案。由于韩国执政党和在野党围绕着国务总理提名人任命同意案表决和三位部长提名人任命问题产生了较大的分歧，韩国最大在野党国民力量议员缺席了当天的国会全体会议，韩国国会最终以168票赞成、5票反对、1票弃权、2票无效的无记名投票结果通过了新任总理被提名人金富谦的任命案。韩国总统文在寅4月16日提名金富谦为新任总理，在他的任命案获得国会的通过后，金富谦正式成为韩国第47届总理。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5143879.d.html</link>
+            <guid>2170311</guid>
+            <pubDate>Thu, 13 May 2021 13:14:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小鹏汽车何小鹏：芯片短缺最迟可能延续到明年一季度】在小鹏汽车一季度业绩会上，小鹏汽车董事长何小鹏表示，二季度是芯片最有挑战的季度，在三季度可能得到缓解，最迟可能到明年一季度。小鹏汽车在联系新的供应商，通过AB点的方式使芯片问题得以缓解。小鹏汽车副董事长兼总裁顾宏地进一步表示，磷酸铁锂电池电芯的产能爬坡也在三季度。对于2021年第二季度，小鹏汽车预计车辆交付量为15,500至16,000辆，同比增长约380.2％至395.7％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5143768.d.html</link>
+            <guid>2170310</guid>
+            <pubDate>Thu, 13 May 2021 13:13:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【习近平在南阳市淅川县考察南水北调工程】13日下午，习近平总书记来到淅川县，先后考察了陶岔渠首枢纽工程、丹江口水库和九重镇邹庄村，听取南水北调中线工程建设管理运行和水源地生态保护等情况介绍，了解南水北调移民安置、发展特色产业、促进移民增收等情况。途中，习近平还临时下车，走进麦田察看小麦长势，了解夏粮生产情况。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2280585.d.html</link>
@@ -531,24 +543,6 @@
             <title><![CDATA[阿里巴巴：第四财季收入为1873.95亿元，同比增长64%；归属于普通股股东的净亏损为54.79亿元，净亏损为76.54亿元，主要由于上述反垄断法罚款；非公认会计准则净利润为262.16亿元，同比增长18%。]]></title>
             <guid>2170206</guid>
             <pubDate>Thu, 13 May 2021 11:19:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿里巴巴：2021年3月，中国零售市场移动月活跃用户达9.25亿，较2020年12月增加2300万。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5128274.d.html</link>
-            <guid>2170205</guid>
-            <pubDate>Thu, 13 May 2021 11:19:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  天翔环境：5月12日，公司已向深圳证券交易所提交了恢复上市的书面申请，但不包括恢复上市保荐书，深交所是否受理公司申请存在不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5128257.d.html</link>
-            <guid>2170204</guid>
-            <pubDate>Thu, 13 May 2021 11:19:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  阿里巴巴宣布，2022财年所有增量利润及额外资本用于支持平台商家，以及投资于新业务和关键战略领域。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5128219.d.html</link>
-            <guid>2170203</guid>
-            <pubDate>Thu, 13 May 2021 11:19:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
