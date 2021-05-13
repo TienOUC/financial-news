@@ -4,11 +4,89 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 13 May 2021 13:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 May 2021 13:35:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[芝加哥期权交易所波动率指数下跌2.24点，至25.35。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2283686.d.html</link>
+            <guid>2170325</guid>
+            <pubDate>Thu, 13 May 2021 13:35:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Poshmark(POSH.O)跌超15%，第一季度净亏损差于市场预期，绩后遭投行瑞杰下调目标价至58美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2283674.d.html</link>
+            <guid>2170324</guid>
+            <pubDate>Thu, 13 May 2021 13:35:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Vroom(VRM.O)涨近8%，第一季度营收大幅增长，净利润超预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2283664.d.html</link>
+            <guid>2170323</guid>
+            <pubDate>Thu, 13 May 2021 13:35:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  智能音箱制造商搜诺斯(SONO.O)涨近6%，公司在昨日公布的财报中上调了全年营收预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5146483.d.html</link>
+            <guid>2170322</guid>
+            <pubDate>Thu, 13 May 2021 13:35:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Silvergate Capital(SI.N)涨近12%，3Diem宣布与Silvergate Capital合作成为Diem USD稳定币的独家发行人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5146216.d.html</link>
+            <guid>2170321</guid>
+            <pubDate>Thu, 13 May 2021 13:32:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳指涨幅扩大至1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5146029.d.html</link>
+            <guid>2170320</guid>
+            <pubDate>Thu, 13 May 2021 13:31:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿里巴巴开跌超3%，第四财季受反垄断法罚款影响录得净亏损人民币54.79亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5146010.d.html</link>
+            <guid>2170319</guid>
+            <pubDate>Thu, 13 May 2021 13:30:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【道指开盘涨0.2%，标普500涨0.4%，纳指涨0.9%】大型科技股走强，苹果涨1.3%，Facebook涨1.2%，亚马逊涨1.2%，微软涨1.2%，特斯拉涨2.3%。小鹏汽车涨2.9%，Q1财报显示，交付及收入再创历史新高。B站涨5.0%，Q1总营收同比增长68%至39亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5145944.d.html</link>
+            <guid>2170318</guid>
+            <pubDate>Thu, 13 May 2021 13:30:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据京东物流修订版聆讯后资料集：截至2021年3月31日止三个月，京东物流录得收入人民币224亿元，较2020年同期增长64.1%，毛利为人民币230.7百万元，较2020年同期下降72.7%，销售及市场推广开支、研发开支以及一般及行政开支合计人民币22亿元；营业成本及经营费用包括股份支付开支人民币4亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5145761.d.html</link>
+            <guid>2170317</guid>
+            <pubDate>Thu, 13 May 2021 13:29:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货跌破64美元/桶，日内跌超3.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5145749.d.html</link>
+            <guid>2170316</guid>
+            <pubDate>Thu, 13 May 2021 13:29:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贝莱德全球固定收益首席投资官Rieder：认为美联储需要缩减购债规模】在PPI数据公布后，未来几个月，我们将看到令人印象深刻的通胀数据，市场将出现难以置信的物价压力，出现供不应求的情况。因此，需要逐渐减少系统中的流动性。缩减购债规模“没有那么可怕”，如果通过继续购买较长期的资产来缩减购债规模，就可以保持较低的长期利率，这对抵押贷款或企业借款等来说更为重要。6到9个月前，美联储的政策是非常恰当的，但现在我们其实已经可以摆脱紧急状况，开始以务实的方式发展了。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5145397.d.html</link>
+            <guid>2170315</guid>
+            <pubDate>Thu, 13 May 2021 13:26:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国联合航空(UAL.O)：已经开始对波音737 Max进行电气维修，预计飞机将在“未来几天”恢复服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2282560.d.html</link>
+            <guid>2170314</guid>
+            <pubDate>Thu, 13 May 2021 13:25:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  纳指期货涨幅扩大至1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2281999.d.html</link>
+            <guid>2170313</guid>
+            <pubDate>Thu, 13 May 2021 13:22:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【韩国国会批准任命金富谦为新任总理】韩国国会当地时间13日举行全体会议，通过了新任总理被提名人金富谦的任命批准案。由于韩国执政党和在野党围绕着国务总理提名人任命同意案表决和三位部长提名人任命问题产生了较大的分歧，韩国最大在野党国民力量议员缺席了当天的国会全体会议，韩国国会最终以168票赞成、5票反对、1票弃权、2票无效的无记名投票结果通过了新任总理被提名人金富谦的任命案。韩国总统文在寅4月16日提名金富谦为新任总理，在他的任命案获得国会的通过后，金富谦正式成为韩国第47届总理。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5143879.d.html</link>
@@ -467,82 +545,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2268047.d.html</link>
             <guid>2170220</guid>
             <pubDate>Thu, 13 May 2021 11:37:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委森特诺：货币政策非常宽松。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5130794.d.html</link>
-            <guid>2170219</guid>
-            <pubDate>Thu, 13 May 2021 11:37:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿里巴巴集团董事会主席兼首席执行官张勇：我们对中国消费驱动的经济增长充满期待。我们将继续聚焦用户体验，专注于通过创新创造客户价值，从而实践在数字时代让天下没有难做的生意之使命。阿里巴巴集团于2021财年达到了全球年度活跃消费者10亿的历史性里程碑。我们的整体业务在健康的基础上强劲增长，阿里巴巴生态体系于本财年也实现了1.2万亿美元GMV的新纪录。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2266927.d.html</link>
-            <guid>2170217</guid>
-            <pubDate>Thu, 13 May 2021 11:28:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【科融环境回复问询函：蓝天环保约定5年归还公司5800万元具有可行性】科融环境回复问询函，蓝天环保按照承诺函约定未来5年归还公司5800万元具有可行性，公司对该部分款项按账龄计提坏账具有谨慎、合理性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2266878.d.html</link>
-            <guid>2170216</guid>
-            <pubDate>Thu, 13 May 2021 11:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿里巴巴：经营亏损为76.63亿元，主因国家市场监管总局就中国反垄断法处以罚款182.28亿元。 ：剔除该一次性影响，我们的经营利润为人民币105.65亿元（16.12亿美元），同比增长48%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5129291.d.html</link>
-            <guid>2170215</guid>
-            <pubDate>Thu, 13 May 2021 11:25:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  阿里巴巴：我们预计2022财政年度的总收入将会超越人民币9300亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2266571.d.html</link>
-            <guid>2170214</guid>
-            <pubDate>Thu, 13 May 2021 11:25:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  阿里巴巴：2021财年，优酷持续聚焦于提供优越的用户体验及增加付费用户数目。优酷的日均付费用户规模正持续健康增长，本财年同比增长35%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5129183.d.html</link>
-            <guid>2170213</guid>
-            <pubDate>Thu, 13 May 2021 11:25:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  阿里巴巴：于2021年3月份季度，云计算业务收入同比增长37%至人民币167.61亿元（25.58亿美元），季度收入增长放缓主要由于来自互联网行业的单一头部客户收入下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5129149.d.html</link>
-            <guid>2170212</guid>
-            <pubDate>Thu, 13 May 2021 11:25:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  阿里巴巴：于2021财年，来自云计算业务的收入同比增长50%至人民币601.20亿元（91.76亿美元），主要由互联网、公共部门及金融行业客户收入的增长所推动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2266385.d.html</link>
-            <guid>2170211</guid>
-            <pubDate>Thu, 13 May 2021 11:24:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿里巴巴四季度及全年财报：全球年度活跃消费者达10亿，中国零售市场表现稳健】5月13日，阿里巴巴集团发布2021财年四季度及全年财报。2021全财年全球年度活跃消费者达10亿，阿里巴巴生态体系GMV达到8.119万亿元人民币。中国零售市场表现稳健，四季度淘宝GMV增长加快，淘宝直播财年GMV超5000亿元。多引擎驱动增长明显：菜鸟持续高增长，全财年增长68%；云计算业务全财年收入同比增长50%，达到601.2亿元，维持此前稳中有升的发展势头。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmyaawc5128718.d.html</link>
-            <guid>2170210</guid>
-            <pubDate>Thu, 13 May 2021 11:22:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  *ST东海A：公司拟以发行股份及支付现金的方式购买朗培教育51%股权；拟向罗牛山集团非公开发行股票募集配套资金，预计不超过拟购买资产股份支付对价的100%。目前与标的资产有关的审计、评估和盈利预测工作尚未完成。股票复牌。]]></title>
-            <guid>2170209</guid>
-            <pubDate>Thu, 13 May 2021 11:21:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿里巴巴：2021财年，阿里巴巴生态体系的商品交易额（GMV）为人民币8.119万亿元（1.239万亿美元），主要包括中国零售市场GMV人民币7.494万亿元（1.144万亿美元），以及跨境及全球零售市场和本地生活服务GMV。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2265879.d.html</link>
-            <guid>2170208</guid>
-            <pubDate>Thu, 13 May 2021 11:20:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  阿里巴巴：阿里巴巴生态体系的全球年度活跃消费者达到超过10亿的里程碑，其中8.91亿消费者来自我们中国零售市场、本地生活服务和数字媒体及娱乐平台，以及约2.40亿来自海外。中国零售市场年度活跃消费者为8.11亿，较截至2020年3月31日止12个月增加8,500万。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-13/detail-ikmxzfmm2265848.d.html</link>
-            <guid>2170207</guid>
-            <pubDate>Thu, 13 May 2021 11:20:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿里巴巴：第四财季收入为1873.95亿元，同比增长64%；归属于普通股股东的净亏损为54.79亿元，净亏损为76.54亿元，主要由于上述反垄断法罚款；非公认会计准则净利润为262.16亿元，同比增长18%。]]></title>
-            <guid>2170206</guid>
-            <pubDate>Thu, 13 May 2021 11:19:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
