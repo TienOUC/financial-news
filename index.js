@@ -24,7 +24,7 @@ const feed = new Feed({
   },
 });
 
-
+//过滤掉包含以下数组元素（关键字）的返回值
 const filterArr = [
   '比特币',
   '以太坊',
