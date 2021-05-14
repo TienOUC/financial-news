@@ -4,13 +4,349 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 14 May 2021 08:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 May 2021 09:32:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【南向资金今日净流入46.95亿港元】南向资金今日净流入46.95亿港元。港股通(沪)方面，美团－Ｗ净买入4.05亿港元，腾讯控股净买入3.23亿港元。港股通(深)方面，美团－Ｗ净买入6.72亿港元，腾讯控股净买入4.26亿港元。]]></title>
+            <guid>2171993</guid>
+            <pubDate>Fri, 14 May 2021 09:32:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北向资金净流入90.34亿 五粮液净买入9.23亿】北向资金今日净流入90.34亿。五粮液净买入9.23亿，东方财富净买入5.92亿，中国中免净买入5.45亿，招商银行净买入4.52亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5317823.d.html</link>
+            <guid>2171992</guid>
+            <pubDate>Fri, 14 May 2021 09:31:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美指转弱人民币收升逾200点，通胀担忧缓解关注美零售数据】① 人民币兑美元即期周五随中间价收升逾200点，成交量继续维护在400亿美元以上，交易员称，市场暂时消化超预期通胀数据冲击，美指逐渐转弱，人民币随之逐渐收复此前跌势，后续美国零售等数据表现料持续扰动汇市，不过短期美指90关口支撑较明显；他们并指出，大宗商品价格持续高位运行，美国的通胀压力料逐渐加大，缩减QE的预期也将逐渐增强，继续关注欧美经济预期差；② 美国上周初请失业金人数降至14个月低位，企业保留现有员工，劳动力短缺状况加剧，抑制了4月就业岗位的增长；4月份生产者物价指数(PPI)涨幅则超过预期，创下2010年以来最大年度涨幅；③ 美联储理事沃勒周四表示，美联储还需要“几个月的数据”，以确信近期疲弱的就业增长和高通胀是暂时的，然后才会考虑调整超宽松货币政策；据知名外媒调查，美联储青睐的通胀指标需要触及2.8%高位，才会令美国决策者不安，调查还显示，美联储至少将忍受该通胀水平三个月时间，之后才会行动；全球汇市方面，美元周五涨势暂歇，但美元指数周线料录得涨幅，投资者试图评估美国通胀涨势快于预期、从而促使美联储提早加息的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2455346.d.html</link>
+            <guid>2171989</guid>
+            <pubDate>Fri, 14 May 2021 09:29:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海通证券宏观团队预计，这一轮美联储宽松政策的退出时间也将比金融危机时快很多，今年3-4季度，可能是美联储对经济前瞻指引发生转变的关键时点，需要重点关注。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5317193.d.html</link>
+            <guid>2171987</guid>
+            <pubDate>Fri, 14 May 2021 09:28:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5月14日，首批5单基础设施公募REITs项目获上交所审核通过。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2455147.d.html</link>
+            <guid>2171985</guid>
+            <pubDate>Fri, 14 May 2021 09:28:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三井住友银行交易部门联席总经理Masaru Ishibashi表示，我们看到有一些经济数据超出预期，但美联储的立场没有任何改变，市场将无法继续炒作通胀题材。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2454883.d.html</link>
+            <guid>2171983</guid>
+            <pubDate>Fri, 14 May 2021 09:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【冬奥会交通基础设施建设进入收官阶段】交通运输部新闻发言人孙文剑14日表示，目前，北京冬奥会的交通筹办工作总体进展顺利，交通基础设施建设已进入关键收官阶段，冬奥运输服务保障进入加快构建和完善阶段。“目前，京张高铁及崇礼支线、延庆支线，兴延高速、延崇高速、宁远机场和15条赛区场馆连接公路建设项目全面通车（通航），4个交通枢纽场站项目基建任务均已完成。主办城市交通运输部门正按计划推进赛区内交通临时场站建设，将于8月全面建成并交付使用。”（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5316840.d.html</link>
+            <guid>2171981</guid>
+            <pubDate>Fri, 14 May 2021 09:26:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本首相菅义伟：将病毒紧急情况延长至5月16-31日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2454741.d.html</link>
+            <guid>2171980</guid>
+            <pubDate>Fri, 14 May 2021 09:25:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本首相菅义伟宣布北海道两个县进入病毒紧急状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2454691.d.html</link>
+            <guid>2171979</guid>
+            <pubDate>Fri, 14 May 2021 09:25:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑挪威克朗USD/NOK跌至8.3下方，日内跌0.59%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5316494.d.html</link>
+            <guid>2171978</guid>
+            <pubDate>Fri, 14 May 2021 09:24:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[房多多(DUO.O)：第一季度每ADS亏损0.07元，去年同期亏损0.05元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2454195.d.html</link>
+            <guid>2171977</guid>
+            <pubDate>Fri, 14 May 2021 09:22:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新加坡海峡时报指数收盘跌2.2％至3,055.02。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5316078.d.html</link>
+            <guid>2171976</guid>
+            <pubDate>Fri, 14 May 2021 09:22:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[房多多(DUO.O)：第一季度营收2.91亿元，去年同期2.72亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5315967.d.html</link>
+            <guid>2171975</guid>
+            <pubDate>Fri, 14 May 2021 09:21:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海医药：SPH5030片临床试验申请获得受理，拟用于晚期实体瘤的治疗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5315950.d.html</link>
+            <guid>2171974</guid>
+            <pubDate>Fri, 14 May 2021 09:21:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴勒斯坦加沙地带卫生部：自巴以交战以来，119名巴勒斯坦人在以军的空袭中死亡，其中27人是未成年人；另有600名巴勒斯坦人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2453425.d.html</link>
+            <guid>2171973</guid>
+            <pubDate>Fri, 14 May 2021 09:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘开涨0.14%，报27949点，低水79点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5315435.d.html</link>
+            <guid>2171972</guid>
+            <pubDate>Fri, 14 May 2021 09:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据港交所披露文件，美国资本集团在友邦保险(01299.HK)的持股比例从9.01%降至8.99%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2453064.d.html</link>
+            <guid>2171971</guid>
+            <pubDate>Fri, 14 May 2021 09:16:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本首相菅义伟：希望尽快将国家平均最低工资提高到1000日元/时。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5315004.d.html</link>
+            <guid>2171970</guid>
+            <pubDate>Fri, 14 May 2021 09:16:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深交所审议通过首批四单基础设施公募REITs项目】 深交所公募REITs信息平台显示，深市首批基础设施REITs项目“中航首钢生物质封闭式基础设施证券投资基金”、“博时招商蛇口产业园封闭式基础设施证券投资基金”、“平安广州交投广河高速公路封闭式基础设施证券投资基金”与“红土创新盐田港仓储物流封闭式基础设施证券投资基金”已获审议会议通过。四单项目此前分别于4月23日、5月6日获深交所受理，基础设施项目分布在北京、广州及深圳，包括垃圾处理及生物质发电、产业园区、收费公路和仓储物流四大类主流资产类型。根据规则要求，各项目无异议函将向中国证监会进行报送，经中国证监会注册后将正式进入公开发售阶段。]]></title>
+            <guid>2171968</guid>
+            <pubDate>Fri, 14 May 2021 09:15:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[涪陵榨菜定增完成，募集资金总额为33亿元，其中易方达基金获配1.82亿元，上海景林资产管理有限公司旗下基金合计获配4亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2452642.d.html</link>
+            <guid>2171967</guid>
+            <pubDate>Fri, 14 May 2021 09:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海市钢铁企业将继续积极做好市场稳价工作】近期，钢材价格持续上涨。为维护钢材市场价格秩序，保护企业正常生产经营活动，防范价格违法风险，促进钢铁行业可持续健康发展，按照市场监管总局和国家发展改革委的约谈要求，5月14日，上海市市场监管局、上海市发展改革委、上海市经济信息化委联合约谈了本市钢铁企业。会议提出，本市钢铁企业要积极主动履行社会责任，切实加强价格管理，合理制定价格，并配合政府做好钢材市场稳价工作，为优化营商环境，保障经济社会高质量发展发挥积极作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5314182.d.html</link>
+            <guid>2171965</guid>
+            <pubDate>Fri, 14 May 2021 09:11:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货铂金刚刚刺穿1230.00美元/盎司关口，最新报1230.10美元/盎司，日图涨1.53%；Nymex铂金期货主力最新报1230.1美元/盎司，日图涨1.96%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5314074.d.html</link>
+            <guid>2171963</guid>
+            <pubDate>Fri, 14 May 2021 09:10:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳指期货涨幅扩大至1%。]]></title>
+            <guid>2171962</guid>
+            <pubDate>Fri, 14 May 2021 09:10:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海市钢铁企业将继续积极做好市场稳价工作。（上海市场监管局）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5313825.d.html</link>
+            <guid>2171961</guid>
+            <pubDate>Fri, 14 May 2021 09:10:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油期货日内涨幅扩大至1%，现报67.72美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2451687.d.html</link>
+            <guid>2171960</guid>
+            <pubDate>Fri, 14 May 2021 09:10:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[震安科技：持股2.63%的股东广发信德投资管理有限公司拟减持不超过2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5313720.d.html</link>
+            <guid>2171959</guid>
+            <pubDate>Fri, 14 May 2021 09:09:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天问一号将于近期择机实施着陆】中国首次火星探测任务天问一号探测器自2020年7月23日发射以来，各系统工作正常。2021年2月10日，天问一号探测器进入环火轨道，开展科学探测工作，获取了大量科学数据。根据目前飞行情况，天问一号探测器拟于北京时间5月15日凌晨至5月19日期间择机着陆于火星乌托邦平原。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5313550.d.html</link>
+            <guid>2171958</guid>
+            <pubDate>Fri, 14 May 2021 09:09:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：日本7月份私人PCR检测能力为每天12.5万次。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2451422.d.html</link>
+            <guid>2171957</guid>
+            <pubDate>Fri, 14 May 2021 09:08:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国官员称，美军从阿富汗南部坎大哈基地撤军。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2451350.d.html</link>
+            <guid>2171956</guid>
+            <pubDate>Fri, 14 May 2021 09:08:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Telsey Advisory：将塔吉特(TGT.N)目标价从215美元上调至235美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2451280.d.html</link>
+            <guid>2171955</guid>
+            <pubDate>Fri, 14 May 2021 09:07:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰货币政策委员Lon：最好是低失业率和高通胀，而不是相反情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5313359.d.html</link>
+            <guid>2171954</guid>
+            <pubDate>Fri, 14 May 2021 09:07:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰货币政策委员Lon：波兰的货币政策应将量化宽松作为标准工具。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2451201.d.html</link>
+            <guid>2171953</guid>
+            <pubDate>Fri, 14 May 2021 09:07:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国汽车工业协会赴紫光国微调研 交流了汽车芯片业务】5月11日，中国汽车工业协会副秘书长李邵华、杨中平带队赴紫光国芯微电子股份有限公司开展调研。紫光国微副总裁苏琳琳等领导参加了调研会。苏琳琳介绍了紫光集团和紫光国微发展情况、紫光国微汽车芯片业务，对芯片行业现状及供应链情况进行了分析，提出了汽车芯片供应链发展建议。此外，苏总对于当前国内企业生产汽车芯片存在的顾虑也和协会领导进行了坦率的交流。李邵华表示，中汽协将进一步加强与紫光国微及其他集成电路企业的对接交流，继续沿产业链深入开展调研，积极作为，探索汽车芯片系统性解决方案，推动汽车和芯片两个行业融合发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2451091.d.html</link>
+            <guid>2171952</guid>
+            <pubDate>Fri, 14 May 2021 09:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰货币政策委员Lon：波兰将利率维持到2022年是基准方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2451047.d.html</link>
+            <guid>2171951</guid>
+            <pubDate>Fri, 14 May 2021 09:06:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3个月期欧元拆借利率降至-0.549％，创为1月18日以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2451006.d.html</link>
+            <guid>2171950</guid>
+            <pubDate>Fri, 14 May 2021 09:06:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货日内涨幅扩大至1%，现报64.4美元/桶，布伦特原油期货涨近1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2450620.d.html</link>
+            <guid>2171949</guid>
+            <pubDate>Fri, 14 May 2021 09:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哈萨克斯坦能源部：哈萨克斯坦4月份石油产量为148.3万桶/日，将抵消欧佩克+夏季产量过剩带来的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5312539.d.html</link>
+            <guid>2171948</guid>
+            <pubDate>Fri, 14 May 2021 09:03:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国神华(01088.HK)：4月煤炭销量4350万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2450389.d.html</link>
+            <guid>2171947</guid>
+            <pubDate>Fri, 14 May 2021 09:03:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富国银行：将华特迪士尼(DIS.N)目标价从219美元下调至209美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2450379.d.html</link>
+            <guid>2171946</guid>
+            <pubDate>Fri, 14 May 2021 09:03:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日媒：东京奥组委累计38名员工确诊新冠】据日本《时事通信社》14日报道，东京奥组委当天表示，一名在东京都内奥运会相关设施工作的男性确诊感染新冠病毒，这是自2020年以来第38名确诊感染的东京奥组委员工。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5312185.d.html</link>
+            <guid>2171945</guid>
+            <pubDate>Fri, 14 May 2021 09:02:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来西亚新增4113例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5311818.d.html</link>
+            <guid>2171944</guid>
+            <pubDate>Fri, 14 May 2021 09:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[濮耐股份：持股8.94%的股东郭志彦拟减持不超过0.99%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5311535.d.html</link>
+            <guid>2171942</guid>
+            <pubDate>Fri, 14 May 2021 08:58:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本福冈县新增472例新冠肺炎确诊病例，4例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5311507.d.html</link>
+            <guid>2171941</guid>
+            <pubDate>Fri, 14 May 2021 08:58:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[本田汽车(HMC.N)：预计芯片短缺将在本财年前半段持续。]]></title>
+            <guid>2171940</guid>
+            <pubDate>Fri, 14 May 2021 08:57:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[发改委：根据近期国际市场油价变化情况，按照现行成品油价格形成机制，自2021年5月14日24时起，国内汽、柴油价格每吨均提高100元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5311240.d.html</link>
+            <guid>2171939</guid>
+            <pubDate>Fri, 14 May 2021 08:56:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[灵康药业：持股2.26%的股东陶小刚拟减持不超过1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5311222.d.html</link>
+            <guid>2171938</guid>
+            <pubDate>Fri, 14 May 2021 08:56:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[本田汽车(HMC.N)：预计芯片短缺将在本财年前半段持续。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5311176.d.html</link>
+            <guid>2171937</guid>
+            <pubDate>Fri, 14 May 2021 08:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[部分热门中概股盘前走高，小牛电动(NIU.O)涨近5%，富途控股(FUTU.O)涨4.6%，达达集团(DADA.O)涨3.8%，哔哩哔哩(09626.HK)涨3.5%。]]></title>
+            <guid>2171936</guid>
+            <pubDate>Fri, 14 May 2021 08:54:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国国际开发大臣夏尔马：人类活动正在危及我们的星球，如果还不采取行动，气候变化将变成灾难。我们必须在本世纪中叶将排放量降至零。各国应该提出2030年的减排目标。我们呼吁各国承诺到2040年所有新车实现零排放。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5310504.d.html</link>
+            <guid>2171934</guid>
+            <pubDate>Fri, 14 May 2021 08:51:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：以色列对黎巴嫩边境进行空袭。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2447522.d.html</link>
+            <guid>2171932</guid>
+            <pubDate>Fri, 14 May 2021 08:48:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日本ABEMA电视台：日本首次确认一例感染印度变异病毒的社区病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2447072.d.html</link>
+            <guid>2171931</guid>
+            <pubDate>Fri, 14 May 2021 08:46:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5月12日，京东数字科技控股股份有限公司发生工商变更，企业名称变更为京东科技控股股份有限公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2446704.d.html</link>
+            <guid>2171930</guid>
+            <pubDate>Fri, 14 May 2021 08:44:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新潮能源：公司近日收到烟台市公安局经济犯罪侦查支队发出的《并案侦查情况说明》，告知公司报案的部分前任管理层涉嫌背信损害上市公司利益一案，已与立案侦查的专案并案侦查。]]></title>
+            <guid>2171928</guid>
+            <pubDate>Fri, 14 May 2021 08:42:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长安汽车涨停 深股通净卖出1亿元】长安汽车今日再度涨停，龙虎榜数据显示，深股通买入2.44亿元并卖出3.46亿元，一机构买入5602万元并卖出7720万元。招商证券深圳深南东路买入1.63亿元并卖出1.05亿元，英大证券深圳华侨城买入1.53亿元，广发证券西安南广济街买入1.5亿元，财通证券杭州转塘创意路买入1.39亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2446193.d.html</link>
+            <guid>2171927</guid>
+            <pubDate>Fri, 14 May 2021 08:41:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日本时事通讯社：日本内阁支持率下跌4.4个百分点至32.2％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2445335.d.html</link>
+            <guid>2171926</guid>
+            <pubDate>Fri, 14 May 2021 08:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油短线走高0.4美元，现分别报64.26美元/桶和67.41美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2445253.d.html</link>
+            <guid>2171924</guid>
+            <pubDate>Fri, 14 May 2021 08:37:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北汽蓝谷：子公司4月汽车销量为1028辆，去年同期为586辆；前4月累计为4177辆，同比下降56.43%。]]></title>
+            <guid>2171923</guid>
+            <pubDate>Fri, 14 May 2021 08:36:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[欧易OKEx发布关于调整SHIB/USDT币币最小交易数量精度暂停交易的公告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2444637.d.html</link>
             <guid>2171922</guid>
             <pubDate>Fri, 14 May 2021 08:34:08 GMT</pubDate>
         </item>
@@ -199,331 +535,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5300887.d.html</link>
             <guid>2171886</guid>
             <pubDate>Fri, 14 May 2021 08:05:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[艾华集团：控股股东一致行动人艾立宇、艾立平和曾丽军拟合计减持不超过0.58%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2438514.d.html</link>
-            <guid>2171884</guid>
-            <pubDate>Fri, 14 May 2021 08:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伦敦金属交易所（LME）铜库存增长8.1％，为3月以来最大涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2438401.d.html</link>
-            <guid>2171883</guid>
-            <pubDate>Fri, 14 May 2021 08:05:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利10年期国债收益率升至1.079%，创2020年9月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2438330.d.html</link>
-            <guid>2171882</guid>
-            <pubDate>Fri, 14 May 2021 08:04:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[华为官方今日放出预热海报，正式宣布了新一代华为智慧屏SE系列，该产品将于5月19日正式发布。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2438266.d.html</link>
-            <guid>2171881</guid>
-            <pubDate>Fri, 14 May 2021 08:04:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：亚马逊(AMZN.O)将在英国增加1万个永久性岗位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5300505.d.html</link>
-            <guid>2171880</guid>
-            <pubDate>Fri, 14 May 2021 08:04:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉(TSLA.O)盘前涨2.2%，今日有消息指特斯拉正与亿纬锂能谈判，将其加入电池供应商。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2438165.d.html</link>
-            <guid>2171879</guid>
-            <pubDate>Fri, 14 May 2021 08:04:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[
-伦敦金属交易所(LME)：铜库存增加9100吨，铝库存减少3500吨，锌库存减少400吨，镍库存不变，锡库存不变，铅库存减少25吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5300253.d.html</link>
-            <guid>2171878</guid>
-            <pubDate>Fri, 14 May 2021 08:02:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【吉祥航空：4月旅客周转量同比升220.26%】吉祥航空公告，4月旅客周转量(按收入客公里计)同比上升220.26%，其中国内、国际和地区航线旅客周转量同比变动分别为221.73%、76.78%%和1781.92%；客座率为82.71%，同比上升12.67%，其中国内、国际和地区航线客座率同比变动分别为12.60%、9.20%和17.04%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2437919.d.html</link>
-            <guid>2171877</guid>
-            <pubDate>Fri, 14 May 2021 08:02:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[本田汽车公告，第四季度经营利润2,132.1亿日元，市场预估858.9亿日元；预计全年净利润5,900亿日元，市场预估6,570.5亿日元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5300195.d.html</link>
-            <guid>2171876</guid>
-            <pubDate>Fri, 14 May 2021 08:02:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase(COIN.O)盘前涨2.2%，第一季度净利润好于去年同期表现，并宣布将新增狗狗币交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5300155.d.html</link>
-            <guid>2171875</guid>
-            <pubDate>Fri, 14 May 2021 08:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【隆基单晶硅片全面涨价：G1、M6上涨0.49元，M10上涨0.53元】5月14日，隆基再度宣布上调硅片价格，与4月23日相比，G1报价4.39元，上涨 0.49元；M6尺寸硅片报价4.49元，上涨了0.49元；M10尺寸硅片报价5.39元，上涨了0.53元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5299990.d.html</link>
-            <guid>2171874</guid>
-            <pubDate>Fri, 14 May 2021 08:01:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯新增9462例新冠肺炎确诊病例，393例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2437564.d.html</link>
-            <guid>2171873</guid>
-            <pubDate>Fri, 14 May 2021 08:01:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿里巴巴(BABA.N)盘前涨2.6%，昨日公布业绩后收跌6.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5299800.d.html</link>
-            <guid>2171872</guid>
-            <pubDate>Fri, 14 May 2021 08:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列国防军：我们的战机袭击了哈马斯在加沙的观察哨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2437421.d.html</link>
-            <guid>2171871</guid>
-            <pubDate>Fri, 14 May 2021 08:00:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【辽宁营口：此地人员无特殊原因不要离区】辽宁营口市：鲅鱼圈区域内车辆、人员无特殊原因不要离区；确需离开的需持72小时内核酸检测阴性证明。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5299565.d.html</link>
-            <guid>2171870</guid>
-            <pubDate>Fri, 14 May 2021 08:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鸿海董事长刘扬伟：已接触ICT龙头企业讨论电动车代工】针对全球许多ICT龙头企业，都要加入电动车（EV）行列，鸿海（2317）是否为ICT公司代工？鸿海董事长刘扬伟今天在法说会中表示，确实有接触，但是相关接触是机密，正在进行中，不方便说明。 至于与哪些ICT厂商合作，刘扬伟说，只要这些ICT厂商对汽车有独到看法，鸿海都可以合作，因为在软硬体方面，鸿海可以补强，这是我们选择代工电动车最重要的标准。刘扬伟说，针对不同的电动车种，包括商用车或乘用车，鸿海都希望有不同合作对象。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2437199.d.html</link>
-            <guid>2171869</guid>
-            <pubDate>Fri, 14 May 2021 08:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国民西敏寺银行集团(NatWest Markets)：英国的大部分积极因素已经体现在英镑目前的水平上，因此英镑的上涨空间自然变得更加有限。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5299483.d.html</link>
-            <guid>2171867</guid>
-            <pubDate>Fri, 14 May 2021 07:59:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卓创资讯：成品油限价将迎上调 下周期或负值开局】根据卓创资讯测算，截至5月13日收盘，国内第10个工作日参考原油变化率为2.41%，对应汽柴油上调100元/吨。按照目前的幅度计算，加满一箱50L的92汽油预计多花4元左右。下个周期，国际油市恐将进行调整，利空因素主要集中于宏观环境的预期改变，原油变化率负值开局，国内成品油零售限价下调或搁浅的概率较大。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2437066.d.html</link>
-            <guid>2171866</guid>
-            <pubDate>Fri, 14 May 2021 07:59:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银保监会公开第三批重大违法违规股东 包括六项违法违规行为】5月14日，银保监会向社会公开第三批共19名重大违法违规股东。本次公布股东的违法违规行为主要包括：一是入股资金来源不符合监管规定；二是存在涉黑涉恶等违法犯罪行为；三是编制提供虚假材料；四是股东及其关联方违规占用信托公司固有资金或信托资金；五是拒不按照监管意见进行整改，不配合监管部门开展风险处置；六是违规将所持股权进行质押融资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2436864.d.html</link>
-            <guid>2171865</guid>
-            <pubDate>Fri, 14 May 2021 07:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：5月12日，H&M已关闭了660家门店。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2436438.d.html</link>
-            <guid>2171864</guid>
-            <pubDate>Fri, 14 May 2021 07:55:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小米申请注册MI CARE商标】近日，小米科技责任有限公司申请注册多个“MI CARE”“CARE MI”商标，国际分类涉及金融物管、广告销售、科学仪器等，目前商标状态均为“商标申请中”。（36氪）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5297916.d.html</link>
-            <guid>2171861</guid>
-            <pubDate>Fri, 14 May 2021 07:50:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【花旗：友邦首季绩优料股价反应正面 予目标价116港元】花旗发表报告表示，友邦(01299.HK) 今年首季新业务价值按实质汇率计升25%，高於该行及市场预期，当中马来西亚及泰国业务表现超预期，同时内地业务增长佳及香港本地客户群的双位数字增长。报告又指，友邦首季业绩理想，料其股价会反应正面，该行持续看好友邦前景，因其业绩显示出业务的弹性以及地域多元化的优势。该行予其买入评级及目标价116港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5297272.d.html</link>
-            <guid>2171860</guid>
-            <pubDate>Fri, 14 May 2021 07:48:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广州市住建部门联合广州市教育局、广州市市场监管局、广州市地方金融监管局、广州市公积金中心等部门，在全市范围内开展为期三个月的房地产市场秩序专项联合整治行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2434562.d.html</link>
-            <guid>2171859</guid>
-            <pubDate>Fri, 14 May 2021 07:46:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南向资金净流入超50亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2434198.d.html</link>
-            <guid>2171858</guid>
-            <pubDate>Fri, 14 May 2021 07:44:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大东方：受让“健高医疗”部分股权并增资】大东方公告，控股子公司均瑶医疗拟出资1.65亿元受让薛强所持“健高医疗”27.5039%股权、出资3177.66万元受让上海赋桐所持“健高医疗”5.2961%股权后，再出资3000万元对“健高医疗”进行增资。通过上述受让及增资，公司获得“健高医疗”36%的股权。“健高医疗”是一家主要从事儿童生长发育管理的连锁医疗机构。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5296434.d.html</link>
-            <guid>2171857</guid>
-            <pubDate>Fri, 14 May 2021 07:44:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科伦药业：子公司药品“马来酸阿法替尼片”获批】科伦药业公告，子公司湖南科伦制药有限公司的化学药品“马来酸阿法替尼片”于近日获得国家药品监督管理局的药品注册批准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2433975.d.html</link>
-            <guid>2171856</guid>
-            <pubDate>Fri, 14 May 2021 07:43:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[润邦股份：持股10.86%的股东王春山拟减持不超过1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5295799.d.html</link>
-            <guid>2171853</guid>
-            <pubDate>Fri, 14 May 2021 07:41:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[太平鸟：股东宁波禾乐投资股份有限公司、陈红朝和翁江宏拟合计减持不超过3.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5295713.d.html</link>
-            <guid>2171852</guid>
-            <pubDate>Fri, 14 May 2021 07:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[外交部领事司和中国驻以色列使馆提醒中国公民密切关注当地局势发展，近期谨慎前往以色列，并提醒在以中国公民和机构密切关注局势发展，保持高度警惕，加强安全防范和应急准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2433298.d.html</link>
-            <guid>2171850</guid>
-            <pubDate>Fri, 14 May 2021 07:40:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南方航空：4月旅客周转量同比上升207.07%】南方航空公告，本集团4月客运运力投入（按可利用座公里计）同比上升153.62%，其中国内、地区、国际分别同比上升157.21%、290.05%、73.56%；旅客周转量（按收入客公里计）同比上升207.07%，其中国内、地区、国际分别同比上升211.28%、2,173.13%、79.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2432889.d.html</link>
-            <guid>2171848</guid>
-            <pubDate>Fri, 14 May 2021 07:39:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[证监会：恢复发审会现场聆讯工作安排。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5294883.d.html</link>
-            <guid>2171846</guid>
-            <pubDate>Fri, 14 May 2021 07:37:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[春秋航空公告，4月旅客周转量为352042.15万人公里，同比增138.82%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5294862.d.html</link>
-            <guid>2171845</guid>
-            <pubDate>Fri, 14 May 2021 07:37:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲斯托克600基本资源指数跌幅扩大至1.8％ 。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2432458.d.html</link>
-            <guid>2171844</guid>
-            <pubDate>Fri, 14 May 2021 07:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伟明环保：中标崇义县生活垃圾焚烧发电项目，本项目总投资估算约为2.52亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2432100.d.html</link>
-            <guid>2171843</guid>
-            <pubDate>Fri, 14 May 2021 07:35:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【财政部：对部分成品油征收进口环节消费税】财政部等发布公告，对部分成品油征收进口环节消费税，公告自2021年6月12日起执行。包括：对归入税则号列27075000，且200摄氏度以下时蒸馏出的芳烃以体积计小于95%的进口产品，视同石脑油按1.52元/升的单位税额征收进口环节消费税；对归入税则号列27079990、27101299的进口产品，视同石脑油按1.52元/升的单位税额征收进口环节消费税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2431999.d.html</link>
-            <guid>2171842</guid>
-            <pubDate>Fri, 14 May 2021 07:34:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：以色列拦截从加沙地带进入以色列的无人机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2431776.d.html</link>
-            <guid>2171841</guid>
-            <pubDate>Fri, 14 May 2021 07:33:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰国最大方舱医院投入使用】当地时间5月14日，位于泰国首都曼谷北郊的暖武里府的泰国最大方舱医院投入使用。按照设计要求，该方舱医院可容纳1200名左右的新冠肺炎确诊患者住院治疗，并可以进一步扩容到3000至5000张病床，780名医护人员24小时轮流为病患提供服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5294018.d.html</link>
-            <guid>2171840</guid>
-            <pubDate>Fri, 14 May 2021 07:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【星展银行：黄金价格仍有望涨至2000美元大关】星展银行表示，有吸引力的估值和强劲的资产负债表，将使金矿商成为一个将从金价上涨中受益的行业，对金价不利的三个因素正在逆转：美国债券收益率回落，美元走软，美国就业前景动摇，即使黄金在上个季度表现不佳，仍可以恢复上升趋势，接近2000美元整数关口，源于对需求变化的积极看法，而需求变化来自央行和可自由支配支出；黄金矿业证券应该会从金价和需求上涨中受益，今年矿商的产量将会增长，尽管面临工资和燃料价格等运营成本上升的威胁，但矿商应该能够通过提高产量来维持全部成本，金矿公司仍在产生良好的现金流，可能使它们能够启动增长/再投资周期，在纠正了前几年并购交易中出现的过高出价的错误后，资产负债表管理得很好。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2431516.d.html</link>
-            <guid>2171839</guid>
-            <pubDate>Fri, 14 May 2021 07:32:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫生健康委疾控局一级巡视员贺青华：加强入境人员的核酸检测，要求入境人员隔离期间采集鼻咽拭子标本开展核酸检测，其中第14天的核酸检测应当采集两份标本，采用两种不同试剂，原则上由两个不同检测机构开展检测，确保我们核酸检测质量。（健康中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2431337.d.html</link>
-            <guid>2171838</guid>
-            <pubDate>Fri, 14 May 2021 07:31:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚马逊云科技在苏州设立智能网联数字化赋能中心】今日，亚马逊(AMZN.O)云科技宣布在苏州市相城区设立亚马逊云科技智能网联数字化赋能中心。该中心将由亚马逊云科技与苏州高铁新城管理委员会合作设立，未来将整合苏州相城区在智能网联领域的产业聚集优势，结合亚马逊云科技在全球的技术、产品、解决方案、客户实践和合作伙伴网络优势，通过卓越展示中心、智能网联云平台、行业俱乐部、全球合作计划四个板块，帮助相城区构建“阳澄云”公共服务平台。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2430584.d.html</link>
-            <guid>2171836</guid>
-            <pubDate>Fri, 14 May 2021 07:27:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[金斯瑞生物科技(01548.HK)尾盘涨幅进一步扩大至22%，最新报24.15港元，成交额达8.6亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5292527.d.html</link>
-            <guid>2171834</guid>
-            <pubDate>Fri, 14 May 2021 07:25:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：以色列官员表示，加沙的发电机将于周日耗尽燃料。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2429536.d.html</link>
-            <guid>2171831</guid>
-            <pubDate>Fri, 14 May 2021 07:22:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第27次中国-东盟高官磋商将于5月18日以视频方式举行】5月14日，外交部发言人华春莹主持例行记者会。华春莹宣布，经过双方商定，第27次中国-东盟高官磋商将于5月18日以视频方式举行，外交部部长助理吴江浩将与中国-东盟关系协调国菲律宾副外长伊丽莎白共同主持。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5291842.d.html</link>
-            <guid>2171830</guid>
-            <pubDate>Fri, 14 May 2021 07:22:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鸿海集团：预计部件短缺情况将持续至2022年第二季度，今年二季度的情况将比一季度严重。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2429443.d.html</link>
-            <guid>2171829</guid>
-            <pubDate>Fri, 14 May 2021 07:22:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国务院发展研究中心金融研究所陈道富：本轮通胀更像是“虚火”而不是“实火”】国务院发展研究中心金融研究所副所长陈道富表示，本轮通胀更像是“虚火”而不是“实火”，是供需错位带来的暂时现象。面对“虚火”，我们要需要一点时间，给供给恢复提供一个条件。中长期应关注通胀背后结构性的变化，过去长时间维持的低通胀是甚至通缩边缘的状态可能会发生根本性变化，通胀中枢可能会上升。陈道富在“天马奖”第十二届中国上市公司投资管理论坛暨最受上市公司尊敬的投行论坛上发表了上述观点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5291578.d.html</link>
-            <guid>2171828</guid>
-            <pubDate>Fri, 14 May 2021 07:21:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家发改委：希望外资企业把握机遇 在苏州投资兴业、持续深耕】“国家发展改革委与美在华跨国企业高层圆桌会——地方城市对接会·长三角站”活动在14日苏州举行。国家发展改革委国际司副司长高健在会上表示，“十四五”期间，我国将深入实施区域重大战略，提升长三角一体化水平。希望外资企业把握机遇，乘着我国建设更高水平对外开放的东风，在苏州投资兴业、持续深耕。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5290740.d.html</link>
-            <guid>2171826</guid>
-            <pubDate>Fri, 14 May 2021 07:17:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国盛金控：国盛证券被接管后经营稳定 各项业务资质均未受影响】国盛金控(002670)在回答投资者提问时表示，国盛证券被接管后，经营保持稳定，各项业务资质均未受影响。目前，公司金融科技业务聚焦集团信息化及国盛通APP、国盛证券研究所APP、大数据开发等重点项目的研发与建设，持续提升产品质量，确保产品上线后的稳定运行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2428235.d.html</link>
-            <guid>2171825</guid>
-            <pubDate>Fri, 14 May 2021 07:16:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上期所：本周锌库存减少6179吨，锡库存增加吨，铜库存增加20706吨，铝库存增加3036吨，镍库存增加572吨，铅库存增加13899吨，天然橡胶库存增加250吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5290180.d.html</link>
-            <guid>2171824</guid>
-            <pubDate>Fri, 14 May 2021 07:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油站上67美元/桶，抹去此前跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2426996.d.html</link>
-            <guid>2171823</guid>
-            <pubDate>Fri, 14 May 2021 07:11:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鸿海集团：预计第二季度营收将于第一季度相当。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2426895.d.html</link>
-            <guid>2171822</guid>
-            <pubDate>Fri, 14 May 2021 07:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大商所发布关于场外期权业务上线有关事项的通知。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5288921.d.html</link>
-            <guid>2171821</guid>
-            <pubDate>Fri, 14 May 2021 07:09:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟碳排放权期货涨幅扩大至2.4%，价格升至55.82欧元/吨，续刷新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2425828.d.html</link>
-            <guid>2171818</guid>
-            <pubDate>Fri, 14 May 2021 07:06:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克林姆林宫：俄罗斯总统普京和亚美尼亚总理在通话中强调需要遵守与阿塞拜疆的停火协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5288061.d.html</link>
-            <guid>2171817</guid>
-            <pubDate>Fri, 14 May 2021 07:05:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行：科技股基金出现了5周内的首次资金净流出。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5287944.d.html</link>
-            <guid>2171816</guid>
-            <pubDate>Fri, 14 May 2021 07:05:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
