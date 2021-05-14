@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 14 May 2021 18:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 May 2021 19:29:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美股新能源车板块尾盘涨幅扩大，小鹏汽车涨超10%，小牛电动涨9.47%，康迪车业涨9.27%，理想汽车涨7.17%，蔚来汽车涨6.92%，特斯拉涨3.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5382653.d.html</link>
+            <guid>2172383</guid>
+            <pubDate>Fri, 14 May 2021 19:18:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：加拿大政府开始有关与美国进行边境重启计划的谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2519599.d.html</link>
+            <guid>2172382</guid>
+            <pubDate>Fri, 14 May 2021 19:04:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  e家家居服务公司(EJH.O)上市首日盘中一度飙涨738%，现涨641.81%，报40.8美元，其IPO发行价为4.5美元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5381948.d.html</link>
+            <guid>2172381</guid>
+            <pubDate>Fri, 14 May 2021 19:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收涨0.67%，报28095点，高水67点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2519414.d.html</link>
+            <guid>2172380</guid>
+            <pubDate>Fri, 14 May 2021 19:01:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列国防军：3枚火箭弹从叙利亚射向了以色列。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2519148.d.html</link>
+            <guid>2172378</guid>
+            <pubDate>Fri, 14 May 2021 18:57:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：因对变种病毒的担忧，巴西将限制从印度飞往巴西的航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5381038.d.html</link>
+            <guid>2172377</guid>
+            <pubDate>Fri, 14 May 2021 18:48:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  马拉松原油(MPC.N)短线下挫，涨幅缩窄至1.34%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5381030.d.html</link>
+            <guid>2172376</guid>
+            <pubDate>Fri, 14 May 2021 18:48:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：俄罗斯将从5月25日起重启与冰岛、马耳他、墨西哥、葡萄牙和沙特阿拉伯之间的航空旅行。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2518454.d.html</link>
@@ -493,42 +535,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5365285.d.html</link>
             <guid>2172284</guid>
             <pubDate>Fri, 14 May 2021 15:09:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为39，表明市场处在恐惧状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2502492.d.html</link>
-            <guid>2172282</guid>
-            <pubDate>Fri, 14 May 2021 15:04:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国新增2193例新冠肺炎确诊病例，新增17例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5364579.d.html</link>
-            <guid>2172280</guid>
-            <pubDate>Fri, 14 May 2021 15:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【大商所、郑商所夜盘收盘 LPG涨超4%】大商所、郑商所夜盘收盘，能源化工表现偏强，LPG涨超4%，纯碱涨超2%，棕榈、豆油等涨超1%，塑料、PP等小幅上涨；黑色表现较弱，郑煤跌超3%，焦炭跌逾2%。上期所沥青涨逾5%、热卷跌超4%、螺纹跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5364502.d.html</link>
-            <guid>2172279</guid>
-            <pubDate>Fri, 14 May 2021 15:01:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2021数据中心高质量发展大会隆重发布《超融合数据中心网络白皮书》】2021年5月13日，由中国信息通信研究院云计算与大数据研究所发起、ODCC（开放数据中心委员会）组织起草、中国电信、中国移动、百度、美团、腾讯、京东、华为、中国科学技术大学、南京大学等多家企事业单位联合撰写的《超融合数据中心网络白皮书》在“2021数据中心高质量发展大会”上正式发布。《超融合数据中心网络白皮书》分析了当前数据中心网络以太化的发展趋势，提出下一代数据中心网络正在向超融合架构演进，具备全无损以太网络，全生命周期自动管理，全场景服务化能力三大特征。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2501947.d.html</link>
-            <guid>2172278</guid>
-            <pubDate>Fri, 14 May 2021 14:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧股涨幅扩大，欧洲斯托克600指数涨幅扩大至1.3%，英国富时100指数涨1%，法国CAC40指数涨1.33%，德国DAX指数涨1.18%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5363818.d.html</link>
-            <guid>2172277</guid>
-            <pubDate>Fri, 14 May 2021 14:53:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数据显示，美国人对商品成本的上涨愈发担忧，对明年的通胀预期升至4.6％，为十年来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5363492.d.html</link>
-            <guid>2172274</guid>
-            <pubDate>Fri, 14 May 2021 14:49:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
