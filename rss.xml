@@ -4,11 +4,52 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 14 May 2021 20:29:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 May 2021 21:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国交通部：民众仍需在使用公共交通时按要求佩戴口罩。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5386862.d.html</link>
+            <guid>2172421</guid>
+            <pubDate>Fri, 14 May 2021 21:16:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西过去24小时新增85536例新冠肺炎确诊病例，新增2211例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5386016.d.html</link>
+            <guid>2172418</guid>
+            <pubDate>Fri, 14 May 2021 20:52:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金日内涨幅达1%，现报1844.99美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2523674.d.html</link>
+            <guid>2172417</guid>
+            <pubDate>Fri, 14 May 2021 20:50:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非新冠肺炎确诊病例累计达1608393例；新增112例新冠肺炎死亡病例。]]></title>
+            <guid>2172416</guid>
+            <pubDate>Fri, 14 May 2021 20:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  13F报告显示：索罗斯一季度建仓做多百度和唯品会等股票。 增持亚马逊、谷歌A、德州仪器、通用汽车、以及爱奇艺。 减持Uber等股票，清仓Palantir和新兴市场ETF等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5385662.d.html</link>
+            <guid>2172415</guid>
+            <pubDate>Fri, 14 May 2021 20:41:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国贸易代表戴琦和欧盟委员会副主席东布罗夫斯基斯讨论了飞机补贴争端问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5385562.d.html</link>
+            <guid>2172414</guid>
+            <pubDate>Fri, 14 May 2021 20:38:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【保加利亚玫瑰花今年减产或达四成】据保加利亚国家广播电台当地时间5月14日报道，保加利亚大马士革玫瑰花采摘季将如期在5月下旬展开，但是今年发生的一些严重问题有可能造成这种用于提炼精油的玫瑰减产四成。主要原因是购买价格低和缺乏市场。据介绍，精油加工商提供的玫瑰采购价格约为每公斤1.60列弗，比预期低40％。玫瑰种植者协会指出，这种情况造成花农不能雇佣到足够的人手，于是很多花田既无人料理也无人采摘。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2523255.d.html</link>
+            <guid>2172413</guid>
+            <pubDate>Fri, 14 May 2021 20:35:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国正要求调查波音737经典款飞机。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2522951.d.html</link>
@@ -482,54 +523,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2510288.d.html</link>
             <guid>2172322</guid>
             <pubDate>Fri, 14 May 2021 16:40:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：没有证据表明病例增加会给英国国家医疗服务系统（NHS）带来无法控制的压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2510246.d.html</link>
-            <guid>2172321</guid>
-            <pubDate>Fri, 14 May 2021 16:40:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：如果变种病毒的传染性更强，我们将面临艰难的选择。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2510078.d.html</link>
-            <guid>2172319</guid>
-            <pubDate>Fri, 14 May 2021 16:38:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥央行理事会成员希思：目标是将通胀预期“锚定”在尽可能接近3.0%的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2509545.d.html</link>
-            <guid>2172317</guid>
-            <pubDate>Fri, 14 May 2021 16:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥央行理事会成员希思：市场对更高通胀的预期可能会导致通胀高于该行3.0%的通胀目标，更接近当前中长期市场预期的3.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2509438.d.html</link>
-            <guid>2172316</guid>
-            <pubDate>Fri, 14 May 2021 16:31:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股区块链板块大涨，人人网、Riot Blockchain涨约18.6%，Marathon Patent涨17.85%，第九城市涨16.67%，嘉楠科技涨超12%，亿邦国际涨11.2%，迅雷涨9%，Bit Digital涨8.53%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2508864.d.html</link>
-            <guid>2172315</guid>
-            <pubDate>Fri, 14 May 2021 16:24:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  周五（5月14日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）涨3.81%，报56.42欧元，创历史新高，本周累涨约12.06%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5370713.d.html</link>
-            <guid>2172314</guid>
-            <pubDate>Fri, 14 May 2021 16:18:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  CBOT软据期货触及美国芝加哥商业交易所（CME）跌停限制，暂报1390美元/1000板英尺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2508203.d.html</link>
-            <guid>2172313</guid>
-            <pubDate>Fri, 14 May 2021 16:16:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股高开高走，纳指涨幅扩大至2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2507551.d.html</link>
-            <guid>2172312</guid>
-            <pubDate>Fri, 14 May 2021 16:09:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
