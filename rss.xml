@@ -4,11 +4,229 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 14 May 2021 02:54:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 May 2021 03:41:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  印度NIFTY指数上涨0.4%，至14749.40点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5249773.d.html</link>
+            <guid>2171653</guid>
+            <pubDate>Fri, 14 May 2021 03:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【MSCI亚太指数上涨1.1% 中国和日本股市涨幅居前】MSCI亚太指数涨幅扩大至1.1%，创下4月1日以来最大涨幅，美国股指期货在亚洲交易时段上涨。亚洲股市几乎普涨，其中日本和中国基准指数涨幅居前。最大赢家：五十铃汽车，浙商证券，祥硕科技。最大贡献成分股：友邦保险，台积电，三星电子。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5249295.d.html</link>
+            <guid>2171652</guid>
+            <pubDate>Fri, 14 May 2021 03:36:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本大阪基准橡胶期货跌幅超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5248684.d.html</link>
+            <guid>2171651</guid>
+            <pubDate>Fri, 14 May 2021 03:33:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【午评：指数早盘震荡走高创指涨2.39% "牛市旗手"强势归来】三大指数早盘全线高开，固废处理概念领涨。随后指数震荡上行，垃圾分类、环保工程、碳中和、污水处理等相关概念股集体走强。盘中，创指重新站上3000点，银行、证券等大金融板块强势归来，食品加工制造、啤酒概念、新冠检测表现活跃；煤炭、钢铁、钛白粉、有色等周期股再度回调，医美、养老概念下挫走弱。总体来看，市场情绪大幅回暖，两市近3000个股上涨。盘面上，环保工程、食品加工制造、碳中和等板块涨幅居前，钛白粉、煤炭、养老概念等板块跌幅居前。]]></title>
+            <guid>2171650</guid>
+            <pubDate>Fri, 14 May 2021 03:33:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国报告新增11336例新冠肺炎确诊病例，累计3577040例，新增190例死亡病例，累计85848例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5248168.d.html</link>
+            <guid>2171649</guid>
+            <pubDate>Fri, 14 May 2021 03:31:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[动力煤主力合约跌停，跌幅8.01％，报834.2元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2385442.d.html</link>
+            <guid>2171648</guid>
+            <pubDate>Fri, 14 May 2021 03:30:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[螺纹钢主力合约跌停，跌幅6%，报5640元/吨；铁矿石主力合约跌8.9%。]]></title>
+            <guid>2171647</guid>
+            <pubDate>Fri, 14 May 2021 03:28:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[焦炭主力合约日内重挫6%，现报2626.5元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5247418.d.html</link>
+            <guid>2171646</guid>
+            <pubDate>Fri, 14 May 2021 03:27:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[铁矿石主力合约跌超8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2384583.d.html</link>
+            <guid>2171644</guid>
+            <pubDate>Fri, 14 May 2021 03:26:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[郑煤主力合约暴跌，日内跌超6%，现报852.2元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5246935.d.html</link>
+            <guid>2171643</guid>
+            <pubDate>Fri, 14 May 2021 03:25:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[热卷主力合约跌停，现报6135元/吨；螺纹钢主力合约跌超5%，跌破5700元/吨。]]></title>
+            <guid>2171642</guid>
+            <pubDate>Fri, 14 May 2021 03:23:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒生指数涨1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2383774.d.html</link>
+            <guid>2171641</guid>
+            <pubDate>Fri, 14 May 2021 03:23:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪深300指数涨幅达2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2383753.d.html</link>
+            <guid>2171639</guid>
+            <pubDate>Fri, 14 May 2021 03:22:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪深两市成交额突破5000亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5246001.d.html</link>
+            <guid>2171638</guid>
+            <pubDate>Fri, 14 May 2021 03:22:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达50亿元。]]></title>
+            <guid>2171637</guid>
+            <pubDate>Fri, 14 May 2021 03:21:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达50亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2383449.d.html</link>
+            <guid>2171636</guid>
+            <pubDate>Fri, 14 May 2021 03:21:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日经225指数涨幅扩大至2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5245674.d.html</link>
+            <guid>2171635</guid>
+            <pubDate>Fri, 14 May 2021 03:20:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【大中矿业：公司铁精粉业务为自有矿山 不需要进口铁矿石】大中矿业在互动平台表示，根据目前的生产经营情况，公司铁精粉业务为自有矿山，不需要进口铁矿石。公司球团业务从经济效益的角度出发，会外购部分低品位的铁精粉。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5245581.d.html</link>
+            <guid>2171634</guid>
+            <pubDate>Fri, 14 May 2021 03:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  金融股继续走强，浙商证券、湘财证券涨停，东方财富、中金公司、厦门银行涨超9%，中国人寿、重庆银行、中信建投等均大幅走高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2382231.d.html</link>
+            <guid>2171633</guid>
+            <pubDate>Fri, 14 May 2021 03:16:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【唐山市市场监管局、发改委、工信局联合约谈全市钢铁生产企业】针对近期钢材市场价格呈持续上升趋势，价格上涨幅度远超成本上涨的情况，为保护企业正常生产经营活动，促进企业健康发展，规范价格行为，防范价格违法风险，维护良好的价格秩序， 5月14日唐山市市场监督管理局、发展和改革委员会、工业和信息化局就钢铁价格联合约谈全市钢铁生产企业。约谈要求各钢铁生产企业严格执行《中华人民共和国价格法》、《价格违法行为行政处罚规定》等价格法律、法规，加强自律，守法经营，不得相互串通，不得捏造、散布涨价信息，自觉维护钢材市场价格秩序和公众利益。对相互串通、操纵市场价格，捏造、散布涨价信息，囤积居奇居、哄抬价格等违法行为，将按照《中华人民共和国价格法》、《价格违法行为行政处罚规定》有关规定，依法依规严厉查处，情节严重的，责令停业整顿，或者吊销营业执照，并公开曝光。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5244647.d.html</link>
+            <guid>2171632</guid>
+            <pubDate>Fri, 14 May 2021 03:16:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【农业农村部、财政部：完善优化农机购置补贴 推广应用北斗导航智能终端】农业农村部、财政部发布关于做好2021年农业生产发展等项目实施工作的通知。《通知》指出，加强农业现代化设施装备建设。完善优化农机购置补贴，加大对粮食生产薄弱环节、丘陵山区特色农业生产急需机具以及高端、复式、智能农机产品补贴力度。推广应用北斗导航智能终端。加快推进农产品产地冷藏保鲜设施建设，开展整县推进试点，促进解决鲜活农产品流通出村进城“最先一公里”问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5244423.d.html</link>
+            <guid>2171631</guid>
+            <pubDate>Fri, 14 May 2021 03:15:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[铁矿石期货跌逾6%，价格刷新一周来低位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5244306.d.html</link>
+            <guid>2171630</guid>
+            <pubDate>Fri, 14 May 2021 03:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[农业农村部、财政部发布关于做好2021年农业生产发展等项目实施工作的通知。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5244114.d.html</link>
+            <guid>2171629</guid>
+            <pubDate>Fri, 14 May 2021 03:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【榆林一家煤矿下调价格 拉煤车锐减】榆林能源化工交易中心公众号发文称，目前，榆林坑口煤价近期可能会迎来新一轮下跌。据调研情况，当前榆林一家煤矿面煤价格下调30元/吨。榆林地区各在产煤矿装煤排队车辆明显开始减少，近日上午上调煤价的煤矿明显较少。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5243977.d.html</link>
+            <guid>2171628</guid>
+            <pubDate>Fri, 14 May 2021 03:13:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  券商股涨幅进一步扩大，浙商证券、湘财股份涨停，东方财富涨超7%，中金公司涨超6%，中信建投、光大证券涨超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5243472.d.html</link>
+            <guid>2171627</guid>
+            <pubDate>Fri, 14 May 2021 03:11:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金跌至1820美元/盎司下方，日内跌0.31%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2380503.d.html</link>
+            <guid>2171626</guid>
+            <pubDate>Fri, 14 May 2021 03:10:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【民航局回应江西航空风挡玻璃破裂：与2018年川航事件有很大不同】5月14日，民航局航空安全办公室主任朱涛解读了近日江西航空一航班驾驶舱左前风挡外层玻璃突遇破裂备降一事。朱涛表示，此次江西航波音737飞机风挡为外层单层裂纹，当前具体原因正在调查中，有确切结论后将第一时间公布。“此事件与2018年川航事件程度上有很大的不同。川航事件中，飞机风挡3层玻璃同时破裂，导致风挡整体脱落，是世界民航史上唯一的一次，概率极低。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5242758.d.html</link>
+            <guid>2171625</guid>
+            <pubDate>Fri, 14 May 2021 03:09:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【成都：进一步规范二手住房挂牌价格 下架虚高价格房源】成都市房地产经纪协会印发进一步规范二手住房挂牌价格发布工作的通知。《通知》提出，下架虚高价格房源。各房地产经纪机构和房地产销售服务人员要牢固树立市场参与主体责任意识，不得受理及通过线上和线下渠道对外发布明显高于成都市二手住房最高参考价格的挂牌价格。线上渠道包括但不限于：机构官网、网络平台、手机APP、微信公众号、微信小程序、微信朋友圈、短视频平台和QQ空间等；线下渠道包括但不限于：门店(水牌)、宣传板(页、册)等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5242472.d.html</link>
+            <guid>2171622</guid>
+            <pubDate>Fri, 14 May 2021 03:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MSCI亚太指数涨幅扩大至1％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5241559.d.html</link>
+            <guid>2171621</guid>
+            <pubDate>Fri, 14 May 2021 03:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[发改委发布关于同意在浙江设立国家绿色技术交易中心的复函：原则同意以国家电网浙江省电力有限公司双创中心为主体，设立国家绿色技术交易中心。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2379018.d.html</link>
+            <guid>2171620</guid>
+            <pubDate>Fri, 14 May 2021 03:04:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时中国A50指数期货涨幅扩大至2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5240262.d.html</link>
+            <guid>2171618</guid>
+            <pubDate>Fri, 14 May 2021 03:00:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达30亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5240151.d.html</link>
+            <guid>2171617</guid>
+            <pubDate>Fri, 14 May 2021 02:59:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[菲律宾股指跌幅扩大至2.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2377466.d.html</link>
+            <guid>2171616</guid>
+            <pubDate>Fri, 14 May 2021 02:58:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【外媒：拜登称燃料供应本周末可能恢复正常】据路透社消息，美国总统拜登当地时间13日向美国汽车驾车者保证，燃料供应料将于本周末开始恢复正常。与此同时，在美国最大的输油管道公司遭到网络攻击近一周后，美国东南部地区更多加油站出现汽油短缺现象。 报道称，科洛尼尔管道运输公司当地时间13日晚间称，它已经重启了整个管道系统，并已经在所有市场开始运输。该公司表示，这条长5500英里（约合8850公里）的路线需要几天时间才能恢复正常。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5239792.d.html</link>
+            <guid>2171615</guid>
+            <pubDate>Fri, 14 May 2021 02:58:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【宝丽迪：公司目前正处于满负荷生产状态 新建产能预计第四季度开始试生产】宝丽迪在互动平台表示，公司目前经营正常，正处于满负荷生产状态。受限于公司现有产能，公司将进一步积极开展募投项目——新建研发及生产色母项目、高品质原液着色研发中心项目的施工建设，预计2021年第四季度开始试生产，并逐步释放产能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2377126.d.html</link>
+            <guid>2171613</guid>
+            <pubDate>Fri, 14 May 2021 02:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【社科院报告：2020年中国数字经济增加值占GDP比重达18.8%】社科院数量经济与技术经济研究所、社会科学文献出版社14日发布《数字经济蓝皮书：中国数字经济前沿（2021）》称，据测算，2020年中国数字经济增加值规模超过19万亿元（19144.7亿元），占GDP比重约为18.8%。预计“十四五”时期，中国数字经济整体的年均名义增速为11.3%；到2025年，中国数字经济增加值规模将达到326724.0亿元（名义），其中数字产业化增加值为155185.7亿元，产业数字化增加值为171538.3亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2376981.d.html</link>
+            <guid>2171612</guid>
+            <pubDate>Fri, 14 May 2021 02:56:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【珀莱雅：提价品类主要为精华、面霜、眼霜、防晒等】珀莱雅在回答投资者问题时表示，公司提价的品类主要为精华、面霜、眼霜、防晒等。提价的逻辑，主要是原料升级、包材升级、品牌升级，迎合消费升级。但产品毛利率不一定完全按提价率同比例增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2376630.d.html</link>
+            <guid>2171610</guid>
+            <pubDate>Fri, 14 May 2021 02:54:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[创业板指涨幅扩大至2％，深证成指涨幅扩大至1％，中药、食品加工制造板块涨幅居前。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2375555.d.html</link>
@@ -338,220 +556,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2358218.d.html</link>
             <guid>2171431</guid>
             <pubDate>Fri, 14 May 2021 01:46:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白银T+D走低，日内跌超1%，现报5547元/千克。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2357955.d.html</link>
-            <guid>2171430</guid>
-            <pubDate>Fri, 14 May 2021 01:45:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[传媒板块早盘拉升走高，新华传媒涨停，川网传媒大涨6%，文投控股、因赛集团、中广天择、中视传媒等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5220617.d.html</link>
-            <guid>2171428</guid>
-            <pubDate>Fri, 14 May 2021 01:45:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中药板块开盘继续拉升，神奇制药涨停，吉药控股涨近14%，葫芦娃、广誉远、大理药业、西藏药业等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2357830.d.html</link>
-            <guid>2171427</guid>
-            <pubDate>Fri, 14 May 2021 01:44:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PTA主力合约跌停。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5220518.d.html</link>
-            <guid>2171426</guid>
-            <pubDate>Fri, 14 May 2021 01:44:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新东方港股跳水，大跌14%创上市以来新低。新东方在线跌逾4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5220476.d.html</link>
-            <guid>2171425</guid>
-            <pubDate>Fri, 14 May 2021 01:44:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哔哩哔哩港股跌破700港元，刷新回港上市以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5219770.d.html</link>
-            <guid>2171409</guid>
-            <pubDate>Fri, 14 May 2021 01:42:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[合肥市肥西县上派镇卫星社区金云国际商住楼升级为中风险地区。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2356324.d.html</link>
-            <guid>2171400</guid>
-            <pubDate>Fri, 14 May 2021 01:39:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【快讯：虚拟现实概念股早盘走强】创业板佳创视讯拉升封板，丝路视觉、易尚展示、爱施德、顺网科技等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2356147.d.html</link>
-            <guid>2171399</guid>
-            <pubDate>Fri, 14 May 2021 01:39:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数字货币板块短线拉升，旗天科技涨近4%，新国都、朗科科技、正元智慧、浙文互联跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2355988.d.html</link>
-            <guid>2171398</guid>
-            <pubDate>Fri, 14 May 2021 01:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日本时事通讯社：日本首相菅义伟将于北京时间19:00召开新闻发布会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2355798.d.html</link>
-            <guid>2171394</guid>
-            <pubDate>Fri, 14 May 2021 01:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[碳中和板块异动拉升，永清环保涨超9%，远达环保、四川路桥、杭锅股份跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2355741.d.html</link>
-            <guid>2171393</guid>
-            <pubDate>Fri, 14 May 2021 01:37:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒生科技指数成分股多数下挫，京东跌超4%，百度跌超2%，网易跌超1%，美团跌超2%，腾讯控股跌0.34%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5218368.d.html</link>
-            <guid>2171392</guid>
-            <pubDate>Fri, 14 May 2021 01:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股内险板块走高，友邦保险涨近4%，中国平安、中国人寿等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2355673.d.html</link>
-            <guid>2171391</guid>
-            <pubDate>Fri, 14 May 2021 01:37:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【统计局：5月上旬生猪价格环比下跌11.8%】统计局消息，据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2021年5月上旬与4月下旬相比，42种产品价格上涨，7种下降，1种持平。生猪（外三元）本期价格为20.1元/千克，环比下跌11.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5218003.d.html</link>
-            <guid>2171376</guid>
-            <pubDate>Fri, 14 May 2021 01:35:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家统计局发布2021年5月上旬流通领域重要生产资料市场价格变动情况，其中，螺纹钢价格同比增长11%，报5684.5元/吨，比上期价格上涨565.3元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5217944.d.html</link>
-            <guid>2171375</guid>
-            <pubDate>Fri, 14 May 2021 01:35:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞士信贷：美元兑加元在跌破1.2062/47之前料将向上修正】美元兑加元USD/CAD在守住关键的长期支撑位1.2060/47上方后，出现了看涨的“关键性逆转”，这表明美加可能向上修正，若上破1.2190/92，则可能在短期内巩固该点位。但在市场强劲的中期下跌趋势中，料美加在这次回调后最终转跌，并跌破1.2062/47，形成双重顶形态，大幅强化中期看跌预期，下看1.1916。上方阻力位分别为1.2190/92、1.2278/91和1.2351/65，这将限制美加的向上反弹。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2354838.d.html</link>
-            <guid>2171371</guid>
-            <pubDate>Fri, 14 May 2021 01:34:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[人造肉板块开盘走高，祖名股份涨停，爱普股份、金字火腿、东宝生物、双塔食品跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5217457.d.html</link>
-            <guid>2171370</guid>
-            <pubDate>Fri, 14 May 2021 01:33:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股半导体板块开盘强势，中芯国际、华虹半导体涨逾3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2354714.d.html</link>
-            <guid>2171369</guid>
-            <pubDate>Fri, 14 May 2021 01:33:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  固废处理概念股开盘走强，绿色动力高开秒板，龙马环卫、维尔利、雪浪环境、城发环境等跟涨。消息面上，发改委、住房城乡建设部印发《“十四五”城镇生活垃圾分类和处理设施发展规划》。规划提出，到2025年底，全国城市生活垃圾资源化利用率达到60%左右，全国生活垃圾分类收运能力达到70万吨/日左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5217408.d.html</link>
-            <guid>2171368</guid>
-            <pubDate>Fri, 14 May 2021 01:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[安徽合肥肥西县再增1例本土确诊，系此前病例李某某同事。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5217178.d.html</link>
-            <guid>2171355</guid>
-            <pubDate>Fri, 14 May 2021 01:32:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[环保工程板块开盘拉升，绿色动力涨停，中环装备涨超10%，维尔利、三峰环境、中创环保跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5216840.d.html</link>
-            <guid>2171354</guid>
-            <pubDate>Fri, 14 May 2021 01:31:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD短线上扬超10点，报1.4051；欧元兑美元EUR/USD短线上扬近10点，报1.2082。]]></title>
-            <guid>2171350</guid>
-            <pubDate>Fri, 14 May 2021 01:31:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股热门股集体暴跌，新东方跌10％，阿里跌5.25％，哔哩哔哩跌7％，京东跌4.27％。隔夜在美股新东方跌超14％，阿里巴巴、哔哩哔哩、爱奇艺跌超6％，拼多多跌7％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2354099.d.html</link>
-            <guid>2171349</guid>
-            <pubDate>Fri, 14 May 2021 01:31:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛：预计美国4月PCE核心价格指数月率0.52％，年率2.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5216338.d.html</link>
-            <guid>2171339</guid>
-            <pubDate>Fri, 14 May 2021 01:29:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[合肥通报：截至5月14日00:40，肥西县报告新增新冠肺炎确诊病例2例，均及时转送至合肥市定点医院集中救治。（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2353239.d.html</link>
-            <guid>2171326</guid>
-            <pubDate>Fri, 14 May 2021 01:27:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中源家居低开4.71％，此前媒体报道中源家居因杀猪盘遭私募大佬叶飞公开“讨债”，公司称实控人、董监高未接触或与蒲菲迪、叶飞相识。]]></title>
-            <guid>2171315</guid>
-            <pubDate>Fri, 14 May 2021 01:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[交易员：亚洲高级美元债券息差收窄1-2个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5215720.d.html</link>
-            <guid>2171314</guid>
-            <pubDate>Fri, 14 May 2021 01:26:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[三大股指高开，沪指涨0.19％，深成指涨0.31％，创业板涨0.36％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2352753.d.html</link>
-            <guid>2171310</guid>
-            <pubDate>Fri, 14 May 2021 01:25:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国农业银行发布关于经营用途贷款资金用途限定的公告：在我行办理的经营用途贷款资金，应按照国家法律法规规定和借款合同约定的用途使用，不得违规流入房地产领域，包括但不限于，不用于房地产开发或经营、购买住宅或商业用房等，以及不将贷款资金用于国家禁止的其他领域和用途。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5215259.d.html</link>
-            <guid>2171308</guid>
-            <pubDate>Fri, 14 May 2021 01:24:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家能源局：4月份全社会用电量同比增长13.2%】国家能源局发布4月份全社会用电量等数据。4月份，全社会用电量6361亿千瓦时，同比增长13.2%。1-4月，全社会用电量累计25581亿千瓦时，同比增长19.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2352491.d.html</link>
-            <guid>2171307</guid>
-            <pubDate>Fri, 14 May 2021 01:24:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股新东方低开近10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2352316.d.html</link>
-            <guid>2171306</guid>
-            <pubDate>Fri, 14 May 2021 01:23:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股恒指高开涨0.56％，国企指数涨0.18％。阿里巴巴开跌超5％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2351845.d.html</link>
-            <guid>2171303</guid>
-            <pubDate>Fri, 14 May 2021 01:22:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国央行本周累计开展500亿元逆回购操作，因本周有200亿元逆回购到期，央行本周实现净投放300亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5214470.d.html</link>
-            <guid>2171300</guid>
-            <pubDate>Fri, 14 May 2021 01:21:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[央行公开市场今日将进行100亿元人民币7天期逆回购操作。中标利率2.20%，与此前持平。因今日有100亿元逆回购到期，当日实现零投放零回笼。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2351737.d.html</link>
-            <guid>2171298</guid>
-            <pubDate>Fri, 14 May 2021 01:21:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[燃油主力合约日内大跌逾4%，现报2450元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmyaawc5213851.d.html</link>
-            <guid>2171285</guid>
-            <pubDate>Fri, 14 May 2021 01:19:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[台湾加权指数涨幅扩大至2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-14/detail-ikmxzfmm2351073.d.html</link>
-            <guid>2171284</guid>
-            <pubDate>Fri, 14 May 2021 01:19:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
