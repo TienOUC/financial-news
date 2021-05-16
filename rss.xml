@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 16 May 2021 18:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 May 2021 19:29:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【世卫组织：全球累计新冠确诊病例达162177376例】世卫组织网站最新数据显示，截至欧洲中部时间16日15时02分（北京时间21时02分），全球确诊病例较前一日增加658585例，达到162177376例；死亡病例增加12034例，达到3364178例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-17/detail-ikmyaawc5698761.d.html</link>
+            <guid>2174468</guid>
+            <pubDate>Sun, 16 May 2021 19:07:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[土耳其新增10512例新冠肺炎确诊病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-17/detail-ikmyaawc5696836.d.html</link>
@@ -402,41 +408,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5646513.d.html</link>
             <guid>2174234</guid>
             <pubDate>Sun, 16 May 2021 09:18:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特外长：呼吁国际社会采取行动阻止以色列的行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5645862.d.html</link>
-            <guid>2174233</guid>
-            <pubDate>Sun, 16 May 2021 09:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特外长谴责以色列方面侵犯巴勒斯坦人的权利。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5645848.d.html</link>
-            <guid>2174232</guid>
-            <pubDate>Sun, 16 May 2021 09:11:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国作为联合国安理会5月轮值主席，将于5月16日举行安理会巴以冲突问题紧急公开会。（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2782312.d.html</link>
-            <guid>2174231</guid>
-            <pubDate>Sun, 16 May 2021 09:07:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉回应“提车考试”：大家所谓的“提车考试”是最近刚刚开始试点的“交付日车主讲堂”，算不上“提车考试”。此活动仅作为丰富交付体验的“选修”活动。]]></title>
-            <guid>2174230</guid>
-            <pubDate>Sun, 16 May 2021 09:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度首都宣布第四次延长封城】印度首都新德里首席部长凯杰里瓦尔16日宣布，将新德里目前采取的“封城”措施再延长一周至24日。这是新德里第四次延长“封城”措施。凯杰里瓦尔当天在视频记者会上表示，目前首都地区新增新冠确诊病例数呈下降趋势。为了防止过去几天取得的防疫成果毁于一旦，决定将“封城”措施延长至24日凌晨5时。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2781682.d.html</link>
-            <guid>2174229</guid>
-            <pubDate>Sun, 16 May 2021 09:02:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【瑞泰科技：修改完善方案 继续推进重大资产重组】瑞泰科技公告，决定修改完善方案，充分信息披露，继续推进本次重大资产重组。关于本次重组，公司于5月10日收到证监会核发的《关于不予核准瑞泰科技股份有限公司发行股份购买资产并募集配套资金申请的决定》。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5644482.d.html</link>
-            <guid>2174228</guid>
-            <pubDate>Sun, 16 May 2021 09:01:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
