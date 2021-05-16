@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 16 May 2021 02:58:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 May 2021 03:44:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[德国疾控机构罗伯特·科赫研究所：德国报告新增8500例新冠肺炎确诊病例，累计3593434例，新增71例死亡病例，累计86096例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5598050.d.html</link>
+            <guid>2174118</guid>
+            <pubDate>Sun, 16 May 2021 03:39:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克祝贺“天问一号”探测器成功着陆火星】5月15日，中国首次火星探测任务“天问一号”探测器在火星乌托邦平原南部预选着陆区着陆。对此，美国太空探索技术公司SpaceX首席执行官埃隆·马斯克发推表示祝贺，称“登上火星很难”。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2734310.d.html</link>
+            <guid>2174117</guid>
+            <pubDate>Sun, 16 May 2021 03:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本气象厅JMA：日本北海道地区附近发生6.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2734195.d.html</link>
+            <guid>2174116</guid>
+            <pubDate>Sun, 16 May 2021 03:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：日本北海道地区发生5.7级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2733962.d.html</link>
+            <guid>2174115</guid>
+            <pubDate>Sun, 16 May 2021 03:33:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[辽宁营口鲅鱼圈区初中、小学一律实行封校停课管理，各类民办培训学校（机构）和幼儿园立即停止线下教育教学等相关活动。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2733625.d.html</link>
+            <guid>2174114</guid>
+            <pubDate>Sun, 16 May 2021 03:31:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据北京日报：辽宁10个高速公路收费站设检查点，无72小时内核酸证明劝返。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5595976.d.html</link>
+            <guid>2174113</guid>
+            <pubDate>Sun, 16 May 2021 03:25:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据以色列时报：在经过3个小时的平静后，加沙边境城镇再次响起火箭弹警报。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5593480.d.html</link>
+            <guid>2174112</guid>
+            <pubDate>Sun, 16 May 2021 03:11:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天舟二号货运飞船船箭组合体运至发射区】据中国载人航天工程办公室消息，今天，天舟二号货运飞船与长征七号遥三运载火箭组合体已转运至发射区。目前，发射场设施设备状态良好，后续将按计划开展发射前的各项功能检查、联合测试等工作。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5591302.d.html</link>
+            <guid>2174110</guid>
+            <pubDate>Sun, 16 May 2021 02:59:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：加沙北部和东部地区遭以色列炮击。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2726798.d.html</link>
@@ -423,48 +471,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2671166.d.html</link>
             <guid>2173463</guid>
             <pubDate>Sat, 15 May 2021 16:22:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国纽约州州长科莫：纽约州新冠病毒检测阳性率降至1.06%，阳性率7日均值降至1.18%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2669182.d.html</link>
-            <guid>2173460</guid>
-            <pubDate>Sat, 15 May 2021 15:54:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[汽油价格跟踪机构GasBuddy：调查数据显示，仍有13450家美国加油站缺乏燃料供应。（周五为16200家）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5531963.d.html</link>
-            <guid>2173459</guid>
-            <pubDate>Sat, 15 May 2021 15:53:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币瑞波币持续拉升，站上1.57美元/枚，日内涨超12%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5530746.d.html</link>
-            <guid>2173458</guid>
-            <pubDate>Sat, 15 May 2021 15:34:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞波币短线拉升，暂报1.5360美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2667272.d.html</link>
-            <guid>2173454</guid>
-            <pubDate>Sat, 15 May 2021 15:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利新增6659例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmyaawc5529134.d.html</link>
-            <guid>2173443</guid>
-            <pubDate>Sat, 15 May 2021 15:11:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国新增2027例新冠肺炎确诊病例，新增7例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2666225.d.html</link>
-            <guid>2173442</guid>
-            <pubDate>Sat, 15 May 2021 15:10:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[卡塔尔新增260例新冠肺炎确诊病例，新增2例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-15/detail-ikmxzfmm2665550.d.html</link>
-            <guid>2173430</guid>
-            <pubDate>Sat, 15 May 2021 15:03:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
