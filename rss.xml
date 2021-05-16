@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 16 May 2021 19:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 May 2021 20:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【玉米、豆粕价格高位盘整 下游饲料提价跟涨】近期，玉米、豆粕等期货价格持续在高位盘整。对于饲料价格的后续走势，有业内人士认为，预期豆粕、玉米等饲料原料仍存在上涨空间，受需求提振，饲料价格或将继续存在上涨空间。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-17/detail-ikmyaawc5702729.d.html</link>
+            <guid>2174529</guid>
+            <pubDate>Sun, 16 May 2021 20:14:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩洛哥第二批援巴物资抵达约旦】摩洛哥向巴勒斯坦提供的第二批人道主义援助物资16日抵达约旦的安曼机场。本批援助物资共计40吨，主要为食品、毯子和药品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-17/detail-ikmyaawc5702584.d.html</link>
+            <guid>2174524</guid>
+            <pubDate>Sun, 16 May 2021 20:11:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥新冠肺炎死亡病例累计达220437例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-17/detail-ikmyaawc5700748.d.html</link>
+            <guid>2174502</guid>
+            <pubDate>Sun, 16 May 2021 19:39:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【世卫组织：全球累计新冠确诊病例达162177376例】世卫组织网站最新数据显示，截至欧洲中部时间16日15时02分（北京时间21时02分），全球确诊病例较前一日增加658585例，达到162177376例；死亡病例增加12034例，达到3364178例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-17/detail-ikmyaawc5698761.d.html</link>
@@ -384,30 +402,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2787009.d.html</link>
             <guid>2174241</guid>
             <pubDate>Sun, 16 May 2021 09:51:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【下周两只主板新股具有“肉签”潜质】根据新股发行安排，下周（5月17日至5月21日）A股将有7只新股申购，包括沪市主板5只、科创板1只、创业板1只。其中，沪市主板新股神农集团和东鹏饮料，都具有“肉签”潜质，单签收益达到5万元分别只需要4个涨停板和5个涨停板。此外，科创板主板新股和辉光电，有望成为今年最容易中签的科创板新股之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2786413.d.html</link>
-            <guid>2174239</guid>
-            <pubDate>Sun, 16 May 2021 09:45:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列警方：逮捕了2名从约旦入境的持刀者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5649202.d.html</link>
-            <guid>2174238</guid>
-            <pubDate>Sun, 16 May 2021 09:43:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安徽六安再增两例确诊病例】今天新增2例！截至16日12时，安徽省六安市裕安区、合肥市肥西县累计报告确诊病例7例、无症状感染者7例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2785101.d.html</link>
-            <guid>2174236</guid>
-            <pubDate>Sun, 16 May 2021 09:33:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安徽六安：市区居民首轮核酸检测全部完成 今日未发现阳性样本】记者今天（16日）从安徽省六安市了解到，当地今天的样本检测中，核酸检测结果均为阴性。截至今天，六安市已完成核酸检测104万份，市区居民核酸检测已全部完成。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5646513.d.html</link>
-            <guid>2174234</guid>
-            <pubDate>Sun, 16 May 2021 09:18:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
