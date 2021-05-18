@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 18 May 2021 20:28:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 May 2021 21:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据日经新闻：日本内阁预计最早将于6月批准半导体行业增长战略。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6128303.d.html</link>
+            <guid>2177517</guid>
+            <pubDate>Tue, 18 May 2021 21:13:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日经新闻：日本将扩大对国内先进半导体和电池生产的支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmxzfmm3265766.d.html</link>
+            <guid>2177516</guid>
+            <pubDate>Tue, 18 May 2021 21:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西在过去24小时中报告新增75445例新冠肺炎确诊病例，新增2513例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmxzfmm3265632.d.html</link>
+            <guid>2177515</guid>
+            <pubDate>Tue, 18 May 2021 21:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷报告新增35543例新冠肺炎确诊病例，新增745例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6127426.d.html</link>
+            <guid>2177513</guid>
+            <pubDate>Tue, 18 May 2021 20:52:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Tudor Pickering：通用汽车在电动化趋势上“定位良好”】能源投资银行Tudor Pickering分析师Matthew Portillo首予通用汽车(GM.N)买入评级，目标价为76美元。Portillo认为，该公司在电动化趋势上“定位良好”，将以“有吸引力”的估值，参与行业向电动化的转型，同时通过在连通性和自动化方面的技术创新，推动股票上涨。这位分析师表示，他的研究表明，通用汽车管理层在电动化方面“向前推进”的过程中，这家汽车制造商过去三年在商业模式上的转变，使其表现优于其他公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6127415.d.html</link>
+            <guid>2177512</guid>
+            <pubDate>Tue, 18 May 2021 20:51:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：05月19日04时38分在四川甘孜州石渠县附近发生3.3级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmxzfmm3265095.d.html</link>
+            <guid>2177510</guid>
+            <pubDate>Tue, 18 May 2021 20:50:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南非将在几个月内迎来涨价狂潮 水、电、生活用品价格均将上调】据南非媒体当地时间5月18日报道，南非国家能源监管局（NERSA）已批准南非国家电力公司（Eskom）的涨价计划，未来Eskom向所有城市或地区供电价格将上涨17.8%。涨价将于2021年7月1日开始实行，各城市管理机构将根据各自情况制定涨价幅度，同时7月1日开始水价也将上涨约5%。由于电价上涨将影响整个经济，当地经济分析机构表示食品价格也将因此上涨10%左右，各种生活用品价格也将会有不同幅度的上调。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6127050.d.html</link>
+            <guid>2177508</guid>
+            <pubDate>Tue, 18 May 2021 20:41:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美油短线小幅上扬后下挫0.2美元，现报65.33美元/桶，跌1.43%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmxzfmm3264323.d.html</link>
+            <guid>2177507</guid>
+            <pubDate>Tue, 18 May 2021 20:32:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油期货短线波动暂不大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmxzfmm3264260.d.html</link>
+            <guid>2177505</guid>
+            <pubDate>Tue, 18 May 2021 20:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至5月14日当周API原油库存(万桶)：前值 -253.3，预期 168，公布 62。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmxzfmm3264253.d.html</link>
+            <guid>2177504</guid>
+            <pubDate>Tue, 18 May 2021 20:30:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[瑞典矿业及石油大亨Lukas Lundin：厄瓜多尔矿产开发出现积极迹象。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6126406.d.html</link>
@@ -452,65 +512,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6114478.d.html</link>
             <guid>2177313</guid>
             <pubDate>Tue, 18 May 2021 16:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油期货持续回升，跌幅均收窄至1%左右，现分别报65.58美元/桶和68.72美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6113549.d.html</link>
-            <guid>2177309</guid>
-            <pubDate>Tue, 18 May 2021 16:46:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大总理特鲁多：加拿大为重开边境寻求安全途径。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmxzfmm3251195.d.html</link>
-            <guid>2177307</guid>
-            <pubDate>Tue, 18 May 2021 16:43:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：IMF总裁格奥尔基耶娃支持向贫困国家发放特别提款权。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6113353.d.html</link>
-            <guid>2177306</guid>
-            <pubDate>Tue, 18 May 2021 16:43:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯伊朗核协议谈判特使：现在就说伊朗核协议谈判取得突破还为时过早。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmxzfmm3251171.d.html</link>
-            <guid>2177305</guid>
-            <pubDate>Tue, 18 May 2021 16:43:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live Nation Entertainment(LYV.N)小幅拉涨，现涨4.45%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6113251.d.html</link>
-            <guid>2177303</guid>
-            <pubDate>Tue, 18 May 2021 16:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据悉，亚马逊讨论以90亿美元收购电影工作室美高梅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6113235.d.html</link>
-            <guid>2177302</guid>
-            <pubDate>Tue, 18 May 2021 16:42:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国货币监理署：银行不再需要更新系统来满足新的公平贷款规则，因为规则正在被重新评估。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmxzfmm3250985.d.html</link>
-            <guid>2177301</guid>
-            <pubDate>Tue, 18 May 2021 16:41:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟另外提出新税收框架 将比美国推动的全球公司税计划更极端】欧盟提出一项覆盖该地区的新公司税框架计划，将比正在讨论中的全球公司税计划走得更远。在欧盟提出这项倡议前，美国提议设置全球最低公司税率，并要求跨国大公司向其实际业务经营所在地政府缴纳更多税款，加速推动了140个国家围绕这项全球税改问题的磋商。欧盟提出的补充方案名为“企业在欧洲：所得税框架”，简称BEFIT，将创建单一的公司税收规则，并在成员国之间重新分配利润。]]></title>
-            <guid>2177300</guid>
-            <pubDate>Tue, 18 May 2021 16:34:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯伊朗核协议谈判特使：我并没有说《联合全面行动计划》（JCPOA）谈判取得了突破。我说，在我看来，已经取得了重大进展。这是正确的。但尚未解决的问题仍然存在，谈判人员需要更多的时间和努力来敲定恢复全面协议的协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmxzfmm3249918.d.html</link>
-            <guid>2177299</guid>
-            <pubDate>Tue, 18 May 2021 16:28:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据监测网络状况的网站DownDetector：用户报告显示Instagram出现问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmxzfmm3249808.d.html</link>
-            <guid>2177298</guid>
-            <pubDate>Tue, 18 May 2021 16:27:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
