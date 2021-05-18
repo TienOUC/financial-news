@@ -4,11 +4,99 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 18 May 2021 17:54:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 May 2021 18:47:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美元兑墨西哥比索USD/MXN维持涨势，日内涨0.48%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6121013.d.html</link>
+            <guid>2177446</guid>
+            <pubDate>Tue, 18 May 2021 18:47:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海原油期货主力合约夜盘收跌0.92%，报428.7元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6120236.d.html</link>
+            <guid>2177428</guid>
+            <pubDate>Tue, 18 May 2021 18:34:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海黄金交易所黄金T+D 5月19日（周三）晚盘收盘下跌0.14%报387.37元/克；上海黄金交易所白银T+D 5月19日（周三）晚盘收盘上涨0.15%报5840.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6120217.d.html</link>
+            <guid>2177427</guid>
+            <pubDate>Tue, 18 May 2021 18:34:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥央行副行长预计墨西哥的宽松货币政策周期将结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6120195.d.html</link>
+            <guid>2177425</guid>
+            <pubDate>Tue, 18 May 2021 18:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士： COLONIAL PIPELINE的管道运输调度系统在早些时候中断后已经重新上线。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6119583.d.html</link>
+            <guid>2177410</guid>
+            <pubDate>Tue, 18 May 2021 18:22:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：美国需要为“清洁的汽车”提供购买补贴。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmxzfmm3257281.d.html</link>
+            <guid>2177409</guid>
+            <pubDate>Tue, 18 May 2021 18:21:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Shopify(SHOP.N)盘中拉涨至5%，谷歌(GOOG.O,GOOGL.O)与Shopify在购物整合方面达成合作。]]></title>
+            <guid>2177408</guid>
+            <pubDate>Tue, 18 May 2021 18:21:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：美国将扭转特朗普降低能效标准的做法。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmxzfmm3256483.d.html</link>
+            <guid>2177397</guid>
+            <pubDate>Tue, 18 May 2021 18:07:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：美国将为电动汽车设定新的进程。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6118650.d.html</link>
+            <guid>2177389</guid>
+            <pubDate>Tue, 18 May 2021 18:06:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：汽车产业的未来是电动汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6118274.d.html</link>
+            <guid>2177386</guid>
+            <pubDate>Tue, 18 May 2021 18:00:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥基准股指涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmxzfmm3256012.d.html</link>
+            <guid>2177385</guid>
+            <pubDate>Tue, 18 May 2021 18:00:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟27国外长就巴以局势举行紧急会议 普遍认为停火是当务之急】欧盟外交与安全政策高级代表博雷利在会后举行的新闻发布会上表示，欧盟各国对巴以局势表达了各自的看法，27个成员国中的26国一致认为，巴以双方当务之急是立即停止任何形式的暴力冲突，立即实施停火。博雷利表示，此举是为了保护平民，并让加沙地区获得充足的人道主义援助。博雷利称，欧盟26国还认为，持续进行的冲突已导致包括儿童和妇女在内的大量平民丧生，这是不可接受的。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6118139.d.html</link>
+            <guid>2177384</guid>
+            <pubDate>Tue, 18 May 2021 17:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌发布了名为MUM的新模型，以改进复杂的搜索；谷歌称其比上一个模型BERT强1000倍。]]></title>
+            <guid>2177383</guid>
+            <pubDate>Tue, 18 May 2021 17:57:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经参头版评论：降楼市“虚火”，抑炒作之风】针对楼市“虚火”现象，必须因城施策，对症下药。在政策导向上，必须坚定不移坚持房住不炒定位，严禁将房地产作为短期刺激经济的手段，完善人口、土地和住房联动机制，强化督导约束机制，控制好土地出让规模、节奏和价格，有效避免地价上涨带动房价上涨，引发房价刚性上涨预期。在政策执行上，要加强人口落户和义务教育等相关政策的统筹协调，强化部门之间协防联控，严禁信贷资金违规流入房地产领域，充分利用财税工具精准打击，有效抑制房价投机炒作行为。在政策落脚点上，要加强社会不同收入群体的房地产市场预期引导，特别是要防止网络、微信群的住房投机炒作舆情发酵，减少所谓房地产“专家”、网络“大V”的蛊惑，尽可能减少楼市“羊群”效应的发生。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmxzfmm3255837.d.html</link>
+            <guid>2177382</guid>
+            <pubDate>Tue, 18 May 2021 17:56:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据AXIOS网站：美国总统拜登计划豁免对负责北溪2号管道的俄罗斯公司的制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6117995.d.html</link>
+            <guid>2177380</guid>
+            <pubDate>Tue, 18 May 2021 17:55:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【Robinhood最快下周披露IPO文件 盼6月底前招股】美国在线券商Robinhood计划最快下周披露IPO文件，该公司目标是在6月下旬进行招股。知情人士表示，尽管Robinhood的IPO计划有所推进，但时间和细节可能会改变。Robinhood方面拒绝置评。Robinhood于3月向美国证券交易委员会提交机密文件，该程序让监管机构可以权衡所有必要的修订，然后才广泛使用。在5月的证券备案文件显示，Robinhood的最大收入来源——出售订单流的收入（payment for order flow），第一季度达3.31亿美元，较去年同期的9100万美元，增长了逾两倍。监管机构表示，Robinhood线上平台鼓励交易性质游戏化，特别是有经验的零售散户投资者。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-19/detail-ikmyaawc6117914.d.html</link>
@@ -441,100 +529,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-18/detail-ikmyaawc6107596.d.html</link>
             <guid>2177253</guid>
             <pubDate>Tue, 18 May 2021 15:32:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX 30指数初步收涨0.02%，报15399.78点。法国股指初步收跌0.09%，英国股指初步收涨0.10%，意大利股指初步收涨0.08%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-18/detail-ikmyaawc6107587.d.html</link>
-            <guid>2177252</guid>
-            <pubDate>Tue, 18 May 2021 15:32:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收涨0.21%，报443.26点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-18/detail-ikmyaawc6107572.d.html</link>
-            <guid>2177251</guid>
-            <pubDate>Tue, 18 May 2021 15:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委斯图纳拉斯：可能会看到欧元区利率与美国利率脱钩。]]></title>
-            <guid>2177250</guid>
-            <pubDate>Tue, 18 May 2021 15:30:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【制造业复苏叠加更新换代需求 机床行业需求转旺】据中国机床工具工业协会数据：一季度行业进出口总额同比增长30.5%，相比增长9.5%。放眼2021年全年，中国机床工具行业有望扭转近十年以来的下行趋势，实现5%以上的增长。东吴证券周尔双认为，制造业复苏叠加更新换代需求，机床行业将迎来十年一度的景气上行周期。目前部分民营企业已跻身市场前列，有望在这一轮周期中脱颖而出，加速进口替代。同时随着产能利用率提升和顺势扩张，规模效应下龙头业绩弹性可期。（上证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-18/detail-ikmxzfmm3245233.d.html</link>
-            <guid>2177249</guid>
-            <pubDate>Tue, 18 May 2021 15:29:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国银行将最低工资标准提高至每小时25美元】美国银行首席执行官Brian Moynihan表示，美国银行将把最低时薪从目前的20美元提高到25美元。四年前美银将最低工资从15美元上调至每小时20美元。Moynihan在接受采访时宣布，美银将要求其美国供应商向外派至该行的员工支付不低于15美元的时薪。美银在另一份声明中表示，在来自2000多家供应商的43000名员工，超过99％的人达到了这一时薪标准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-18/detail-ikmyaawc6107353.d.html</link>
-            <guid>2177248</guid>
-            <pubDate>Tue, 18 May 2021 15:29:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colonial Pipeline：意识到了故障问题，正在努力解决，但目前还没有预计完成时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-18/detail-ikmyaawc6107259.d.html</link>
-            <guid>2177247</guid>
-            <pubDate>Tue, 18 May 2021 15:27:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股新能源车股集体大涨，Lordstown一度涨30%，Fisker、Workhorse涨10%，QuantumScape涨9%，Nikola涨8%，理想汽车、小鹏汽车涨超4%，特斯拉涨3%，蔚来汽车涨2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-18/detail-ikmyaawc6107157.d.html</link>
-            <guid>2177246</guid>
-            <pubDate>Tue, 18 May 2021 15:25:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国交易所数据显示，截至本周一，今年韩国散户投资者的股票净购买量达到51.7万亿韩元（约合456亿美元），已高于去年全年的47.5万亿韩元。由于散户投资者的狂热，韩国Kopsi指数今年涨幅超过9%，韩国股市成为亚太地区表现最好的股市之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-18/detail-ikmyaawc6107083.d.html</link>
-            <guid>2177245</guid>
-            <pubDate>Tue, 18 May 2021 15:23:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根Bob Michele呼吁美联储在市场泡沫形成之前尽快讨论缩减资产购买计划】① 摩根资产管理首席投资官Bob Michele表示，我最大的担忧是美联储等待太长时间才启动正常化进程。他们的观点是，经济重开正导致短期的通胀急升，这将是暂时的。但如果他们错了，大家就可能要受苦；② 经济和市场将因廉价货币的长期使用而陷入疯狂，泡沫的风险将急剧变大。他们将被迫通过比市场预期更激进的方式来收紧货币政策。我希望美联储现在就开始正常化进程。他们应该不晚于8月份的杰克逊霍尔会议就开始关于缩减量化宽松的对话；③ 在我的职业生涯中，我从没想过我会要求美联储开始从系统中撤出流动性。但是我现在这么做了，因为经济增长和通胀压力太高了。他们应该不迟于2022年1月开始实施缩减资产购买的操作，然后不迟于2023年中期开始提高利率。他们没有理由维持与一年前相同的宽松水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-18/detail-ikmyaawc6107071.d.html</link>
-            <guid>2177244</guid>
-            <pubDate>Tue, 18 May 2021 15:23:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙外长：我们同意在欧盟内部讨论移民问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-18/detail-ikmxzfmm3244897.d.html</link>
-            <guid>2177243</guid>
-            <pubDate>Tue, 18 May 2021 15:23:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委斯图纳拉斯：可能会看到欧元区利率与美国利率脱钩。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-18/detail-ikmyaawc6107035.d.html</link>
-            <guid>2177242</guid>
-            <pubDate>Tue, 18 May 2021 15:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股航空、邮轮股集体上涨，在美上市南方航空涨近4%，东方航空涨超3%；嘉年华邮轮、挪威邮轮涨3%；捷蓝航空、美国航空涨超2%，达美航空、波音、西南航空涨超1%。]]></title>
-            <guid>2177241</guid>
-            <pubDate>Tue, 18 May 2021 15:22:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股3D打印概念盘中走高，Materialise(MTLS.O)涨13.5%，3D系统(DDD.N)涨11.7%，Stratasys(SSYS.O)涨5.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-18/detail-ikmyaawc6106849.d.html</link>
-            <guid>2177240</guid>
-            <pubDate>Tue, 18 May 2021 15:21:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苹果准备发布新款Mac电脑系列 自产芯片将取代英特尔处理器】苹果公司准备发布新款Mac笔记本和台式电脑，配备更快的处理器，采用新设计，并改进了与外部设备的连接性能，以加快该公司替换英特尔芯片、超越PC竞争对手的努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-18/detail-ikmxzfmm3244503.d.html</link>
-            <guid>2177239</guid>
-            <pubDate>Tue, 18 May 2021 15:19:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行行长贝利：我们还没有看到投入价格压力传递到通胀的有力证据。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-18/detail-ikmyaawc6106604.d.html</link>
-            <guid>2177238</guid>
-            <pubDate>Tue, 18 May 2021 15:18:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【但斌称无人驾驶最大的利好是白酒】中泰证券首席经济学家李迅雷对话东方港湾董事长但斌。但斌表示，无人驾驶技术实现的最大的利好的商业模式是白酒，对中国来说，就不怕酒驾了。同时，他表示，特斯拉(TSLA.O)有可能成为世界最大的内容分享的公司之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-18/detail-ikmyaawc6106595.d.html</link>
-            <guid>2177237</guid>
-            <pubDate>Tue, 18 May 2021 15:18:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
