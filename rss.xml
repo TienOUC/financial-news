@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 22 May 2021 18:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 May 2021 19:33:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Newsom Analysis总裁Darin Newsom：除非金价能在下周继续创高，否则会有重新测试1850美元/盎司支撑位的需求。近期现货黄金订单似乎正在为短期下跌趋势做准备，若跌破1860美元/盎司一线恐引发一波更大的回调。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc6938585.d.html</link>
+            <guid>2182385</guid>
+            <pubDate>Sat, 22 May 2021 19:22:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中央气象台继续发布暴雨蓝色预警】中央气象台5月22日18时继续发布暴雨蓝色预警：预计22日20时至23日20时，贵州东部、广西北部、重庆东南部、湖南北部、湖北东南部、江西北部、安徽南部、浙江西部及西藏东南部等地部分地区有大到暴雨，其中，贵州东部、江西东北部等地局地有大暴雨。上述部分地区伴有短时强降水，局地有雷暴大风或冰雹等强对流天气。相关地区发生山洪、地质灾害的风险加大，需注意做好实时监测、防汛预警和转移避险等防范工作。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-23/detail-ikmyaawc6937000.d.html</link>
@@ -461,12 +467,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6888179.d.html</link>
             <guid>2181493</guid>
             <pubDate>Sat, 22 May 2021 08:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心： 热带风暴安娜在大西洋形成。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-22/detail-ikmyaawc6887843.d.html</link>
-            <guid>2181491</guid>
-            <pubDate>Sat, 22 May 2021 08:45:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
