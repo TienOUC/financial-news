@@ -4,11 +4,182 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 26 May 2021 19:58:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 May 2021 20:41:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  英伟达(NVDA.O)：第一财季数据中心营收20.5亿美元，同比增长79%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4874542.d.html</link>
+            <guid>2188721</guid>
+            <pubDate>Wed, 26 May 2021 20:39:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达(NVDA.O)：继续推进收购软银旗下芯片公司Arm的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7735963.d.html</link>
+            <guid>2188720</guid>
+            <pubDate>Wed, 26 May 2021 20:39:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达(NVDA.O)：相信游戏业务在本季度中受益于加密货币挖掘需求，尽管很难确定受益到什么程度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4874529.d.html</link>
+            <guid>2188719</guid>
+            <pubDate>Wed, 26 May 2021 20:39:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国共和党参议员Capito将于周四宣布基建设施方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7735741.d.html</link>
+            <guid>2188718</guid>
+            <pubDate>Wed, 26 May 2021 20:34:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数11大板块中，7大板块收涨，1大板块收平，3大板块收跌；其中，能源板块领跌，其次是非日常生活消费品板块；医疗保健板块领跌，其次是日常消费品板块。]]></title>
+            <guid>2188717</guid>
+            <pubDate>Wed, 26 May 2021 20:34:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【错峰限电开工不足 部分产品价格激涨】近期，云南等南方地区出现错峰限电的消息受到市场关注。在生产受限供给收缩影响下，包括黄磷等部分产品价格出现明显上行。 上周起国内黄磷市场整体走势向上，5月18日均价17633.33元/吨，而到了5月26日，均价已达25500元/吨，累计涨幅超40%。同时受省内限电影响，水泥企业停磨停窑。目前各企业水泥、熟料库存较低，限量供应。5月22日~24日，红河州、文山州主要厂家普遍通知上调水泥价格50元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7735306.d.html</link>
+            <guid>2188716</guid>
+            <pubDate>Wed, 26 May 2021 20:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【军工主题基金迎反弹 两周“回血”10%】伴随近期市场一波反弹行情，军工板块表现突出。受此影响，军工主题基金也水涨船高，仅两周左右时间，多只产品累计净值涨幅超过10%。不过，由于该板块前期经历过深度回调，不少产品年内收益依然为负。Wind统计显示，中证军工指数自5月10日触及9870.87点的阶段性低点以来，两周左右时间累计涨幅已超过12%。受此影响，军工主题基金也喜迎反弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7734997.d.html</link>
+            <guid>2188715</guid>
+            <pubDate>Wed, 26 May 2021 20:24:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股各大类资产类ETF中，罗素2000指数ETF领涨，其次是巴克莱美国可转债ETF；恐慌指数做多ETF领跌，其次是欧元做多ETF。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4873484.d.html</link>
+            <guid>2188714</guid>
+            <pubDate>Wed, 26 May 2021 20:22:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股各行业ETF中，全球航空业ETF领涨，其次是银行业ETF；医疗业ETF领跌，其次是日常消费品ETF。]]></title>
+            <guid>2188713</guid>
+            <pubDate>Wed, 26 May 2021 20:22:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  公布财报后，英伟达(NVDA.O)盘后涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7734856.d.html</link>
+            <guid>2188712</guid>
+            <pubDate>Wed, 26 May 2021 20:21:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英伟达一季度营收56.6亿美元，预期54.1亿美元。英伟达美股盘后从下跌0.6%转变为涨约0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4873417.d.html</link>
+            <guid>2188711</guid>
+            <pubDate>Wed, 26 May 2021 20:21:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事夸尔斯：我们可以实现稳定物价的目标，同时也要更加耐心，从更高水平的就业中获益。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4873252.d.html</link>
+            <guid>2188710</guid>
+            <pubDate>Wed, 26 May 2021 20:18:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snowflake(SNOW.N)：预计Q2产品营收为2.35亿美元至2.4亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7734398.d.html</link>
+            <guid>2188709</guid>
+            <pubDate>Wed, 26 May 2021 20:14:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储理事夸尔斯：对经济前景感到乐观 未来会议上可讨论减码宽松】美联储理事夸尔斯阐述了对美国经济的乐观展望，认为近期通货膨胀率升至2％以上是暂时的，尽管上行风险可能会持续较长的时间。夸尔斯说：“如果我对未来几个月经济增长，就业和通货膨胀的预期得到印证，尤其是如果它们的表现强于预期时，那么正如上一次FOMC会议纪要中所指出的那样，对于美联储来说，在后面几次会议上讨论调整资产购买计划将变得至关重要”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7734387.d.html</link>
+            <guid>2188708</guid>
+            <pubDate>Wed, 26 May 2021 20:14:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  公布财报后，Snowflake(SNOW.N)盘后跌超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4872702.d.html</link>
+            <guid>2188707</guid>
+            <pubDate>Wed, 26 May 2021 20:10:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Snowflake(SNOW.N)：2022财年第一财季每股亏损0.7美元，市场预期亏损0.51美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4872696.d.html</link>
+            <guid>2188706</guid>
+            <pubDate>Wed, 26 May 2021 20:10:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Snowflake(SNOW.N)：2022财年第一财季营收2.29亿美元，市场预期2.13亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4872692.d.html</link>
+            <guid>2188705</guid>
+            <pubDate>Wed, 26 May 2021 20:09:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根大通：预计布伦特原油价格将提前至2021年年底达到80美元/桶（原本预计要2022年二季度才会涨到这样的水平），欧洲和美国的经济重新开放取得进展，抵消印度需求疲软对油市的影响。 上调2021年布伦特原油均价预期2美元，至70美元/桶，上调同期WTI原油均价预期2美元，至67美元/桶。 下调2021年布伦特原油均价预期3美元，至67美元/桶，下调同期WTI原油均价预期3美元，至63美元/桶。]]></title>
+            <guid>2188704</guid>
+            <pubDate>Wed, 26 May 2021 20:07:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【股市收盘】道琼斯指数5月26日（周三）收盘上涨10.26点，涨幅0.03%，报34322.72点；标普500指数5月26日（周三）收盘上涨8.09点，涨幅0.19%，报4196.21点；纳斯达克综合指数5月26日（周三）收盘上涨80.82点，涨幅0.59%，报13738.00点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4872505.d.html</link>
+            <guid>2188703</guid>
+            <pubDate>Wed, 26 May 2021 20:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事夸尔斯：不想给私营部门提供信贷造成阻碍。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7733953.d.html</link>
+            <guid>2188702</guid>
+            <pubDate>Wed, 26 May 2021 20:06:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事夸尔斯：值得考虑的是，在银行体系准备金增加的情况下，重新调整杠杆比率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4872492.d.html</link>
+            <guid>2188701</guid>
+            <pubDate>Wed, 26 May 2021 20:06:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至发稿，道指成交量报2.45亿股（上一交易日为2.899亿股），纳指成交量报36.67亿股（上一交易日为37.99亿股），标普500指数成量报19.33亿股（上一交易日为21.104亿股）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4872275.d.html</link>
+            <guid>2188699</guid>
+            <pubDate>Wed, 26 May 2021 20:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中概股中，荔枝涨57%，东方文化涨29%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7733733.d.html</link>
+            <guid>2188698</guid>
+            <pubDate>Wed, 26 May 2021 20:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[理想汽车涨超14%，QS涨11%，小鹏汽车涨7%。中概股荔枝网涨超50%，老虎证券涨12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7733714.d.html</link>
+            <guid>2188697</guid>
+            <pubDate>Wed, 26 May 2021 20:02:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[散户抱团类股中，Express涨26%，AMC院线涨19%，游戏驿站涨15%。相比之下，大盘股苹果微跌0.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7733704.d.html</link>
+            <guid>2188696</guid>
+            <pubDate>Wed, 26 May 2021 20:02:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普和道指初步大致收平，纳指涨约0.5%，表现逊色于小盘股，罗素2000指数涨约2%。特斯拉涨超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7733668.d.html</link>
+            <guid>2188695</guid>
+            <pubDate>Wed, 26 May 2021 20:01:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股三大指数集体收涨，标普500指数涨0.19%，纳指涨0.6%，道指涨0.03%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4872190.d.html</link>
+            <guid>2188694</guid>
+            <pubDate>Wed, 26 May 2021 20:01:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股收盘，道指接近平收，新能源车股、WSB概念股表现强势，教育股下挫。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4872114.d.html</link>
+            <guid>2188693</guid>
+            <pubDate>Wed, 26 May 2021 20:00:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储理事夸尔斯：认为基于调查的通胀预期比基于市场的通胀预期更重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4872090.d.html</link>
+            <guid>2188692</guid>
+            <pubDate>Wed, 26 May 2021 19:59:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美联储理事夸尔斯：对通胀预期的调查是不稳定的，不会对一两个季度过高结果感到担忧或惊讶。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7733475.d.html</link>
@@ -385,172 +556,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4864743.d.html</link>
             <guid>2188621</guid>
             <pubDate>Wed, 26 May 2021 17:51:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行副行长连恩：目前没有看到发行央行数字货币的有力案例，但世界发展非常迅速。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4864738.d.html</link>
-            <guid>2188620</guid>
-            <pubDate>Wed, 26 May 2021 17:51:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX 6月黄金期货结算价收涨0.2%，报1901.20美元/盎司，为1月份以来首次收于1900美元上方。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7726273.d.html</link>
-            <guid>2188619</guid>
-            <pubDate>Wed, 26 May 2021 17:49:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧洲央行的数字欧元可能不会基于区块链技术】德国商报报道，消息人士称，欧洲央行几乎要完成一份有关数字货币的报告。该报告将提交给欧洲央行管委会，目前已就几个关键的内容达成了一致。欧洲央行有望在7月份的会议上决定相关计划，欧洲央行的数字货币料将被命名为”数字欧元“，欧洲央行希望为该名称注册保护商标。数字欧元可能被存储在欧洲央行控制的常规账户下，个人数字钱包中的现金可能限制，可能的上限为3000欧元。数字欧元可能不会基于区块链技术开发。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4864577.d.html</link>
-            <guid>2188618</guid>
-            <pubDate>Wed, 26 May 2021 17:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银跌超1%，美股白银股短线走低，First Majestic(AG.N)跌1.4%，泛美白银(PAAS.O)跌至0.56%。]]></title>
-            <guid>2188617</guid>
-            <pubDate>Wed, 26 May 2021 17:46:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10年期国债收益率短线走高1个基点，刷新日高至1.58%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7725933.d.html</link>
-            <guid>2188616</guid>
-            <pubDate>Wed, 26 May 2021 17:45:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线走低近5美元，现报1895.48美元/盎司，现货白银跌超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7725867.d.html</link>
-            <guid>2188615</guid>
-            <pubDate>Wed, 26 May 2021 17:44:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货白银跌1.0%，报27.71美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4864189.d.html</link>
-            <guid>2188614</guid>
-            <pubDate>Wed, 26 May 2021 17:43:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5年期公债标售后，美国5年期国债收益率走高，报0.786%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4864177.d.html</link>
-            <guid>2188613</guid>
-            <pubDate>Wed, 26 May 2021 17:43:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国各州财长就气候相关贷款问题向美国气候特使KERRY发出警告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4864174.d.html</link>
-            <guid>2188612</guid>
-            <pubDate>Wed, 26 May 2021 17:43:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                              国际铜夜盘收跌0.09%，沪铜收跌0.13%，沪铝收涨0.38%，沪锌收跌0.40%，沪铅收跌0.07%，沪镍收涨0.84%，沪锡收涨0.66%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4863757.d.html</link>
-            <guid>2188611</guid>
-            <pubDate>Wed, 26 May 2021 17:36:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息称，欧洲央行可能不会基于区块链技术开发数字欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7725019.d.html</link>
-            <guid>2188610</guid>
-            <pubDate>Wed, 26 May 2021 17:32:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  部分汽车股涨幅持续扩大，Workhorse(WKHS.O)涨12%，康迪车业(KNDI.O)涨超10%，Nikola(NKLA.O)涨5.62%，Fisker(FSR.N)涨近5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4863010.d.html</link>
-            <guid>2188609</guid>
-            <pubDate>Wed, 26 May 2021 17:28:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃克森美孚石油(XOM.N)小幅走高，现涨0.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7724363.d.html</link>
-            <guid>2188608</guid>
-            <pubDate>Wed, 26 May 2021 17:23:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝佐斯表示ANDY JASSY将于7月5日成为亚马逊的首席执行官。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7724353.d.html</link>
-            <guid>2188607</guid>
-            <pubDate>Wed, 26 May 2021 17:23:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亚马逊(AMZN.O)首席执行官贝佐斯表示，公司期待收购米高梅后重新构想和开发产品目录。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4862462.d.html</link>
-            <guid>2188604</guid>
-            <pubDate>Wed, 26 May 2021 17:19:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行副行长连恩：稳定币有可能渗透支付系统。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4862425.d.html</link>
-            <guid>2188603</guid>
-            <pubDate>Wed, 26 May 2021 17:19:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行连恩：稳定币具备渗透至支付系统的潜质。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4862301.d.html</link>
-            <guid>2188602</guid>
-            <pubDate>Wed, 26 May 2021 17:17:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[46个对手方在美联储的固定利率逆回购操作中接纳了4503亿美元，昨日为4330亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7723886.d.html</link>
-            <guid>2188601</guid>
-            <pubDate>Wed, 26 May 2021 17:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据尼日利亚媒体报道，一艘搭载160多人的船只26日在尼西北部沉没，导致上百人失踪。 （新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7723726.d.html</link>
-            <guid>2188600</guid>
-            <pubDate>Wed, 26 May 2021 17:14:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荔枝盘中大涨40%，一度触及熔断，现报5.8美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4861938.d.html</link>
-            <guid>2188599</guid>
-            <pubDate>Wed, 26 May 2021 17:11:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高盛：美国股市的高估值将面临阻力】高盛表示，尽管宏观经济预测为高于平均的美国股市估值给出了合理理由，但这种支持未来可能会开始减弱。Dominic Wilson等策略师在研报中预计，债券收益率将稳步上升，就业市场的增长步伐会在2022及以后放慢。假设近期就业增长放缓的持续性超出预期，或市场不愿将近期的通胀上升视为暂时现象，那么估值遭遇的阻力可能会更早出现而且也更为强劲。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7723501.d.html</link>
-            <guid>2188598</guid>
-            <pubDate>Wed, 26 May 2021 17:11:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国新增12646例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7723405.d.html</link>
-            <guid>2188597</guid>
-            <pubDate>Wed, 26 May 2021 17:10:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：Facebook Gaming为游戏开发者提供了新的盈利渠道。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7723149.d.html</link>
-            <guid>2188596</guid>
-            <pubDate>Wed, 26 May 2021 17:06:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  生物制药公司Applied Therapeutics(APLT.O)盘中直线拉涨，现涨近12%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7723142.d.html</link>
-            <guid>2188595</guid>
-            <pubDate>Wed, 26 May 2021 17:06:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亚马逊(AMZN.O)首席财务官表示，过去4个季度， Prime Video的播放时间同比增长了70%。]]></title>
-            <guid>2188594</guid>
-            <pubDate>Wed, 26 May 2021 17:06:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  LME期铜收涨61美元，报9979美元/吨。 LME期铝收涨30美元，报2402美元/吨。 LME期锌收跌14美元，报2968美元/吨。 LME期铅收涨18美元，报2177美元/吨。 LME期镍收涨248美元，报17288美元/吨。 LME期锡收涨56美元，报29525美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4861501.d.html</link>
-            <guid>2188593</guid>
-            <pubDate>Wed, 26 May 2021 17:06:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【业内：信号密集释放，货币政策仍“稳”字当头，结构性工具将进一步发力】业内人士普遍认为，目前，国内外的宏观经济环境发生了一定变化，不过关于货币政策的提法与去年下半年以来一脉相承，整体而言，货币政策仍是“稳”字当头，不会超预期收紧，同时也更为强调对重点领域加大定向支持力度，结构性工具或将是货币政策下一步发力点之一。在处理好发达经济体刺激政策退出预期的外溢效应上，我国货币政策各项操作仍将“以我为主”。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm4861491.d.html</link>
-            <guid>2188592</guid>
-            <pubDate>Wed, 26 May 2021 17:06:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：Alivecor公司就运动设备问题起诉苹果。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7723015.d.html</link>
-            <guid>2188591</guid>
-            <pubDate>Wed, 26 May 2021 17:05:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
