@@ -4,11 +4,311 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 27 May 2021 19:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 May 2021 20:39:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：堪萨斯联储表示，今年将在线下召开杰克逊霍尔会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5077935.d.html</link>
+            <guid>2190858</guid>
+            <pubDate>Thu, 27 May 2021 20:38:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Slack(WORK.N)盘后涨1.75%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5077900.d.html</link>
+            <guid>2190857</guid>
+            <pubDate>Thu, 27 May 2021 20:37:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Salesforce(CRM.N)盘后涨幅扩大至5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5077895.d.html</link>
+            <guid>2190856</guid>
+            <pubDate>Thu, 27 May 2021 20:37:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Salesforce(CRM.N)首席运营官：与Slack(WORK.N)的交易将于“第二季度晚些时候”完成。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7941304.d.html</link>
+            <guid>2190855</guid>
+            <pubDate>Thu, 27 May 2021 20:37:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  戴尔科技一季度调整后EPS为2.13美元，分析师预期1.60美元。 一季度调整后EBITDA为32.4亿美元，分析师预期29.2亿美元。 一季度调整后营收245.0亿美元，分析师预期233.3亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5077698.d.html</link>
+            <guid>2190854</guid>
+            <pubDate>Thu, 27 May 2021 20:34:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  公布财报后，戴尔(DELL.N)盘后涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5077280.d.html</link>
+            <guid>2190853</guid>
+            <pubDate>Thu, 27 May 2021 20:26:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  戴尔(DELL.N)：2022财年第一财季营收245亿美元，市场预期233.6亿美元，去年同期219.45亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5077270.d.html</link>
+            <guid>2190852</guid>
+            <pubDate>Thu, 27 May 2021 20:26:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  戴尔(DELL.N)：2022财年第一财季每股盈利1.13美元，市场预期0.7美元，去年同期0.19美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7940671.d.html</link>
+            <guid>2190851</guid>
+            <pubDate>Thu, 27 May 2021 20:26:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根大通(JPM.N)CEO戴蒙：美国经济很有可能在2022年出现过热。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7940664.d.html</link>
+            <guid>2190850</guid>
+            <pubDate>Thu, 27 May 2021 20:26:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  比尔·盖茨与梅琳达·弗兰奇讨论在盖茨基金会中引入外部董事。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7940443.d.html</link>
+            <guid>2190849</guid>
+            <pubDate>Thu, 27 May 2021 20:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  比尔·盖茨与梅琳达·弗兰奇研究调整盖茨基金会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7940424.d.html</link>
+            <guid>2190848</guid>
+            <pubDate>Thu, 27 May 2021 20:22:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  威睿(VMW.N)：第一季度的订阅和SaaS营收为7.41亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5076997.d.html</link>
+            <guid>2190847</guid>
+            <pubDate>Thu, 27 May 2021 20:22:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠普(HPQ.N)将于十分钟后召开Q2财报电话会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7940411.d.html</link>
+            <guid>2190846</guid>
+            <pubDate>Thu, 27 May 2021 20:22:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【CRM预计第二季度营收62.2亿美元至62.3亿美元 市场预估61.6亿美元】CRM预计第二季度营收62.2亿美元至62.3亿美元，市场预估61.6亿美元；预计第二季度调整后每股收益91美分至92美分，市场预估86美分；预计全年营收259亿美元至260亿美元，市场预估257.6亿美元；预计全年调整后每股收益3.79美元至3.81美元，市场预估3.45美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5076779.d.html</link>
+            <guid>2190845</guid>
+            <pubDate>Thu, 27 May 2021 20:18:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Gap一季度EPS为0.43美元，2020年同期亏损2.510美元。 一季度调整后EPS为0.48美元，分析师预期亏损0.05美元。 一季度同期可比销售增长28%，分析师预期增长67.7%。 预计全年调整后EPS介于1.60-1.75美元，分析师预期1.39美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7940185.d.html</link>
+            <guid>2190844</guid>
+            <pubDate>Thu, 27 May 2021 20:17:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  公布财报后，好市多(COST.O)盘后涨0.19%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5076760.d.html</link>
+            <guid>2190843</guid>
+            <pubDate>Thu, 27 May 2021 20:17:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  公布财报后，威睿(VMW.N)盘后跌1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7940175.d.html</link>
+            <guid>2190842</guid>
+            <pubDate>Thu, 27 May 2021 20:17:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  威睿(VMW.N)：第一季度每股盈利1.01美元，市场预期0.86美元，去年同期0.92美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5076750.d.html</link>
+            <guid>2190841</guid>
+            <pubDate>Thu, 27 May 2021 20:17:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  威睿(VMW.N)：第一季度营收29.9亿美元，市场预期29.33亿美元，去年同期27.34亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5076747.d.html</link>
+            <guid>2190840</guid>
+            <pubDate>Thu, 27 May 2021 20:17:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  好市多(COST.O)：2021财年第三财季每股盈利2.75美元，市场预期2.25美元，去年同期1.89美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5076714.d.html</link>
+            <guid>2190839</guid>
+            <pubDate>Thu, 27 May 2021 20:15:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  好市多(COST.O)：2021财年第三财季营收452.8亿美元，市场预期436.35亿美元，去年同期372.66亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5076712.d.html</link>
+            <guid>2190838</guid>
+            <pubDate>Thu, 27 May 2021 20:15:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠普(HPQ.N)盘后跌近5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5076589.d.html</link>
+            <guid>2190837</guid>
+            <pubDate>Thu, 27 May 2021 20:13:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Salesforce(CRM.N)：2022财年第一财季每股盈利0.5美元，市场预期0.57美元，去年同期0.11美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5076293.d.html</link>
+            <guid>2190836</guid>
+            <pubDate>Thu, 27 May 2021 20:07:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  公布财报后，Salesforce(CRM.N)盘后涨2.87%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7939772.d.html</link>
+            <guid>2190835</guid>
+            <pubDate>Thu, 27 May 2021 20:07:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Salesforce(CRM.N)：2022财年第一财季营收59.6亿美元，市场预期58.87亿美元，去年同期48.65亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5076280.d.html</link>
+            <guid>2190834</guid>
+            <pubDate>Thu, 27 May 2021 20:07:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至发稿，道指成交量报4.1亿股（上一交易日为2.598亿股），纳指成交量报38.62亿股（上一交易日为39.182亿股），标普500指数成量报21.66亿股（上一交易日为20.819亿股）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7939394.d.html</link>
+            <guid>2190833</guid>
+            <pubDate>Thu, 27 May 2021 20:01:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股收盘，道指初步收涨约130点，纳指接近平收，部分WSB概念股走高，AMC院线(AMC.N)收涨约36%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5075873.d.html</link>
+            <guid>2190832</guid>
+            <pubDate>Thu, 27 May 2021 20:00:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根大通(JPM.N)CEO戴蒙：通货膨胀即将到来，问题是通胀会有多高，来得多快。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5075804.d.html</link>
+            <guid>2190831</guid>
+            <pubDate>Thu, 27 May 2021 19:58:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  福特汽车(F.N)涨超7%，今年累涨近70%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7939276.d.html</link>
+            <guid>2190830</guid>
+            <pubDate>Thu, 27 May 2021 19:57:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国前副总统彭斯将于6月3日出席共和党的活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7938948.d.html</link>
+            <guid>2190829</guid>
+            <pubDate>Thu, 27 May 2021 19:52:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国众议院议员Warren：为清洁能源研究部门提供4000亿美元的法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5075282.d.html</link>
+            <guid>2190828</guid>
+            <pubDate>Thu, 27 May 2021 19:48:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  通用电气(GE.N)CFO：预计第二季度现金流同比增幅将与第一季度类似。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7938768.d.html</link>
+            <guid>2190827</guid>
+            <pubDate>Thu, 27 May 2021 19:47:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  通用电气(GE.N)CFO：预计第二季度现金流仍为负值。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5075179.d.html</link>
+            <guid>2190826</guid>
+            <pubDate>Thu, 27 May 2021 19:45:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  通用电气(GE.N)涨超7%，创1月底以来最大盘中涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7938574.d.html</link>
+            <guid>2190825</guid>
+            <pubDate>Thu, 27 May 2021 19:42:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  维珍银河（SPCE）涨幅扩大至19%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5075008.d.html</link>
+            <guid>2190824</guid>
+            <pubDate>Thu, 27 May 2021 19:41:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Nikola(NKLA.O)涨幅扩大至15%，报15.01美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5074624.d.html</link>
+            <guid>2190823</guid>
+            <pubDate>Thu, 27 May 2021 19:33:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  游戏驿站(GME.N)尾盘直线拉涨超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5074604.d.html</link>
+            <guid>2190822</guid>
+            <pubDate>Thu, 27 May 2021 19:33:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间5月27日，西班牙安达卢西亚大区政府发布声明称，大区政府主席胡安·曼努埃尔·莫雷诺在当天进行的新冠病毒检测中结果呈阳性。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7938040.d.html</link>
+            <guid>2190821</guid>
+            <pubDate>Thu, 27 May 2021 19:32:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加州大学伯克利分校下周将拍卖与基因编辑和癌症免疫疗法诺贝尔获奖相关的数字数据——不可替代代币（NFT）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5074549.d.html</link>
+            <guid>2190820</guid>
+            <pubDate>Thu, 27 May 2021 19:31:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  柯达(KODK.N)直线拉涨，现涨7.83%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7937985.d.html</link>
+            <guid>2190819</guid>
+            <pubDate>Thu, 27 May 2021 19:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储卡普兰：缩债时机来临的时候，会提前（向市场）传达。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7937947.d.html</link>
+            <guid>2190818</guid>
+            <pubDate>Thu, 27 May 2021 19:29:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储卡普兰：我是中间派，不是鹰派。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7937942.d.html</link>
+            <guid>2190817</guid>
+            <pubDate>Thu, 27 May 2021 19:29:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  高盛(GS.N)CEO：特殊目的收购公司(SPAC)可以使用更直白的语言披露信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5074314.d.html</link>
+            <guid>2190816</guid>
+            <pubDate>Thu, 27 May 2021 19:24:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储卡普兰：10年期国债收益率上升是有益的，这也并不令人意外。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5074204.d.html</link>
+            <guid>2190815</guid>
+            <pubDate>Thu, 27 May 2021 19:21:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储卡普兰：如果美联储非常温和地放缓脚步，可能有助于管理风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5074186.d.html</link>
+            <guid>2190814</guid>
+            <pubDate>Thu, 27 May 2021 19:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储卡普兰：影响通货膨胀的一些供求问题可能会持续下去。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7937661.d.html</link>
+            <guid>2190813</guid>
+            <pubDate>Thu, 27 May 2021 19:21:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储卡普兰：对资产购买采取一些限制措施将是有益的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5074042.d.html</link>
+            <guid>2190812</guid>
+            <pubDate>Thu, 27 May 2021 19:17:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储卡普兰：现阶段美联储购买住房抵押贷款支持证券（MBS）可能会产生意料之外的副作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5074039.d.html</link>
+            <guid>2190811</guid>
+            <pubDate>Thu, 27 May 2021 19:17:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  高盛(GS.N)CEO：“在相当长的一段时间内”，我们将为石油和天然气提供融资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7937428.d.html</link>
+            <guid>2190810</guid>
+            <pubDate>Thu, 27 May 2021 19:15:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储卡普兰：我们正处于经济复苏之中，将继续朝着美联储的目标前进，此外尽早开始谈论缩减资产购买是明智的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5073947.d.html</link>
+            <guid>2190809</guid>
+            <pubDate>Thu, 27 May 2021 19:14:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  恒指期货夜盘收涨0.04%，报29198点，高水85点。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7936642.d.html</link>
@@ -268,271 +568,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5065429.d.html</link>
             <guid>2190759</guid>
             <pubDate>Thu, 27 May 2021 16:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【网易回应HR称帮下药撩女同事：经过调查核实 网易互娱与涉事HR解除劳动合同】网易互娱向新浪科技表示，互娱人力资源部以及发出公告，确认不当言论为当事人所发，其个人行为以严重违反网易关于“员工不得有侮辱性词语或不道德行为”的管理规定，决定对涉事HR给予立即解除劳动合同的处分。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5065132.d.html</link>
-            <guid>2190757</guid>
-            <pubDate>Thu, 27 May 2021 16:34:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线走低0.1美元，现报27.65美元/盎司。]]></title>
-            <guid>2190755</guid>
-            <pubDate>Thu, 27 May 2021 16:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国10年期和30年期国债收益率升至盘中高点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5064389.d.html</link>
-            <guid>2190754</guid>
-            <pubDate>Thu, 27 May 2021 16:26:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：由于人口老龄化，我们将在2030年后面临赤字问题。 最近几个月我们看到的通货膨胀与供应短缺还有经济瓶颈有关。 控制通胀的核心责任在美联储。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7927703.d.html</link>
-            <guid>2190753</guid>
-            <pubDate>Thu, 27 May 2021 16:26:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  医疗器械制造商Figs(FIGS.N)首日上市开涨超30%，开盘价报29.18美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7927697.d.html</link>
-            <guid>2190752</guid>
-            <pubDate>Thu, 27 May 2021 16:26:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【温州银行被“接管”？属不实消息】近日，网上有消息称温州银行被“接管”。温州辟谣侠从市银保监分局、市金融办、人民银行温州市中心支行获悉：为了改善股权结构，优化公司治理，温州银行近期引进了战略投资者入股。同时，温州银行领导班子三年任期届满，于5月23日进行了人事调整，并非被“接管”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7927617.d.html</link>
-            <guid>2190751</guid>
-            <pubDate>Thu, 27 May 2021 16:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行将任命BREEDEN为金融政策委员会成员。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7927543.d.html</link>
-            <guid>2190750</guid>
-            <pubDate>Thu, 27 May 2021 16:24:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国共和党参议员Braun：国会中只有少数财政政策鹰派的成员。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5064088.d.html</link>
-            <guid>2190749</guid>
-            <pubDate>Thu, 27 May 2021 16:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：制定负责任的财政政策至关重要。周五提交的预算将使债务在GDP中的占比略高于100% 。以目前的利率计算，联邦债务的实际利息成本是负的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5064006.d.html</link>
-            <guid>2190748</guid>
-            <pubDate>Thu, 27 May 2021 16:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国共和党参议员Braun：美国总统拜登的6万亿美元预算计划“令人难以置信”。]]></title>
-            <guid>2190747</guid>
-            <pubDate>Thu, 27 May 2021 16:20:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  周四（5月27日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）跌4.59%，报51.13欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7927187.d.html</link>
-            <guid>2190746</guid>
-            <pubDate>Thu, 27 May 2021 16:20:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：由于预算紧张，复杂的税收调查很难进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7927139.d.html</link>
-            <guid>2190745</guid>
-            <pubDate>Thu, 27 May 2021 16:19:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据日经新闻：索尼(SONY.N)计划大幅扩大其在马来西亚的主要电视制造基地的自动化程度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7927117.d.html</link>
-            <guid>2190744</guid>
-            <pubDate>Thu, 27 May 2021 16:19:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【年内油价或再搁浅：92号汽油仍处“6元时代”】5月28日24时，2021年第十轮国内成品油调价窗口将开启。机构普遍预测，本轮国内油价大概率搁浅，这或将是今年以来国内油价第二次搁浅。下一轮调价窗口将于6月11日24时开启。隆众资讯分析师李彦预计，下一轮成品油调价下调的概率较大。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7926563.d.html</link>
-            <guid>2190743</guid>
-            <pubDate>Thu, 27 May 2021 16:12:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国白宫：下周将与国会就基础设施计划进行合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmyaawc7925760.d.html</link>
-            <guid>2190740</guid>
-            <pubDate>Thu, 27 May 2021 16:04:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  方正证券：给予海底捞(06862.HK)买进的初始评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5061914.d.html</link>
-            <guid>2190739</guid>
-            <pubDate>Thu, 27 May 2021 16:00:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅会见朝鲜新任驻华大使李龙男】国务委员兼外长王毅27日在北京会见朝鲜新任驻华大使李龙男。王毅欢迎李龙男来华履新。他强调，中方愿同朝方保持高层战略沟通，积极推进各领域务实合作，共同办好《中朝友好合作互助条约》签订60周年纪念活动，就国际和地区事务加强协调配合。中方坚定支持朝方发展经济、改善民生，愿继续向朝方提供力所能及的帮助。双方还就朝鲜半岛形势交换了意见，同意就此加强协调合作。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-28/detail-ikmxzfmm5061873.d.html</link>
-            <guid>2190738</guid>
-            <pubDate>Thu, 27 May 2021 16:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美元兑日元涨幅扩大至0.6%，刷新4月9日以来高位至109.85。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7925139.d.html</link>
-            <guid>2190737</guid>
-            <pubDate>Thu, 27 May 2021 15:59:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统拜登：与共和党参议员Capito进行了简短的交谈，Capito将于下周再和我联系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5061750.d.html</link>
-            <guid>2190735</guid>
-            <pubDate>Thu, 27 May 2021 15:57:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧洲主要股指收盘涨跌不一 德国DAX30指数跌0.29%】欧洲主要股指收盘涨跌不一，德国DAX30指数跌0.29%，英国富时100指数跌0.07%，法国CAC40指数涨0.69%，欧洲斯托克50指数涨0.22%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7924870.d.html</link>
-            <guid>2190734</guid>
-            <pubDate>Thu, 27 May 2021 15:54:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统拜登：还没有对共和党提议的基础设施提案进行细节上的改动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7924849.d.html</link>
-            <guid>2190733</guid>
-            <pubDate>Thu, 27 May 2021 15:53:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚洲到欧洲集装箱货运价格首次突破10000美元，凸显进出口商压力】周四发布的Drewry世界集装箱指数显示，40英尺集装箱从上海到鹿特丹的运费涨至10174美元，较前一周上涨3.1%，较去年同期上涨485%，为有纪录以来首次突破10000美元，突显了进出口商在供应链压力下承受的痛苦。八条主要航线的综合指数较前一周上涨2%，至6257美元，比去年同期上涨293%。上述两项指数均达到2011年有纪录以来最高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7924724.d.html</link>
-            <guid>2190732</guid>
-            <pubDate>Thu, 27 May 2021 15:51:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【D.A.Davidson：将Snowflake目标价从300美元降至275美元】D.A.Davidson分析师Andrew Nowinski将Snowflake(SNOW.N)的目标价从300美元下调至275美元，维持买入评级。该分析师在一份研究报告中告诉投资者，尽管该公司股价在盘后下跌约3%，但该公司公布的业绩“强劲”，同时存在“令人担忧的地方”。分析师坚持自己的观点，认为Snowflake的竞争力无与伦比，但下调目标价，以反映较低的假定估值倍数。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5061400.d.html</link>
-            <guid>2190731</guid>
-            <pubDate>Thu, 27 May 2021 15:50:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南前4月“菜篮子”价格有所回落】近日，从海南省发展改革委获悉，1-4月，海南省农贸市场蔬菜价格逐月下降。4月份，海南省农贸市场蔬菜零售均价同比下降15.48%，环比下降6.83%。4月份，省农贸市场鲜猪肉零售均价同比下降11.34%，环比下降4.71%。海南稳价办相关负责人表示，当地通过建立健全稳价控价长效机制、积极推进平价蔬菜保供惠民行动工作、加强“菜篮子”生产保障、优化市场流通体系建设、建立政府主导调控平台、增加“菜篮子”产品应急储备和岛外调运调节、加强市场巡查监管等多措并举保供稳价。（海南日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5061289.d.html</link>
-            <guid>2190730</guid>
-            <pubDate>Thu, 27 May 2021 15:49:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[医疗器械制造商Figs(FIGS.N)首日上市开涨超30%，报28.6美元，IPO发行价为22美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5061146.d.html</link>
-            <guid>2190728</guid>
-            <pubDate>Thu, 27 May 2021 15:46:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：现在的利率非常低，大多数经济学家认为低利率将持续。 认为未来10年，美国债务的利息负担将是非常可控的。 从商业规划的角度来看，频繁修改税收规则是不可取的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5060717.d.html</link>
-            <guid>2190726</guid>
-            <pubDate>Thu, 27 May 2021 15:40:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  在岸人民币兑美元（CNY）北京时间23:30收报6.3840元，较周三夜盘收盘涨75点。成交量464.41亿美元，较周三下降77.74亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7923872.d.html</link>
-            <guid>2190725</guid>
-            <pubDate>Thu, 27 May 2021 15:38:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海峡型运价指数继续下跌，带动波罗的海指数走低】波罗的海干散货运价指数周四跌66点或2.4%，报2688点。海岬型船运价指数跌204点或5.7 %，报3368点，跌至4月15日以来的低点，日均获利减少1686美元至27934美元。巴拿马型船运价指数跌27点或0.9 %，报2735点，日均获利减少285美元至24618美元。超灵便型船运价指数涨28点，报2520点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7923772.d.html</link>
-            <guid>2190724</guid>
-            <pubDate>Thu, 27 May 2021 15:36:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高盛：当前的大宗商品跌势创造了买入机会】Jeff Currie、Damien Courvalin等高盛分析师表示，目前大宗商品价格的回落是“明显的购买机会”。下半年石油、铜和大豆等主要大宗商品的基本面仍偏向于初步趋紧，没有证据表明供应因素足以使牛市脱轨。投机者追踪基本面，简单地将基本信息转化为价格发现。从历史上看，阻挠投机者往往会导致更大的价格波动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5060381.d.html</link>
-            <guid>2190723</guid>
-            <pubDate>Thu, 27 May 2021 15:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广深地区印巴航线空运价格半月内涨幅超100% 刷新历史新高】目前广深地区前往印巴航线的舱位持续紧张，空运价格半月内涨幅超100%，海运价格也水涨船高，涨幅超过三成。从今年四月下旬开始，尤其进入五月份以后，广深地区印巴航线价格出现明显异动，价格刷新历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5060284.d.html</link>
-            <guid>2190722</guid>
-            <pubDate>Thu, 27 May 2021 15:33:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国民主党参议员德斌：共和党对基础设施的提议是较为合理的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7923534.d.html</link>
-            <guid>2190721</guid>
-            <pubDate>Thu, 27 May 2021 15:33:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲STOXX 600指数初步收涨0.39%，报446.95点。 德国DAX 30指数初步收跌0.05%，报15443.68点。 法国股指初步收涨0.81%，英国股指初步收跌0.02%，意大利股指初步收涨1.13%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7923428.d.html</link>
-            <guid>2190720</guid>
-            <pubDate>Thu, 27 May 2021 15:31:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股于历史高点附近震荡之际，投资者正通过加码做空全球最大的交易所交易基金（ETF）来押注标普500指数即将回调。据IHS Markit Ltd.数据，规模达3570亿美元的SPDR S&P 500 ETF Trust的空头头寸已经跃升至今年以来的最高水平。]]></title>
-            <guid>2190719</guid>
-            <pubDate>Thu, 27 May 2021 15:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：俄罗斯的行为具有重大威胁。将使用财政部的全部权力来打击俄罗斯的恶意活动。 如果美国在制裁问题上与盟国合作，俄罗斯想逃避制裁就会更难。 必须密切关注当前的通胀形势。 不希望出现持续通胀。 现阶段的通胀只是暂时性的。 预计高通胀将继续持续数月。预计高通胀将会持续到年底。 如果高通胀长期持续，有工具使其回调。 美国经济仍然疲软。 随着经济开放，人们却没有立即找到工作，其中是有多种原因的。 不相信拜登的支出计划会导致通货膨胀。 拜登的支出计划将在8到10年内兑现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7922916.d.html</link>
-            <guid>2190718</guid>
-            <pubDate>Thu, 27 May 2021 15:23:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亚马逊(AMZN.O)：是时候重振美国的邮政服务了。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5059297.d.html</link>
-            <guid>2190717</guid>
-            <pubDate>Thu, 27 May 2021 15:19:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  雾芯科技(RLX.N)盘中涨超5%，报11.45美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5059291.d.html</link>
-            <guid>2190716</guid>
-            <pubDate>Thu, 27 May 2021 15:19:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：俄罗斯的行为具有重大威胁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5059256.d.html</link>
-            <guid>2190715</guid>
-            <pubDate>Thu, 27 May 2021 15:19:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【外汇自律机制澄清市场误区：人民币可能升值也可能贬值 避免偏离风险中性的“炒汇”行为】近期，人民币升值预期愈演愈烈，甚至有观点认为，应当适当升值抵消大宗商品价格上涨。全国外汇市场自律机制第七次工作会议27日的召开，澄清了市场对汇率走势的误区。会议认为，当前外汇市场总体平衡。未来，影响汇率的市场因素和政策因素很多，人民币既可能升值，也可能贬值。在外汇管理方面，此次会议做出进一步强调：企业和金融机构都应积极适应汇率双向波动的状态。企业要聚焦主业，树立“风险中性”理念，避免偏离风险中性的“炒汇”行为，不要赌人民币汇率升值或贬值，久赌必输。金融机构不仅不能帮助企业“炒汇”，自身也不宜“炒汇”，否则不利于银行稳健经营，还会造成汇率大起大落。]]></title>
-            <guid>2190714</guid>
-            <pubDate>Thu, 27 May 2021 15:18:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利新增4147例新冠肺炎确诊病例，前一天新增3937例；新增171例新冠肺炎死亡病例，前一天为121例。]]></title>
-            <guid>2190713</guid>
-            <pubDate>Thu, 27 May 2021 15:14:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  AMC院线涨幅扩大至20%，使得2021年迄今涨幅扩大至1000%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7922001.d.html</link>
-            <guid>2190712</guid>
-            <pubDate>Thu, 27 May 2021 15:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新华社：社区团购“十荟团”被重罚释放了什么信号？】市场监管总局27日依法对北京十荟科技有限公司处以150万元人民币顶格罚款，并责令“十荟团”平台江苏区域停业整顿3日。市场监管总局将继续对社区团购市场竞争状况保持高度关注，保持监管执法力度不放松，坚决维护市场价格秩序。不论线上线下、不论规模大小，对所有市场主体都一视同仁。同时，郑重提醒其他相关企业，创新无止境，经营有红线。一定要敬畏法律、遵循监管，自觉守法依规经营，自觉维护经营秩序。千万不要想当然地以为交了罚款就买到了“护身符”，这样的“护身符”靠不住。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7921760.d.html</link>
-            <guid>2190711</guid>
-            <pubDate>Thu, 27 May 2021 15:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线走高0.11美元，现报27.74美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7921732.d.html</link>
-            <guid>2190710</guid>
-            <pubDate>Thu, 27 May 2021 15:09:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：05月27日23时03分在云南大理州漾濞县附近发生3.7级左右地震，最终结果以正式速报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5058337.d.html</link>
-            <guid>2190709</guid>
-            <pubDate>Thu, 27 May 2021 15:07:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：谷歌拓展了与Shopify, Square, Godaddy的电子商务合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmxzfmm5058312.d.html</link>
-            <guid>2190708</guid>
-            <pubDate>Thu, 27 May 2021 15:07:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储鸽派立场和海外经济增长加速正打压美元，美元指数成为本季度迄今全球主要货币中表现最差的货币，较3月底的峰值下跌了4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-27/detail-ikmyaawc7921423.d.html</link>
-            <guid>2190707</guid>
-            <pubDate>Thu, 27 May 2021 15:06:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
