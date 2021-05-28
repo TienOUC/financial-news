@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 28 May 2021 21:35:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 May 2021 22:40:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【因从亚洲到非洲都面临供应困境 锡飙升至十年高位】锡价周五蹿升至十年高位，因短期供应之忧加剧。伦敦金属交易所(LME)锡价升至每吨30000美元以上，因投资者重新聚焦大宗商品需求前景。锡是今年表现最好的LME金属，并且因供应紧缩，自2020年底以来一直是深度现货溢价状态。国际锡业协会估计，冶炼厂将停产约10至20天，会影响1000至2000吨精炼产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8149606.d.html</link>
+            <guid>2191931</guid>
+            <pubDate>Fri, 28 May 2021 22:18:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据沙特国家电视台：沙特领导的联盟拦截并摧毁了也门胡塞武装向沙特海米斯穆谢特发射的装满炸药的无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5286316.d.html</link>
+            <guid>2191930</guid>
+            <pubDate>Fri, 28 May 2021 22:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【世卫组织：全球累计新冠确诊病例达168599045例】世卫组织网站最新数据显示，截至欧洲中部时间28日17时03分(北京时间23时03分)，全球确诊病例较前一日增加545102例，达到168599045例；死亡病例增加12406例，达到3507477例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8148200.d.html</link>
+            <guid>2191929</guid>
+            <pubDate>Fri, 28 May 2021 21:58:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  离岸人民币（CNH）兑美元北京时间04:59报6.3603元，较周四纽约尾盘涨129点，盘中整体交投于6.3813-6.3588元区间，于在岸人民币白天收盘前后，继续录得2018年5月23日以来盘中最高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8147949.d.html</link>
+            <guid>2191928</guid>
+            <pubDate>Fri, 28 May 2021 21:53:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国企业债息差创十四年来最窄水平】美国高评级债券（投资级企业债）与美国国债息差收窄至84个基点，为2007年以来最窄水平。美国经济加速复苏提振了今年的企业盈利预期，投资者的通胀预期缓和，看好重新开放后的经济表现。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5285148.d.html</link>
+            <guid>2191927</guid>
+            <pubDate>Fri, 28 May 2021 21:51:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：空白支票公司Colombier提交IPO申请。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8147846.d.html</link>
+            <guid>2191926</guid>
+            <pubDate>Fri, 28 May 2021 21:51:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【阿根廷新增新冠肺炎病例39207例 累计超370万例】当地时间5月28日，阿根廷卫生部通报，该国单日新增新冠肺炎确诊病例39207例，累计确诊病例数量增至3702422例。新增死亡病例560例，累计死亡病例达76693例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5285121.d.html</link>
+            <guid>2191925</guid>
+            <pubDate>Fri, 28 May 2021 21:50:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  巴西新增49768例新冠肺炎确诊病例，2371例死亡病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5284418.d.html</link>
@@ -517,48 +559,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5272414.d.html</link>
             <guid>2191834</guid>
             <pubDate>Fri, 28 May 2021 17:31:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国际铜夜盘收涨0.89%，沪铜收涨0.83%，沪铝收涨1.28%，沪锌收涨0.24%，沪铅收涨0.35%，沪镍收涨1.35%，沪锡收涨1.69%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8135154.d.html</link>
-            <guid>2191833</guid>
-            <pubDate>Fri, 28 May 2021 17:30:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  LME期铜收涨37美元，报10258美元/吨。 LME期铝收涨2美元，报2483美元/吨。 LME期锌收跌1美元，报3060美元/吨。 LME期铅收跌9美元，报2194美元/吨。 LME期镍收涨215美元，报18113美元/吨。 LME期锡收涨830美元，报30740美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8134909.d.html</link>
-            <guid>2191832</guid>
-            <pubDate>Fri, 28 May 2021 17:25:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储在固定利率逆回购操作中接纳了4795亿美元，昨日为4853亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5271696.d.html</link>
-            <guid>2191830</guid>
-            <pubDate>Fri, 28 May 2021 17:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国新增11268例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmxzfmm5271418.d.html</link>
-            <guid>2191828</guid>
-            <pubDate>Fri, 28 May 2021 17:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：瑞士信贷的对冲基金RenTech拒绝部分客户提款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8134138.d.html</link>
-            <guid>2191827</guid>
-            <pubDate>Fri, 28 May 2021 17:11:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：凯雷集团（Carlyle Group）据悉开始筹备Nouryon的IPO，估值为30亿美元。（Nouryon前身为阿克苏诺贝尔专业化学品业务部，被凯雷集团收购）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8133660.d.html</link>
-            <guid>2191825</guid>
-            <pubDate>Fri, 28 May 2021 17:04:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至5月28日当周石油钻井总数录得359口，实现连续五周上升，创去年4月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-29/detail-ikmyaawc8133459.d.html</link>
-            <guid>2191824</guid>
-            <pubDate>Fri, 28 May 2021 17:01:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
