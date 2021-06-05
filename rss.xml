@@ -4,11 +4,61 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 05 Jun 2021 19:08:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Jun 2021 20:39:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国疾控中心：截至6月5日，美国新冠肺炎确诊病例累计达33166506例，死亡病例累计达593961例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi7945098.d.html</link>
+            <guid>2199373</guid>
+            <pubDate>Sat, 05 Jun 2021 20:33:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国总统马克龙重申完全支持伊拉克总理卡迪米。]]></title>
+            <guid>2199372</guid>
+            <pubDate>Sat, 05 Jun 2021 20:10:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：收购协议可能在本周末敲定，梅得朗（Medline）收购案有望成为金融危机以来规模最大的收购案之一。]]></title>
+            <guid>2199371</guid>
+            <pubDate>Sat, 05 Jun 2021 20:10:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其新增6126例新冠肺炎确诊病例，累计确诊5282594例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi7943993.d.html</link>
+            <guid>2199370</guid>
+            <pubDate>Sat, 05 Jun 2021 20:02:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国医疗用品公司梅得朗（Medline）已签署最终协议，将接受黑石集团、凯雷投资集团、私募股权公司Hellman & Friedman的投资。交易完成后，梅得朗仍将是私人控股的家族主导公司，米尔斯家族仍将是最大的单一股东。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi7943656.d.html</link>
+            <guid>2199369</guid>
+            <pubDate>Sat, 05 Jun 2021 19:50:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务院：美国特别代表扎勒迈·哈利勒扎德将前往卡塔尔和阿富汗讨论阿富汗和平进程。]]></title>
+            <guid>2199368</guid>
+            <pubDate>Sat, 05 Jun 2021 19:45:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：包括黑石集团的企业集团接近达成协议，计划以超300亿美元收购美国大型医疗用品公司梅得朗 （Medline）。]]></title>
+            <guid>2199367</guid>
+            <pubDate>Sat, 05 Jun 2021 19:35:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：也门马里卜市加油站附近发生爆炸，造成至少12人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi7942876.d.html</link>
+            <guid>2199366</guid>
+            <pubDate>Sat, 05 Jun 2021 19:26:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[缅甸国防军与反对派支持者发生冲突，至少3人死亡。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqcfnaz9342219.d.html</link>
+            <guid>2199365</guid>
+            <pubDate>Sat, 05 Jun 2021 19:17:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国国务院：美国特别代表扎勒迈·哈利勒扎德将前往卡塔尔和阿富汗讨论阿富汗和平进程。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi7941987.d.html</link>
@@ -471,47 +521,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7909458.d.html</link>
             <guid>2199268</guid>
             <pubDate>Sat, 05 Jun 2021 11:52:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱尔兰财长：注意到七国集团财长在全球企业税收问题上的共同立场。达成一项可持续、雄心勃勃和公平的协议符合每个人的利益。经合组织的谈判桌上有139个国家，任何协议都必须满足大小国家的需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqciyzi7908923.d.html</link>
-            <guid>2199265</guid>
-            <pubDate>Sat, 05 Jun 2021 11:47:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【奥妥珠单抗获国家药监局正式批准】日前，中国国家药品监督管理局网站显示：首个经糖基化工程结构改造的人源化II型抗CD20单抗佳罗华®（奥妥珠单抗）获得中国国家药品监督管理局正式批准。“一线治疗是制定整体治疗策略及提高患者整体生存获益的重要基础。”哈尔滨血液病肿瘤研究所所长、教授马军说，“目前，奥妥珠单抗已被纳入包括CSCO和NCCN指南在内全球多个权威指南的一线推荐。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9308331.d.html</link>
-            <guid>2199263</guid>
-            <pubDate>Sat, 05 Jun 2021 11:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国财政部长：G7国家接近达成对科技巨头征税的历史性协议】德国财政部长舒尔茨在参加完G7国家财长会议后表示，G7国家正接近达成对科技巨头征税的历史性协议，对于这些科技公司的税收改革与先前提出的引入最低企业税率征收的计划一起将“改变世界”，给各国增加数十亿英镑的财政收入，否则这些资金将被转移到那些低税收国家。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9307591.d.html</link>
-            <guid>2199261</guid>
-            <pubDate>Sat, 05 Jun 2021 11:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国财长肖尔茨：七国集团的历史性税收决定意味着企业将不再能够通过在低税收国家登记利润来逃税。下一步将是在未来几周内与G20、经合组织成员国达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9307251.d.html</link>
-            <guid>2199260</guid>
-            <pubDate>Sat, 05 Jun 2021 11:31:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[多名日本政府消息人士透露，关于韩国总统文在寅将作为嘉宾出席的七国集团（G7）峰会，日本政府基本决定不事先安排举行日韩首脑会谈。（日本共同网）]]></title>
-            <guid>2199257</guid>
-            <pubDate>Sat, 05 Jun 2021 11:27:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国财长勒梅尔：将在未来几个月努力使企业最业税率“尽可能高”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9306562.d.html</link>
-            <guid>2199256</guid>
-            <pubDate>Sat, 05 Jun 2021 11:24:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：全球最低税收协议将结束逐底竞争。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-05/detail-ikqcfnaz9306454.d.html</link>
-            <guid>2199255</guid>
-            <pubDate>Sat, 05 Jun 2021 11:23:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
