@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 06 Jun 2021 11:51:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Jun 2021 13:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[卡塔尔6月6日报告新增3例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi8072425.d.html</link>
+            <guid>2199649</guid>
+            <pubDate>Sun, 06 Jun 2021 13:07:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[卡塔尔6月6日报告新增172例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi8072416.d.html</link>
+            <guid>2199648</guid>
+            <pubDate>Sun, 06 Jun 2021 13:07:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东京奥运会“城市志愿者”约有3500人退出】据日本放送协会（NHK）6日报道，截至6月1日，为东京奥运会提供赛场引导和赛事运营服务的约8万名志愿者中，已有约1万人申请退出。此外，经采访获悉，提供交通和旅游服务的城市志愿者陆续有人请辞，至少已有约3500人申请退出。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi8071464.d.html</link>
+            <guid>2199647</guid>
+            <pubDate>Sun, 06 Jun 2021 12:59:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广州交通发布关于广州第17号通告市民普遍关注问题的权威解读：在6月7日12时前离穗出省的，按照14号通告要求，需凭绿码和持有72小时内核酸检测阴性报告。6月7日12时起，按照17号通告新要求，离穗出省的，均需48小时核酸检测阴性报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqcfnaz9468279.d.html</link>
+            <guid>2199640</guid>
+            <pubDate>Sun, 06 Jun 2021 12:30:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“高考房”预订猛增242%】来自旅行平台的数据显示，6月7日至6月9日当周成都、重庆、北京、上海等各地考点，周边酒店的预订量较高，考前一周增长了242%。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqcfnaz9468187.d.html</link>
+            <guid>2199639</guid>
+            <pubDate>Sun, 06 Jun 2021 12:29:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【煤与瓦斯突出事故多发 安监生产设备投入或加大】本周后期河南、黑龙江先后发生煤与瓦斯突出事故，引发社会关注。我国的煤炭工业仍长期停留在有人机械化开采水平，仍有大量人员从事井下作业，生产效率较低，安全隐患多，历年来矿难事故频发，人员伤亡和经济损失较为严重，煤矿安全已成为我国经济发展中的热点和难点问题之一。上半年，煤与瓦斯突出事故多发，瓦斯抽采系统、矿井监测监控、通信联络等安全避险系统设施投入有望加大，可关注精准信息、光力科技等。（中证资讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqcfnaz9468060.d.html</link>
+            <guid>2199638</guid>
+            <pubDate>Sun, 06 Jun 2021 12:27:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国文化产业2020年营收降19%，损失约224亿欧元】德国媒体当地时间6月6日援引德国议院科学服务部发布的最新数据显示，2020年，德国文化产业的营收大幅下降了19%，创意产业的营收也下降了6%。德国议院科学服务部指出，电影业、演艺和艺术市场等子行业受到的打击最为严重。总体而言，文创产业的损失约为224亿欧元，个别子行业的销售额甚至下降到了2003年前的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqcfnaz9466089.d.html</link>
+            <guid>2199636</guid>
+            <pubDate>Sun, 06 Jun 2021 12:07:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏伊士运河管理局驳斥英国保赔协会相关指控】据埃及金字塔在线网站报道，当地时间6月5日，苏伊士运河管理局发表声明驳斥了负责“长赐”号货轮保赔保险的英国保赔协会的相关指控。运河管理局表示，根据苏伊士运河的航行规定，船只在苏伊士运河的行驶速度限定为每小时14至16公里，船只超速行驶的唯一责任在船长。运河管理局并且强调，根据规定，运河管理局应为17吨及以上吨位的集装箱货轮分配两艘护航拖船。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqcfnaz9465783.d.html</link>
+            <guid>2199635</guid>
+            <pubDate>Sun, 06 Jun 2021 12:04:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西消费者告赢苹果公司，苹果因不配充电器在巴西被罚】日前，巴西一位消费者起诉了苹果公司，起诉理由是苹果没有为iPhone12系列手机配备原装充电器。近期，巴西当地法院对此做出判决，要求苹果在10天内，将一个免费的充电器送到原告手上，否则，苹果将需要支付每天200巴西雷亚尔，约合人民币242元的罚款。最高处罚额为5000雷亚尔，约6000人民币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi8065453.d.html</link>
+            <guid>2199633</guid>
+            <pubDate>Sun, 06 Jun 2021 11:57:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【迪瑞医疗：深度布局“她健康”领域，扩大体外诊断业务竞争优势】迪瑞医疗相关负责人6月6日表示，当前，女性健康越来越受到重视，在政策和市场等因素综合作用下，“她健康”领域需求不断增长。公司将充分利用自身和华润资本在大健康领域的资源，深度布局“她健康”领域，培育更多盈利点，不断扩大公司在体外诊断业务领域的竞争优势。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqcfnaz9464900.d.html</link>
+            <guid>2199631</guid>
+            <pubDate>Sun, 06 Jun 2021 11:54:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【香港新增1例新冠肺炎本地确诊病例】香港特区政府卫生署卫生防护中心6日公布，截至当日零时，香港新增7例新冠肺炎确诊病例，当中6例为输入性病例，1例为本地关联病例。香港累计报告新冠肺炎确诊病例11858例。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi8064863.d.html</link>
@@ -437,66 +497,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqcfnaz9434944.d.html</link>
             <guid>2199539</guid>
             <pubDate>Sun, 06 Jun 2021 07:27:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【部分零售商超的猪肉价格已在10元/斤】据农业农村部公布的消息，截至6月3日全国农产品市场猪肉批发均价24.06元/公斤，相比1月下旬47.64元/公斤的高点，降幅达到了49.50%。目前，很多终端经销商反映：当下猪肉的批发价可以说已降到了这两年来的新低，基本降到了非洲猪瘟前的价格水平，很多零售商超的猪肉价格已在10元/斤的位置，仅部分品牌猪肉价格稍高一点而已，10元猪肉时代正式开启。（搜猪网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi8034844.d.html</link>
-            <guid>2199538</guid>
-            <pubDate>Sun, 06 Jun 2021 07:25:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳赛格大厦实时监测情况续报：数据正常，未超出相应标准要求】据深圳发布消息，6月6日，专业机构对赛格大厦的房屋沉降、倾斜率、加速度等情况持续进行实时监测。专家组表示，截至当天中午各项监测数据正常，未超出相应标准要求。监测结果显示，房屋本次沉降量在-0.16~0.21mm之间，房屋累积沉降量在-0.55~0.14mm之间，房屋沉降稳定；房屋倾斜率在0.000%~0.040%之间，小于0.2%规范允许值；房屋加速度在0.0000m/s2~0.006979m/s2之间，小于0.25m/s2的规范允许值。目前各项监测、检测和鉴定工作仍在加快推进当中，相关情况将及时通报。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi8034110.d.html</link>
-            <guid>2199537</guid>
-            <pubDate>Sun, 06 Jun 2021 07:19:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据路透统计：周六美国新冠肺炎死亡病例至少增加384例，累计597310例，前一天为596926例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqcfnaz9433873.d.html</link>
-            <guid>2199536</guid>
-            <pubDate>Sun, 06 Jun 2021 07:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据路透统计：周六美国新冠肺炎确诊病例至少增加11116例，累计3352万例，前一天为3351万例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqcfnaz9433860.d.html</link>
-            <guid>2199535</guid>
-            <pubDate>Sun, 06 Jun 2021 07:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【6G网络将于2030年商用，实现空天地一体化无缝覆盖】6月6日，IMT-2030(6G)推进组正式发布《6G总体愿景与潜在关键技术》白皮书。预计2025年后，3GPP国际标准组织将启动 6G国际技术标准研制；2030年，6G将商用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqcfnaz9431177.d.html</link>
-            <guid>2199532</guid>
-            <pubDate>Sun, 06 Jun 2021 06:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【开放原子开源基金会：所有企业、机构与个人均可基于OpenHarmony开源代码开发产品】开放原子开源基金会昨日在其官方微信公众号发文称，开放原子开源基金会于2020年9月接受华为捐赠的智能终端操作系统基础能力相关代码，随后进行开源，并根据命名规则为该开源项目命名为OpenAtom OpenHarmony（简称“OpenHarmony”）。OpenHarmony开源项目主要遵循Apache 2.0等商业友好的开源协议，所有企业、机构与个人均可基于OpenHarmony开源代码，结合自身优势，去做各领域的操作系统发行版及终端产品。通俗地说，开源项目OpenHarmony是每个人的OpenHarmony。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi8031307.d.html</link>
-            <guid>2199530</guid>
-            <pubDate>Sun, 06 Jun 2021 06:56:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[外交部发言人汪文斌宣布：6月7日至8日，纪念中国—东盟建立对话关系30周年特别外长会和澜沧江—湄公河合作第六次外长会将在重庆举行。国务委员兼外长王毅将出席并与东盟方共同主持会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqcfnaz9428236.d.html</link>
-            <guid>2199525</guid>
-            <pubDate>Sun, 06 Jun 2021 06:34:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家卫健委：我国儿童青少年近视总体发生率53.6%】国家卫生健康委发布数据显示，我国儿童青少年近视总体发生率为53.6%，高中生为81%，大学生总体发生率为90%。近视已经成为国民健康重要问题。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqcfnaz9427385.d.html</link>
-            <guid>2199523</guid>
-            <pubDate>Sun, 06 Jun 2021 06:28:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【极端天气致斯里兰卡14人死亡 24万余人生活受影响】当地时间6月6日，斯里兰卡灾害管理中心（The Disaster Management Centre）表示，近日，斯里兰卡遭遇狂风暴雨等极端天气，已导致至少14人死亡，2人失踪，2人受伤；另有24万余人生活受到影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi8025759.d.html</link>
-            <guid>2199522</guid>
-            <pubDate>Sun, 06 Jun 2021 06:17:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【气温直击39℃ 河北发布高温橙色预警】今天（6月6日）11时5分，河北省气象台继续发布高温橙色预警信号，预计今天下午，石家庄南部、衡水中南部、邢台、邯郸最高气温可达35℃～37℃，其中邢台、邯郸大部分地区可达37℃～39℃。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi8025379.d.html</link>
-            <guid>2199521</guid>
-            <pubDate>Sun, 06 Jun 2021 06:14:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
