@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 06 Jun 2021 19:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Jun 2021 20:41:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【5月房地产市场阶段性回调】5月楼市供应低迷下总成交微降，城市冷热不均。6日，亿翰智库发布5月地产月报显示，具体来看，监测的40城数据显示，5月商品住宅成交面积2446.16万平方米，同比增长20.9%，环比下降5.2%。克而瑞研究中心报告也显示，5月，一线城市成交环比皆降，北京、广州同比涨幅明显收窄，上海、深圳同比更是步入下降通道。二三线城市分化加剧，重庆、杭州成交创年内新高，昆明、南宁、郑州等同比跌幅在40%附近。有关人士表示，一线城市成交热度转弱，增长乏力，一方面源于前期热度过高透支了部分购房需求；另一方面随着调控持续加码，信贷收紧，利率上浮，投机性需求被遏制，整体市场也渐趋理性。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-07/detail-ikqcfnaz9499464.d.html</link>
+            <guid>2199720</guid>
+            <pubDate>Sun, 06 Jun 2021 20:29:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其新增5386例新冠肺炎确诊病例，累计确诊5287980例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-07/detail-ikqcfnaz9499265.d.html</link>
+            <guid>2199718</guid>
+            <pubDate>Sun, 06 Jun 2021 20:25:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉CEO埃隆·马斯克：本周将再更新“纯视觉（pure vision）”的生产版本，全自动驾驶（FSD）Beta 9版本将在一到两周内发布，FSD 9.0版本也是纯视觉的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-07/detail-ikqciyzi8098790.d.html</link>
+            <guid>2199717</guid>
+            <pubDate>Sun, 06 Jun 2021 20:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：截至6月6日，美国新冠肺炎确诊病例累计达33178017例，死亡病例累计达594381例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-07/detail-ikqciyzi8098003.d.html</link>
+            <guid>2199716</guid>
+            <pubDate>Sun, 06 Jun 2021 19:53:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿富汗安全部队击毙167名塔利班成员】当地时间6日，阿富汗国防部发布声明表示，过去24小时，阿安全部队与塔利班在巴尔赫、拉格曼等十余省份发生冲突，共击毙167名、击伤59名塔利班成员。此外安全部队销毁了塔利班的大量武器弹药和不同类型的地雷炸弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-07/detail-ikqciyzi8097487.d.html</link>
+            <guid>2199715</guid>
+            <pubDate>Sun, 06 Jun 2021 19:42:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其新增5386例新冠肺炎确诊病例 累计确诊5287980例】当地时间6月6日晚，土耳其卫生部网站更新的数据显示，土耳其当日新增5386例新冠肺炎确诊病例，累计确诊5287980例；新增死亡病例96例，累计死亡48164例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-07/detail-ikqciyzi8096192.d.html</link>
+            <guid>2199713</guid>
+            <pubDate>Sun, 06 Jun 2021 19:12:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国副总统哈里斯的专机在起飞前往危地马拉后不久返回机场，其发言人称飞机并无重大安全担忧。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-07/detail-ikqcfnaz9495518.d.html</link>
@@ -429,42 +465,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqcfnaz9455466.d.html</link>
             <guid>2199608</guid>
             <pubDate>Sun, 06 Jun 2021 10:18:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟驻英国大使：希望七国集团会议有助于改善脱欧谈判有关爱尔兰问题的氛围。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi8055766.d.html</link>
-            <guid>2199607</guid>
-            <pubDate>Sun, 06 Jun 2021 10:18:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟驻英国大使：迫切需要重建最低水平的信任，相信能够达到这一目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi8055520.d.html</link>
-            <guid>2199604</guid>
-            <pubDate>Sun, 06 Jun 2021 10:16:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟驻英国大使：我们对接受与过去承诺不一致的行为的能力是有限的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqcfnaz9455168.d.html</link>
-            <guid>2199603</guid>
-            <pubDate>Sun, 06 Jun 2021 10:16:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟驻英国大使：需要在爱尔兰问题的谈判中发挥建设性作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi8055507.d.html</link>
-            <guid>2199602</guid>
-            <pubDate>Sun, 06 Jun 2021 10:16:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟驻英国大使：除了爱尔兰协议之外别无选择，我们应该尊重承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqciyzi8055387.d.html</link>
-            <guid>2199601</guid>
-            <pubDate>Sun, 06 Jun 2021 10:15:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗报告新增122例新冠肺炎死亡病例，日前为128例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-06/detail-ikqcfnaz9454812.d.html</link>
-            <guid>2199600</guid>
-            <pubDate>Sun, 06 Jun 2021 10:12:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
