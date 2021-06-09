@@ -4,11 +4,101 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 09 Jun 2021 03:50:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Jun 2021 04:50:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【香港特区政府：现行社交距离措施延长至6月23日】香港特区政府6月9日表示，将就《预防及控制疾病（规定及指示）（业务及处所）规例》（第599F章）、《预防及控制疾病（禁止群组聚集）规例》（第599G章）及《预防及控制疾病（佩戴口罩）规例》（第599I章）下的指示及指明刊宪，以维持现行的社交距离措施。这些指示及指明由6月10日0时起生效，为期14天，直至6月23日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8623820.d.html</link>
+            <guid>2202316</guid>
+            <pubDate>Wed, 09 Jun 2021 04:49:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【44股获高管增持 恺英网络获增持金额最多】近10个交易日共有44家上市公司股份获高管增持。从增持金额看，近10日获增持金额最多的是恺英网络，累计增持906.79万股，增持金额合计3998.94万元；其次是新大陆，获增持量为39.39万股，增持金额602.43万元。增持次数方面，和佳医疗获增持最频繁，近10日共有12条增持记录，ST安控、渝农商行等紧随其后，近10日各有7条增持记录。紫金银行、欧亚集团、华新水泥等期间也有两条以上的增持记录。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8623752.d.html</link>
+            <guid>2202315</guid>
+            <pubDate>Wed, 09 Jun 2021 04:49:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国将加快政府支出以帮助刺激经济。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0022652.d.html</link>
+            <guid>2202313</guid>
+            <pubDate>Wed, 09 Jun 2021 04:37:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国方面称5月份的就业报告显示劳动力市场正在改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8621573.d.html</link>
+            <guid>2202312</guid>
+            <pubDate>Wed, 09 Jun 2021 04:36:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【陆正耀被强制执行超12亿元】据中国执行信息公开网消息，近日，陆正耀被北京市第一中级人民法院列为被执行人，案号（2021）京01执763号，执行标的1200484220元。据悉，陆正耀为瑞幸咖啡创始人，名下还有神州优车、神州租车等多家公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0022393.d.html</link>
+            <guid>2202311</guid>
+            <pubDate>Wed, 09 Jun 2021 04:36:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【分析师：新西兰可能已避免新西兰联储预计出现的经济衰退】新西兰银行和澳新银行分析师都向上修正了新西兰一季度GDP预期， 新西兰银行表示，GDP可能较此前三个月增长0.8%，澳新银行目前预计增长0.5%。两者之前都预计不会增长。新西兰联储上个月预计第一季度经济收缩0.6%，这将使经济陷入衰退。但过去一周的制造业、批发贸易和建筑业报告描绘了更加强劲的经济图景。此外，新西兰第一季度GDP数据定于6月17日发布。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0022371.d.html</link>
+            <guid>2202310</guid>
+            <pubDate>Wed, 09 Jun 2021 04:36:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国旅游部长：预计2022年将有2000万国外游客入境。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0022307.d.html</link>
+            <guid>2202309</guid>
+            <pubDate>Wed, 09 Jun 2021 04:35:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江西南昌：严格限制关联公司参加同一宗住宅用地竞买】南昌发布《关于进一步加强住宅用地供应调控工作的通知》。通知》在房企拍地方面提出，要严格限制关联公司参加同一宗住宅用地竞买。“限房价、限地价”地块的竞买人应满足土地出让公告中明确的竞买要求,并在报名时书面承诺其关联公司不参加同一宗地竞买。土地一次性报价结束后，将竞买人名单对外公布并接受监督，如有关联公司同时参加一宗地竞买情况被举报或投诉，经南昌市市场监管局查实后,则依法依规严肃处理。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8620345.d.html</link>
+            <guid>2202306</guid>
+            <pubDate>Wed, 09 Jun 2021 04:29:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【上海至合肥将再建一条高铁】沪渝蓉高速铁路工程上海至南京至合肥段环境影响评价正式发布第一次信息公告。该线路起自上海市，向西经江苏省苏州太仓市、南通市、泰州市、扬州市、南京市，安徽省滁州市，终至合肥市。该线路运营长度554.09公里，共设车站16座，速度目标值350千米/小时。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0019013.d.html</link>
+            <guid>2202305</guid>
+            <pubDate>Wed, 09 Jun 2021 04:16:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国飞鹤在港交所公告，拟动用不超过2亿美元资金用于购回股份。公司将从现有可动用现金储备及自由现金流量为购回拨付资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0017923.d.html</link>
+            <guid>2202302</guid>
+            <pubDate>Wed, 09 Jun 2021 04:10:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《2021中国房地产上市公司测评研究报告》正式发布】近日，《2021中国房地产上市公司测评研究报告》正式发布。报告显示，10强上市房企整体没有太大变化。其中，万科继续位列第一，碧桂园排名提升一位，位列第二，恒大、融创、保利、中海分别位列第三、第四、第五、第六，华润置地、龙湖集团排名与上年一致，分别位列第七、第八；招商蛇口排名提升三位，位列第九，首次跻身前十；新城控股位列第十位。（中证网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8616657.d.html</link>
+            <guid>2202301</guid>
+            <pubDate>Wed, 09 Jun 2021 04:08:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【债券通“南向通”官宣在即，中外资机构火热备战】债券通“南向通”或近日宣布启动。相关人士称，第一批名单约几十家合格交易对手，几家国有银行正筹备“点心债”发行事宜，境内外外资行也在筹备交易等业务。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0016616.d.html</link>
+            <guid>2202300</guid>
+            <pubDate>Wed, 09 Jun 2021 04:05:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美团计划在2021年新招6万人】据悉，为了满足业务扩张需求，美团计划在2021年新招6万人。美团即将成为继字节跳动后，又一家员工人数在短期内突增到10万人规模的互联网公司。这6万人主要是物流、地推等基础岗位所需，服务于社区团购业务美团优选和B2B餐饮供应链业务快驴。近几年美团员工数量一直稳定在5万人左右。（晚点 LatePost）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0015385.d.html</link>
+            <guid>2202299</guid>
+            <pubDate>Wed, 09 Jun 2021 03:59:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“快看漫画”获1000亿韩元融资，资方为韩国 SK电信、LG 等财团】 国内最大的漫画平台“快看漫画”将获得由SK电信、Naver、LG等几大韩国财团出资设立的One Store公司投资的1000亿韩元。此前“快看漫画”曾获得腾讯、红杉等投资公司累计25亿元融资。快看上一轮融资估值超过10亿美元。（36氪）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8613310.d.html</link>
+            <guid>2202296</guid>
+            <pubDate>Wed, 09 Jun 2021 03:53:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴基斯坦出口可能同比增长18.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0013574.d.html</link>
+            <guid>2202295</guid>
+            <pubDate>Wed, 09 Jun 2021 03:50:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【腾讯申请Q站商标】近日，腾讯科技（深圳）有限公司申请注册“Q站”商标，国际分类涉及网站服务、教育娱乐、广告销售等，目前商标状态为申请中。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnca0013441.d.html</link>
@@ -409,118 +499,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnaz9985063.d.html</link>
             <guid>2202200</guid>
             <pubDate>Wed, 09 Jun 2021 01:53:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[景点及旅游板块持续拉升，云南旅游涨近6%，桂林旅游、峨眉山A、众信旅游跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnaz9985117.d.html</link>
-            <guid>2202199</guid>
-            <pubDate>Wed, 09 Jun 2021 01:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[半导体板块早盘走强，利扬芯片涨超9%，华润微涨超7%，北京君正涨超6%，澜起科技涨超4%，士兰微涨3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnaz9985112.d.html</link>
-            <guid>2202198</guid>
-            <pubDate>Wed, 09 Jun 2021 01:52:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【需求驱动增强 市场无烟喷吹煤价格将止跌企稳】进入六月后，国内建筑钢价迎来修复性上涨行情，前期被抑制的需求也有一定释放。下游钢铁行业保供力度有增无减，产品产量高位攀升，唐山限产松动预期，对喷吹煤等原材料市场采购需求将不断释放。同时，动力煤价格的止跌反弹，也将对无烟喷吹煤价格形成底部支撑，预计近期市场无烟喷吹煤价格将止跌企稳，不排除中旬再次走强的可能。（中国煤炭运销协会）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8584590.d.html</link>
-            <guid>2202197</guid>
-            <pubDate>Wed, 09 Jun 2021 01:51:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【宏盛科技：不会主动参与低价抢占市场】宏盛科技在互动平台表示，公司新能源环卫装备目前的占有率比较高，在销售业务中不仅关注市场占有率，同时也非常注重订单的盈利情况，不会主动参与低价抢占市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnaz9985092.d.html</link>
-            <guid>2202196</guid>
-            <pubDate>Wed, 09 Jun 2021 01:49:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工信部电子司：全球半导体产业进入重大调整期】在6月9日2021年世界半导体大会开幕式上，工信部电子信息司司长乔跃山致辞介绍，当前，全球半导体产业进入重大的调整期，集成电路产业的风险与机遇并存。他指出，在经济全球化的时代，开放融通是不可阻挡的历史趋势。目前，中国是全球主要的电子信息制造业的生产基地，也是全球规模最大、增速最快的集成电路市场。2020年，我国集成电路产业规模达到8848亿元，“十三五”期间年均增速近20%，为全球同期增速的4倍。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8581346.d.html</link>
-            <guid>2202195</guid>
-            <pubDate>Wed, 09 Jun 2021 01:48:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒生科技指数转涨，瑞声科技涨超4%，京东健康涨3.23%，哔哩哔哩涨3.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnaz9985128.d.html</link>
-            <guid>2202194</guid>
-            <pubDate>Wed, 09 Jun 2021 01:47:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[医美概念短线拉升，华神科技涨停，朗姿股份涨近6%，哈三联、国际医学、华邦健康跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnaz9981783.d.html</link>
-            <guid>2202193</guid>
-            <pubDate>Wed, 09 Jun 2021 01:47:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股物管板块走高，碧桂园服务涨近5%，雅生活服务涨超3%，华润万象生活涨超1%，恒大物业、绿城服务跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8580952.d.html</link>
-            <guid>2202192</guid>
-            <pubDate>Wed, 09 Jun 2021 01:46:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股周大福涨1.33%，股价一度刷新历史新高，2021财年营业额同比增长23.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8584580.d.html</link>
-            <guid>2202191</guid>
-            <pubDate>Wed, 09 Jun 2021 01:46:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北向资金净流入达20亿元。]]></title>
-            <guid>2202190</guid>
-            <pubDate>Wed, 09 Jun 2021 01:45:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股恒指翻红，石油、物管板块走高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8584626.d.html</link>
-            <guid>2202189</guid>
-            <pubDate>Wed, 09 Jun 2021 01:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[第三代半导体板块拉升走高，华润微涨超5%，安泰科技、清溢光电、士兰微跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnaz9985043.d.html</link>
-            <guid>2202188</guid>
-            <pubDate>Wed, 09 Jun 2021 01:44:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  财政部1个月期国库现金定存中标利率3.35%，上次3.10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8580310.d.html</link>
-            <guid>2202187</guid>
-            <pubDate>Wed, 09 Jun 2021 01:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[啤酒概念下挫走弱，惠泉啤酒跌超7%，兰州黄河、珠江啤酒、燕京啤酒跟跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8584553.d.html</link>
-            <guid>2202185</guid>
-            <pubDate>Wed, 09 Jun 2021 01:43:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股特斯拉概念股走强，耐世特涨4.5%，赣锋锂业涨1.7%，力劲科技涨1.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8584620.d.html</link>
-            <guid>2202184</guid>
-            <pubDate>Wed, 09 Jun 2021 01:43:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[钛白粉板块异动拉升，鲁北化工一度触板，金浦钛业、安宁股份、惠云钛业、攀钢钒钛等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8579792.d.html</link>
-            <guid>2202182</guid>
-            <pubDate>Wed, 09 Jun 2021 01:42:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特阿美启动首次美元计价伊斯兰债券的发行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqcfnaz9980366.d.html</link>
-            <guid>2202181</guid>
-            <pubDate>Wed, 09 Jun 2021 01:42:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  半导体芯片股早盘冲高，柘中股份继续一字板，北京君正、立昂微、华润微、澜起科技、捷捷微电等走高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-09/detail-ikqciyzi8584563.d.html</link>
-            <guid>2202180</guid>
-            <pubDate>Wed, 09 Jun 2021 01:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【发改委召开视频会议全面部署重要民生商品保供稳价工作】会议要求，重点应对价格异常波动，加强源头治理，严格落实责任制，建立健全价格监测预测预警体系、价格稳定长效机制、防范价格异常波动调控机制、突发应急调控机制、应对物价上涨的民生保障机制、市场价格监管机制等制度体系。]]></title>
-            <guid>2202178</guid>
-            <pubDate>Wed, 09 Jun 2021 01:36:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
