@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 11 Jun 2021 18:30:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jun 2021 19:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  电子艺界(EA.O)：正在调查最近发生的网络入侵事件。 “数量有限”的游戏源代码和工具被盗。 黑客事件中没有玩家数据被访问。 没有理由认为玩家隐私存在风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0567225.d.html</link>
+            <guid>2205485</guid>
+            <pubDate>Fri, 11 Jun 2021 19:15:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国证交会主席根斯勒：已要求工作人员研究货币市场基金的潜在结构性问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9167615.d.html</link>
+            <guid>2205484</guid>
+            <pubDate>Fri, 11 Jun 2021 19:14:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  恒指期货夜盘收跌0.31%，报28717点，低水125点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0566567.d.html</link>
+            <guid>2205482</guid>
+            <pubDate>Fri, 11 Jun 2021 19:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部宣布向乌克兰提供1.5亿美元的新军事援助。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9166847.d.html</link>
+            <guid>2205481</guid>
+            <pubDate>Fri, 11 Jun 2021 18:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：Shopify(SHOP.N)购买增强现实设计应用Primer。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9166397.d.html</link>
+            <guid>2205480</guid>
+            <pubDate>Fri, 11 Jun 2021 18:47:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WTI 7月原油期货收涨0.62美元，涨幅0.88%，报70.91美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0565818.d.html</link>
+            <guid>2205479</guid>
+            <pubDate>Fri, 11 Jun 2021 18:42:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国首席医疗官顾问们建议推迟重新开放，首相约翰逊料将推迟一个月再解封英国。（英国金融时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9165975.d.html</link>
+            <guid>2205478</guid>
+            <pubDate>Fri, 11 Jun 2021 18:37:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：法案计划将禁止主流平台的自我偏好。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0565402.d.html</link>
+            <guid>2205477</guid>
+            <pubDate>Fri, 11 Jun 2021 18:33:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：美国民主党公布针对“大型科技垄断”的法案。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9165435.d.html</link>
@@ -466,48 +514,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi9147633.d.html</link>
             <guid>2205384</guid>
             <pubDate>Fri, 11 Jun 2021 14:35:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约联储购买了14.01亿美元的国库券。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0547219.d.html</link>
-            <guid>2205383</guid>
-            <pubDate>Fri, 11 Jun 2021 14:35:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元EUR/USD日内走低0.50%，现报1.2106。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0547127.d.html</link>
-            <guid>2205382</guid>
-            <pubDate>Fri, 11 Jun 2021 14:33:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[天津市网信办、市住建委召开房地产网站平台及自媒体专项治理座谈会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi9147449.d.html</link>
-            <guid>2205381</guid>
-            <pubDate>Fri, 11 Jun 2021 14:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国国务卿布林肯和保加利亚总统讨论了能源多样化议题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0547085.d.html</link>
-            <guid>2205380</guid>
-            <pubDate>Fri, 11 Jun 2021 14:33:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY日内涨幅扩大至0.5%，报90.52。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0547050.d.html</link>
-            <guid>2205379</guid>
-            <pubDate>Fri, 11 Jun 2021 14:32:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  ICE美元指数上涨0.5%，报90.5202。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi9147291.d.html</link>
-            <guid>2205378</guid>
-            <pubDate>Fri, 11 Jun 2021 14:32:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：日本和美国开始建立清洁能源伙伴关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0546694.d.html</link>
-            <guid>2205375</guid>
-            <pubDate>Fri, 11 Jun 2021 14:28:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
