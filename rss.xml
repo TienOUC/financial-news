@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 12 Jun 2021 21:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jun 2021 22:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【污染带暂时远离科西嘉岛 法国海事部门仍保持警惕】当地时间12日晚，法国地中海海事部门发布公告称，经过当天的海上清污作业，此前在科西嘉岛东部海域发现的两条碳氢化合物污染带已被分割成块，并且逐渐远离海岸线。但鉴于洋流变化等因素，相关部门仍对污染物的位置保持警惕。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9334987.d.html</link>
+            <guid>2205860</guid>
+            <pubDate>Sat, 12 Jun 2021 22:18:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲杯：俄罗斯主场负于比利时】北京时间6月13日3时，2021欧洲杯B组第二场比赛，俄罗斯在圣彼得堡体育场对阵比利时队。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9334466.d.html</link>
+            <guid>2205859</guid>
+            <pubDate>Sat, 12 Jun 2021 22:08:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊朗举行第三场总统大选辩论多名候选人就伊核协议等问题发表看法。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9334007.d.html</link>
+            <guid>2205857</guid>
+            <pubDate>Sat, 12 Jun 2021 21:58:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【达美航空一架飞机因乘客违章行为中途改道】福克斯新闻网当地时间6月12日报道，达美航空11日一架从洛杉矶飞往亚特兰大的航班发生了乘客违章行为。根据目击者的说法，一名不守规章的乘机者试图在半空中打开飞机舱门，导致飞机中途改道飞往了俄克拉荷马城。幸而在机上其他乘客的帮助下，机组人员制止了引起骚乱的乘机者，并在飞机安全着陆后将其交给了执法人员。(央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0733656.d.html</link>
+            <guid>2205854</guid>
+            <pubDate>Sat, 12 Jun 2021 21:42:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：06月13日05时11分在新疆博尔塔拉州温泉县（北纬44.85度，东经80.81度）发生3.3级地震，震源深度18千米。]]></title>
+            <guid>2205853</guid>
+            <pubDate>Sat, 12 Jun 2021 21:29:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国新冠肺炎确诊病例超过3345万例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9332571.d.html</link>
@@ -476,18 +505,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9290884.d.html</link>
             <guid>2205752</guid>
             <pubDate>Sat, 12 Jun 2021 11:15:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【非洲地区新冠肺炎确诊病例超500万例】截至非洲东部时间6月12日，非洲疾病控制与预防中心的数据显示，非洲地区的新冠肺炎确诊病例数达到5011502例，死亡病例数为134239例。南非、摩洛哥、突尼斯、埃塞俄比亚和埃及是非洲地区确诊病例最多的国家。近期，非洲地区新冠肺炎确诊病例数不断攀升，在5月30日至6月6日的一周内增长了近20%，达到8.8万多例。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0690396.d.html</link>
-            <guid>2205750</guid>
-            <pubDate>Sat, 12 Jun 2021 11:08:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫官员：总统拜登与普京将举行小型的工作会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0689414.d.html</link>
-            <guid>2205745</guid>
-            <pubDate>Sat, 12 Jun 2021 10:58:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
