@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 12 Jun 2021 17:34:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jun 2021 18:32:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[拜登政府高级官员：G7领导人同意有必要协调供应链韧性，确保相互支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9325751.d.html</link>
+            <guid>2205835</guid>
+            <pubDate>Sat, 12 Jun 2021 18:20:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利6月12日新冠肺炎确诊病例新增1723例，累计超424万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9325340.d.html</link>
+            <guid>2205834</guid>
+            <pubDate>Sat, 12 Jun 2021 18:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非新增新冠肺炎确诊病例8021例，累计确诊1730106例。]]></title>
+            <guid>2205833</guid>
+            <pubDate>Sat, 12 Jun 2021 18:02:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  南非新增新冠肺炎确诊病例8021例，累计确诊1730106例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9324400.d.html</link>
+            <guid>2205832</guid>
+            <pubDate>Sat, 12 Jun 2021 17:57:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国卫生部：法国新增3972例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9323953.d.html</link>
+            <guid>2205831</guid>
+            <pubDate>Sat, 12 Jun 2021 17:50:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[伊拉克油长：虽然埃克森美孚退出了West Qurna 1油田项目，但相信该公司会维持在其他项目的投资。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9322762.d.html</link>
@@ -438,35 +467,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0684258.d.html</link>
             <guid>2205727</guid>
             <pubDate>Sat, 12 Jun 2021 10:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：英国和德国在加强贸易、安全以及两国人民联系方面的双边合作的重要性上达成了一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0684164.d.html</link>
-            <guid>2205726</guid>
-            <pubDate>Sat, 12 Jun 2021 10:06:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网自动测定：06月12日18时00分在云南德宏州盈江县附近（北纬24.89度，东经98.02度）发生5.3级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>2205724</guid>
-            <pubDate>Sat, 12 Jun 2021 10:05:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度财政部官员：印度政府将对一些与治疗新冠肺炎相关的医疗设备减税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0683886.d.html</link>
-            <guid>2205723</guid>
-            <pubDate>Sat, 12 Jun 2021 10:04:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊发言人Blain：英国方面希望针对北爱尔兰议定书提出及时、创新的解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0683479.d.html</link>
-            <guid>2205722</guid>
-            <pubDate>Sat, 12 Jun 2021 10:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊发言人Blain：英国首相约翰逊与欧盟领导人就北爱尔兰议定书进行了讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0683032.d.html</link>
-            <guid>2205721</guid>
-            <pubDate>Sat, 12 Jun 2021 09:58:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
