@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 12 Jun 2021 16:39:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jun 2021 17:34:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[伊拉克油长：虽然埃克森美孚退出了West Qurna 1油田项目，但相信该公司会维持在其他项目的投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9322762.d.html</link>
+            <guid>2205830</guid>
+            <pubDate>Sat, 12 Jun 2021 17:31:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克油长：如果欧佩克遵守当前的产量协议，预测第二季度油价将在68-75美元/桶区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0722200.d.html</link>
+            <guid>2205829</guid>
+            <pubDate>Sat, 12 Jun 2021 17:19:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国卫生部：法国新增34例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0720747.d.html</link>
+            <guid>2205827</guid>
+            <pubDate>Sat, 12 Jun 2021 16:58:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩洛哥新增455例新冠肺炎确诊病例，累计确诊523620例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0719786.d.html</link>
+            <guid>2205826</guid>
+            <pubDate>Sat, 12 Jun 2021 16:47:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄首都市长要求市民居家一周】俄罗斯首都莫斯科市市长谢尔盖·索比亚宁要求市民下周居家一周以遏制新冠病毒的传播，为此宣布下周为“非工作”周。索比亚宁说，“过去一周，新冠病毒传播的情况急剧恶化，新增病例数跃升至去年的峰值水平。为降低传染率，我签署了一项法令，规定2021年6月15日至19日为非工作日。”]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0718229.d.html</link>
@@ -443,36 +467,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0683032.d.html</link>
             <guid>2205721</guid>
             <pubDate>Sat, 12 Jun 2021 09:58:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖北：深度放开放宽城市落户限制 取消除武汉市外全省其他地区落户限制】湖北省发改委透露，经省政府同意，省发改委近日印发《2021年全省新型城镇化和城乡融合发展工作要点》（以下简称《工作要点》）。其中明确：深度放开放宽城市落户限制。取消除武汉市外全省其他地区落户限制，进一步降低武汉市落户门槛，实行省内户口迁移一地办结机制。（湖北日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0683007.d.html</link>
-            <guid>2205720</guid>
-            <pubDate>Sat, 12 Jun 2021 09:58:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊发言人Blain：法国总统马克龙没有将法国与英国之间更深层次的关系和脱欧联系起来。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0682994.d.html</link>
-            <guid>2205719</guid>
-            <pubDate>Sat, 12 Jun 2021 09:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊在七国峰会上与法国总统马克龙、德国总理默克尔、欧洲理事会主席米歇尔和欧盟委员会主席冯德莱恩会面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0682864.d.html</link>
-            <guid>2205718</guid>
-            <pubDate>Sat, 12 Jun 2021 09:56:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京东618期间将累计发放百亿消费券】京东方面消息，截至目前，今年京东618期间，京东已向全国14个地区的消费者发放了消费券，且还有更多地区的消费者即将享受到消费券的福利。而在整个京东618期间，预计将有100亿规模的消费券通过京东发放。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9282223.d.html</link>
-            <guid>2205717</guid>
-            <pubDate>Sat, 12 Jun 2021 09:54:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴基斯坦财政部长：巴基斯坦和沙特方面同意延长延期的石油贷款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0681907.d.html</link>
-            <guid>2205716</guid>
-            <pubDate>Sat, 12 Jun 2021 09:47:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
