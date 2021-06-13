@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 13 Jun 2021 21:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jun 2021 22:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WTI原油期货短线走高0.3美元，现报70.95美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9486446.d.html</link>
+            <guid>2207243</guid>
+            <pubDate>Sun, 13 Jun 2021 22:15:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【亚马逊将德国仓库的最低工资提高到每小时12欧元】面对顶级工会的长期斗争，亚马逊周五表示，将保证其德国仓库的最低工资为每小时12欧元（合15美元）。]]></title>
+            <guid>2207213</guid>
+            <pubDate>Sun, 13 Jun 2021 22:08:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据CME“美联储观察”：美联储6月维持利率在0%-0.25%区间的概率为96%，加息25个基点至0.25%-0.50%区间的概率为4%；9月维持利率在0%-0.25%区间的概率为96%，加息25个基点的概率为4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9485486.d.html</link>
+            <guid>2207204</guid>
+            <pubDate>Sun, 13 Jun 2021 22:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国新冠肺炎确诊病例超3346万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9485149.d.html</link>
+            <guid>2207203</guid>
+            <pubDate>Sun, 13 Jun 2021 21:52:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲资管巨头安中集团赵柏龄：中国市场未来将跳出亚洲和新兴市场“限制” 被作为独立市场看待】海外资金看重中国市场，也在增配中国市场。安中集团(Azimut Group)中国区总裁赵柏龄(Stefano CHAO)在接受记者专访时表示，从去年开始，许多海外机构和个人投资者都提高了对中国A+H股的配置。安中集团也是投资大中华市场最大的海外资产管理集团之一。（ 证券市场红周刊）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca0884328.d.html</link>
+            <guid>2207059</guid>
+            <pubDate>Sun, 13 Jun 2021 21:23:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[伊拉克新增3952例新冠肺炎确诊病例，累计确诊1254643例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca0883814.d.html</link>
@@ -359,48 +388,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0854849.d.html</link>
             <guid>2206099</guid>
             <pubDate>Sun, 13 Jun 2021 13:24:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[七国集团公报：我们重申支持安全稳妥地举办东京奥运会和残奥会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0854834.d.html</link>
-            <guid>2206098</guid>
-            <pubDate>Sun, 13 Jun 2021 13:24:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英美法三国领导人公开表示支持东京奥运会如期举办】据日本媒体报道，英国、美国和法国三国领导人在七国集团峰会期间，都向日本首相菅义伟表示，支持东京奥运会如期举办。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9454499.d.html</link>
-            <guid>2206097</guid>
-            <pubDate>Sun, 13 Jun 2021 13:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[七国集团公报：我们期待着在7月份的二十国集团财长和央行行长会议上就税收问题达成协议。我们重申到2025年取消低效化石燃料补贴的承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0854520.d.html</link>
-            <guid>2206096</guid>
-            <pubDate>Sun, 13 Jun 2021 13:20:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[七国集团公报：我们将继续就15%的全球最低税率进行讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9454314.d.html</link>
-            <guid>2206095</guid>
-            <pubDate>Sun, 13 Jun 2021 13:19:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[七国集团公报：一旦经济复苏稳固起来，我们需要确保公共财政的长期可持续性。我们承诺迅速扩大技术和政策规模，进一步加速关闭未减量煤炭（unabated coal）产能的过渡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9454150.d.html</link>
-            <guid>2206094</guid>
-            <pubDate>Sun, 13 Jun 2021 13:17:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[七国集团公报：各国领导人同意在改革后的贸易体系中支持更自由、更公平的贸易，并建立更具弹性的全球经济。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0853897.d.html</link>
-            <guid>2206093</guid>
-            <pubDate>Sun, 13 Jun 2021 13:13:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：仍未就解除封锁做出最终决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0853782.d.html</link>
-            <guid>2206092</guid>
-            <pubDate>Sun, 13 Jun 2021 13:11:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
