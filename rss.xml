@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 13 Jun 2021 20:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jun 2021 21:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[伊拉克新增3952例新冠肺炎确诊病例，累计确诊1254643例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca0883814.d.html</link>
+            <guid>2206980</guid>
+            <pubDate>Sun, 13 Jun 2021 21:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非新增7657例新冠肺炎确诊病例，累计确诊1747082例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9482927.d.html</link>
+            <guid>2206890</guid>
+            <pubDate>Sun, 13 Jun 2021 20:55:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储料于2023年加息，杰克逊霍尔会议或发出减码暗示】①根据经济学家预测，在经济增长和通胀加速的背景下，本周美联储在货币政策会议上可能做出2023年上调利率的预期，但在8月或9月前他们不会发出减码购债的暗示；②周三美联储在为期两天的政策会议结束后将发布季度“点阵图”，受访的逾半数经济学家预期18位美联储官员的预期中值为2023年至少加息一次。其他经济学家预测，美联储最早2024年前不会提高接近于零的基准利率，这符合美联储3月份时的预测；③受访者认为美联储并不急于缩减货币刺激措施。约40%的经济学家预计，美联储会到8月末才开始朝着缩减每月1200亿美元购债规模迈出第一步；④如果美联储主席鲍威尔遵循传统并在今年再次发表讲话，那么他可能会在8月26-28日的杰克逊霍尔会议上就减码提前发出信号。24%经济学家预计减码暗示会在此后一个月做出；⑤美联储定于华盛顿时间周三下午2点发布的政策声明中，预计将重申只有在美国经济朝着就业和通胀目标取得“实质性进一步进展”后才会调整债券购买计划。基准利率料维持在0-0.25%区间不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca0883125.d.html</link>
+            <guid>2206866</guid>
+            <pubDate>Sun, 13 Jun 2021 20:52:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世卫组织：全球累计新冠确诊病例达175306598例，累计死亡病例达3792777例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9482123.d.html</link>
+            <guid>2206784</guid>
+            <pubDate>Sun, 13 Jun 2021 20:33:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网正式测定：06月14日04时02分在四川绵阳市北川县发生3.8级地震，震源深度15千米。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9481247.d.html</link>
@@ -377,30 +401,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0853782.d.html</link>
             <guid>2206092</guid>
             <pubDate>Sun, 13 Jun 2021 13:11:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据法新社：以色列议会开始就组建新政府投票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9453318.d.html</link>
-            <guid>2206091</guid>
-            <pubDate>Sun, 13 Jun 2021 13:07:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【前5个月山西外贸进出口同比增长110.3%，增速居全国第一】 13日从太原海关获悉，2021年1月至5月，山西省货物贸易进出口总值904.6亿元，同比增长110.3%，增速居全国第一位。其中出口561.1亿元，同比增长125.8%；进口343.5亿元，同比增长89%。2021年前5个月，富士康和太钢合计占山西省外贸总值的67.1%。富士康(太原)科技工业园是山西省引进的最大外商投资企业和山西转型综改示范区核心企业。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9453142.d.html</link>
-            <guid>2206090</guid>
-            <pubDate>Sun, 13 Jun 2021 13:05:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据天空新闻：英国首相约翰逊将在七国集团峰会后举行新闻发布会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0852561.d.html</link>
-            <guid>2206088</guid>
-            <pubDate>Sun, 13 Jun 2021 12:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构分析：预计美联储将在下周会议上讨论缩减购债规模】美联储将于下周公布利率决议，专家预计美联储将讨论缩减购债规模，不过距离量化宽松措施退场仍有一段距离。美国5月非农业就业人口增加55.9万人，有望让美联储保持在就缩减购债进行非正式内部讨论的轨道。美联储梅斯特认为5月就业报告稳健，但期望看到进一步进展。她近日向媒体透露，6月例会将讨论整体政策立场，包括资产购买计划与利率。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9452390.d.html</link>
-            <guid>2206087</guid>
-            <pubDate>Sun, 13 Jun 2021 12:55:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
