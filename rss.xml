@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 13 Jun 2021 16:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jun 2021 17:34:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[消息人士：荷兰皇家壳牌准备出售在美国二叠纪盆地的资产，这些资产价值或高达100亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9472304.d.html</link>
+            <guid>2206161</guid>
+            <pubDate>Sun, 13 Jun 2021 17:22:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国新增新冠肺炎确诊7490例，累计确诊4565813例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca0871730.d.html</link>
+            <guid>2206160</guid>
+            <pubDate>Sun, 13 Jun 2021 17:11:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据沙特国家电视台：一架装有爆炸物的无人机落入沙特阿西尔省的一所学校内，无人员伤亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca0869883.d.html</link>
+            <guid>2206158</guid>
+            <pubDate>Sun, 13 Jun 2021 16:48:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【若英伟达交易失败 高通有意投资Arm】将于6月30日起接任首席执行官职位的高通总裁克里斯蒂亚诺· 阿蒙表示，如果软银决定让芯片设计公司Arm上市而非将其出售给英伟达，该公司将与行业其他公司一起收购Arm的股份。克里斯蒂亚诺· 阿蒙说，“如果Arm有独立的未来，我认为你会发现，行业生态内的很多公司，包括高通，都有兴趣投资Arm。”高通、谷歌和微软等公司对英伟达收购Arm表示担忧，称这笔交易可能影响到Arm的独立且会损害竞争。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9468592.d.html</link>
@@ -413,30 +431,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9442450.d.html</link>
             <guid>2206053</guid>
             <pubDate>Sun, 13 Jun 2021 11:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗总统候选人司法总监莱西表示其支持核协议，希望继续进行核谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0842308.d.html</link>
-            <guid>2206051</guid>
-            <pubDate>Sun, 13 Jun 2021 10:58:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[七国集团公报：我们致力于使用金融和创新措施来实现气候目标。承诺尽快实现温室气体净零排放，此目标最迟在2050年实现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0842204.d.html</link>
-            <guid>2206050</guid>
-            <pubDate>Sun, 13 Jun 2021 10:56:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[七国集团公报：我们致力于绿色转型以减少排放。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0841981.d.html</link>
-            <guid>2206048</guid>
-            <pubDate>Sun, 13 Jun 2021 10:53:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三星因芯片短缺停产Galaxy S21 FE？公司回应：尚未决定暂停生产】一份报告表明，在全球芯片短缺影响移动技术进展的背景下，三星已经暂停生产Galaxy S21 FE。三星电子公司周日针对报告作出回应时表示，公司尚未决定是否暂停生产该款手机。发言人通过短讯回应时说，“我们不能讨论未发布产品的细节，但关于所谓的暂停生产，还没有确定。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0841906.d.html</link>
-            <guid>2206047</guid>
-            <pubDate>Sun, 13 Jun 2021 10:52:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
