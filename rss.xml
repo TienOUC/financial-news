@@ -4,13 +4,73 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 13 Jun 2021 03:29:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jun 2021 04:31:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[香港财政司司长：新一批通胀挂钩债券申请人数及认购总额均创纪录。（央视新闻）]]></title>
+            <title><![CDATA[【哥伦比亚煤矿爆炸致9名矿工死亡】哥伦比亚政府部门12日证实，哥伦比亚中部一座煤矿11日发生爆炸，造成9名矿工死亡，另有3名矿工获救生还。（新华国际）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9395871.d.html</link>
+            <guid>2205943</guid>
+            <pubDate>Sun, 13 Jun 2021 04:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【湖北十堰爆炸事故致37人重伤 11人死亡】据指挥部最新消息，截至上午11时，前方现场救援指挥部搜救出144人，目前均在医院接受救治，其中重伤37人，死亡11人。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0795166.d.html</link>
+            <guid>2205942</guid>
+            <pubDate>Sun, 13 Jun 2021 04:29:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【李书福：中国汽车企业应实现从效率优先向公平优先转变】吉利集团董事长李书福今日在2021重庆车展论坛上表示，中国汽车企业应该要实现从效率优先向公平优先转变。这样才可以与世界接轨。“过去几十年的改革开放提倡的都是效率优先，因此中国积累了大量的物质，而今天的中国更需要公平，如何实现从效率优先向公平优先的转变，这个问题举国上下都需要思考，这是一个非常重要的课题。”李书福表示。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9395014.d.html</link>
+            <guid>2205941</guid>
+            <pubDate>Sun, 13 Jun 2021 04:25:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印度新增确诊病例超8万例，新增死亡病例3303例】根据印度卫生部门6月13日公布的最新数据，过去24小时内，印度新增新冠确诊病例80834例，累计确诊达29439989例；新增死亡病例3303例，累计死亡370384例。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9393693.d.html</link>
+            <guid>2205940</guid>
+            <pubDate>Sun, 13 Jun 2021 04:17:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【端午档票房（含预售）破2亿】据猫眼专业版微博6月13日消息，截至2021年6月13日11时54分，2021年端午档票房（含预售）破2亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9392600.d.html</link>
+            <guid>2205939</guid>
+            <pubDate>Sun, 13 Jun 2021 04:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“华电睿蓝”再次突破自主可控DCS新高度】国资小新消息，中国华电自主研发的华电睿蓝自主可控DCS在华电江苏句容电厂1号1000MW超超临界机组成功投运，标志着中国华电在国内首次实现1000MW超超临界机组自主可控DCS&DEH一体化控制，再次突破自主可控DCS新高度，同时“华电睿蓝”也成为国内首套在330MW、660MW、1000MW机组均实现工程应用的自主可控DCS，圆满达成“一年一台阶、三年三突破”的示范应用目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0792008.d.html</link>
+            <guid>2205938</guid>
+            <pubDate>Sun, 13 Jun 2021 04:10:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美研究：病毒载量相似 儿童新冠传染性或与成人一样高】据新加坡《联合早报》13日报道，美国一项社区研究显示，出现新冠症状的儿童和成人的病毒载量是相似的，这意味着，感染新冠的儿童传染性可能与成年人一样高。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0790626.d.html</link>
+            <guid>2205937</guid>
+            <pubDate>Sun, 13 Jun 2021 04:02:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长三角成立绿色低碳发展行动共同体】52家企业、协会、智库近日共同发起成立长三角生态绿色一体化发展示范区绿色低碳发展行动共同体，致力探索政府、企业和社会组织共同参与的多元治理新格局。共同体成立当天，同步发布90个行动计划，其中项目类26项、课题类25项、标准类8项、活动类31项，包括成立绿色产业投资基金、开展长三角生态绿色一体化发展示范区环境可持续性评价与居民福祉调研等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9389001.d.html</link>
+            <guid>2205935</guid>
+            <pubDate>Sun, 13 Jun 2021 03:50:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【6月13日全国铁路预计发送旅客860万人次】记者从中国国家铁路集团有限公司获悉，6月12日，全国铁路发送旅客1211.7万人次，加开旅客列车889列，运输安全平稳有序。6月13日，全国铁路预计发送旅客860万人次，加开旅客列车578列。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0788389.d.html</link>
+            <guid>2205934</guid>
+            <pubDate>Sun, 13 Jun 2021 03:49:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国新增新冠肺炎确诊病例2804例，累计确诊195909例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqcfnca0787129.d.html</link>
+            <guid>2205933</guid>
+            <pubDate>Sun, 13 Jun 2021 03:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港财政司司长：新一批通胀挂钩债券申请人数及认购总额均创纪录】6月13日，香港特区政府财政司司长陈茂波在网志表示，最新一批通胀挂钩债券（iBond）发行额结束认购，反应十分热烈，当局会将发行总额由原来的150亿元调高至200亿港元。本月底会公布新一批银色债券（Silver Bond）的发行详情，发行额将不少于240亿港元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-13/detail-ikqciyzi9383945.d.html</link>
             <guid>2205930</guid>
             <pubDate>Sun, 13 Jun 2021 03:25:32 GMT</pubDate>
@@ -414,59 +474,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9310039.d.html</link>
             <guid>2205813</guid>
             <pubDate>Sat, 12 Jun 2021 14:40:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中保协：2018至2020年保险业累计支付绿色保险赔款533.77亿元】据中国保险行业协会，调研数据显示，2018至2020年，保险业累计为全社会提供了45.03万亿元保额的绿色保险保障，支付533.77亿元赔款。调研数据显示，2018至2020年，用于绿色投资的余额从2018年的3954亿元增加至2020年的5615亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9309278.d.html</link>
-            <guid>2205812</guid>
-            <pubDate>Sat, 12 Jun 2021 14:31:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理默克尔：七国集团投资特别工作组应该有积极的议程。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9309049.d.html</link>
-            <guid>2205811</guid>
-            <pubDate>Sat, 12 Jun 2021 14:28:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理默克尔：与美国总统拜登就与俄罗斯总统普京的会晤和北溪2号项目进行了讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0708866.d.html</link>
-            <guid>2205809</guid>
-            <pubDate>Sat, 12 Jun 2021 14:22:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据伊朗媒体Fars News：伊朗核协议联合委员会会议开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9308323.d.html</link>
-            <guid>2205808</guid>
-            <pubDate>Sat, 12 Jun 2021 14:20:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理默克尔呼吁务实地解决北爱尔兰争端。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0708391.d.html</link>
-            <guid>2205807</guid>
-            <pubDate>Sat, 12 Jun 2021 14:17:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印尼卫生部：印尼新增7465例新冠肺炎确诊病例，累计确诊达1901490例；新增164例死亡病例，累计死亡达52730例。]]></title>
-            <guid>2205806</guid>
-            <pubDate>Sat, 12 Jun 2021 14:13:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会主席冯德莱恩：我们都非常关注白俄罗斯的局势，七国集团的合作将使欧盟的制裁更加有效。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9306694.d.html</link>
-            <guid>2205805</guid>
-            <pubDate>Sat, 12 Jun 2021 14:02:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿富汗首都喀布尔发生两起爆炸 共7人死亡】当地时间12日，阿富汗内政部发布声明表示，当天下午喀布尔西部第6和第13两个警区各发生了一起炸弹袭击，共导致7人死亡，6人受伤。死伤者中包括女性，且均为平民。内政部声明显示，两起爆炸极为相似，均是对小型货车发起袭击。目前，尚无组织或个人对袭击负责。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0706192.d.html</link>
-            <guid>2205803</guid>
-            <pubDate>Sat, 12 Jun 2021 13:53:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北向资金大调仓，大幅加仓4200亿“光伏茅”，减仓万亿“电池茅”超10亿元】在市场调整的情况下，Choice数据显示，本周北向资金大幅调仓，累计净流入29.31亿元。本周北向资金对716只股票的持股数增加，减仓了858只股票。本周北向资金对21只股票的持仓市值增加超过5亿元，对隆基股份、恒瑞医药、中远海控持仓市值增加金额居前。Choice数据显示，本周北向资金共计减仓858只股票，从持仓市值变动情况来看，Choice数据显示，本周北向资金对30只股票的持仓市值减少超过5亿元，对贵州茅台、美的集团、五粮液持仓市值减少金额居前。从减持金额来看，本周北向资金对宁德时代减持金额最大，达13.29亿元。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9304525.d.html</link>
-            <guid>2205801</guid>
-            <pubDate>Sat, 12 Jun 2021 13:39:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
