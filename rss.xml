@@ -4,11 +4,58 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 14 Jun 2021 18:30:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jun 2021 19:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[华特迪士尼CEO：复仇者基地（Avengers Campus）开放得“异常顺利”。]]></title>
+            <guid>2208038</guid>
+            <pubDate>Mon, 14 Jun 2021 19:15:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roth Capital：将生物制药公司RAPT Therapeutics(RAPT.O)目标价从38美元上调至72美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9635686.d.html</link>
+            <guid>2208037</guid>
+            <pubDate>Mon, 14 Jun 2021 19:11:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[杰富瑞：将中兴通讯(00763.HK)评级上调至买进，目标价32.03港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9635675.d.html</link>
+            <guid>2208036</guid>
+            <pubDate>Mon, 14 Jun 2021 19:11:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[生物制药公司Enochian Biosciences(ENOB.O)直线走低，涨幅缩窄至73%。此前宣布直接发行规模2900万美元的股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqcfnca1036873.d.html</link>
+            <guid>2208035</guid>
+            <pubDate>Mon, 14 Jun 2021 19:11:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥卫生部：墨西哥累计新冠肺炎死亡病例达230187例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9634956.d.html</link>
+            <guid>2208034</guid>
+            <pubDate>Mon, 14 Jun 2021 18:57:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 7月原油期货收跌0.03美元，跌幅0.04%，报70.88美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqcfnca1035180.d.html</link>
+            <guid>2208033</guid>
+            <pubDate>Mon, 14 Jun 2021 18:39:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股直播概念股涨幅居前，哔哩哔哩涨超4%，虎牙涨3.9%，斗鱼涨2%，欢聚时代涨1.47%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqcfnca1034934.d.html</link>
+            <guid>2208031</guid>
+            <pubDate>Mon, 14 Jun 2021 18:37:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【融资热度持续提升，千亿增量资金或借道入市】日前，北向资金、新增投资者、新基发行等多项指标均显示，市场回暖驱动个人投资者入市热情抬升，A股市场流动性有所缓解，千亿增量资金或借道入市。机构指出，预计6月流动性缺口较5月明显缩小，但月内资金波动及随之而来的震荡市场仍需关注。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9633795.d.html</link>
+            <guid>2208030</guid>
+            <pubDate>Mon, 14 Jun 2021 18:36:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【尿素期价高位回调，机构预期现分歧】近期，尿素期价在连续创出新高后出现回调。尿素主力合约2109显示，6月7日该合约最高上涨至2443元/吨，随后多个交易日出现回调，截至6月11日下午收盘，该合约报收于2316元/吨。从对于此前尿素价格上涨，多家机构普遍认为，尿素价格受到多重利好因素推动，包括国内大多数企业保持零库存、企业待发订单量较大、部分尿素装置集中检修等。瑞达期货认为，展望后市，装置检修计划仍较多，而需求处于旺盛期，企业库存已经降至历史极低，预计期价在短暂回调后仍有望上行；但也有机构认为，预计后市在利润驱动下，尿素厂开工率将有所回升，产量增加后尿素价格将明显回落。（经参）]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9633482.d.html</link>
@@ -423,48 +470,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9622234.d.html</link>
             <guid>2207939</guid>
             <pubDate>Mon, 14 Jun 2021 16:02:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[私募KKR全球宏观与资产配置（GMAA）主管Henry McVey：美国通胀将继续上扬，但可能并不会“失控”。美国劳动力成本最终将会上涨。小盘股将受益于复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-15/detail-ikqciyzi9622175.d.html</link>
-            <guid>2207938</guid>
-            <pubDate>Mon, 14 Jun 2021 16:01:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：菲律宾Kadingilan地区东北三公里处发生5.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqcfnca1022961.d.html</link>
-            <guid>2207936</guid>
-            <pubDate>Mon, 14 Jun 2021 15:55:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴西参议院将于周三就电力公司私有化进行投票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9621761.d.html</link>
-            <guid>2207935</guid>
-            <pubDate>Mon, 14 Jun 2021 15:55:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北约将保持在阿富汗喀布尔机场的资金投入】14日，在北约峰会之后，北约秘书长斯托尔滕贝格表示，在北约结束阿富汗相关军事行动后，将保持在阿富汗喀布尔机场的资金投入。接下来北约将研究如何实施这一承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9621633.d.html</link>
-            <guid>2207933</guid>
-            <pubDate>Mon, 14 Jun 2021 15:52:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亿邦国际(EBON.O)盘中涨幅扩大至20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9621400.d.html</link>
-            <guid>2207932</guid>
-            <pubDate>Mon, 14 Jun 2021 15:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国8个州的新冠肺炎新增感染病例数呈上升趋势】当地时间6月14日，据美国当地媒体报道，美国8个州的新冠肺炎新增感染病例数呈上升趋势。美国约翰斯·霍普金斯大学统计数据显示，阿拉巴马州、阿肯色州、夏威夷州、密苏里州、内华达州、得克萨斯州、犹他州和怀俄明州的新冠肺炎新增感染病例数在过去14天内有所增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9621329.d.html</link>
-            <guid>2207931</guid>
-            <pubDate>Mon, 14 Jun 2021 15:46:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高盛考虑将部分交易员迁往佛罗里达】有市场消息称，高盛将把一些交易员和销售人员迁调至佛罗里达州，目前相关工作还处于早期阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-14/detail-ikqciyzi9621315.d.html</link>
-            <guid>2207930</guid>
-            <pubDate>Mon, 14 Jun 2021 15:46:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
