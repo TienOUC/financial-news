@@ -4,11 +4,272 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 17 Jun 2021 15:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Jun 2021 16:42:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美股半导体板块小幅上扬，英伟达(NVDA.O)涨近5%，AMD(AMD.O)涨4.5%，博通(AVGO.O)涨近1%。]]></title>
+            <guid>2212235</guid>
+            <pubDate>Thu, 17 Jun 2021 16:41:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：根据两党法案，美国芯片投资将获得税收抵免。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1642218.d.html</link>
+            <guid>2212211</guid>
+            <pubDate>Thu, 17 Jun 2021 16:36:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  基因编辑生物科技公司Verve Therapeutics(VERV.O)上市首日开涨超60%，发行价19美元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1642088.d.html</link>
+            <guid>2212199</guid>
+            <pubDate>Thu, 17 Jun 2021 16:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[京东金融数据显示，今年6月18日0：00-0：10，京东支付交易笔数同比增长超过100%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0239730.d.html</link>
+            <guid>2212192</guid>
+            <pubDate>Thu, 17 Jun 2021 16:33:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恐慌指数VIX短线走高，涨幅扩大至5.5%，现报19.09。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1641946.d.html</link>
+            <guid>2212188</guid>
+            <pubDate>Thu, 17 Jun 2021 16:33:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国10年期国债收益率短线走低2个基点，刷新日低至1.475%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0239403.d.html</link>
+            <guid>2212178</guid>
+            <pubDate>Thu, 17 Jun 2021 16:30:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油期货跌超3%，现报72.14美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0239392.d.html</link>
+            <guid>2212177</guid>
+            <pubDate>Thu, 17 Jun 2021 16:30:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽元兑美元NZD/USD跌破0.7关口，日内跌超7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1641639.d.html</link>
+            <guid>2212176</guid>
+            <pubDate>Thu, 17 Jun 2021 16:30:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元GBP/USD失守1.39，日内跌幅扩大至0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0239097.d.html</link>
+            <guid>2212162</guid>
+            <pubDate>Thu, 17 Jun 2021 16:27:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货失守70美元大关，日内跌幅扩大至近3%，为一周来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0239081.d.html</link>
+            <guid>2212161</guid>
+            <pubDate>Thu, 17 Jun 2021 16:27:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元指数DXY站上92整数关口，日内涨幅扩大至0.64%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0238956.d.html</link>
+            <guid>2212147</guid>
+            <pubDate>Thu, 17 Jun 2021 16:26:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元兑美元EUR/USD触及1.19，刷新4月13日以来新低，日内跌幅扩大至近0.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0238831.d.html</link>
+            <guid>2212135</guid>
+            <pubDate>Thu, 17 Jun 2021 16:24:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小米公司：6月1日-6月18日0时0分10秒，小米618全平台累计支付金额破150亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1640825.d.html</link>
+            <guid>2212130</guid>
+            <pubDate>Thu, 17 Jun 2021 16:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  道指跌幅扩大至1%，油气股、银行股多数走低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0238272.d.html</link>
+            <guid>2212120</guid>
+            <pubDate>Thu, 17 Jun 2021 16:20:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油期货日内均跌超2美元，现分别报70.21美元/桶、72.39美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1640555.d.html</link>
+            <guid>2212119</guid>
+            <pubDate>Thu, 17 Jun 2021 16:19:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道指盘中跌超300点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1640521.d.html</link>
+            <guid>2212116</guid>
+            <pubDate>Thu, 17 Jun 2021 16:19:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX为美国太空军发射GPS导航卫星。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0237631.d.html</link>
+            <guid>2212084</guid>
+            <pubDate>Thu, 17 Jun 2021 16:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国银行(BAC.N)跌超4%，一度触及六周以来低位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1639562.d.html</link>
+            <guid>2212066</guid>
+            <pubDate>Thu, 17 Jun 2021 16:08:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  官方声明：美国参议院少数党领袖麦康奈尔拒绝了民主党议员曼钦关于投票权立法的妥协提议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1639449.d.html</link>
+            <guid>2212063</guid>
+            <pubDate>Thu, 17 Jun 2021 16:07:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伴随着美债收益率下跌，美股银行股集体大跌，银行业ETF跌超4%；富国银行、花旗、美国银行、摩根士丹利均跌超4%，高盛跌超3%，摩根大通跌2.8%。]]></title>
+            <guid>2212035</guid>
+            <pubDate>Thu, 17 Jun 2021 16:01:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伦铜、COMEX期铜跌超4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1638489.d.html</link>
+            <guid>2212034</guid>
+            <pubDate>Thu, 17 Jun 2021 15:59:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  油气股下挫，埃克森美孚石油(XOM.N)、英国石油(BP.N)、雪佛龙(CVX.N)跌3%。]]></title>
+            <guid>2212033</guid>
+            <pubDate>Thu, 17 Jun 2021 15:58:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国10年期国债收益率失守1.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1638376.d.html</link>
+            <guid>2212032</guid>
+            <pubDate>Thu, 17 Jun 2021 15:57:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金较低位反弹10美元，现报1777.66美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0236038.d.html</link>
+            <guid>2212031</guid>
+            <pubDate>Thu, 17 Jun 2021 15:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元GBP/USD短线走低近20点，日内跌幅达0.5%，现报1.3911。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1638292.d.html</link>
+            <guid>2212030</guid>
+            <pubDate>Thu, 17 Jun 2021 15:55:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油期货短线跌幅扩大至约0.6美元，分别报70.58美元/桶和72.71美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0235897.d.html</link>
+            <guid>2212028</guid>
+            <pubDate>Thu, 17 Jun 2021 15:54:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货跌幅扩大至2%，报70.7美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1638109.d.html</link>
+            <guid>2212027</guid>
+            <pubDate>Thu, 17 Jun 2021 15:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国30年期国债收益率跌至2.098%，为2月19日以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0235750.d.html</link>
+            <guid>2212026</guid>
+            <pubDate>Thu, 17 Jun 2021 15:52:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油期货跌超2%，报72.96美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1638024.d.html</link>
+            <guid>2212025</guid>
+            <pubDate>Thu, 17 Jun 2021 15:51:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖四周期国债，得标利率0.035%（一周前报0.005%），投标倍数3.48（上次为3.16）。拍卖八周期国债，得标利率0.045%（上次为0.020%），投标倍数3.92（上次为2.89）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0235403.d.html</link>
+            <guid>2212024</guid>
+            <pubDate>Thu, 17 Jun 2021 15:47:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利单日新增新冠肺炎确诊病例1325例，新增死亡病例37例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1637756.d.html</link>
+            <guid>2212023</guid>
+            <pubDate>Thu, 17 Jun 2021 15:46:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：拜登称平价医疗法案对美国人来说是“巨大的胜利”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1637690.d.html</link>
+            <guid>2212022</guid>
+            <pubDate>Thu, 17 Jun 2021 15:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油期货跌破73美元/桶关口，日内跌1.84%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0235281.d.html</link>
+            <guid>2212021</guid>
+            <pubDate>Thu, 17 Jun 2021 15:44:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【据悉滴滴邀请多家中资银行参与美国IPO】一位知情人士透露，滴滴在计划的美国IPO中增添了多家中资银行。该人士称，中国银行、建设银行、招商银行、中信证券、工商银行、国泰君安证券和中金已被任命为IPO联席账簿管理人。据知情人士透露，美国银行 、巴克莱、花旗和汇丰也是联席账簿管理人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0235264.d.html</link>
+            <guid>2212020</guid>
+            <pubDate>Thu, 17 Jun 2021 15:44:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货铂金跌超5%，报1063.5美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0235214.d.html</link>
+            <guid>2212019</guid>
+            <pubDate>Thu, 17 Jun 2021 15:43:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国钢铁(X.N)盘中跌幅扩大至6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0234734.d.html</link>
+            <guid>2212018</guid>
+            <pubDate>Thu, 17 Jun 2021 15:37:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  新能源车板块造好，理想汽车(LI.O)涨超10%，小鹏汽车(XPEV.N)涨超8%，蔚来汽车(NIO.N)涨超5%，特斯拉(TSLA.O)涨超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0234652.d.html</link>
+            <guid>2212017</guid>
+            <pubDate>Thu, 17 Jun 2021 15:36:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国国家航空航天局祝贺神舟十二号载人飞船成功发射】北京时间2021年6月17日9时22分，搭载神舟十二号载人飞船的长征二号F遥十二运载火箭，在酒泉卫星发射中心发射取得圆满成功。美国国家航空航天局（NASA）17日在官网上发表声明，以局长比尔·尼尔森（Bill Nelson）的名义，祝贺中国成功将航天员送入空间站，他表示，“ 祝贺中国成功将航天员送入他们的空间站！期待未来的科学发现。”（人民日报海外网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1636982.d.html</link>
+            <guid>2212015</guid>
+            <pubDate>Thu, 17 Jun 2021 15:36:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股三大股指走势分化，纳指涨幅扩大至1%，道指跌0.55%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1636884.d.html</link>
+            <guid>2212014</guid>
+            <pubDate>Thu, 17 Jun 2021 15:34:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[钯金期货日内重挫10%，报2554美元/盎司，现货钯金跌8.32%，报2560美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1636792.d.html</link>
+            <guid>2212013</guid>
+            <pubDate>Thu, 17 Jun 2021 15:33:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲股市结束连续九天创收盘历史新高的趋势】欧洲STOXX 600指数初步收跌0.17%，报459.10点，美联储宣布6月FOMC利率决议声明之前，已经连续九个交易日创收盘历史新高。德国DAX 30指数初步收涨0.02%，报15713.56点。法国股指初步收涨0.13%，英国股指初步收跌0.42%，意大利股指初步收跌0.20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1636746.d.html</link>
+            <guid>2212012</guid>
+            <pubDate>Thu, 17 Jun 2021 15:32:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WSB概念股走强，AMC院线(AMC.N)涨超10%，黑莓(BB.N)、高斯电子(KOSS.O)、游戏驿站(GME.N)涨超4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0234316.d.html</link>
+            <guid>2212011</guid>
+            <pubDate>Thu, 17 Jun 2021 15:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委魏德曼：预先承诺政策是无用的、也是不可信的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0234299.d.html</link>
+            <guid>2212010</guid>
+            <pubDate>Thu, 17 Jun 2021 15:31:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：可负担房价是一个关键挑战。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0234288.d.html</link>
+            <guid>2212009</guid>
+            <pubDate>Thu, 17 Jun 2021 15:30:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：奥迪汽车计划2026年之后不再生产汽油轿车和柴油车。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1636518.d.html</link>
@@ -64,7 +325,7 @@
             <pubDate>Thu, 17 Jun 2021 15:21:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中概教育股跌幅扩大，好未来跌12%，高途自纪录高位累跌92% 中概教育股跌幅扩大，好未来跌超12%，高途、新东方跌10%，网易有道跌6%。其中，高途较1月底纪录高位累计下跌92%；好未来较2月高位累跌76%。]]></title>
+            <title><![CDATA[【中概教育股跌幅扩大，好未来跌12%，高途自纪录高位累跌92%】中概教育股跌幅扩大，好未来跌超12%，高途、新东方跌10%，网易有道跌6%。其中，高途较1月底纪录高位累计下跌92%；好未来较2月高位累跌76%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0233569.d.html</link>
             <guid>2211999</guid>
             <pubDate>Thu, 17 Jun 2021 15:20:50 GMT</pubDate>
@@ -123,10 +384,22 @@
             <pubDate>Thu, 17 Jun 2021 15:07:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[美国众议院预算委员会主席Yarmuth：众议院将于7月12日当周尝试就预算案进行投票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0232368.d.html</link>
+            <guid>2211989</guid>
+            <pubDate>Thu, 17 Jun 2021 15:05:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[美国财长耶伦：不认为经济处于超级通胀的危机之中。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1634505.d.html</link>
             <guid>2211988</guid>
             <pubDate>Thu, 17 Jun 2021 15:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国众议院预算委员会主席Yarmuth对6万亿美元的预算调节计划持开放态度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0232221.d.html</link>
+            <guid>2211987</guid>
+            <pubDate>Thu, 17 Jun 2021 15:03:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[截至6月17日，英国新增11007例新冠肺炎确诊病例，新增19例死亡病例。]]></title>
@@ -276,284 +549,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1630230.d.html</link>
             <guid>2211952</guid>
             <pubDate>Thu, 17 Jun 2021 14:24:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Fisker(FSR.N)涨幅扩大至5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0227718.d.html</link>
-            <guid>2211951</guid>
-            <pubDate>Thu, 17 Jun 2021 14:22:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贵金属集体重挫 钯金期货暴跌超9%】现货钯金日内暴跌超8%，现报2574.35美元/盎司，钯金期货跌超9%，报2579美元/盎司；现货铂金跌超3%，铂金期货跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0227294.d.html</link>
-            <guid>2211949</guid>
-            <pubDate>Thu, 17 Jun 2021 14:19:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【谷歌健康部门裁员20%，部分员工被转移到Fitbit部门】晚间消息，一份内部备忘录显示，谷歌A正在重组旗下健康部门（Google Health），大约130名员工被转移到其他部门。根据谷歌三名现任和前任员工，以及一份内部备忘录显示，谷歌健康部门的员工数量已经削减至约570人，减少了约20%。其中，部分员工被转移到搜索和Fitbit部门。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0227175.d.html</link>
-            <guid>2211948</guid>
-            <pubDate>Thu, 17 Jun 2021 14:18:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全国安全生产电视电话会议：加大基础设施安全投入 加强应急处置能力建设】国务院安委会17日召开全国安全生产电视电话会议。会议指出，近期安全事故接连发生，安全生产形势严峻。会议强调，要群策群力坚决遏制重特大事故，深入开展化工和矿山、燃气管道、工业园区、危化品运输、道路交通安全等领域安全整治，全面排查治理各类重大风险隐患。严格安全生产执法，严厉打击各类违法违规行为，依法依规严肃事故调查和责任追究。强化社会面防控，坚决防止发生极端暴力案事件。扎实提升本质安全水平，加大基础设施安全投入，加强应急处置能力建设。]]></title>
-            <guid>2211947</guid>
-            <pubDate>Thu, 17 Jun 2021 14:17:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亿航智能(EH.O)盘中走强，现涨超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0227005.d.html</link>
-            <guid>2211946</guid>
-            <pubDate>Thu, 17 Jun 2021 14:16:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伦敦金属交易所（LME）三个月期铜跌超3%，报9360美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0226935.d.html</link>
-            <guid>2211945</guid>
-            <pubDate>Thu, 17 Jun 2021 14:16:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  水滴(WDH.N)跌超10%，Q1营收不及预期，亏损幅度扩大。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1629099.d.html</link>
-            <guid>2211944</guid>
-            <pubDate>Thu, 17 Jun 2021 14:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[铂金期货日内重挫5%，现报1081美元/盎司，钯金期货大跌超7%，现报2625.5美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1629081.d.html</link>
-            <guid>2211943</guid>
-            <pubDate>Thu, 17 Jun 2021 14:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国上周首次申请失业救济人数意外增加了3.7万人，增至41.2万人，为4月份以来首次增长。但领取救济金的美国人总数降至1500万以下，为2020年4月以来首次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1628906.d.html</link>
-            <guid>2211942</guid>
-            <pubDate>Thu, 17 Jun 2021 14:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中概教育股跌幅扩大，好未来跌超8%，高途跌约7%，精锐教育跌超5%，网易有道跌近5%，新东方跌超4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1628729.d.html</link>
-            <guid>2211941</guid>
-            <pubDate>Thu, 17 Jun 2021 14:11:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为手机新品预装鸿蒙 机构看好软硬件合作商】华为消息，18日0时华为Mate40 Pro（4G版）等三款手机新品将开售，直接预装了最新的HarmonyOS 2操作系统。首创证券分析师翟炜认为，考虑到华为自身存量终端数，各终端厂商纷纷加入生态，以及鸿蒙系统流畅的使用效果，实现3亿台的装机目标应是大概率事件。鸿蒙系统不断推广，将推动国内软硬件持续提升份额。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1628443.d.html</link>
-            <guid>2211940</guid>
-            <pubDate>Thu, 17 Jun 2021 14:10:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄罗斯总统：俄美军备竞赛正在发生】俄罗斯总统普京在会见俄罗斯国家管理大学毕业生时表示，俄美军备竞赛实际上正在发生，时而隐蔽，时而公开。他说，这场竞赛不是俄罗斯发起的，错不在俄方。此外，普京还总结了他16日同美国总统拜登的会见。他说，俄美两国在许多问题上存在分歧，会见有助于双方确定优先要解决的问题。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0226098.d.html</link>
-            <guid>2211939</guid>
-            <pubDate>Thu, 17 Jun 2021 14:09:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金日跌幅扩大至2%，报1775.46美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1628214.d.html</link>
-            <guid>2211938</guid>
-            <pubDate>Thu, 17 Jun 2021 14:08:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【首届RISC-V中国峰会即将开幕 开源架构成趋势】据报道，6月21日到27日，第一届RISC-V中国峰会将在上海科技大学举办。其中，分会场专题有基于RISC-V的鸿蒙系统开发板设计。华创证券认为，RISC-V是一种开源指令集架构，目标是成为指令集架构领域的Linux，与ARM分庭抗礼。当前芯片自主创新研发是大势所趋，RISC-V开源架构已得到行业的积极实践与探索，正在成为全球芯片创新的大趋势，国内企业也在积极布局。 (上证报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0225950.d.html</link>
-            <guid>2211937</guid>
-            <pubDate>Thu, 17 Jun 2021 14:07:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗外交官Araghchi：在基本问题上依然存有分歧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0225750.d.html</link>
-            <guid>2211936</guid>
-            <pubDate>Thu, 17 Jun 2021 14:06:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油期货短线下挫小幅反弹，波幅达0.5美元，现分别报72.03美元/桶和74.14美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1627938.d.html</link>
-            <guid>2211935</guid>
-            <pubDate>Thu, 17 Jun 2021 14:05:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗方面表示，比以往任何时候都更接近就伊核协议达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0225642.d.html</link>
-            <guid>2211934</guid>
-            <pubDate>Thu, 17 Jun 2021 14:05:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股药品股走高，百健(BIIB.O)涨近1%，礼来(LLY.N)、辉瑞(PFE.N)、诺华制药(NVS.N)、默沙东(MRK.N)、强生(JNJ.N)小幅上扬。]]></title>
-            <guid>2211933</guid>
-            <pubDate>Thu, 17 Jun 2021 14:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国最高法院支持平价医疗法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1627806.d.html</link>
-            <guid>2211932</guid>
-            <pubDate>Thu, 17 Jun 2021 14:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX期银日内暴跌6％，现报26.13美元/盎司。现货白银跌破26美元/盎司，刷新5月3日以来新低，日内跌3.48%。沪银主力合约跌超4％，现报5402元/千克。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0225145.d.html</link>
-            <guid>2211930</guid>
-            <pubDate>Thu, 17 Jun 2021 14:01:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月谘商会领先指标公布 114.5，前值 113.3。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1627410.d.html</link>
-            <guid>2211929</guid>
-            <pubDate>Thu, 17 Jun 2021 14:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月谘商会滞后指标月率公布 -2.2%，前值 1.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0225087.d.html</link>
-            <guid>2211928</guid>
-            <pubDate>Thu, 17 Jun 2021 14:01:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月谘商会同步指标月率公布 0.4%，前值 0.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1627353.d.html</link>
-            <guid>2211927</guid>
-            <pubDate>Thu, 17 Jun 2021 14:00:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月谘商会领先指标月率公布 1.3%，前值 1.6%，预期 1.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1627323.d.html</link>
-            <guid>2211926</guid>
-            <pubDate>Thu, 17 Jun 2021 14:00:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  分子诊断公司Co-diagnostics(CODX.O)跌超6%，此前有消息称美国证券交易委员会调查人员对其在犹他州出售的新冠检测产品进行了调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0224976.d.html</link>
-            <guid>2211925</guid>
-            <pubDate>Thu, 17 Jun 2021 14:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国民主党正考虑通过预算调解程序通过6万亿美元的预算计划】据知情人士透露，参议院民主党人正在讨论一项价值6万亿美元的预算方案，其中约一半将通过赤字进行融资。该一揽子计划，在美国总统拜登的就业和家庭计划上拓展，将通过预算调解程序绕过共和党的阻挠，但需要美国参众两院民主党保持团结一致。美国参议院多数党领袖舒默本周早些时候表示，希望通过一项两党合作的基建方案，以及一份预算蓝图，为下个月民主党的后续方案做准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0224571.d.html</link>
-            <guid>2211924</guid>
-            <pubDate>Thu, 17 Jun 2021 13:56:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新能源车板块涨幅扩大，Workhorse涨超7%，理想汽车涨超5%，小鹏汽车涨超4%，蔚来汽车涨超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1626450.d.html</link>
-            <guid>2211923</guid>
-            <pubDate>Thu, 17 Jun 2021 13:52:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国银行：将CureVac(CVAC.O)评级由买入下调为中性；将目标价格从110美元降至50美元。]]></title>
-            <guid>2211922</guid>
-            <pubDate>Thu, 17 Jun 2021 13:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  AMD(AMD.O)涨幅扩大至3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1626064.d.html</link>
-            <guid>2211921</guid>
-            <pubDate>Thu, 17 Jun 2021 13:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股扭头向下，道指现跌超百点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0223519.d.html</link>
-            <guid>2211920</guid>
-            <pubDate>Thu, 17 Jun 2021 13:47:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数周四升至11年高位 因强劲需求推升船舶费率】由于对干散货大宗商品的需求强劲，各类船舶费率都有所上涨，波罗的海干散货运价指数周四涨91点或2.9%，至3267，刷新2010年6月以来新高。巴拿马型船运价指数涨39点或1.1%，报3558点，刷新2010年6月以来新高，日均获利增加351美元至32022美元。海岬型船运价指数涨202或5%，报4212点，续刷一个月高位，日均获利增加1672美元至34930美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0223409.d.html</link>
-            <guid>2211919</guid>
-            <pubDate>Thu, 17 Jun 2021 13:46:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至6月13日当周彭博消费者信心指数公布 56.2，前值 55.4。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1625693.d.html</link>
-            <guid>2211918</guid>
-            <pubDate>Thu, 17 Jun 2021 13:46:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“西部大庆”长庆油田：十四五油气年产量将达到6800万吨】中国石油在京举办“弘扬伟大精神，推动高质量发展”长庆油田专题报告会。近12年，长庆油田油气当量年均增幅近300万吨，相当于每年给国家新增一个中型油田。据悉，“十四五”期间，长庆油田油气年产量将达到6800万吨。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1625669.d.html</link>
-            <guid>2211917</guid>
-            <pubDate>Thu, 17 Jun 2021 13:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中概教育股走低，高途、好未来教育集团跌超6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1625641.d.html</link>
-            <guid>2211916</guid>
-            <pubDate>Thu, 17 Jun 2021 13:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根大通：美联储调整管理利率不是货币市场的“灵丹妙药”】摩根大通策略师Teresa Ho等多位策略师在报告中表示，虽然美联储调整超额准备金利率和逆回购协议(RRP)利率缓解了短端利率下行压力，但供需失衡仍然存在，并且在中期内可能会继续加剧，技术调整不是货币市场的灵丹妙药。虽然美联储已开始讨论刺激措施减码，但实际时间“仍远未确定”，与此同时，准备金增长、存款创造和管理以及货币基金资产增长的周期将继续。这意味着美联储隔夜逆回购工具的交易量势将增长。即使进行了技术调整，甚至美联储资产购买在未来某个时候结束，配置到回购协议(RRP)的资金也没有明显的去处，至少在出现货币市场基金可以购买的其他资产之前会如此。最终RRP使用量有可能增加到7500亿美元。]]></title>
-            <guid>2211915</guid>
-            <pubDate>Thu, 17 Jun 2021 13:45:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国钢铁(X.N)跌超3%，公司宣布赎回2025年到期的6.875%优先票据。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1625588.d.html</link>
-            <guid>2211914</guid>
-            <pubDate>Thu, 17 Jun 2021 13:45:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  水滴(WDH.N)美股跌超4%，Q1营收不及预期，亏损幅度扩大。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0223278.d.html</link>
-            <guid>2211913</guid>
-            <pubDate>Thu, 17 Jun 2021 13:45:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  信贷服务中概股走强，宜人金科(YRD.N)涨超8%，信也科技集团(FINV.N)、趣店(QD.N)涨超6%，360数科(QFIN.O)涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0223134.d.html</link>
-            <guid>2211912</guid>
-            <pubDate>Thu, 17 Jun 2021 13:43:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗副外长：在维也纳举行的伊核问题全面协议谈判在多个问题上取得了出色和切实的进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0222815.d.html</link>
-            <guid>2211910</guid>
-            <pubDate>Thu, 17 Jun 2021 13:41:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新能源车板块多数上扬，Workhorse涨超3%，小鹏汽车、理想汽车涨超2%，蔚来汽车涨近2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1625089.d.html</link>
-            <guid>2211909</guid>
-            <pubDate>Thu, 17 Jun 2021 13:41:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线走高9美元，现报1788.97美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1624720.d.html</link>
-            <guid>2211908</guid>
-            <pubDate>Thu, 17 Jun 2021 13:39:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧股转涨，欧洲斯托克600指数涨0.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1624639.d.html</link>
-            <guid>2211907</guid>
-            <pubDate>Thu, 17 Jun 2021 13:38:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Fisker(FSR.N)涨超3%，公司与曼格纳国际(MGA.N)签署长期制造协议，首款SUV车型 Ocean将于2021年11月在洛杉矶车展上首次亮相，2022年11月投产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0222135.d.html</link>
-            <guid>2211906</guid>
-            <pubDate>Thu, 17 Jun 2021 13:37:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Nikola(NKLA.O)涨超4%，公司将与CNH Industrial NV (CNHI.N) 合作开发零排放重型卡车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1624443.d.html</link>
-            <guid>2211905</guid>
-            <pubDate>Thu, 17 Jun 2021 13:36:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴克莱银行：预计美联储将于9月宣布缩减购债规模，11月开始（执行）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0222018.d.html</link>
-            <guid>2211904</guid>
-            <pubDate>Thu, 17 Jun 2021 13:36:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【两连板的聚灿光电：近期经营情况及内外部经营环境未发生重大变化】连续2个涨停的聚灿光电发布股价异常波动公告，公司近期经营情况及内外部经营环境未发生重大变化，但短期内股价波动较大、换手率高，市盈率显著高于行业平均水平。公司特别提醒投资者，理性投资并注意二级市场交易风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqcfnca1624158.d.html</link>
-            <guid>2211902</guid>
-            <pubDate>Thu, 17 Jun 2021 13:34:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股白银股下挫，泛美白银跌超3%，First Majestic跌超4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-17/detail-ikqciyzk0221737.d.html</link>
-            <guid>2211901</guid>
-            <pubDate>Thu, 17 Jun 2021 13:33:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
