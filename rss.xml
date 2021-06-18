@@ -4,11 +4,136 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 18 Jun 2021 02:43:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jun 2021 03:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据中国信通院6月18日消息，2021大数据产业峰会成果发布会将于6月24日召开。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1730353.d.html</link>
+            <guid>2212881</guid>
+            <pubDate>Fri, 18 Jun 2021 03:28:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  第三代半导体个股持续走强，台基股份两连板，聚灿光电大涨15%，露笑科技、海特高新、士兰微、易事特等个股持续受到资金追捧。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0327794.d.html</link>
+            <guid>2212880</guid>
+            <pubDate>Fri, 18 Jun 2021 03:26:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【济南：鼓励新能源车企研发 每发布1款新车型奖励100万】今日，济南市委市政府新闻发布会上，济南市工业和信息化局副局长杨福涛介绍了济南新能源汽车产业发展现状。鼓励本地车辆生产企业根据济南市新能源车辆应用情况积极开发新车型，扩大应用场景，通过让利优惠等措施，推广在地应用。对获得新能源整车生产资质的企业，每发布1个新能源汽车整车产品公告，给予100万元奖励，单个企业年度奖励不超过1000万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1728094.d.html</link>
+            <guid>2212877</guid>
+            <pubDate>Fri, 18 Jun 2021 03:19:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国燃气在香港上市股票扩大跌幅至10%，跌至去年11月以来最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0325700.d.html</link>
+            <guid>2212876</guid>
+            <pubDate>Fri, 18 Jun 2021 03:18:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华为王军：今年华为终端设备将会全面升级到鸿蒙操作系统】华为智能汽车解决方案BU总裁王军在2021中国汽车论坛上透露，今年华为终端设备将会全面升级到鸿蒙操作系统，预计到年底，整体规模将超过两亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0325629.d.html</link>
+            <guid>2212875</guid>
+            <pubDate>Fri, 18 Jun 2021 03:18:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【李曙光：五粮液发展态势良好】五粮液集团党委书记、董事长、股份公司董事李曙光表示，总体来看，五粮液在大家关怀下，发展态势良好。衡量一个企业和人，成功与否，不是看他登上顶峰的高度，而是看他跌入谷底的反弹力度，五粮液也存在一些不足和弱项，但我们一直不断完善、做得更好，一直坚持做正确的事情、正确地做事情。近年来，五粮液有好的变化和苗头，我们要让这些苗头更趋势化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0324521.d.html</link>
+            <guid>2212874</guid>
+            <pubDate>Fri, 18 Jun 2021 03:13:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中来股份：与华为在家庭24h绿电合作的基础上携手推进“行业绿电光储一体化”】中来股份今日在互动平台表示，公司与华为致力于在光伏领域的战略合作，以华为逆变器和中来N型TOPCon组件为底座的绿电系统的联合发布，为光储一体化的进一步合作打下基础。公司与华为基于光伏、储能技术的深度积累，在家庭24h绿电合作的基础上携手推进“行业绿电光储一体化”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0324423.d.html</link>
+            <guid>2212873</guid>
+            <pubDate>Fri, 18 Jun 2021 03:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【雷科防务：子公司恒达微波研制的天线产品有用于神舟十二号与天和核心舱的交会对接中】雷科防务在互动平台表示，公司子公司恒达微波研制的天线产品助力神舟十二号与天和核心舱交会对接成功，其中微波雷达天线应用于神舟十二号，微波应答机天线应用于天和核心舱，用于交会对接时与微波雷达天线形成发射接收通信通道，指导对接过程中天线位置的调整，实现神舟十二号和天和核心舱交会对接成功。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1726330.d.html</link>
+            <guid>2212872</guid>
+            <pubDate>Fri, 18 Jun 2021 03:12:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海能达回应设备被FCC计划禁入美国电信网络：已收到消息 正在评估中】针对美国联邦通信委员会以“国家安全威胁”为由，计划禁止海能达等中国企业的电信及视频监控设备用于美国电信网络的消息，海能达内部人士向财联社记者表示，已经收到消息，目前正在评估中，公司是否会给予回应以及如何回应，需根据评估结果决定。（财联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0323782.d.html</link>
+            <guid>2212870</guid>
+            <pubDate>Fri, 18 Jun 2021 03:10:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油期货跌幅扩大至1%，报72.36美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1725102.d.html</link>
+            <guid>2212869</guid>
+            <pubDate>Fri, 18 Jun 2021 03:08:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【五粮液李曙光：白酒虽总体产能过剩 但优质名酒稀缺】今日五粮液2020年度股东大会上，五粮液集团党委书记、董事长、股份公司董事李曙光表示，白酒是现金分红占比比较高的行业，反映出行业经营业绩非常稳定，五粮液近年来现金分红比例一直维持在50%左右。其实，白酒行业是个产能过剩的行业，但与优质名酒产能供应不足的矛盾并存，面对消费升级、中等收入群体的增长，现有优质名酒产能不够。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1725034.d.html</link>
+            <guid>2212868</guid>
+            <pubDate>Fri, 18 Jun 2021 03:07:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家烟草专卖局、国家市场监管总局：持续加强电子烟市场监管】国家烟草专卖局、国家市场监管总局发布关于《保护未成年人免受烟侵害“守护成长”专项行动方案》的通知：全面从严监管电子烟经营行为，各地要贯彻落实党中央、国务院关于推进电子烟监管法治化的要求，逐步建立健全电子烟监管工作体系，提升监管效能，规范电子烟生产经营活动，防范电子烟市场乱象“死灰复燃”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1724306.d.html</link>
+            <guid>2212867</guid>
+            <pubDate>Fri, 18 Jun 2021 03:04:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【全国公共自行车碳交易试点在杭启动】昨日，中国道路运输协会城市客运分会公共自行车工作部正式发布《城市公共自行车碳达峰、碳中和行动指导方案》。日前，全国公共自行车碳交易试点在杭州启动，意味着这项免费公益的公共服务产品可以实现“自我造血”了。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1724127.d.html</link>
+            <guid>2212865</guid>
+            <pubDate>Fri, 18 Jun 2021 03:04:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中汽协：5月Model Y的注册量从4月份的5520辆升至12785辆】特斯拉中国产Model Y销量大增。中国汽车工业信息网数据显示，5月Model Y的注册量从4月份的5520辆升至12785辆，价格较低的Model 3注册量从6429辆升至9324辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1723120.d.html</link>
+            <guid>2212864</guid>
+            <pubDate>Fri, 18 Jun 2021 03:00:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【神州优车在海南成立新公司 陆正耀为最终受益人】天眼查App显示，6月16日，神州优车（海南）信息技术有限公司成立，注册资本1000万人民币，法定代表人为王丹丹，经营范围含网络预约出租汽车经营服务；5G通信技术服务；人工智能公共数据平台；大数据服务；汽车租赁等。股东信息显示，该公司为神州优车股份有限公司全资孙公司，最终受益人为陆正耀。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1721892.d.html</link>
+            <guid>2212861</guid>
+            <pubDate>Fri, 18 Jun 2021 02:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【ATM机上能取数字人民币】目前，工行北京市分行和农行北京市分行，已在北京地区率先上线ATM数字人民币与现金的互兑功能。工行遍布京城的3000多台存取款一体机都已开通此功能，成为北京首家全面上线数字人民币现金兑取的银行。农行在王府井地区已布放10余台ATM机，都可进行数字人民币与现金的互换。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0319320.d.html</link>
+            <guid>2212859</guid>
+            <pubDate>Fri, 18 Jun 2021 02:53:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【东箭科技：“智动门”助力百度北汽打造新一代共享无人车ApolloMoon】据东箭科技公众号消息：6月17日，百度北汽新一代ApolloMoon共享无人车在北京重磅发布，成本为48万元。ApolloMoon的车门自动开闭门迎宾等功能，是由东箭所支持的创新技术——智动门（电动侧开门系统）。未来，东箭科技将助力各主机厂对智能汽车领域持续深入和探索，释放汽车更多可能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0318348.d.html</link>
+            <guid>2212858</guid>
+            <pubDate>Fri, 18 Jun 2021 02:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[深证成指转跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0318220.d.html</link>
+            <guid>2212857</guid>
+            <pubDate>Fri, 18 Jun 2021 02:49:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上证50指数跌超1%，石油、酿酒、煤炭等板块跌幅居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0317557.d.html</link>
+            <guid>2212856</guid>
+            <pubDate>Fri, 18 Jun 2021 02:47:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪深两市成交额突破5000亿。]]></title>
+            <guid>2212855</guid>
+            <pubDate>Fri, 18 Jun 2021 02:45:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【供应增加 猪价“跌跌不休”】根据卓创资讯监测数据显示，3月份以来，样本企业生猪及能繁母猪存栏量环比均呈增加趋势，且涨幅逐渐扩大，生猪产能恢复良好。恰逢需求淡季，叠加供应增加带来的利空效应释放，且低价货源不断冲击市场，猪价“跌跌不休”，屡创年内低点。（卓创农业）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0316894.d.html</link>
+            <guid>2212854</guid>
+            <pubDate>Fri, 18 Jun 2021 02:44:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A股白酒股震荡走弱，海南椰岛大跌8%，舍得酒业、皇台酒业、泸州老窖、洋河股份、大湖股份均跌超3%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1718273.d.html</link>
@@ -461,143 +586,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0295788.d.html</link>
             <guid>2212764</guid>
             <pubDate>Fri, 18 Jun 2021 01:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  鼎胜新材低开4.36%，公司持股6.46%股东陆金澈拟6个月内减持不超过2%；石头科技低开3.29%，公司股东拟合计减持不超3.3%公司股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1697972.d.html</link>
-            <guid>2212763</guid>
-            <pubDate>Fri, 18 Jun 2021 01:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 港股新东方持续低迷，现跌8.2%，本月已跌去27.5%，市值接近跌破1000亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1697712.d.html</link>
-            <guid>2212761</guid>
-            <pubDate>Fri, 18 Jun 2021 01:27:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  东鹏饮料大幅高开9.99%，市值突破千亿大关。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0295360.d.html</link>
-            <guid>2212760</guid>
-            <pubDate>Fri, 18 Jun 2021 01:27:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贵州石玉高速预计7月建成通车】近日，由中交路桥建设公司承建的石阡至玉屏高速公路项目建设进入收尾阶段。据了解，石玉高速全长约81公里，预计今年7月建成通车。（新华视点）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0295306.d.html</link>
-            <guid>2212758</guid>
-            <pubDate>Fri, 18 Jun 2021 01:26:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[半导体板块多股高开，上海贝岭涨停，台基股份涨10.99%，赛微电子涨1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0295190.d.html</link>
-            <guid>2212757</guid>
-            <pubDate>Fri, 18 Jun 2021 01:26:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股必瘦站涨超4%，公司发布公告，4月份合约销售额创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1697360.d.html</link>
-            <guid>2212756</guid>
-            <pubDate>Fri, 18 Jun 2021 01:26:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A股半导体板块多股高开，上海贝岭涨停，台基股份涨10.99％，，赛微电子涨1.5％。]]></title>
-            <guid>2212755</guid>
-            <pubDate>Fri, 18 Jun 2021 01:26:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股海丰国际高开近7%，海丰国际预期中期股东应占综合纯利约4.4亿美元-4.8亿美元 同比显著增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1697252.d.html</link>
-            <guid>2212754</guid>
-            <pubDate>Fri, 18 Jun 2021 01:25:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[三大股指开盘涨跌不一，沪指跌0.14％，深成指涨0.26％，创业板涨0.68％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1697158.d.html</link>
-            <guid>2212753</guid>
-            <pubDate>Fri, 18 Jun 2021 01:25:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科济药业、优然牧业港交所挂牌首日分别跌超17%、10%】科济药业港交所挂牌首日跌超17%，现报27.05港元；优然牧业跌超10%，现报6.28港元，内地私募基金PAG太盟投资集团为优然牧业大股东，持股约42.89%；伊利股份持股40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1696848.d.html</link>
-            <guid>2212752</guid>
-            <pubDate>Fri, 18 Jun 2021 01:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股中国燃气低开1.5%，其附属公司总经理等人因十堰爆炸事故被捕。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0294497.d.html</link>
-            <guid>2212751</guid>
-            <pubDate>Fri, 18 Jun 2021 01:24:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[央行本周累计开展400亿元逆回购操作和2000亿元中期借贷便利（MLF）操作，因本周有500亿元逆回购和2000亿元中期借贷便利（MLF）到期，央行本周实现100亿元净回笼。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0294088.d.html</link>
-            <guid>2212750</guid>
-            <pubDate>Fri, 18 Jun 2021 01:23:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[央行今日开展100亿元逆回购操作，因今日有100亿元逆回购到期，当日实现零投放零回笼。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0294032.d.html</link>
-            <guid>2212749</guid>
-            <pubDate>Fri, 18 Jun 2021 01:22:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  安踏体育高开5.86%，现报175.1港元，继续创下历史新高。公司昨日发布盈喜，预计今年上半年的经营溢利将同比增长不少于55%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0293772.d.html</link>
-            <guid>2212748</guid>
-            <pubDate>Fri, 18 Jun 2021 01:22:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股恒指高开涨0.1％，国企指数涨0.33％。大型科技股普涨，体育用品、半导体板块延续强势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1695858.d.html</link>
-            <guid>2212747</guid>
-            <pubDate>Fri, 18 Jun 2021 01:21:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世界显示产业大会上46个显示产业项目成功签约】6月17日，在合肥召开的2021世界显示产业大会上，46个显示产业领域重点合作项目成功签约。据了解，这批签约项目的协议总投资为267亿元，涵盖了显示产业上游的原料、配件、设备，中游的面板、模组，下游的应用、终端等完整产业链。（央广网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0293438.d.html</link>
-            <guid>2212745</guid>
-            <pubDate>Fri, 18 Jun 2021 01:20:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【芯片设计商“基合半导体”获数千万元A+轮融资】芯片设计商“基合半导体”已完成数千万元A+轮融资，本轮融资由高能资本领投，燕创姚商资本、宁波工投集团、金东集团跟投。据官方介绍，基合半导体专注于智能触控芯片、光学对焦驱动芯片设计，应用于手机、可穿戴、柔性屏等市场。（36氪）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0293005.d.html</link>
-            <guid>2212744</guid>
-            <pubDate>Fri, 18 Jun 2021 01:19:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗总统选举今日举行 4名候选人多数为保守派人士】根据伊朗内政部此前消息，伊朗将于今天（6月18日）举行第13届总统选举。投票将从当地时间早上7时开始，必要情况下，将持续至明天凌晨2时。伊朗总统选举每4年举行一次，总统由选民直接投票选举产生，可连任一届。如果在今天的选举中没有候选人得票过半，得票率最高的两人将进入25日的“决胜轮”。4名候选人参与角逐，多数为保守派人士。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0292964.d.html</link>
-            <guid>2212743</guid>
-            <pubDate>Fri, 18 Jun 2021 01:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【深圳：强化企业上市培育工作协调机制 鼓励长线资金支持创投产业】今日，《深圳市2021年深化“放管服”改革 优化营商环境重点任务清单》出炉。任务清单提出，成立市级转贷资金池，帮助中小微企业按期还贷、顺利续贷。构建小微企业“首贷户”培育长效机制，推动无贷户向首贷户转化。强化企业上市培育工作协调机制，搭建“星耀鹏城”企业上市直通车服务平台。修订出台《深圳经济特区创业投资条例》，丰富创投行业资金来源，鼓励长线资金支持创投产业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0292826.d.html</link>
-            <guid>2212742</guid>
-            <pubDate>Fri, 18 Jun 2021 01:18:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金上破1780美元/盎司，日内涨0.41%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqcfnca1695070.d.html</link>
-            <guid>2212741</guid>
-            <pubDate>Fri, 18 Jun 2021 01:17:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[人民币中间价报6.4361，下调63点，上一交易日中间价报6.4298，在岸人民币上一交易日收报6.4277。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0292436.d.html</link>
-            <guid>2212740</guid>
-            <pubDate>Fri, 18 Jun 2021 01:15:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国电商巨头Coupang物流中心燃起大火，灭火工作仍在进行】据韩国《亚洲经济》官方微博发布报道称，当地时间17日，在京畿道利川市麻长面，电商巨头Coupang的德坪物流中心燃起大火。该建筑地下2楼当天清晨5点20分左右起火，消防队随即出动并在上午8点左右控制住火势，但中午12点左右火势再度蔓延并席卷整栋大楼。截至18日上午5时30分，消防人员仍在进行灭火工作。据悉，该物流中心共6层楼，总面积12.7178万平方米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0292273.d.html</link>
-            <guid>2212739</guid>
-            <pubDate>Fri, 18 Jun 2021 01:14:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[信达证券：给予立高食品买进的初始评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-18/detail-ikqciyzk0292155.d.html</link>
-            <guid>2212738</guid>
-            <pubDate>Fri, 18 Jun 2021 01:14:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
