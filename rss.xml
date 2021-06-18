@@ -4,11 +4,94 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 18 Jun 2021 20:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jun 2021 21:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美债走势分化，长债上涨，短债下跌，布拉德鹰派讲话使得短债遭到抛售，收益率曲线急剧趋平】周五（6月18日）纽约尾盘，美国10年期基准国债收益率下跌6.60个基点，报1.4381%；本周（较上周五纽约尾盘）累跌1.38个基点。 20年期美债收益率下跌7.94个基点，报1.9587%；本周累跌10.21个基点。 30年期美债收益率下跌8.01个基点，报2.0127%，盘中一度跌至2.0020%，为2月以来最低水平，逼近2%大关；本周累跌12.53个基点。 五年期美债收益率下跌0.63个基点，报0.8746%，盘中一度冲高至0.9609%；本周累涨13.59个基点。 2年期美债收益率上涨4.48个基点，报0.2541%，盘中一度涨至0.2824%；本周累涨10.71个基点。受美联储布拉德鹰派讲话影响，美国短期国债在周五前市遭到大举抛售。 10年和2年期美债收益率利差下跌10.873个基点，报118.195个基点，本周累跌12.096个基点；30年和5年期美债收益率利差下跌7.610个基点，报113.481个基点，本周累跌26.11个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0470371.d.html</link>
+            <guid>2213978</guid>
+            <pubDate>Fri, 18 Jun 2021 21:15:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：苏格兰独立公投将对英国的信用状况产生负面影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1871635.d.html</link>
+            <guid>2213977</guid>
+            <pubDate>Fri, 18 Jun 2021 21:12:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：英国与欧盟的服务贸易存在更大的不确定性，因为《贸易与合作协议》（TCA）只包括跨境服务贸易的一般条款。]]></title>
+            <guid>2213976</guid>
+            <pubDate>Fri, 18 Jun 2021 21:09:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：预计英国一般政府债务将逐步上升，其占GDP的比例到2024年底将达到110%的峰值。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0469812.d.html</link>
+            <guid>2213975</guid>
+            <pubDate>Fri, 18 Jun 2021 21:08:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：预计2021年英国政府总赤字占GDP比例将略降至10.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1871333.d.html</link>
+            <guid>2213974</guid>
+            <pubDate>Fri, 18 Jun 2021 21:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：预计2021年英国平均失业率仅为5.4%，低于此前预期的7.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0469702.d.html</link>
+            <guid>2213972</guid>
+            <pubDate>Fri, 18 Jun 2021 21:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：确认英国的评级为“AA-”，前景展望从负面调整至稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1871201.d.html</link>
+            <guid>2213971</guid>
+            <pubDate>Fri, 18 Jun 2021 21:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗素 1000和罗素2000指数将宣布成分股更新，AMC院线(AMC.N)和游戏驿站(GME.N)因市值太大有望被剔除。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0469325.d.html</link>
+            <guid>2213970</guid>
+            <pubDate>Fri, 18 Jun 2021 20:58:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：预计加拿大央行将在2022年下半年开始从0.25%的利率水平上逐步收紧周期，并已经开始缩减二级市场债券购买。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0469309.d.html</link>
+            <guid>2213969</guid>
+            <pubDate>Fri, 18 Jun 2021 20:58:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：加拿大政府赤字占GDP的比例将从2021年的8.2%降至2022年的3.2%，2023年降至2.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1870717.d.html</link>
+            <guid>2213968</guid>
+            <pubDate>Fri, 18 Jun 2021 20:55:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：确认加拿大评级为“AA+”，前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1870686.d.html</link>
+            <guid>2213967</guid>
+            <pubDate>Fri, 18 Jun 2021 20:54:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国政府建议，由税收执法所得来支持基建协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1870275.d.html</link>
+            <guid>2213966</guid>
+            <pubDate>Fri, 18 Jun 2021 20:44:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：强降雨和热带风暴级大风将席卷墨西哥湾北部部分地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0468573.d.html</link>
+            <guid>2213965</guid>
+            <pubDate>Fri, 18 Jun 2021 20:37:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股收评：美联储转向鹰派的影响力持续，加上圣路易斯联储银行总裁布拉德预计局方将于明年底首次加息，拖累道指挫逾500点，标普500指数、纳指盘中均一度跌超1%。美债息率曲线急剧趋平，2年期美债等短债息率上升，而10年期美债等长债息率下降。截至收盘，道指收跌1.57%，报33291.53点。道指本周累跌3.45%，标普500指数本周累跌1.91%，纳指本周累跌0.28%。盘面上，中概在线教育股集体反弹，半导体板块、油气股、银行股普跌。个股方面，新股万物新生(RERE.N)收涨21.29%，好未来(TAL.N)收涨8.54%，高盛(GS.N)收跌3.5%，美光科技(MU.O)收跌4.58%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0468132.d.html</link>
+            <guid>2213964</guid>
+            <pubDate>Fri, 18 Jun 2021 20:26:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[标普500指数11大板块全部下跌，能源板块领跌，其次是公用事业板块和金融板块；非日常生活消费品板块跌幅最小，其次是信息技术板块。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1869336.d.html</link>
@@ -427,90 +510,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1857830.d.html</link>
             <guid>2213879</guid>
             <pubDate>Fri, 18 Jun 2021 16:59:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理默克尔：俄罗斯对欧洲来说是一个巨大的挑战，但即便这很困难，与俄罗斯继续谈判也符合我们的利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0456162.d.html</link>
-            <guid>2213878</guid>
-            <pubDate>Fri, 18 Jun 2021 16:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理默克尔：必须对变种新冠病毒保持警惕。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0456055.d.html</link>
-            <guid>2213877</guid>
-            <pubDate>Fri, 18 Jun 2021 16:57:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伦镍收跌逾2.4%，失守3万美元关口】LME期铜收跌170美元，报9146美元/吨。 LME期铝收跌15美元，报2385美元/吨。 LME期锌收跌89美元，报2822美元/吨。 LME期铅收涨28美元，报2158美元/吨。 LME期镍收跌20美元，报17154美元/吨。 LME期锡收跌738美元，报29862美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0455832.d.html</link>
-            <guid>2213876</guid>
-            <pubDate>Fri, 18 Jun 2021 16:54:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯与部分国家恢复通航】当地时间18日，俄罗斯副总理戈利科娃表示，俄防疫指挥部决定，从6月22日起恢复同土耳其之间的航班；从6月28日起恢复同美国、比利时、保加利亚、约旦、爱尔兰和意大利的航班；增加同奥地利、阿塞拜疆、亚美尼亚和希腊之间的航班；增加从俄罗斯飞往卡塔尔、芬兰、克罗地亚和瑞士的航班。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0455820.d.html</link>
-            <guid>2213875</guid>
-            <pubDate>Fri, 18 Jun 2021 16:54:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[秘鲁央行：2022年通胀率将保持在目标范围内。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0455751.d.html</link>
-            <guid>2213874</guid>
-            <pubDate>Fri, 18 Jun 2021 16:53:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：土耳其央行监管机构将一些宽限措施延长至9月底。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1856868.d.html</link>
-            <guid>2213873</guid>
-            <pubDate>Fri, 18 Jun 2021 16:47:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【缅甸5月份吸引外资约25亿美元】根据缅甸投资与公司管理局（DICA）当地时间6月18日公布的最新数据，缅甸2021年5月共吸引外资25.02亿美元，这一数字是缅甸本财年前7个月吸引外资总额12.56亿美元的两倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1856858.d.html</link>
-            <guid>2213872</guid>
-            <pubDate>Fri, 18 Jun 2021 16:46:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  秘鲁央行：将2021年通胀预期从之前的2%上调至3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1856846.d.html</link>
-            <guid>2213871</guid>
-            <pubDate>Fri, 18 Jun 2021 16:46:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  秘鲁央行预计2021年底外汇汇率为3.6索尔兑美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0455058.d.html</link>
-            <guid>2213870</guid>
-            <pubDate>Fri, 18 Jun 2021 16:45:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  肿瘤生物科技公司Cyteir Therapeutics(CYT.O)上市首日开跌近6%，发行价18美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1855818.d.html</link>
-            <guid>2213869</guid>
-            <pubDate>Fri, 18 Jun 2021 16:37:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股太阳能板块多数回调，瑞能新能源(SOL.N)跌近6%，Sunpower(SPWR.O)、Sunworks(SUNW.O)跌超3%，晶科能源(JKS.N)跌1.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0454060.d.html</link>
-            <guid>2213868</guid>
-            <pubDate>Fri, 18 Jun 2021 16:36:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  周五（6月18日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）上涨0.35%，报51.00欧元，本周累计下跌3.02%；5月14日以56.42欧元创历史新高以来，近期投标情况比较清淡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1855588.d.html</link>
-            <guid>2213867</guid>
-            <pubDate>Fri, 18 Jun 2021 16:35:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[秘鲁央行：2021年私人投资将增长15.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1855104.d.html</link>
-            <guid>2213866</guid>
-            <pubDate>Fri, 18 Jun 2021 16:30:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国希望在伊朗新总统上台之前达成核协议】一名美国官员告诉Axios，拜登政府希望在伊朗新总统宣誓就职前的六周内与伊朗恢复2015年的核协议。这位官员说，如果谈判拖到8月初，那将是“令人担忧的”，那时伊朗将进行过渡。伊朗最高领袖哈梅内伊的亲密盟友、保守派司法机构负责人Raisi显然有望赢得周五的伊朗总统选举。改革派阵营的重要成员没有被允许参加竞选，这意味着更温和的伊朗总统鲁哈尼几乎肯定会将权力移交给强硬派。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1854990.d.html</link>
-            <guid>2213865</guid>
-            <pubDate>Fri, 18 Jun 2021 16:29:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
