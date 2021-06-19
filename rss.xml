@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 19 Jun 2021 15:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jun 2021 16:38:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：斐济群岛地区发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0625260.d.html</link>
+            <guid>2214471</guid>
+            <pubDate>Sat, 19 Jun 2021 16:35:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋航空将从6月23日起恢复从南非、印度和尼日利亚起飞的航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2026912.d.html</link>
+            <guid>2214468</guid>
+            <pubDate>Sat, 19 Jun 2021 16:35:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国新增22例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2025332.d.html</link>
+            <guid>2214395</guid>
+            <pubDate>Sat, 19 Jun 2021 16:20:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约州新增9例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0622838.d.html</link>
+            <guid>2214351</guid>
+            <pubDate>Sat, 19 Jun 2021 16:09:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[由于国内确诊病例的增长，阿曼当局决定从当地时间6月20日开始，每天20时至次日凌晨4时之间实施宵禁，宵禁期间禁止个人和车辆流动，同时关闭所有公共场所，并停止一切商业活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2023488.d.html</link>
+            <guid>2214301</guid>
+            <pubDate>Sat, 19 Jun 2021 16:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利新增1197例新冠肺炎确诊病例，新增28例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0621598.d.html</link>
+            <guid>2214295</guid>
+            <pubDate>Sat, 19 Jun 2021 15:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特领导的联军表示，其拦截并摧毁也门胡塞武装的两架装有爆炸物的无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca2022371.d.html</link>
+            <guid>2214294</guid>
+            <pubDate>Sat, 19 Jun 2021 15:40:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据阿联酋通讯社：阿联酋当局将于下周一（6月21日）起暂停来自利比里亚、塞拉利昂和纳米比亚的航班旅客入境。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca2021519.d.html</link>
@@ -418,48 +460,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1976750.d.html</link>
             <guid>2214181</guid>
             <pubDate>Sat, 19 Jun 2021 08:29:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日本共同社：东京奥运会场外群众直播观看场所将被取消。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0574913.d.html</link>
-            <guid>2214179</guid>
-            <pubDate>Sat, 19 Jun 2021 08:26:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【爱回收上市：股东阵容豪华 成中概股ESG第一股】北京时间6月18日，我国二手消费电子产品交易和服务平台万物新生集团（爱回收）登陆纽交所，成为中概股ESG第一股。IPO前，万物新生集团已获得多轮资本投资，自2012年以来，先后获得五源资本、世界银行旗下投资机构IFC、京东集团、老虎环球基金、天图资本、凯辉基金、启承资本、达晨创投和快手等投资机构和企业巨头投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0574412.d.html</link>
-            <guid>2214178</guid>
-            <pubDate>Sat, 19 Jun 2021 08:23:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本东京都知事小池百合子：东京奥运会将禁止观众现场观看比赛。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1975289.d.html</link>
-            <guid>2214177</guid>
-            <pubDate>Sat, 19 Jun 2021 08:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【网游总收入超1200亿元，这个城市正在向“全球电竞之都”迈进】第三方数据分析平台伽马数据今日发布了《2020-2021上海游戏出版产业报告》和《2021上海电子竞技产业发展评估报告》。数据显示，2020年上海网络游戏国内销售收入达999.2亿元，占全国比重达35.9%；2020年上海网络游戏海外销售收入约206.8亿元，增幅超50%；2020年，上海电竞市场规模达到201.8亿元，保持高速增长，预计2021年，上海电子竞技游戏市场规模将达到228.1亿元。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1974971.d.html</link>
-            <guid>2214176</guid>
-            <pubDate>Sat, 19 Jun 2021 08:16:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  菲律宾新增新冠肺炎确诊病例6959例，累计确诊超135万例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0572985.d.html</link>
-            <guid>2214175</guid>
-            <pubDate>Sat, 19 Jun 2021 08:12:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据《贝尔法斯特电讯报》：英国北爱尔兰首席大臣刘易斯表示其将辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0571159.d.html</link>
-            <guid>2214171</guid>
-            <pubDate>Sat, 19 Jun 2021 07:59:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据伊朗国家电视台：伊朗内政部宣布伊朗司法总监易卜拉欣·莱西赢得总统大选。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0570844.d.html</link>
-            <guid>2214170</guid>
-            <pubDate>Sat, 19 Jun 2021 07:57:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
