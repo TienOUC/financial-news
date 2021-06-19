@@ -4,11 +4,52 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 19 Jun 2021 13:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jun 2021 14:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  伊朗国家电视台：周日（6月20日）可能会举行“联合全面行动计划”（JCPOA）联合委员会会议。]]></title>
+            <guid>2214282</guid>
+            <pubDate>Sat, 19 Jun 2021 14:12:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海南自贸港首批重点园区土地征收成片开发方案获批】近日，海南自贸港首批重点园区土地征收成片开发方案——海口国家高新区美安生态科技新城一期、狮子岭工业园一期东片区、云龙产业园一期三片区土地征收成片开发方案——获批。预计10个具有自贸港显示度的产业项目将在6月底前密集挂地，产业用地面积约360亩。据了解，美安生态科技新城以医药及医疗器械、先进制造为主导，重点发展医药生产研发与认证、医疗器械生产研发、与医药相融合的新型产业、高端低碳轻型制造业等产业。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca2014615.d.html</link>
+            <guid>2214281</guid>
+            <pubDate>Sat, 19 Jun 2021 14:06:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【安徽：总投资超1000亿元的207个项目集中开工】安徽加快新兴产业集聚地建设暨2021年全省第六批重大项目集中开工动员会在马鞍山启动。全省16个市共有207个项目集中开工，总投资1041.4亿元。据安徽省发展和改革委员会有关负责人介绍，此次集中开工207个项目，总投资1041.4亿元，集中开工项目涉及战略性新兴产业、传统产业升级改造等11个行业领域，今年计划投资221.3亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0611594.d.html</link>
+            <guid>2214280</guid>
+            <pubDate>Sat, 19 Jun 2021 13:50:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国：2031年之前发射14颗6G通信卫星】韩国副总理兼韩国战略与财政部部长洪南基6月18日发布了一项计划，未来10年，韩国政府将开发并建设100多颗用于公共用途的微型卫星，以形成市场需求，并带动相关产业增长；相关计划还包括将在2031年之前发射14颗6G通信卫星，以期使韩国在面向6G应用的卫星通信方面处于全球领先地位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca2012629.d.html</link>
+            <guid>2214279</guid>
+            <pubDate>Sat, 19 Jun 2021 13:46:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特新增新冠肺炎确诊病例1153例，累计确诊473112例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0610759.d.html</link>
+            <guid>2214277</guid>
+            <pubDate>Sat, 19 Jun 2021 13:42:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据卫星新闻：俄罗斯总统普京表示，希望伊朗新当选的总统莱西能促进双边合作取得建设性的发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca2011786.d.html</link>
+            <guid>2214276</guid>
+            <pubDate>Sat, 19 Jun 2021 13:38:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[越南新增486例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0609866.d.html</link>
+            <guid>2214275</guid>
+            <pubDate>Sat, 19 Jun 2021 13:34:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[伊朗前总统艾哈迈迪内贾德：伊朗方面需要与美国在平等的基础上共同解决问题。（卫星新闻）]]></title>
             <guid>2214274</guid>
@@ -432,35 +473,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1966607.d.html</link>
             <guid>2214154</guid>
             <pubDate>Sat, 19 Jun 2021 07:15:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国疾控中心：截至昨日，美国累计新冠肺炎确诊病例达33341986例；累计死亡病例达598713例。]]></title>
-            <guid>2214151</guid>
-            <pubDate>Sat, 19 Jun 2021 07:09:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白鹤滩水电站500千伏送出工程带电投运】18日，白鹤滩水电站500千伏送出工程带电投运，标志着白鹤滩水电站成功接入四川电网主网，具备了向外送电的条件。白鹤滩水电站500千伏送出工程主要负责把白鹤滩水电站接入四川电网，将水电站首批机组发出来的电，通过已有送电通道输送出去，为下一步把白鹤滩水电站的水电通过特高压线路送到江苏和浙江奠定了基础。同时，该线路工程还负责把四川电网的电返送至白鹤滩水电站，为水电站首批机组发电调试提供电源。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1965439.d.html</link>
-            <guid>2214150</guid>
-            <pubDate>Sat, 19 Jun 2021 07:08:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【伊朗宣布总统选举初步结果 莱西得票率62%】据伊朗国家电视台当地时间19日报道，伊朗总统选举委员会主席贾马尔·阿尔夫在当天举行的新闻发布会上宣布了伊朗第13届总统选举的初步统计结果。初步统计显示，有2860万人参加了投票，伊朗司法总监易卜拉欣·莱西赢得了1780万张选票，得票率约为62%。 (央视)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1963869.d.html</link>
-            <guid>2214147</guid>
-            <pubDate>Sat, 19 Jun 2021 06:58:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【2020年浙江集成电路产业销售规模破千亿 “两极多点”产业格局逐步形成】《2021年浙江省半导体行业发展报告》正式发布。《报告》显示，2020年，我国集成电路产业规模达8848亿元，同比增长17%。长三角、珠三角、京津环渤海等地区集成电路产业呈现快速增长的势头。其中，浙江省集成电路产业销售规模达到1168亿元，位居全国第六，同比增长近五成。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1963678.d.html</link>
-            <guid>2214146</guid>
-            <pubDate>Sat, 19 Jun 2021 06:57:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：伊朗选举结果出炉，莱西正式当选新任总统】法新社报道，伊朗强硬派候选人莱西（Ebrahim Raisi）正式当选伊朗总统。即将离任的总统鲁哈尼说：“我祝贺人民的选择。”但他并没有提到莱西的名字。半岛电视台报道称，其他三位候选人的集体票也不如他多，他们三位分别已向莱西表达祝贺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0561004.d.html</link>
-            <guid>2214144</guid>
-            <pubDate>Sat, 19 Jun 2021 06:50:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
