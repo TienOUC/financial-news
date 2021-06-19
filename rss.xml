@@ -4,11 +4,52 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 19 Jun 2021 14:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jun 2021 15:28:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据阿联酋通讯社：阿联酋当局将于下周一（6月21日）起暂停来自利比里亚、塞拉利昂和纳米比亚的航班旅客入境。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca2021519.d.html</link>
+            <guid>2214293</guid>
+            <pubDate>Sat, 19 Jun 2021 15:26:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴克劳德特（Claudette）正在向东北方向移动，风暴中心位于密西西比州南部。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca2020988.d.html</link>
+            <guid>2214291</guid>
+            <pubDate>Sat, 19 Jun 2021 15:20:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广州南沙珠江街嘉安花园由封闭管理调整为执行封控管理】广州市南沙区调整分级分类防控措施，珠江街嘉安花园由执行封闭管理调整为执行封控管理，区域内现有人员不得离开本区域，非本区域居民不得进入。调整珠江街灵新大道以东、工业路一巷以南、六涌以北区域的封控管理措施，实施严格的防控管理。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca2020765.d.html</link>
+            <guid>2214290</guid>
+            <pubDate>Sat, 19 Jun 2021 15:17:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国新增10321例新冠肺炎确诊病例，新增14例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca2019778.d.html</link>
+            <guid>2214288</guid>
+            <pubDate>Sat, 19 Jun 2021 15:05:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  6月19日，东莞市虎门镇、长安镇、大岭山镇分别发布关于开展大规模核酸筛查的通告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0618133.d.html</link>
+            <guid>2214287</guid>
+            <pubDate>Sat, 19 Jun 2021 15:02:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【我国电动自行车保有量超3亿 多地限制电动自行车上楼】目前，我国的电动两轮、三轮自行车保有量已经超过3亿，并且还在以每年30%的速度增长。与此同时，由于电动车充电导致的火灾事故也频频发生。专家表示，我国城市电动自行车的充电需求巨大。2021年5月以来，我国多个城市已出台地方性规定，进一步对电动自行车在楼道、室内充电进行了明确限制，并加快设置室外集中充电设施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca2019214.d.html</link>
+            <guid>2214286</guid>
+            <pubDate>Sat, 19 Jun 2021 14:58:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【辽宁将扩大旅游黄金季消费 加快旅游业恢复性增长】辽宁省文化和旅游厅厅长张克宇在辽宁省旅游业发展推进会上表示，辽宁省文化和旅游厅将印发《关于扩大旅游黄金季消费，加快全省旅游业恢复性增长的工作方案》，以夏秋旅游黄金季为切入点，保持政策措施的“温度”、激活市场的“力度”、推进项目建设的“热度”、文旅融合的“深度”、品牌创建的“高度”、扩大供给的“速度”。（中新网）]]></title>
+            <guid>2214283</guid>
+            <pubDate>Sat, 19 Jun 2021 14:30:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  伊朗国家电视台：周日（6月20日）可能会举行“联合全面行动计划”（JCPOA）联合委员会会议。]]></title>
             <guid>2214282</guid>
@@ -419,60 +460,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0570844.d.html</link>
             <guid>2214170</guid>
             <pubDate>Sat, 19 Jun 2021 07:57:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【辽宁将扩大旅游黄金季消费 加快旅游业恢复性增长】辽宁省文化和旅游厅厅长张克宇在辽宁省旅游业发展推进会上表示，辽宁将抢抓夏秋黄金旅游季节，促进旅游业恢复增长，争取主要经济指标由负转正。张克宇表示，2021年是疫后抢抓机遇促进旅游业恢复性增长的重要一年。辽宁省文化和旅游厅将印发《关于扩大旅游黄金季消费，加快全省旅游业恢复性增长的工作方案》，以夏秋旅游黄金季为切入点，保持政策措施的“温度”、激活市场的“力度”、推进项目建设的“热度”、文旅融合的“深度”、品牌创建的“高度”、扩大供给的“速度”。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0570754.d.html</link>
-            <guid>2214169</guid>
-            <pubDate>Sat, 19 Jun 2021 07:56:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗外长：核谈判中的问题并非不可逾越，希望在8月前取得结果。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1972068.d.html</link>
-            <guid>2214168</guid>
-            <pubDate>Sat, 19 Jun 2021 07:54:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本东京新增388例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1971291.d.html</link>
-            <guid>2214162</guid>
-            <pubDate>Sat, 19 Jun 2021 07:48:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马来西亚新增5911例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0569409.d.html</link>
-            <guid>2214161</guid>
-            <pubDate>Sat, 19 Jun 2021 07:46:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡新增14例本土新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1969313.d.html</link>
-            <guid>2214160</guid>
-            <pubDate>Sat, 19 Jun 2021 07:34:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【合肥空港示范区已具备申报国家级临空经济示范区基本条件】记者获悉，目前，合肥市已编制了《合肥市临空经济示范区总体方案(初稿)》，正在征求相关市、相关单位意见。根据规划，合肥空港经济示范区将围绕“长三角区域门户枢纽、科创型临空产业集聚区、国际生态宜居精英航城”的定位，加快推进合肥新桥国际机场区域枢纽建设，统筹推进临空产业发展，积极申报国家级临空经济示范区。安徽省发改委地区经济处认为，目前，合肥空港示范区已具备申报国家级临空经济示范区的基本条件。（江淮晨报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0567706.d.html</link>
-            <guid>2214159</guid>
-            <pubDate>Sat, 19 Jun 2021 07:34:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家新能源汽车技术创新中心总经理原诚寅：2022年我国汽车芯片市场可达150亿美元】在2021中国汽车论坛上，国家新能源汽车技术创新中心总经理原诚寅表示，我国汽车产品用芯片进口占90%，关键系统芯片全部为国外垄断。2022年我国汽车市场约2500万辆，汽车芯片市场可达150亿美元，约占全球22%，甚至更高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1968866.d.html</link>
-            <guid>2214157</guid>
-            <pubDate>Sat, 19 Jun 2021 07:31:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福建泉州赤鼎屿灯塔建成投入使用】来自交通运输部消息，位于“海上丝绸之路”起点的福建泉州赤鼎屿灯塔建成发光，并于19日正式投入使用。该灯塔的建成，将为航经泉州湾水域的船舶提供定位导向、航路指引等导助航服务，有效改善区域水域通航环境，降低船舶航行风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0565179.d.html</link>
-            <guid>2214155</guid>
-            <pubDate>Sat, 19 Jun 2021 07:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上期能源原油期权全市场生产系统演练圆满结束】上海国际能源交易中心于5月29日、6月5日和6月19日分别进行了三次原油期权全市场生产系统演练。演练内容为原油期权上市当天日盘的交易、结算、行情转发、做市商报价等业务场景。总体演练过程顺利，符合预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1966607.d.html</link>
-            <guid>2214154</guid>
-            <pubDate>Sat, 19 Jun 2021 07:15:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
