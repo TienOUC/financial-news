@@ -4,11 +4,51 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 19 Jun 2021 20:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jun 2021 21:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国新冠肺炎确诊病例超过3352万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2043056.d.html</link>
+            <guid>2214787</guid>
+            <pubDate>Sat, 19 Jun 2021 21:14:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西新增82288例新冠肺炎确诊病例，新增2301例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2042714.d.html</link>
+            <guid>2214786</guid>
+            <pubDate>Sat, 19 Jun 2021 21:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[根据美国约翰斯·霍普金斯大学统计的数据显示，美国新冠肺炎确诊病例已超过3352万例，达到33520411例。死亡病例超过60万例，达到601647例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0640596.d.html</link>
+            <guid>2214785</guid>
+            <pubDate>Sat, 19 Jun 2021 20:59:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯能源部：克里米亚此前因雷雨天气断电，目前已经恢复供电。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0640390.d.html</link>
+            <guid>2214784</guid>
+            <pubDate>Sat, 19 Jun 2021 20:54:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿富汗新增1384例新冠肺炎确诊病例，累计确诊101906例。]]></title>
+            <guid>2214783</guid>
+            <pubDate>Sat, 19 Jun 2021 20:54:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿富汗新增1384例新冠肺炎确诊病例，累计确诊101906例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0639657.d.html</link>
+            <guid>2214782</guid>
+            <pubDate>Sat, 19 Jun 2021 20:33:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  印度财长西塔拉曼：印度政府正在收集需要救助的行业的信息。]]></title>
+            <guid>2214781</guid>
+            <pubDate>Sat, 19 Jun 2021 20:24:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  法国新增22例新冠肺炎死亡病例。]]></title>
             <guid>2214780</guid>
@@ -408,47 +448,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1995688.d.html</link>
             <guid>2214225</guid>
             <pubDate>Sat, 19 Jun 2021 11:02:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海金融对外开放更上一层楼 新一批中外资金融机构在沪集体开业】6月18日，包括全国首家获批开业的外商独资公募基金公司在内的3家中外资金融机构，在上海举行集体开业仪式。此次开业的3家中外资机构都具有代表性意义。包括全国首家外资独资公募基金公司、外资控股证券公司和金融科技企业。其中贝莱德基金管理有限公司是我国于2020年4月1日正式取消对公募基金管理公司外资持股比例限制后，全国首家获批开业的外资独资公募基金管理公司。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0594225.d.html</link>
-            <guid>2214224</guid>
-            <pubDate>Sat, 19 Jun 2021 10:59:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【持续回暖：短短半个多月，基金新发已超1200亿】据Wind数据显示，以基金成立日作为统计标准，截至6月18日，新发基金数量为115只，发行规模达1274.07亿元。6月刚过半，新发基金规模已较整个4月份和5月份分别了增长23%和30%。其中，权益类基金（股票型+混合型）发行规模达1181.02亿元，较整个4月份和5月份分别增长了23%和37%。多位业内人士表示，近期新基金销售有所回暖，这与市场短期赚钱效应恢复有关，同时A股成交金额明显增长，市场活跃度增加，新增资金入市对新基金的发行也有带动作用。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0594202.d.html</link>
-            <guid>2214223</guid>
-            <pubDate>Sat, 19 Jun 2021 10:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据伊朗卫生部当地时间19日消息，过去24小时，伊朗新增新冠肺炎确诊病例6448例，新增死亡病例108例。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0594061.d.html</link>
-            <guid>2214221</guid>
-            <pubDate>Sat, 19 Jun 2021 10:57:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白俄罗斯媒体当地时间19日报道称，白俄罗斯总统卢卡申科当天表示，“既然乌克兰已经针对白俄罗斯航班关闭了领空，那么白俄罗斯也不会接受来自乌克兰的飞机”。（环球网）]]></title>
-            <guid>2214220</guid>
-            <pubDate>Sat, 19 Jun 2021 10:51:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：由于新冠肺炎确诊病例持续增加，阿曼方面实施部分封锁措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0593262.d.html</link>
-            <guid>2214219</guid>
-            <pubDate>Sat, 19 Jun 2021 10:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白俄罗斯总统：白俄罗斯不再接受来自乌克兰的飞机】白俄罗斯媒体当地时间19日报道称，白俄罗斯总统卢卡申科当天表示，“既然乌克兰已经针对白俄罗斯航班关闭了领空，那么白俄罗斯也不会接受来自乌克兰的飞机”。瑞安航空公司事件后，乌克兰政府宣布自5月29日0时起对白俄罗斯飞机关闭领空，禁止在白俄罗斯注册登记的飞机飞越乌克兰领空。随后乌克兰政府指示基础设施部、外交部等相关部门按规定方式通知白俄罗斯。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0593029.d.html</link>
-            <guid>2214218</guid>
-            <pubDate>Sat, 19 Jun 2021 10:48:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯驻伊朗大使馆发布消息称，俄总统普京致电祝贺易卜拉欣·莱西赢得伊朗总统大选。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1993526.d.html</link>
-            <guid>2214217</guid>
-            <pubDate>Sat, 19 Jun 2021 10:41:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
