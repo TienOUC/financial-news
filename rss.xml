@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 20 Jun 2021 05:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Jun 2021 06:31:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧洲央行执委帕内塔：数字欧元可以保护消费者隐私。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2124410.d.html</link>
+            <guid>2214895</guid>
+            <pubDate>Sun, 20 Jun 2021 06:21:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国下月1日放宽防疫措施。 (韩联社)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0721909.d.html</link>
+            <guid>2214893</guid>
+            <pubDate>Sun, 20 Jun 2021 06:14:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【亚美尼亚议会提前选举今日开始】据塔斯社报道，亚美尼亚议会选举将于当地时间6月20日8时正式开始。据介绍，本次议会选举为提前选举，全国共设超过2000个投票点，投票点将于当地时间20日22时正式关闭。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0719554.d.html</link>
+            <guid>2214890</guid>
+            <pubDate>Sun, 20 Jun 2021 06:01:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中石油探明国内首个超10亿吨级大油田】中国石油长庆油田在鄂尔多斯盆地长7石油勘探获得重大成果，探明地质储量超10亿吨的页岩油整装大油田，成为我国目前探明储量规模最大的页岩油大油田。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2119962.d.html</link>
+            <guid>2214888</guid>
+            <pubDate>Sun, 20 Jun 2021 05:52:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国新增新冠肺炎确诊病例3682例，累计确诊218131例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0717149.d.html</link>
+            <guid>2214887</guid>
+            <pubDate>Sun, 20 Jun 2021 05:43:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特阿美：正在签署一项协议，出售新成立子公司价值124亿美元的股权。沙特阿美将始终保留油气管网的所有权及运营控制权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0716547.d.html</link>
+            <guid>2214886</guid>
+            <pubDate>Sun, 20 Jun 2021 05:40:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【信维通信：目前已与上汽大众等汽车厂商形成合作】信维通信(300136)在互动平台表示，华为是公司的重要合作对象，公司为其提供天线、无线充电模组、EMI\EMC等泛射频产品，公司与华为未有汽车领域的产品提供。公司目前已与上汽大众等汽车厂商形成合作，还将继续拓展相关领域内的客户覆盖，并根据客户的需求计划拓展更多类型产品的业务合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0714976.d.html</link>
+            <guid>2214884</guid>
+            <pubDate>Sun, 20 Jun 2021 05:29:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【日本学校供餐牛奶导致上千人食物中毒】日本富山县富山市多所学校和幼儿园近日发生集体食物中毒事件。富山市保健所19日宣布食物中毒的原因是供餐牛奶问题，牛奶提供商内田乳业公司已受到停止营业处分。据报道，富山市在对内田乳业公司检查时发现，与装牛奶的罐子连接的管子清洗不到位。（新华网）]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0712157.d.html</link>
@@ -465,47 +507,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0639086.d.html</link>
             <guid>2214779</guid>
             <pubDate>Sat, 19 Jun 2021 20:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列总理贝内特将于6月28日访问白宫，与美国总统拜登举行会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0638907.d.html</link>
-            <guid>2214777</guid>
-            <pubDate>Sat, 19 Jun 2021 20:11:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西卫生部长：巴西新冠肺炎死亡病例超过50万例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0638335.d.html</link>
-            <guid>2214776</guid>
-            <pubDate>Sat, 19 Jun 2021 19:56:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雪佛龙开始增加墨西哥湾Tahiti平台的原油产量，此前该平台因风暴而停产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2039614.d.html</link>
-            <guid>2214774</guid>
-            <pubDate>Sat, 19 Jun 2021 19:40:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雪佛龙开始将因风暴而撤离的工人送回墨西哥湾海上平台。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2039564.d.html</link>
-            <guid>2214773</guid>
-            <pubDate>Sat, 19 Jun 2021 19:39:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  南非新增13575例新冠肺炎确诊病例，新增149例死亡病例。]]></title>
-            <guid>2214772</guid>
-            <pubDate>Sat, 19 Jun 2021 19:38:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：06月20日02时57分在墨西哥发生5.3级地震，震源深度210千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2039168.d.html</link>
-            <guid>2214771</guid>
-            <pubDate>Sat, 19 Jun 2021 19:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：墨西哥恰帕斯州Rizo De Oro东北偏东10公里处发生5.4级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2038732.d.html</link>
-            <guid>2214769</guid>
-            <pubDate>Sat, 19 Jun 2021 19:17:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
