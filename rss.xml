@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 20 Jun 2021 19:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Jun 2021 20:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【法国大区和省议会选举第一轮投票结束 投票率又创新低】当地时间6月20日20时，法国大区和省议会选举第一轮投票正式结束。初步统计显示，执政党共和国前进党仅获得10.9%的选票；国民联盟政党获得19.1%的选票；社会党获得16.5%的选票；右翼联盟（共和党及其他右翼党派）获得29.3%的选票。另外，此次选举投票率又创新低。截至投票结束时，法国本土投票率仅为32.8%，弃权率为67.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2203309.d.html</link>
+            <guid>2215105</guid>
+            <pubDate>Sun, 20 Jun 2021 20:11:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：沙特领导的联军摧毁了也门胡塞武装的无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0801567.d.html</link>
+            <guid>2215104</guid>
+            <pubDate>Sun, 20 Jun 2021 20:02:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国内阁部长们不会在7月5日解除该国的封锁措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2201906.d.html</link>
+            <guid>2215103</guid>
+            <pubDate>Sun, 20 Jun 2021 19:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特新增新冠肺炎确诊病例1079例，累计确诊474191例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0800031.d.html</link>
+            <guid>2215100</guid>
+            <pubDate>Sun, 20 Jun 2021 19:25:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【为应对粮食危机 世界银行向南苏丹拨款1.16亿美元】近日，世界银行宣布拨款1.16亿美元用于解决南苏丹严重的粮食危机和蝗虫危机。计划通过增强农民能力、改善农业生产、恢复生计和粮食安全等新项目，应对南苏丹日益严重的粮食不安全状况。世界银行表示还将为南苏丹农业生计项目提供6250万美元，用于农业技能培训及农业配套支持。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2200674.d.html</link>
@@ -492,24 +516,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0768490.d.html</link>
             <guid>2215003</guid>
             <pubDate>Sun, 20 Jun 2021 12:42:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【赛格大厦实时监测情况续报】6月20日，专业机构对赛格大厦的房屋沉降、倾斜率、加速度等情况持续进行实时监测。专家组表示，截至当天中午各项监测数据正常，未超出相应标准要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0766999.d.html</link>
-            <guid>2215000</guid>
-            <pubDate>Sun, 20 Jun 2021 12:25:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海峡创新项目成果交易会闭幕 签约项目总金额逾2800亿元】20日下午，第十九届中国·海峡创新项目成果交易会闭幕。据统计，本届“海创会”达成各项协议及意向签约项目540项，总签约金额约2885亿元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2168122.d.html</link>
-            <guid>2214999</guid>
-            <pubDate>Sun, 20 Jun 2021 12:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【需求继续走弱 全国水泥均价继续下跌】六月中旬受高温、雨水及中考等多重因素影响，国内水泥市场需求继续走弱，全国水泥均价继续下跌。北方市场行情大稳小动，南方市场普跌，降价主要地区仍然集中在华东和中南市场。其中，浙江、广东、陕西等省份下调水泥价格50元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2167909.d.html</link>
-            <guid>2214998</guid>
-            <pubDate>Sun, 20 Jun 2021 12:23:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
