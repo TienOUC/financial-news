@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 20 Jun 2021 17:32:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Jun 2021 18:29:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【南非新增13155名新冠肺炎患者 总人数达1823319人】当地时间6月20日，南非卫生部确认南非当天新增新冠肺炎患者13155人，新冠肺炎患者总人数达1823319人。当日新增112例新冠肺炎死亡病例，目前南非共58702人因新冠肺炎去世。至今为止共1647503康复。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0797325.d.html</link>
+            <guid>2215093</guid>
+            <pubDate>Sun, 20 Jun 2021 18:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新一轮城市更新释放巨大投资空间】新一轮城市更新行动不断推进。近日多地城市更新行动计划密集浮现，同时，基础设施更新、老旧小区改造等一揽子城市更新重大项目提速开工。面对巨大的投资空间，各级财政资金、金融机构融资资金、社会资本等多元化投融资机制正加速形成。 （经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2198041.d.html</link>
+            <guid>2215092</guid>
+            <pubDate>Sun, 20 Jun 2021 18:19:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴克劳德特（Claudette）目前位于佐治亚州雅典-克拉克县西南偏西15公里处，最大持续风速约45千米/时。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2196945.d.html</link>
+            <guid>2215091</guid>
+            <pubDate>Sun, 20 Jun 2021 18:03:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体报道，在紧急断电后，需要几天时间才能修复伊朗布什尔核电站的技术问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2196432.d.html</link>
+            <guid>2215090</guid>
+            <pubDate>Sun, 20 Jun 2021 17:54:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京提名5人领衔统俄党竞选，俄防长、外长上榜】俄罗斯总统普京19日提名国防部长绍伊古和外长拉夫罗夫等5人，带领执政党统一俄罗斯党（统俄党）出战将于9月举行的国家杜马选举。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0795243.d.html</link>
+            <guid>2215089</guid>
+            <pubDate>Sun, 20 Jun 2021 17:53:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深中通道沉管隧道首个爬坡管节完成沉放安装】6月20日，广东交通集团发布消息，粤港澳大湾区超级工程深中通道建设再传捷报。经约24.5个小时连续作业，深中通道沉管隧道首个爬坡管节——第10个管节（E10）在深达37米的水下顺利完成对接，至此项目沉管隧道已建成1608.5米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0794254.d.html</link>
+            <guid>2215087</guid>
+            <pubDate>Sun, 20 Jun 2021 17:41:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【公募REITs释放基建投资新活力】沪深交易所首批9只基础设施公募REITs（基础设施领域不动产投资信托基金）今日正式上市，这是我国公募REITs发展的关键一步，如何把这一国际市场上成熟的不动产金融产品，结合我国经济社会发展需要和基础设施投融资领域的实际情况，以试点方式稳步启航，探索出一条适应我国国情的基础设施公募REITs发展道路，一直以来受到各方诸多关注。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqciyzk0793863.d.html</link>
+            <guid>2215086</guid>
+            <pubDate>Sun, 20 Jun 2021 17:36:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[法国新增1815例新冠肺炎确诊病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-21/detail-ikqcfnca2194589.d.html</link>
@@ -468,46 +510,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0763963.d.html</link>
             <guid>2214993</guid>
             <pubDate>Sun, 20 Jun 2021 11:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间20日，阿富汗国防部发布声明表示，过去24小时，阿安全部队与塔利班在昆都士、楠格哈尔等近十个省份发生冲突，共打死147名、击伤104名塔利班成员，并且销毁了塔利班的大量武器弹药和不同类型的地雷炸弹。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2164136.d.html</link>
-            <guid>2214990</guid>
-            <pubDate>Sun, 20 Jun 2021 11:45:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东莞市麻涌镇报告1例新冠肺炎本土确诊病例】6月20日，东莞市麻涌镇报告1例新冠肺炎本土确诊病例，系东莞市6月18日确诊病例李某某的密切接触者。（广州日报）]]></title>
-            <guid>2214989</guid>
-            <pubDate>Sun, 20 Jun 2021 11:45:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：06月20日19时08分在日本北海道地区（北纬43.50度，东经142.75度）发生5.3级地震，震源深度150千米。]]></title>
-            <guid>2214987</guid>
-            <pubDate>Sun, 20 Jun 2021 11:39:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  收官战3比0完胜美国队！中国女排结束世界女排联赛征程。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0761660.d.html</link>
-            <guid>2214986</guid>
-            <pubDate>Sun, 20 Jun 2021 11:31:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄驻美大使飞回美国，称希望两国建立平等、务实关系】俄罗斯驻美国大使阿纳托利·安东诺夫周日飞回美国，表示希望在美俄日内瓦峰会之后在两国间建立“平等和务实”的关系。安东诺夫称，“鉴于两国总统之间的会晤结果，我指望与我的美国同事进行建设性的工作，以建立平等和务实的关系”。安东诺夫指出，他处于一种“乐观的情绪”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2162756.d.html</link>
-            <guid>2214985</guid>
-            <pubDate>Sun, 20 Jun 2021 11:31:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：日本北海道SHIMO-FURANO东北31千米处发生5.4级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqciyzk0761361.d.html</link>
-            <guid>2214982</guid>
-            <pubDate>Sun, 20 Jun 2021 11:27:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃及法院推将“长赐号”货轮搁浅苏伊士运河事件听证会迟至7月4日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-20/detail-ikqcfnca2161645.d.html</link>
-            <guid>2214979</guid>
-            <pubDate>Sun, 20 Jun 2021 11:18:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
