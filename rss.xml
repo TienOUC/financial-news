@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 21 Jun 2021 21:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Jun 2021 22:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【火花思维教育科技公司向美证监会递交IPO申请 拟筹资达1亿美元】周一，据美国证券交易委员会文件，火花思维教育科技公司提交在美IPO申请，拟筹资达1亿美元，寻求在纳斯达克上市，股票代码为SPRK。瑞士信贷、花旗银行及中金公司为承销商。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2422326.d.html</link>
+            <guid>2216254</guid>
+            <pubDate>Mon, 21 Jun 2021 22:14:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥卫生部：墨西哥新冠肺炎死亡病例累计达231244例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1020191.d.html</link>
+            <guid>2216253</guid>
+            <pubDate>Mon, 21 Jun 2021 22:06:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国累计新冠肺炎确诊病例超过3355万例】根据美国约翰斯·霍普金斯大学于美国东部时间6月21日17时22分（北京时间6月22日5时22分）统计的数据显示，美国新冠肺炎确诊病例已超过3355万例，达到33550465例。死亡病例超过60万例，达到601978例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1019887.d.html</link>
+            <guid>2216252</guid>
+            <pubDate>Mon, 21 Jun 2021 22:01:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：特朗普集团状告纽约市终止高尔夫合同。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2420197.d.html</link>
+            <guid>2216251</guid>
+            <pubDate>Mon, 21 Jun 2021 21:51:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【WTI原油创一个月来最大涨幅 因美元走弱且库欣原油库存减少】受美元走软提振，WTI原油今日一度涨近2.8%，创下一个月来最大单日涨幅。因市场预期美国最大储油中心的供应将进一步下降，目前WTI原油呈现出2018年以来最严重的现货溢价结构，近月相对于远月合约的价差升至约7年来最高水平。数据提供商Genscape报告显示，上周俄克拉荷马州库欣的原油库存下降260万桶，总库欣原油库存降至2020年3月以来最低水平。道明证券大宗商品策略主管Bart Melek表示，“鉴于下半年需求料将大幅反弹且欧佩克+严格控制产量，看起来至少在目前阶段供应可能会变得更加紧张。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2420083.d.html</link>
+            <guid>2216250</guid>
+            <pubDate>Mon, 21 Jun 2021 21:48:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国民主党参议员Tester：预计基础设施法案将不包括汽油税。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2419901.d.html</link>
+            <guid>2216249</guid>
+            <pubDate>Mon, 21 Jun 2021 21:44:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国参议院小组预计将推迟针对伊拉克战争授权法法案的投票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1018432.d.html</link>
+            <guid>2216248</guid>
+            <pubDate>Mon, 21 Jun 2021 21:35:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：IMF批准临时增加快速信贷窗口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2419372.d.html</link>
+            <guid>2216246</guid>
+            <pubDate>Mon, 21 Jun 2021 21:33:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宁夏固原市原州区附近发生3.1级左右地震】中国地震台网自动测定：06月22日05时26分在宁夏固原市原州区附近（北纬35.94度，东经106.18度）发生3.1级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2419188.d.html</link>
+            <guid>2216245</guid>
+            <pubDate>Mon, 21 Jun 2021 21:29:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据英国泰晤士报：英国将从8月起放宽旅行限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1017960.d.html</link>
+            <guid>2216244</guid>
+            <pubDate>Mon, 21 Jun 2021 21:24:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【离岸人民币兑美元较上周五纽约尾盘跌56点】离岸人民币（CNH）兑美元北京时间04:59报6.4672元，较上周五纽约尾盘跌56点，盘中整体交投于6.4524-6.4798元区间。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1017871.d.html</link>
@@ -20,6 +80,12 @@
             <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2418916.d.html</link>
             <guid>2216242</guid>
             <pubDate>Mon, 21 Jun 2021 21:22:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国国务卿布林肯将主张北溪二号对欧洲能源安全构成威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2417835.d.html</link>
+            <guid>2216239</guid>
+            <pubDate>Mon, 21 Jun 2021 21:07:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[阿根廷报告新增新冠肺炎确诊病例8606例，新增死亡病例448例。]]></title>
@@ -495,72 +561,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2407142.d.html</link>
             <guid>2216155</guid>
             <pubDate>Mon, 21 Jun 2021 17:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  道指涨幅扩大至600点，标普500指数涨1.35%，纳指涨0.78%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2406993.d.html</link>
-            <guid>2216154</guid>
-            <pubDate>Mon, 21 Jun 2021 17:44:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际铜业研究小组：3月份铜市场出现19000吨的缺口。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2406779.d.html</link>
-            <guid>2216153</guid>
-            <pubDate>Mon, 21 Jun 2021 17:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国白宫：拒绝对曼钦议员有关选民身份的提案发表评论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1005732.d.html</link>
-            <guid>2216152</guid>
-            <pubDate>Mon, 21 Jun 2021 17:41:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：拜登希望解决过去18个月美国犯罪率上升的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1005491.d.html</link>
-            <guid>2216151</guid>
-            <pubDate>Mon, 21 Jun 2021 17:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国白宫：民主党的参议员在投票权立法上是团结的，这比几周前有所改善。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1005357.d.html</link>
-            <guid>2216150</guid>
-            <pubDate>Mon, 21 Jun 2021 17:36:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储在固定利率逆回购中接纳了7651亿美元，续创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1005120.d.html</link>
-            <guid>2216149</guid>
-            <pubDate>Mon, 21 Jun 2021 17:33:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Uber(UBER.N)跌超3%，此前美国银行表示，Uber股价将迎来几个重要的影响因素，包括所处行业其他公司可能进行的IPO，以及美国失业救济计划的结束。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2405891.d.html</link>
-            <guid>2216147</guid>
-            <pubDate>Mon, 21 Jun 2021 17:30:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：美国没有与伊朗领导人会晤的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2405744.d.html</link>
-            <guid>2216146</guid>
-            <pubDate>Mon, 21 Jun 2021 17:28:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：现在已经没有几个星期的时间来确定一个两党共支持的基础设施法案是否可行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1004672.d.html</link>
-            <guid>2216145</guid>
-            <pubDate>Mon, 21 Jun 2021 17:27:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：拜登将在金融监管会议上了解最新情况，预计不会做出政策决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1004423.d.html</link>
-            <guid>2216144</guid>
-            <pubDate>Mon, 21 Jun 2021 17:24:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国白宫：即使提案通过，在投票权方面还有很多工作要做。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2405335.d.html</link>
-            <guid>2216143</guid>
-            <pubDate>Mon, 21 Jun 2021 17:22:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
