@@ -4,11 +4,107 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 21 Jun 2021 20:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Jun 2021 21:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【离岸人民币兑美元较上周五纽约尾盘跌56点】离岸人民币（CNH）兑美元北京时间04:59报6.4672元，较上周五纽约尾盘跌56点，盘中整体交投于6.4524-6.4798元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1017871.d.html</link>
+            <guid>2216243</guid>
+            <pubDate>Mon, 21 Jun 2021 21:22:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  周一（6月21）纽约尾盘，CBOT玉米期货涨0.80%，报6.60-1/2美元/蒲式耳。 CBOT小麦期货较上日纽约尾盘持稳，报6.62-3/4美元/蒲式耳。 CBOT大豆期货涨1.41%，报14.15-3/4美元/蒲式耳。 CBOT软木期货涨3.19%，报926.50美元/1000板英尺。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2418916.d.html</link>
+            <guid>2216242</guid>
+            <pubDate>Mon, 21 Jun 2021 21:22:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷报告新增新冠肺炎确诊病例8606例，新增死亡病例448例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2417828.d.html</link>
+            <guid>2216238</guid>
+            <pubDate>Mon, 21 Jun 2021 21:07:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：美联储方法的核心原则是通胀预期应锚定在2%。美联储的就业和物价稳定目标均存在双向风险。不会将市场对上周美联储会议的反应描述为“缩减恐慌”。 市场对美联储政策会议的反应“相当温和”。 距离美联储缩减购债规模的标准还有很长的路要走。 无法判断美联储何时可以放缓购债步伐。 尚未就缩减购债的策略做出决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2417821.d.html</link>
+            <guid>2216237</guid>
+            <pubDate>Mon, 21 Jun 2021 21:07:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：通胀面临的上行风险比人们预期的要高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1016401.d.html</link>
+            <guid>2216236</guid>
+            <pubDate>Mon, 21 Jun 2021 21:01:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：人们对美联储的框架有很好的理解，他们也了解到通胀超调是美联储目标的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2417426.d.html</link>
+            <guid>2216235</guid>
+            <pubDate>Mon, 21 Jun 2021 21:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：隔夜逆回购完全按照我们所设计的那样运作。我们距离取得实质性进展还有一段距离。前景仍具有高度不确定性。 货币市场基金过去曾遭遇困境，应该引起监管机构的注意。美联储对管理利率的调整是为了将联邦基金利率保持在目标范围内，因为短期利率的下行压力正在加大。 并不担心隔夜逆回购工具的高使用率，也不担心使用规模是否会继续增加。联邦公开市场委员会拥有确保利率在目标范围内的工具。预计未来几年经济会继续保持良好增长，失业率会继续下降，通货膨胀率会接近2%。最重要的是观察就业和通胀相关数据。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1016325.d.html</link>
+            <guid>2216234</guid>
+            <pubDate>Mon, 21 Jun 2021 20:59:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储威廉姆斯表示，美联储正在就“讨论缩减购债规模”进行讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2417316.d.html</link>
+            <guid>2216233</guid>
+            <pubDate>Mon, 21 Jun 2021 20:58:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：拜登与金融监管机构就经济复苏进行了讨论。监管机构表示，银行的资本和流动性水平以及健康的家庭资产负债表减轻了美国的金融风险。拜登与监管机构就促进普惠金融和增加信贷渠道的想法进行了讨论。 监管机构表示，他们在执行拜登关于气候相关风险的行政令方面取得了进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1016168.d.html</link>
+            <guid>2216232</guid>
+            <pubDate>Mon, 21 Jun 2021 20:55:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【世卫组织：全球新冠肺炎确诊病例超过1.782亿例】根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月21日18时23分（北京时间6月22日0时23分），全球累计新冠肺炎确诊病例178202610例，累计死亡病例3865738例。21日全球新冠肺炎确诊病例新增336450例，死亡病例新增7764例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2417136.d.html</link>
+            <guid>2216231</guid>
+            <pubDate>Mon, 21 Jun 2021 20:54:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫称，美国金融监管机构在会见拜登时表示，美国金融体系状况良好。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2416907.d.html</link>
+            <guid>2216230</guid>
+            <pubDate>Mon, 21 Jun 2021 20:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储公布鲍威尔证词后，美国两年期和十年期国债收益率利差扩大至日高，现报123.7个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2416548.d.html</link>
+            <guid>2216229</guid>
+            <pubDate>Mon, 21 Jun 2021 20:43:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：美联储将竭尽所能支持经济完成复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2416169.d.html</link>
+            <guid>2216228</guid>
+            <pubDate>Mon, 21 Jun 2021 20:35:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：实际GDP有望实现数十年来的最快增长。美国经济自2020年9月以来一直在持续改善。受大流行影响的行业仍然疲软，但情况有所改善。 房地产行业强劲，企业投资增速稳健。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2416153.d.html</link>
+            <guid>2216227</guid>
+            <pubDate>Mon, 21 Jun 2021 20:35:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：最近几个月通胀显着上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1014837.d.html</link>
+            <guid>2216225</guid>
+            <pubDate>Mon, 21 Jun 2021 20:30:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员Collins：有关基础设施的谈判“进展顺利”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1014634.d.html</link>
+            <guid>2216224</guid>
+            <pubDate>Mon, 21 Jun 2021 20:26:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美股行业ETF中，能源业ETF收涨逾4.2%领跑，区域银行ETF也涨超4.0%，银行业ETF涨约3.5%，金融业ETF涨超2.3%，网络股指数ETF以不足0.1%的涨幅垫底。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2415482.d.html</link>
@@ -465,107 +561,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2405335.d.html</link>
             <guid>2216143</guid>
             <pubDate>Mon, 21 Jun 2021 17:22:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国白宫：拜登与金融监管机构举行例行会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2405248.d.html</link>
-            <guid>2216142</guid>
-            <pubDate>Mon, 21 Jun 2021 17:21:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国白宫：投票权立法的失败将引发关于立法阻挠的新讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2405056.d.html</link>
-            <guid>2216141</guid>
-            <pubDate>Mon, 21 Jun 2021 17:19:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国白宫：参议院对投票权法案的投票向前迈出了一步。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2404893.d.html</link>
-            <guid>2216140</guid>
-            <pubDate>Mon, 21 Jun 2021 17:17:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国白宫：拜登最早将于星期一就基础设施法案进行会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1003749.d.html</link>
-            <guid>2216139</guid>
-            <pubDate>Mon, 21 Jun 2021 17:16:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  波音(BA.N)涨超3%，报244.5美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2404649.d.html</link>
-            <guid>2216138</guid>
-            <pubDate>Mon, 21 Jun 2021 17:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国新增40例新冠肺炎死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1003378.d.html</link>
-            <guid>2216136</guid>
-            <pubDate>Mon, 21 Jun 2021 17:11:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国新增487例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2404155.d.html</link>
-            <guid>2216135</guid>
-            <pubDate>Mon, 21 Jun 2021 17:09:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国共和党众议员Warren Davidson：金融科技公司不应该担心监管机构会因为缺乏透明度而在事后对它们采取执法行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2404061.d.html</link>
-            <guid>2216134</guid>
-            <pubDate>Mon, 21 Jun 2021 17:08:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国共和党众议员Warren Davidson：美国需要在加密数字货币（监管）规则方面提高透明度。]]></title>
-            <guid>2216133</guid>
-            <pubDate>Mon, 21 Jun 2021 17:06:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国际铜夜盘收涨0.20%，沪铜收涨0.64%，沪铝收涨1.04%，沪锌收涨0.33%，沪铅收涨0.59%，沪镍收涨1.77%，沪锡收涨1.15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2403386.d.html</link>
-            <guid>2216131</guid>
-            <pubDate>Mon, 21 Jun 2021 17:01:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲复兴开发银行行长表示，尽管西方国家加大制裁力度，欧洲复兴开发银行可能继续投资白俄罗斯的私营部门。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2403089.d.html</link>
-            <guid>2216130</guid>
-            <pubDate>Mon, 21 Jun 2021 16:59:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  在线招聘运营商ZipRecruiter(ZIP.N)涨超8%，报23美元，此前高盛和投行Evercore ISI首次覆盖该股，并给予了相当于买入的评级。高盛表示，在有利的雇主需求的环境下，持有ZIP的风险/回报是积极的；投行Evercore ISI对该股的目标价为31美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2402663.d.html</link>
-            <guid>2216129</guid>
-            <pubDate>Mon, 21 Jun 2021 16:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  LME期铜收涨34美元，报9180美元/吨。 LME期铝收涨18美元，报2404美元/吨。 LME期锌收涨14美元，报2837美元/吨。 LME期铅收跌1美元，报2156美元/吨。 LME期镍收涨296美元，报17450美元/吨。 LME期锡收涨217美元，报30079美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2402520.d.html</link>
-            <guid>2216128</guid>
-            <pubDate>Mon, 21 Jun 2021 16:53:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  TikTok：发布了Tiktok jump，这是创作者在Tiktok上分享内容的一种新方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2402363.d.html</link>
-            <guid>2216127</guid>
-            <pubDate>Mon, 21 Jun 2021 16:51:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利总理德拉基：意大利和德国寻求在氢能源问题上进行合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2402018.d.html</link>
-            <guid>2216126</guid>
-            <pubDate>Mon, 21 Jun 2021 16:48:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概教育股止跌反弹。新东方(EDU.N)涨超7%，高途(GOTU.N)涨6%，好未来教育集团(TAL.N)涨3.4%，华富教育(WAFU.O)涨3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1000788.d.html</link>
-            <guid>2216125</guid>
-            <pubDate>Mon, 21 Jun 2021 16:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱尔兰首席医疗官：周一的新冠病例数据显示Delta变异毒株的传播增加，令人担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1000307.d.html</link>
-            <guid>2216124</guid>
-            <pubDate>Mon, 21 Jun 2021 16:41:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
