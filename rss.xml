@@ -4,11 +4,94 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 22 Jun 2021 17:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jun 2021 18:30:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[新能源汽车板块跌势持续。小鹏汽车跌近8%，小牛电动跌5.7%，蔚来汽车、理想汽车跌超5%，Workhorse跌2.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1224809.d.html</link>
+            <guid>2217400</guid>
+            <pubDate>Tue, 22 Jun 2021 18:29:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国民主党参议员曼钦：两党小组希望在明天能得到一份基建计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1224594.d.html</link>
+            <guid>2217399</guid>
+            <pubDate>Tue, 22 Jun 2021 18:25:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议院多数党领袖舒默：民主党参议员曼钦将投赞成票，继续推进投票权法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2624484.d.html</link>
+            <guid>2217398</guid>
+            <pubDate>Tue, 22 Jun 2021 18:21:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议院多数党领袖舒默：基建计划谈判在两条轨道上均进展顺利。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1224150.d.html</link>
+            <guid>2217397</guid>
+            <pubDate>Tue, 22 Jun 2021 18:20:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国国会议员提出两党立法，防止政府停摆期间航空公司雇员被强制休假。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2624103.d.html</link>
+            <guid>2217395</guid>
+            <pubDate>Tue, 22 Jun 2021 18:18:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  推特(TWTR.N)涨2.5%，此前Variety报道称，推特承诺为“超级关注”和Ticketed空间的内容创作者提供巨额分成。]]></title>
+            <guid>2217394</guid>
+            <pubDate>Tue, 22 Jun 2021 18:14:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院少数党领袖麦康奈尔：今天将会让民主党人的选举法案走向终止。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1222960.d.html</link>
+            <guid>2217392</guid>
+            <pubDate>Tue, 22 Jun 2021 18:03:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国支持在9月份举行缩小规模的、线下的联合国大会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2622909.d.html</link>
+            <guid>2217391</guid>
+            <pubDate>Tue, 22 Jun 2021 17:59:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 8月黄金期货收跌0.3%，报1777.40美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1222261.d.html</link>
+            <guid>2217390</guid>
+            <pubDate>Tue, 22 Jun 2021 17:53:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约联储在隔夜回购操作中未收到任何投标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2622004.d.html</link>
+            <guid>2217388</guid>
+            <pubDate>Tue, 22 Jun 2021 17:47:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱尔兰外长科夫尼：北爱尔兰协议问题上“情况不太好”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1221687.d.html</link>
+            <guid>2217387</guid>
+            <pubDate>Tue, 22 Jun 2021 17:45:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook公司：将把商店功能拓展到WhatsApp和Facebook Marketplace。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1221080.d.html</link>
+            <guid>2217386</guid>
+            <pubDate>Tue, 22 Jun 2021 17:40:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国最近24小时新增2,204例新冠肺炎病例，新增51例新冠肺炎死亡病例，累计死亡110,829例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1220911.d.html</link>
+            <guid>2217385</guid>
+            <pubDate>Tue, 22 Jun 2021 17:39:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据法新社：美国查封了伊朗国营电视台Press TV的网站。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1220788.d.html</link>
+            <guid>2217384</guid>
+            <pubDate>Tue, 22 Jun 2021 17:37:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【拜登助理加入基建谈判，以期驱动达成一份协议】 美国白宫高级助理们正与国会参议院跨党派小组开会，寄望围绕总统拜登的基建计划达成一份妥协性立法草案，因为，虽然驴象两党已经接近达成一份基建协议，但各方仍然在5790亿美元道路、桥梁、以及其他项目的新增开支方面缺乏关于资金来源的建议。列席会议的人员包括全美经济顾问Brian Deese，拜登的顾问Steve Ricchetti，白宫立法事务主管Louisa Terrell，来自参议院的跨党派小组牵头人物则包括俄亥俄州共和党成员Rob Portman和亚利桑那州民主党成员Kyrsten Sinema。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2620379.d.html</link>
@@ -443,90 +526,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1207140.d.html</link>
             <guid>2217301</guid>
             <pubDate>Tue, 22 Jun 2021 15:10:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：如果美联储能够尽其所能保持结构韧性，那么以后将不需要作出艰难的选择。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1207021.d.html</link>
-            <guid>2217300</guid>
-            <pubDate>Tue, 22 Jun 2021 15:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：美联储需要就其对金融稳定风险的看法与公众沟通。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2607285.d.html</link>
-            <guid>2217299</guid>
-            <pubDate>Tue, 22 Jun 2021 15:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：对气候变化的调整和准备已经对经济产生了影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1206712.d.html</link>
-            <guid>2217298</guid>
-            <pubDate>Tue, 22 Jun 2021 15:06:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：叮当健康科技集团向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2606803.d.html</link>
-            <guid>2217297</guid>
-            <pubDate>Tue, 22 Jun 2021 15:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：为防范不确定的气候风险而增加的储蓄可能会降低中性利率。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2606658.d.html</link>
-            <guid>2217296</guid>
-            <pubDate>Tue, 22 Jun 2021 15:03:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：气候风险可能会降低劳动生产率，也可能导致对可持续经济的投资增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1206381.d.html</link>
-            <guid>2217295</guid>
-            <pubDate>Tue, 22 Jun 2021 15:03:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：全国大部分地区以及许多行业都容易受到气候风险的破坏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1206340.d.html</link>
-            <guid>2217294</guid>
-            <pubDate>Tue, 22 Jun 2021 15:02:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国报告新增11625例新冠肺炎确诊病例，新增27例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1206292.d.html</link>
-            <guid>2217293</guid>
-            <pubDate>Tue, 22 Jun 2021 15:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：美联储有责任研究气候变化的可能路径。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2606415.d.html</link>
-            <guid>2217292</guid>
-            <pubDate>Tue, 22 Jun 2021 15:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：气候变化可能影响家庭储蓄模式。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2606402.d.html</link>
-            <guid>2217291</guid>
-            <pubDate>Tue, 22 Jun 2021 15:00:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大商所、郑商所夜盘收盘普涨 EB涨超3%】大商所、郑商所夜盘收盘普涨，EB涨超3%，焦煤涨逾2%，郑煤、焦炭等涨超1%，郑棉、豆油等小幅上涨；仅塑料、郑油等少数品种小幅下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1206134.d.html</link>
-            <guid>2217290</guid>
-            <pubDate>Tue, 22 Jun 2021 15:00:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行：现在预计巴西央行2021年年底SELIC利率为7.0%，原来预计为6.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1205994.d.html</link>
-            <guid>2217288</guid>
-            <pubDate>Tue, 22 Jun 2021 14:59:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部提名官员Nelson：将优先实施加密数字货币监管规则。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqciyzk1205876.d.html</link>
-            <guid>2217287</guid>
-            <pubDate>Tue, 22 Jun 2021 14:57:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股三大指数悉数转涨，标普涨0.13%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-22/detail-ikqcfnca2605389.d.html</link>
-            <guid>2217284</guid>
-            <pubDate>Tue, 22 Jun 2021 14:48:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
