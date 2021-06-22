@@ -4,11 +4,105 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 22 Jun 2021 20:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jun 2021 21:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[阿根廷报告新增21387例新冠肺炎确诊病例，新增792例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2632835.d.html</link>
+            <guid>2217479</guid>
+            <pubDate>Tue, 22 Jun 2021 21:20:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据Politico：美国参议院多数党领袖舒默与美国众议院议长佩洛西明日将就基建计划进行会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2632512.d.html</link>
+            <guid>2217477</guid>
+            <pubDate>Tue, 22 Jun 2021 21:14:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据Politico：白宫内政委员会主席Susan Rice明日将与美国参议院多数党领袖舒默、美国众议院议长佩洛西进行会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1232232.d.html</link>
+            <guid>2217476</guid>
+            <pubDate>Tue, 22 Jun 2021 21:14:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：06月23日05时11分在四川绵阳市平武县附近发生4.0级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2632484.d.html</link>
+            <guid>2217475</guid>
+            <pubDate>Tue, 22 Jun 2021 21:14:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛开始通过小摩基于区块链的回购网络进行交易】 高盛集团（GS）已经加入由摩根大通（JPM）创立的、基于区块链技术的回购协议交易网络Onyx，该平台采用智能合约和数字化的美元。高盛集团全球市场部门全球数字资产业务主管Mathew McDermott表示，高盛已于6月17日在小摩的Onyx平台执行了第一笔交易，那笔交易通过一笔美国国债来置换JPMCoin（小摩内部的数字美元代表），“我们将这是做交易活动数字化的开创性时刻”，与传统回购市场不同的是，银行机构完成交易的确切耗时可以被量化——高盛当时花了三个小时五分钟，“我们按分钟支付利息……我们果断地认为，这将改变日内市场的性质”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2632389.d.html</link>
+            <guid>2217474</guid>
+            <pubDate>Tue, 22 Jun 2021 21:12:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：拜登认为，我们需要保护隐私和加大创新力度以确保科技公司能够在美国发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2632257.d.html</link>
+            <guid>2217473</guid>
+            <pubDate>Tue, 22 Jun 2021 21:09:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：两党合作以解决大型科技平台带来的问题，对此拜登感到欣慰。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2632186.d.html</link>
+            <guid>2217472</guid>
+            <pubDate>Tue, 22 Jun 2021 21:07:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗调查：预计墨西哥央行将在11月加息25个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1231517.d.html</link>
+            <guid>2217470</guid>
+            <pubDate>Tue, 22 Jun 2021 20:57:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：今天与美国参议院多数党领袖舒默就投票权策略进行了对话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2631475.d.html</link>
+            <guid>2217469</guid>
+            <pubDate>Tue, 22 Jun 2021 20:53:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[金融博客零对冲评美国当周API原油库存数据：原油库存降幅连续第五周大于预期，预计本周EIA数据将显示原油库存连续第五周录得下降，而汽油库存将连续第四周录得增加。石油经纪商PVM表示，由于现货市场吃紧和需求预期良好，油价面临的风险仍偏向上行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2631123.d.html</link>
+            <guid>2217468</guid>
+            <pubDate>Tue, 22 Jun 2021 20:45:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据英国每日电讯报：英国首相约翰逊不会在2024年大选前批准举行苏格兰公投。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2631037.d.html</link>
+            <guid>2217467</guid>
+            <pubDate>Tue, 22 Jun 2021 20:43:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货日内整体转涨，最高触及73.15美元/桶，在美国石油协会（API）行业版原油库存周报发布后短线上扬0.22美元。]]></title>
+            <guid>2217466</guid>
+            <pubDate>Tue, 22 Jun 2021 20:35:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX：猎鹰9号的静态点火测试完成，目标是在6月25日执行名为“Transporter-2”的SpaceX第二次“拼火箭”任务。]]></title>
+            <guid>2217465</guid>
+            <pubDate>Tue, 22 Jun 2021 20:33:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【世卫组织：全球新冠肺炎确诊病例超过1.785亿例】根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月22日17时44分（北京时间6月22日23时44分），全球累计新冠肺炎确诊病例178503429例，累计死亡病例3872457例。22日全球新冠肺炎确诊病例新增281610例，死亡病例新增6349例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1230333.d.html</link>
+            <guid>2217464</guid>
+            <pubDate>Tue, 22 Jun 2021 20:31:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国至6月18日当周API原油库存减少719.9万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2630493.d.html</link>
+            <guid>2217463</guid>
+            <pubDate>Tue, 22 Jun 2021 20:30:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【土耳其新增6143例新冠肺炎确诊病例 累计确诊超538万例】当地时间6月22日晚，土耳其卫生部网站更新的数据显示，土耳其当日新增6143例新冠肺炎确诊病例，累计确诊5381736例；新增死亡57例，累计死亡49293例；新增治愈5214例，累计治愈5242945例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1230230.d.html</link>
+            <guid>2217462</guid>
+            <pubDate>Tue, 22 Jun 2021 20:29:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：高盛开始在摩根大通基于区块链的实时盘回购网络中进行交易。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1229683.d.html</link>
@@ -463,102 +557,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2619523.d.html</link>
             <guid>2217380</guid>
             <pubDate>Tue, 22 Jun 2021 17:22:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储在固定利率逆回购中接纳了7916亿美元，续创历史新高，规模连续四日超7000亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2619184.d.html</link>
-            <guid>2217378</guid>
-            <pubDate>Tue, 22 Jun 2021 17:19:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：可能在2021年底、2022年初达到缩减购债的门槛。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1219030.d.html</link>
-            <guid>2217377</guid>
-            <pubDate>Tue, 22 Jun 2021 17:19:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：美联储购买住房抵押贷款证券对抵押贷款利率没有太大直接影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2619001.d.html</link>
-            <guid>2217376</guid>
-            <pubDate>Tue, 22 Jun 2021 17:17:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  家庭健身平台Peloton(PTON.O)涨超6%，此前宣布公司会员计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2618990.d.html</link>
-            <guid>2217375</guid>
-            <pubDate>Tue, 22 Jun 2021 17:17:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：今年晚些时候，明年初可能会达到缩减购债的“实质性进一步进展”门槛。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2618949.d.html</link>
-            <guid>2217374</guid>
-            <pubDate>Tue, 22 Jun 2021 17:16:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储戴利：开始讨论何时降低资产购买速度是合适的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1218775.d.html</link>
-            <guid>2217373</guid>
-            <pubDate>Tue, 22 Jun 2021 17:16:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构分析：交易商关注欧佩克+增产，油价失去上涨动力】油价在今日下跌，因投资者评估了有关俄罗斯和其他欧佩克+国家正在考虑增加产量的报告。尽管价格指标和库存数据显示需求超过供应，但仍有人担心欧佩克+将增产，传统能源市场研究主管Gary Cunningham表示，欧佩克+将考虑增加产量的传言足以让油价从75美元/桶的关口回落。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2618675.d.html</link>
-            <guid>2217371</guid>
-            <pubDate>Tue, 22 Jun 2021 17:13:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国新增51例新冠肺炎死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1218466.d.html</link>
-            <guid>2217369</guid>
-            <pubDate>Tue, 22 Jun 2021 17:13:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国新增2204例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1218457.d.html</link>
-            <guid>2217368</guid>
-            <pubDate>Tue, 22 Jun 2021 17:12:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：拜登和美国农业部部长Vilsack将于6月29日在威斯康星州讨论农业问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1217517.d.html</link>
-            <guid>2217367</guid>
-            <pubDate>Tue, 22 Jun 2021 17:04:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖600亿美元2年期国债，得标利率0.249%，投标倍数2.54。（预发行交易利率为0.244%，上月投标倍数为2.74）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1217330.d.html</link>
-            <guid>2217366</guid>
-            <pubDate>Tue, 22 Jun 2021 17:02:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据了解，目前，兴业证券首席策略分析师尚无确定人选。王德伦赴任兴证资管之后，张忆东或将分配更多精力关注A股市场。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2617429.d.html</link>
-            <guid>2217365</guid>
-            <pubDate>Tue, 22 Jun 2021 17:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据悉，土耳其央行考虑扭转存款准备金率（RRR）制度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2617096.d.html</link>
-            <guid>2217364</guid>
-            <pubDate>Tue, 22 Jun 2021 16:58:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：06月23日00时44分在西藏山南市错那县发生3.3级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1216755.d.html</link>
-            <guid>2217363</guid>
-            <pubDate>Tue, 22 Jun 2021 16:56:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫：普京与古巴总统通电话，双方讨论了国家间的合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2616888.d.html</link>
-            <guid>2217362</guid>
-            <pubDate>Tue, 22 Jun 2021 16:55:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国家过敏症和传染病研究所所长福奇：Delta变种毒株是美国消灭新冠病毒的最大威胁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2616739.d.html</link>
-            <guid>2217361</guid>
-            <pubDate>Tue, 22 Jun 2021 16:54:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
