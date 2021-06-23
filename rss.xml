@@ -4,11 +4,165 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 23 Jun 2021 15:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jun 2021 16:31:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[高盛策略师Zach Pandl：预计欧元兑美元三个月后将触及1.20，六个月后将触及1.23，12个月后将触及1.25，此前分预测别为1.25、1.27和1.28。美联储上周的货币政策决定可以说已经截断了高通胀和极低实际利率导致美元大幅贬值的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2833704.d.html</link>
+            <guid>2218559</guid>
+            <pubDate>Wed, 23 Jun 2021 16:28:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  和黄医药(HCM.O)涨超14%，沃利替尼已在中国获得有条件批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1433605.d.html</link>
+            <guid>2218557</guid>
+            <pubDate>Wed, 23 Jun 2021 16:27:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  背景调查服务公司First Advantage Corp(FA.O)上市首日开涨近33%，开盘价报19.93美元，IPO定价为15美元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1433266.d.html</link>
+            <guid>2218556</guid>
+            <pubDate>Wed, 23 Jun 2021 16:23:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商务部长雷蒙多：需要与欧盟谈判协议框架。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2832875.d.html</link>
+            <guid>2218555</guid>
+            <pubDate>Wed, 23 Jun 2021 16:21:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【特斯拉Model 3被评为2021年美国制造最多的汽车】据外媒报道，特斯拉Model 3被美国在线汽车销售服务商Cars.com评为2021年美国制造最多的汽车，这是16年来电动汽车首次位列榜首。Cars.com的美国制造指数在2006年创立，根据美国工厂工作岗位的数量、工厂位置和零部件采购等标准对车辆进行排名。这份排行榜列出了90款符合上述标准的车型，福特汽车(F.N)的野马（Mustang）排名第二，特斯拉Model Y排名第三。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1432866.d.html</link>
+            <guid>2218554</guid>
+            <pubDate>Wed, 23 Jun 2021 16:21:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国民主党参议员沃伦和美国参议院多数党领袖舒默敦促拜登延长学生贷款的暂停偿还措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2832291.d.html</link>
+            <guid>2218553</guid>
+            <pubDate>Wed, 23 Jun 2021 16:16:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商务部长雷蒙多：欧洲不能歧视美国大型科技公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1432027.d.html</link>
+            <guid>2218552</guid>
+            <pubDate>Wed, 23 Jun 2021 16:13:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商务部长雷蒙多：美国和欧盟有相同的价值观，必须制定规则。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1432019.d.html</link>
+            <guid>2218551</guid>
+            <pubDate>Wed, 23 Jun 2021 16:13:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商务部长雷蒙多：美国和欧盟在隐私保护和数字方面存在争端。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2832036.d.html</link>
+            <guid>2218550</guid>
+            <pubDate>Wed, 23 Jun 2021 16:13:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫官员：拜登政府解雇房利美、房地美董事。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2831980.d.html</link>
+            <guid>2218548</guid>
+            <pubDate>Wed, 23 Jun 2021 16:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【法国财政部起诉苹果】法国财政部消费者欺诈监察部门的一位发言人透露，法国财政部将起诉苹果滥用合同条款，此前法国竞争、消费和反欺诈总局（DGCCRF）进行了为期三年的调查。据文件显示，法国创业游说团体France Digitale也已加入此案。巴黎商业法庭的发言人表示，此案将于9月17日开庭审理。苹果的发言人没有立即置评。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1431844.d.html</link>
+            <guid>2218547</guid>
+            <pubDate>Wed, 23 Jun 2021 16:11:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利新增30例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2831717.d.html</link>
+            <guid>2218546</guid>
+            <pubDate>Wed, 23 Jun 2021 16:10:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利新增951例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1431624.d.html</link>
+            <guid>2218545</guid>
+            <pubDate>Wed, 23 Jun 2021 16:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商务部长雷蒙多：医疗保健、旅游观光是服务出口增长的领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2831676.d.html</link>
+            <guid>2218544</guid>
+            <pubDate>Wed, 23 Jun 2021 16:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商务部长雷蒙多：预计美国有很大的机会增加服务出口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1431418.d.html</link>
+            <guid>2218542</guid>
+            <pubDate>Wed, 23 Jun 2021 16:08:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国财政部起诉苹果，与开发者和其应用商店的合同有关。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca2831244.d.html</link>
+            <guid>2218540</guid>
+            <pubDate>Wed, 23 Jun 2021 16:05:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  康卡斯特(CMCSA.O)：东京奥运会的广告投放将比以往任何一届奥运会都多。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2830474.d.html</link>
+            <guid>2218539</guid>
+            <pubDate>Wed, 23 Jun 2021 15:58:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  客户体验管理平台Sprinklr(CXM.N)上市首日破发，开盘价报14.6美元，IPO价为16美元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2830472.d.html</link>
+            <guid>2218538</guid>
+            <pubDate>Wed, 23 Jun 2021 15:58:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Adobe Analytics的数据显示，亚马逊Prime Day的48小时美国在线零售总额超过了110亿美元，较2020年Prime Day总额高出6.1%。而据CNBC，今年亚马逊Prime Day比往年要逊色，和前几年相比，宣传力度不大，缺乏亚马逊通常会提供的促销高峰，以展示消费者如何蜂拥至该网站抢购商品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2830456.d.html</link>
+            <guid>2218537</guid>
+            <pubDate>Wed, 23 Jun 2021 15:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  通用汽车涨0.8%；该公司和壳牌在美国得州电力和汽车充电领域展开合作。从本月开始，两家公司合作的可再生能源计划将为客户提供固定的家庭电价，电力来自风能、太阳能和其他可再生能源，并将在7月底增加电动充电选项。]]></title>
+            <guid>2218536</guid>
+            <pubDate>Wed, 23 Jun 2021 15:50:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中金公司给予欧康维视生物跑赢大盘的初始评级，目标价38.50港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1429667.d.html</link>
+            <guid>2218533</guid>
+            <pubDate>Wed, 23 Jun 2021 15:45:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【欧洲主要股指集体收跌 德国DAX30指数跌1.11%】欧洲主要股指集体收跌，法国CAC40指数跌0.91%，英国富时100指数跌0.18%，欧洲斯托克50指数跌0.91%，德国DAX30指数跌1.11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2829581.d.html</link>
+            <guid>2218532</guid>
+            <pubDate>Wed, 23 Jun 2021 15:43:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  在岸人民币兑美元（CNY）北京时间23:30收报6.4748元，较上一日夜盘收盘涨62点。成交量488.81亿美元，较上一日增加4.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2829398.d.html</link>
+            <guid>2218531</guid>
+            <pubDate>Wed, 23 Jun 2021 15:41:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股钢铁股齐涨，通用钢铁(GSIH)在场外市场涨39.7%，美国钢铁(X.N)涨4.28%，克里夫斯天然资源公司(CLF.N)涨3.62%，安赛乐米塔尔(MT.N)涨2.49%，纽柯钢铁(NUE.N)涨1.81%。]]></title>
+            <guid>2218527</guid>
+            <pubDate>Wed, 23 Jun 2021 15:34:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟将成立“联合网络单位”应对网络攻击】欧盟委员会23日提议成立“联合网络单位”，旨在通过聚集各成员国相关资源和能力，共同应对网络攻击。欧委会当天在一份声明中说，“联合网络单位”将为欧盟机构提供平台，推动成员国合作并通过安全渠道共享资源。“联合网络单位”将确保欧盟对大规模网络安全事件和危机做出协调一致的反应，并为从这些攻击中恢复提供帮助。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2828449.d.html</link>
+            <guid>2218525</guid>
+            <pubDate>Wed, 23 Jun 2021 15:27:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国单日新增新冠病毒感染人数创2月初以来的新高】英国单日新增16135例新冠病毒感染病例，为2月6日以来的最高。6月21日有1508人因感染新冠在医院接受治疗，这是可以获得的全英总数的最新数据。新增死亡人数仍然相对较低，为19人，7天均值为14.4人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2828408.d.html</link>
+            <guid>2218524</guid>
+            <pubDate>Wed, 23 Jun 2021 15:26:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ 【瑞银：主要汽车生产商正摆脱全球芯片短缺困境，最糟糕情况已成过去】瑞银谨慎乐观地认为，就全球芯片短缺对汽车行业的负面影响而言，最糟糕的时期可能已经过去。该公司分析师Patrick Hummel指出，通用汽车、福特和大众都表示，随着芯片供应的逐步改善，生产前景正在改善。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1428164.d.html</link>
@@ -353,178 +507,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1420379.d.html</link>
             <guid>2218459</guid>
             <pubDate>Wed, 23 Jun 2021 14:06:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深圳盐田国际集装箱码头自24日零时起全面恢复工作。（南方Plus）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1420049.d.html</link>
-            <guid>2218458</guid>
-            <pubDate>Wed, 23 Jun 2021 14:04:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月新屋销售总数年化76.9万户，前值86.3万户，预期87万户。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1420029.d.html</link>
-            <guid>2218457</guid>
-            <pubDate>Wed, 23 Jun 2021 14:04:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[捷克央行行长：可能在接下来的每次利率决议中都进行加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2820037.d.html</link>
-            <guid>2218456</guid>
-            <pubDate>Wed, 23 Jun 2021 14:03:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线走高近5美元，现报1794.28美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1419279.d.html</link>
-            <guid>2218454</guid>
-            <pubDate>Wed, 23 Jun 2021 13:57:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IHS Markit首席经济学家Chirs Williamson：6月份美国经济将进一步实现令人印象深刻的增长。虽然制造业和服务业的产出增长和新订单流入均已脱离峰值，但这在很大程度上是由于产能限制，而非经济降温限制了企业应对需求的能力。尽管价格指标也从5月份的历史高点下滑，但很明显，经济仍在继续火热运行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2819169.d.html</link>
-            <guid>2218451</guid>
-            <pubDate>Wed, 23 Jun 2021 13:55:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Sundial Grower(SNDL.O)涨超15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1419033.d.html</link>
-            <guid>2218450</guid>
-            <pubDate>Wed, 23 Jun 2021 13:54:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  热门中概股走高，雾芯科技(RLX.N)、亿航智能(EH.O)涨超5%，富途控股(FUTU.O)涨4.47%，哔哩哔哩(BILI.O)涨4.38%，虎牙(HUYA.N)涨4.11%，高途(GOTU.N)涨3.81%，唯品会(VIPS.N)涨2.74%，百度(BIDU.O)涨约2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1418969.d.html</link>
-            <guid>2218449</guid>
-            <pubDate>Wed, 23 Jun 2021 13:54:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PMI数据公布后，美元指数DXY跌至盘中低点91.54。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1418620.d.html</link>
-            <guid>2218448</guid>
-            <pubDate>Wed, 23 Jun 2021 13:51:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股新能源车板块上扬，Nikola(NKLA.O)涨6.7%，小鹏汽车(XPEV.N)涨超6%，理想汽车(LI.O)、图森未来(TSP.O)涨超5%，Workhorse(WKHS.O)涨4.13%，小牛电动(NIU.O)涨4.01%，特斯拉(TSLA.O)涨3.37%。]]></title>
-            <guid>2218446</guid>
-            <pubDate>Wed, 23 Jun 2021 13:48:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国船舶集团与国机集团签署战略合作协议】6月22日，中国船舶集团有限公司与中国机械工业集团有限公司在京签署了战略合作协议。双方将充分发挥各自优势，在分布式能源与电站建设、装备科研与开发、技术装备、设计咨询与工程承包、国际化发展、展会、相关多元产业等领域开展全方位的合作。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1418076.d.html</link>
-            <guid>2218445</guid>
-            <pubDate>Wed, 23 Jun 2021 13:46:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国6月Markit制造业PMI初值录得62.6，创2012年以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1418000.d.html</link>
-            <guid>2218444</guid>
-            <pubDate>Wed, 23 Jun 2021 13:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国6月Markit制造业PMI初值62.6，前值62.1，预期61.4。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2818089.d.html</link>
-            <guid>2218443</guid>
-            <pubDate>Wed, 23 Jun 2021 13:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国6月Markit服务业PMI初值64.8，前值70.4，预期70。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2818033.d.html</link>
-            <guid>2218442</guid>
-            <pubDate>Wed, 23 Jun 2021 13:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：众议院计划下周对基础设施和水利设施一揽子计划进行投票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1417814.d.html</link>
-            <guid>2218441</guid>
-            <pubDate>Wed, 23 Jun 2021 13:44:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海原油主力合约涨超1.7%，最高报469.7元/桶，创2020年1月21日以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2817851.d.html</link>
-            <guid>2218440</guid>
-            <pubDate>Wed, 23 Jun 2021 13:43:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线走高0.2美元，现报26.13美元/盎司，涨1.61%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1417038.d.html</link>
-            <guid>2218439</guid>
-            <pubDate>Wed, 23 Jun 2021 13:39:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金站上1790美元/盎司，日内涨幅达0.64%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1417024.d.html</link>
-            <guid>2218438</guid>
-            <pubDate>Wed, 23 Jun 2021 13:39:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  临床治疗药物公司Bellerophon(BLPH.O)盘初跳涨18%，触及熔断。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1416779.d.html</link>
-            <guid>2218436</guid>
-            <pubDate>Wed, 23 Jun 2021 13:36:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  银河基金发布声明：网传微信聊天记录系恶意伪造，对诽谤公司董事长及员工的事件已向公安机关报案，将追究其法律责任。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2816728.d.html</link>
-            <guid>2218435</guid>
-            <pubDate>Wed, 23 Jun 2021 13:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线上扬约4美元，现报1786.12美元/盎司；现货白银短线走高0.1美元，现报26.02美元/盎司。]]></title>
-            <guid>2218434</guid>
-            <pubDate>Wed, 23 Jun 2021 13:35:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：土耳其还在与马来西亚、韩国、俄罗斯、英国和其他亚洲国家就货币互换协议进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1416410.d.html</link>
-            <guid>2218433</guid>
-            <pubDate>Wed, 23 Jun 2021 13:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  次新股满帮集团(YMM.N)跌超5%，现报20.4美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2816461.d.html</link>
-            <guid>2218432</guid>
-            <pubDate>Wed, 23 Jun 2021 13:33:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三大台系电感厂不打折 龙头新品最高涨三成】据媒体报道，今年以来在5G、PC、NB、车用等需求带动下，推升电感供不应求，加上原物料价格上涨，村田和TDK两大日本指标厂已不接低毛利产品，大陆电感厂顺络也汰旧换新料号，顺势调涨价格一至三成。据报道，奇力新、台庆科、今展科等台湾电感厂抢搭市况热潮，近期取消过往每季对客户的价格折让。顺络电子全球少数国内唯一能够量产01005电感的公司之一；洁美科技主要产品电子元器件薄型载带广泛应用于电阻、电感和电容等被动元器件。（中证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2816444.d.html</link>
-            <guid>2218431</guid>
-            <pubDate>Wed, 23 Jun 2021 13:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国外贸副部长里斯特：如果谈判不能取得进展，就需要在未来几天或几个星期内作出艰难的决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1416229.d.html</link>
-            <guid>2218430</guid>
-            <pubDate>Wed, 23 Jun 2021 13:32:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国外贸副部长里斯特：伊朗核谈判必须尽快结束，因为时间不多了。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1416073.d.html</link>
-            <guid>2218429</guid>
-            <pubDate>Wed, 23 Jun 2021 13:31:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指开盘涨0.1%，标普500涨0.1%，纳指涨0.1%】区块链板块走高，嘉楠科技涨4.2%，第九城市涨6.1%，Bit Digital涨3.3%。小鹏汽车涨5.0%，赴港IPO已通过聆讯。秦淮数据涨7.2%，宣布与腾讯达成战略合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1416007.d.html</link>
-            <guid>2218428</guid>
-            <pubDate>Wed, 23 Jun 2021 13:30:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油期货站上74美元/桶，续刷2018年10月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2815937.d.html</link>
-            <guid>2218426</guid>
-            <pubDate>Wed, 23 Jun 2021 13:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：嘉年华邮轮(CCL.N)开始恢复在美国、加勒比海和欧洲的邮轮业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2815663.d.html</link>
-            <guid>2218425</guid>
-            <pubDate>Wed, 23 Jun 2021 13:26:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌：宣布推出谷歌云社区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1415488.d.html</link>
-            <guid>2218424</guid>
-            <pubDate>Wed, 23 Jun 2021 13:25:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
