@@ -4,11 +4,252 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 23 Jun 2021 10:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jun 2021 11:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[李克强主持召开国务院常务会议，会议指出，强化创业创新政策激励。落实好税收减免、研发费用加计扣除等政策。加大普惠金融力度，鼓励社会资本以市场化方式设立创业投资引导基金。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1398245.d.html</link>
+            <guid>2218276</guid>
+            <pubDate>Wed, 23 Jun 2021 11:18:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[李克强主持召开国务院常务会议，确定加快发展外贸新业态新模式的措施，推动外贸升级培育竞争新优势。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2798132.d.html</link>
+            <guid>2218275</guid>
+            <pubDate>Wed, 23 Jun 2021 11:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[李克强主持召开国务院常务会议，部署“十四五”时期纵深推进大众创业万众创新，更大激发市场活力促发展扩就业惠民生。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2798109.d.html</link>
+            <guid>2218274</guid>
+            <pubDate>Wed, 23 Jun 2021 11:18:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  北陆药业：碘海醇注射液拟中标第五批全国药品集中采购。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2797603.d.html</link>
+            <guid>2218273</guid>
+            <pubDate>Wed, 23 Jun 2021 11:13:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西国家石油局：阿姆斯特丹超过40%的新冠确诊病例为Delta变种新冠毒株感染病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1397539.d.html</link>
+            <guid>2218272</guid>
+            <pubDate>Wed, 23 Jun 2021 11:13:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据国际文传电讯社：俄罗斯国防部传唤英国驻莫斯科大使馆专员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2797410.d.html</link>
+            <guid>2218271</guid>
+            <pubDate>Wed, 23 Jun 2021 11:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：巴西反垄断监管机构批准SK海力士与英特尔(INTC.O)的交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2797094.d.html</link>
+            <guid>2218270</guid>
+            <pubDate>Wed, 23 Jun 2021 11:10:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【天奇股份：预计上半年净利润同比增长562%-650%】天奇股份公告，预计上半年净利润为7500-8500 万元，同比增长562.02%-650.29%。受益于国内新能源汽车产业的发展，动力电池材料需求旺盛带动钴、锂等金属价格上涨，增加公司毛利空间。]]></title>
+            <guid>2218269</guid>
+            <pubDate>Wed, 23 Jun 2021 11:09:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞杰金融：将菲利普66(PSX.N)目标价从100美元上调至101美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2796907.d.html</link>
+            <guid>2218268</guid>
+            <pubDate>Wed, 23 Jun 2021 11:09:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞杰金融：将瓦莱罗能源(VLO.N)目标价从96美元上调至100美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1396887.d.html</link>
+            <guid>2218267</guid>
+            <pubDate>Wed, 23 Jun 2021 11:09:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  华东医药：中美华东的注射用地西他滨（祥珂®）拟中标全国药品集中采购。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1395874.d.html</link>
+            <guid>2218265</guid>
+            <pubDate>Wed, 23 Jun 2021 11:02:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  海正药业：公司产品注射用盐酸吉西他滨、比卡鲁胺片拟中标全国药品集中采购。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2795805.d.html</link>
+            <guid>2218264</guid>
+            <pubDate>Wed, 23 Jun 2021 11:02:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  昆药集团：贝克诺顿进口分装的原研参比制剂阿法骨化醇软胶囊拟中标第五批全国药品集中采购。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2795611.d.html</link>
+            <guid>2218261</guid>
+            <pubDate>Wed, 23 Jun 2021 11:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国医药：通用三洋的产品注射用头孢他啶，及科益药业的产品注射用更昔洛韦拟中标第五批全国药品集中采购。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2795405.d.html</link>
+            <guid>2218259</guid>
+            <pubDate>Wed, 23 Jun 2021 10:59:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  秦淮数据(CD.O)盘前涨2.67%，此前宣布与腾讯达成战略合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2795178.d.html</link>
+            <guid>2218258</guid>
+            <pubDate>Wed, 23 Jun 2021 10:57:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【羚锐制药：拟推2021年限制性股票激励计划】羚锐制药发布2021年限制性股票激励计划(草案)，本激励计划拟向激励对象授予的限制性股票数量为13,814,400股，约占公告日公司股本总额的2.43%。该激励计划授予限制性股票的授予价格为4.78元/股。授予的激励对象总人数为185人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1395058.d.html</link>
+            <guid>2218257</guid>
+            <pubDate>Wed, 23 Jun 2021 10:55:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  康恩贝：金华康恩贝的产品利伐沙班片（10mg）拟中标第五批全国药品集中采购。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2794914.d.html</link>
+            <guid>2218256</guid>
+            <pubDate>Wed, 23 Jun 2021 10:55:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  星展银行：将中国旺旺(00151.HK)评级下调至充分估值，目标价4.90港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1394881.d.html</link>
+            <guid>2218254</guid>
+            <pubDate>Wed, 23 Jun 2021 10:54:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄新社：俄罗斯国防部表示，俄罗斯船只向英国海军舰艇开火示警。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2794383.d.html</link>
+            <guid>2218252</guid>
+            <pubDate>Wed, 23 Jun 2021 10:51:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储博斯蒂克：高通胀阶段将“比我们最初预期的更长”，可能是6到9个月，而不是2到3个月。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1394146.d.html</link>
+            <guid>2218251</guid>
+            <pubDate>Wed, 23 Jun 2021 10:49:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鄂湘赣三省打造长江中游城市群协同创新共同体】鄂湘赣三省科技部门23日在武汉签署《长江中游鄂湘赣三省区域协同创新合作框架协议》，将合力打造长江中游城市群协同创新共同体。根据协议，鄂湘赣三省科技部门将建立合作机制，推进区域创新联动，加强技术协同攻关，共享科技创新资源，促进科技成果转化，强化科技创新创业，对接科技金融服务，携手国际与区域合作创新。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2794131.d.html</link>
+            <guid>2218250</guid>
+            <pubDate>Wed, 23 Jun 2021 10:49:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：美联储应避免在任何政策转向中“过早宣布胜利”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1393862.d.html</link>
+            <guid>2218248</guid>
+            <pubDate>Wed, 23 Jun 2021 10:47:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  蒙特利尔银行：将Splunk(SPLK.O)目标价从144美元上调至148美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2793813.d.html</link>
+            <guid>2218247</guid>
+            <pubDate>Wed, 23 Jun 2021 10:47:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄新社：俄罗斯方面称英国船只试图侵犯俄罗斯边境。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1393761.d.html</link>
+            <guid>2218246</guid>
+            <pubDate>Wed, 23 Jun 2021 10:47:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【生态环境部与国际可再生能源署签署应对气候变化合作谅解备忘录】6月23日，生态环境部部长黄润秋在京视频会见国际可再生能源署总干事弗朗西斯科·拉卡梅拉。双方共同签署《中华人民共和国生态环境部与国际可再生能源署关于应对气候变化合作的谅解备忘录》，并就进一步加强双方合作，共同推进可再生能源发展与应对气候变化工作进行交流。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2793440.d.html</link>
+            <guid>2218243</guid>
+            <pubDate>Wed, 23 Jun 2021 10:44:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股区块链板块盘前走高，嘉楠科技(CAN.O)涨超5%，SOS(SOS.N)涨4.85%，第九城市(NCTY.O)涨3.61%，Bit Digital(BTBT.O)涨3.57%，MicroStrategy(MSTR.O)涨3.3%，亿邦国际(EBON.O)涨2.92%。]]></title>
+            <guid>2218242</guid>
+            <pubDate>Wed, 23 Jun 2021 10:44:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中信银行：非执行董事、董事长朱鹤新先生任职资格获核准，副董事长方合英先生任职资格获核准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2793395.d.html</link>
+            <guid>2218241</guid>
+            <pubDate>Wed, 23 Jun 2021 10:44:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼报告新增15308例新冠肺炎确诊病例，新增303例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1392999.d.html</link>
+            <guid>2218240</guid>
+            <pubDate>Wed, 23 Jun 2021 10:41:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗挫败一起企图破坏伊朗原子能组织大楼的行动】据伊朗迈赫尔通讯社报道，当地时间23日上午，伊朗安全部门在该国厄尔布尔士省首府卡拉季挫败了一起企图破坏伊朗原子能组织一大楼的行动，破坏行动没有造成人员伤亡和财产损失。报道称，针对这起破坏行动的调查目前正在进行，以确定肇事者的身份。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2792970.d.html</link>
+            <guid>2218239</guid>
+            <pubDate>Wed, 23 Jun 2021 10:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【德国公司试飞电动空中出租车 计划2024年投入运行】德国初创企业沃洛科普特公司21日在法国首次试飞公司生产的电动空中出租车，并表示计划在2024年巴黎奥运会期间将“飞的”投入运行。飞行器时速最高30公里，飞行高度距地面约30米，飞行距离500米。该公司表示，飞行器能搭载两人，并设置有行李舱。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2792951.d.html</link>
+            <guid>2218238</guid>
+            <pubDate>Wed, 23 Jun 2021 10:41:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 天智航公告，拟定增募资不超过13.4亿元，用于新一代骨科手术机器人研发及产业化项目等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2792936.d.html</link>
+            <guid>2218237</guid>
+            <pubDate>Wed, 23 Jun 2021 10:41:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：巴菲特辞去比尔盖茨和梅琳达·盖茨基金会受托人一职。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1392534.d.html</link>
+            <guid>2218236</guid>
+            <pubDate>Wed, 23 Jun 2021 10:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱尔兰财长多诺霍：现在判断7月5日的重启计划是否会有所改变还为时过早。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1392390.d.html</link>
+            <guid>2218235</guid>
+            <pubDate>Wed, 23 Jun 2021 10:38:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴菲特：正在慢慢实现派发所有伯克希尔哈撒韦(BRK.A.N、BRK.B.N)的股票这一承诺，税收减免对很多人来说都很重要。]]></title>
+            <guid>2218234</guid>
+            <pubDate>Wed, 23 Jun 2021 10:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴菲特：现在持有238624股伯克希尔哈撒韦(BRK.A.N、BRK.B.N)股票，价值约1000亿美元。]]></title>
+            <guid>2218233</guid>
+            <pubDate>Wed, 23 Jun 2021 10:34:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：巴菲特将派发价值41亿美元的伯克希尔哈撒韦(BRK.A.N、BRK.B.N)公司股票。]]></title>
+            <guid>2218232</guid>
+            <pubDate>Wed, 23 Jun 2021 10:33:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯央行要求银行业的生态系统投资超过总资本的30%时设置额外的缓冲。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2791752.d.html</link>
+            <guid>2218231</guid>
+            <pubDate>Wed, 23 Jun 2021 10:33:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股三大股指期货齐涨，道指期货现涨0.18%，标普500指数期货涨0.1%，纳指期货涨0.15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2791665.d.html</link>
+            <guid>2218230</guid>
+            <pubDate>Wed, 23 Jun 2021 10:33:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱尔兰财长多诺霍：银行业的中期计划取决于环境。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1391216.d.html</link>
+            <guid>2218228</guid>
+            <pubDate>Wed, 23 Jun 2021 10:31:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【博济医药定增落定，广州国资认购9000万元】博济医药披露定增发行报告书，确定此次发行价为10.26元/股，发行股数3345.06万股，募集资金3.43亿元，发行对象最终确定为12家，其中广州高新区投资集团获配股数最多，认购金额9000万元。天眼查显示，广州高新区投资集团为广州开发区旗下独资国有企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1391115.d.html</link>
+            <guid>2218227</guid>
+            <pubDate>Wed, 23 Jun 2021 10:30:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱尔兰财长多诺霍：爱尔兰没有出售其他银行股份的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2790570.d.html</link>
+            <guid>2218226</guid>
+            <pubDate>Wed, 23 Jun 2021 10:28:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：巴基斯坦在拉合尔发生汽车炸弹袭击，致3人死亡。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1390370.d.html</link>
@@ -302,252 +543,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1381819.d.html</link>
             <guid>2218169</guid>
             <pubDate>Wed, 23 Jun 2021 09:42:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所披露文件：6月17日，高盛以每股104.93港元均价买入16.3万股赣锋锂业股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1381092.d.html</link>
-            <guid>2218165</guid>
-            <pubDate>Wed, 23 Jun 2021 09:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[长江健康：海灵药业三个产品拟中选第五批全国药品集中采购。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1381070.d.html</link>
-            <guid>2218164</guid>
-            <pubDate>Wed, 23 Jun 2021 09:39:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[二连板森特股份：目前公司与隆基股份尚未正式开展BIPV项目工程建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1381032.d.html</link>
-            <guid>2218163</guid>
-            <pubDate>Wed, 23 Jun 2021 09:39:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[云南能投：董事会同意全资子公司马龙云能投新能源开发有限公司投资建设通泉风电场项目，工程装机规模为350MW，工程总投资（含流动资金）为22.45亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2781127.d.html</link>
-            <guid>2218162</guid>
-            <pubDate>Wed, 23 Jun 2021 09:39:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全志科技：与小米通讯签署2022年框架合作备忘录】全志科技消息，近日，小米生态链团队到访全志科技总部，与全志科技就AIoT相关领域合作进行了深入交流，双方高层签署了合作备忘录。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1380517.d.html</link>
-            <guid>2218160</guid>
-            <pubDate>Wed, 23 Jun 2021 09:37:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国中免：近日，公司收到了中国证监会出具的《中国证监会行政许可申请受理单》，中国证监会对公司递交的本次发行上市行政许可申请材料进行了审查，认为申请材料齐全，决定对该行政许可申请予以受理。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1380444.d.html</link>
-            <guid>2218159</guid>
-            <pubDate>Wed, 23 Jun 2021 09:36:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中利集团：子公司腾晖光伏与ACISA签署了《光伏组件供货合同》，由腾晖光伏向ACISA销售170MW光伏组件，总金额约4000万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2780540.d.html</link>
-            <guid>2218158</guid>
-            <pubDate>Wed, 23 Jun 2021 09:36:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国外长马斯：伊朗核谈判仍有一些问题需要解决。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2780402.d.html</link>
-            <guid>2218157</guid>
-            <pubDate>Wed, 23 Jun 2021 09:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：ARK基金计划非公开配售最多10%股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1380217.d.html</link>
-            <guid>2218156</guid>
-            <pubDate>Wed, 23 Jun 2021 09:35:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟批准丹麦为新冠肺炎援助计划提供35亿欧元的支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1380190.d.html</link>
-            <guid>2218155</guid>
-            <pubDate>Wed, 23 Jun 2021 09:35:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国外长马斯：我们在伊朗核谈判中取得了进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1380161.d.html</link>
-            <guid>2218154</guid>
-            <pubDate>Wed, 23 Jun 2021 09:35:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万科转型全面提速：改组开发经营中心，区域“五变七”，三高管担新责】今日万科在转型发展通气会上宣布，全面加速“开发经营服务并重”转型，将启动一系列组织和人事安排。研究与开发专业公会改组为开发经营中心；原有五区域调整为七个，分别是北京、东北、华中、南方、上海、西南和西北。张海任开发经营中心负责人，继续兼任上海区域首席合伙人；王海武请缨出任印力集团总裁；原北方区域首席合伙人刘肖接任执行副总裁和首席运营官。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1380017.d.html</link>
-            <guid>2218153</guid>
-            <pubDate>Wed, 23 Jun 2021 09:34:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行货币政策部门主管Zabotkin：关键利率应向5%-6%区间的上端倾斜。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2780109.d.html</link>
-            <guid>2218152</guid>
-            <pubDate>Wed, 23 Jun 2021 09:34:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果公司：（当美国议员们质疑App Store的竞争时）App Store保护了用户隐私，防止欺诈；第三方App Store会让iPhone用户受到伤害。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1379682.d.html</link>
-            <guid>2218151</guid>
-            <pubDate>Wed, 23 Jun 2021 09:32:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北上资金今日净买入药明康德7.95亿元、美的集团6.85亿元，净卖出兆易创新4.94亿元、恩捷股份2.72亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2779533.d.html</link>
-            <guid>2218149</guid>
-            <pubDate>Wed, 23 Jun 2021 09:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[希腊总理米佐塔基斯：2021年希腊的经济增长将达到3.6%，2022年将达到6.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2779515.d.html</link>
-            <guid>2218148</guid>
-            <pubDate>Wed, 23 Jun 2021 09:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳第3个综合保税区正式通过封关验收】据坪山发布消息，6月23日，深圳坪山综合保税区顺利通过由深圳海关、广东省商务厅、省发改委等八部门组成的联合验收组验收，成为继前海、盐田综合保税区成立以来，深圳正式封关运作的第3个综合保税区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1379315.d.html</link>
-            <guid>2218147</guid>
-            <pubDate>Wed, 23 Jun 2021 09:30:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世界卫生组织的初步报告所提出担忧包括质量控制所必需的数据和测试结果的完整性，以及其他与潜在交叉污染、无菌水平有关的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2778705.d.html</link>
-            <guid>2218145</guid>
-            <pubDate>Wed, 23 Jun 2021 09:27:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  华工科技：与鸿富锦精密电子（郑州）有限公司签署合作框架协议，就激光加工装备、量测装备、自动化产线、智慧工厂领域开展长期合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1378574.d.html</link>
-            <guid>2218143</guid>
-            <pubDate>Wed, 23 Jun 2021 09:26:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中设股份：持股6.5897%股东刘翔拟减持不超过1.5488%，持股0.5011%股东叶松拟减持不超过0.1253%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2778549.d.html</link>
-            <guid>2218142</guid>
-            <pubDate>Wed, 23 Jun 2021 09:26:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南沙港三期自23日12时起暂停外贸出口办单业务 广州港：预计明天恢复】今日，广州港旗下南沙港区三期码头自23日12时起暂停全部外贸出口办单业务，即暂停重进、吉出重回、吉进业务办理。对此，广州港相关人士回应：“是暂时措施，主要原因是今天到港办单的太多，预计明天恢复办单。目前南沙三期大船驳船和已经办单的拖车作业正常。”（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2778282.d.html</link>
-            <guid>2218140</guid>
-            <pubDate>Wed, 23 Jun 2021 09:24:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利总理德拉基：欧盟稳定与增长公约将不会以大流行之前的形式得到执行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2778011.d.html</link>
-            <guid>2218139</guid>
-            <pubDate>Wed, 23 Jun 2021 09:23:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  太极集团：子公司西南药业药品左氧氟沙星氯化钠注射液参与第五批全国药品集中采购拟中标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2777938.d.html</link>
-            <guid>2218138</guid>
-            <pubDate>Wed, 23 Jun 2021 09:23:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家邮政局市场监管司对德邦快递进行监管约谈】国家邮政局市场监管司就违法收寄危险违禁物品对德邦物流股份有限公司进行监管约谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2777490.d.html</link>
-            <guid>2218137</guid>
-            <pubDate>Wed, 23 Jun 2021 09:20:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小马智行将基于吉利平台造车，小鹏设计总监加盟】自动驾驶公司小马智行（Pony.ai）目前正与吉利接触，计划基于吉利 “SEA 浩瀚” 平台打造电动车。小马智行今年初开始考虑造车，并从各大主机厂挖人，目前已在上海组建起数十人的研发团队。原小鹏汽车造型设计中心前瞻设计总监赵谦已加盟小马智行，负责整车设计。（晚点 LatePost）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2777388.d.html</link>
-            <guid>2218136</guid>
-            <pubDate>Wed, 23 Jun 2021 09:20:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行货币政策部门主管Zabotkin：目前的GDP增速和通胀都高于4月的预测，央行将于7月23日上调GDP和通胀预测。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2777317.d.html</link>
-            <guid>2218135</guid>
-            <pubDate>Wed, 23 Jun 2021 09:20:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普洛药业：注射用头孢他啶拟中选第五批全国药品集中采购】普洛药业(000739)6月23日晚间公告，当日，公司全资子公司浙江巨泰药业有限公司参加了联合采购办公室组织的第五批全国药品集中采购，公司产品注射用头孢他啶以第二顺位拟中选本次集中采购。截至本次集采前，公司注射用头孢他啶还未形成销售，若公司后续签订采购合同并实施后，将有利于公司该产品销售快速放量和国内市场的开拓。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2777200.d.html</link>
-            <guid>2218134</guid>
-            <pubDate>Wed, 23 Jun 2021 09:20:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鸿海与Gogoro结盟 加速扩展电池交换系统与电动机车】鸿海科技集团宣布与 Gogoro 共同签署合作意向书，双方在技术与生产上形成策略伙伴。该合作让 Gogoro 能透过鸿海的高科技制造实力，提升电池交换技术及智慧电动机车生产的能力与规模，从而促进 Gogoro 的全球拓展规划，并满足全球各地对于电池交换生态系统与日俱增的需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1376611.d.html</link>
-            <guid>2218133</guid>
-            <pubDate>Wed, 23 Jun 2021 09:17:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[代表“长赐号”船东和保险公司的律师表示，已与苏伊士运河管理局达成原则上的协议，将与运河管理局尽快敲定和解协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1376589.d.html</link>
-            <guid>2218132</guid>
-            <pubDate>Wed, 23 Jun 2021 09:17:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金陵体育：实控人李春荣及其一致行动人合计减持比例达5%】金陵体育(300651)6月23日晚间公告，公司控股股东、实际控制人李春荣及其一致行动人李剑峰等合计减持643.74万股（占公司总股本的5%）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1376314.d.html</link>
-            <guid>2218131</guid>
-            <pubDate>Wed, 23 Jun 2021 09:16:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【工信部中小企业局赴重庆市调研上半年中小企业运行情况】工信部中小企业局赴重庆市开展专题调研，河北等12个省（市）中小企业主管部门有关负责同志参加了调研座谈，共同就上半年中小企业生产经营基本情况和发展趋势、企业发展面临的主要困难和问题、促进中小企业发展的政策建议进行研讨。同时，调研组实地调研了国家级专精特新“小巨人”企业平伟汽车、中科云从，并与品胜科技、西山科技、山外山、盟讯电子、云海机械、耐德新明和等8家“小巨人”企业开展了座谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2776422.d.html</link>
-            <guid>2218130</guid>
-            <pubDate>Wed, 23 Jun 2021 09:16:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国汽车流通协会与中国汽研签署战略合作协议】中国汽车流通协会消息，6月22日，中国汽车流通协会会长沈进军、副秘书长王都、汽车消费者研究专业委员会秘书长高凌等一行到中国汽车工程研究院股份有限公司进行调研。并且双方签署了战略合作协议，计划在汽车流通领域标准、政策以及汽车行业大数据服务平台方面优先进行深度合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1375965.d.html</link>
-            <guid>2218128</guid>
-            <pubDate>Wed, 23 Jun 2021 09:14:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  药明康德：参股公司纳微科技在科创板挂牌上市，公司持有其1.7525%股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1375928.d.html</link>
-            <guid>2218127</guid>
-            <pubDate>Wed, 23 Jun 2021 09:13:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳指期货、标普500指数期货抹平日内涨幅，道指期货涨幅缩窄至0.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2776013.d.html</link>
-            <guid>2218126</guid>
-            <pubDate>Wed, 23 Jun 2021 09:13:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贝莱德在华布局曝光 增加新能源领域投资比重】全球资管巨头贝莱德于6月23日召开中期策略会，贝莱德认为，中国目前注重于自立自强和扶持发展与未来相关的产业，这些新施政重点正为开创长期投资趋势提供支持。可持续发展投资尤其是与新能源有关的主题正在崛起，有望带来投资良机。已缩减个别半导体和存储器供应商的持仓比重，这些股份估值在此前大涨后，目前已开始超出其基本面的合理水平。不过，半导体业是未来发展的支柱之一，因此分析师将继续密切关注行业发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2775994.d.html</link>
-            <guid>2218125</guid>
-            <pubDate>Wed, 23 Jun 2021 09:13:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行货币政策部门主管Zabotkin：通胀预期是中性利率的关键因素。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1375667.d.html</link>
-            <guid>2218124</guid>
-            <pubDate>Wed, 23 Jun 2021 09:12:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行货币政策部门主管Zabotkin：中性利率现在“略高于”5%-6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1375638.d.html</link>
-            <guid>2218123</guid>
-            <pubDate>Wed, 23 Jun 2021 09:12:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【辉瑞中国与镁信健康启动抗生素用药领域创新合作】辉瑞中国与镁信健康旗下患者福利综合平台药康付TM宣布双方将在抗感染领域开展创新合作，并共同启动“思威福凡——患者药品权益项目”，开启多元化创新医疗支付新格局，同时通过结合镁信健康自有的科普患教、就医用药服务、患者社区三大模块，双方致力于为患者在抗菌药物的合理使用上提供更为全面的保障和更为系统化的创新方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2775581.d.html</link>
-            <guid>2218122</guid>
-            <pubDate>Wed, 23 Jun 2021 09:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧盟委员会考虑联合网络部门应对网络事件。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqciyzk1374542.d.html</link>
-            <guid>2218121</guid>
-            <pubDate>Wed, 23 Jun 2021 09:08:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄国家统计局消息，俄罗斯将于2021年10月1日至31日开展全国人口普查。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2774287.d.html</link>
-            <guid>2218120</guid>
-            <pubDate>Wed, 23 Jun 2021 09:06:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中汽协：2021年6月上中旬，11家重点企业汽车生产完成86.4万辆，同比下降37.7%。其中，乘用车生产同比下降38.1%；商用车生产同比下降35.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-23/detail-ikqcfnca2773671.d.html</link>
-            <guid>2218118</guid>
-            <pubDate>Wed, 23 Jun 2021 09:03:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
