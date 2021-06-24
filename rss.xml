@@ -4,11 +4,249 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 24 Jun 2021 15:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jun 2021 16:34:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：Archegos的银行据悉将面临美国司法部的反垄断调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1655768.d.html</link>
+            <guid>2219695</guid>
+            <pubDate>Thu, 24 Jun 2021 16:31:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国迈阿密公寓楼倒塌后35人获救 51人下落不明】当地时间6月24日，美国佛罗里达州迈阿密一公寓楼部分倒塌。据迈阿密消防部门称，到目前为止，已有35人从建筑物内获救，但仍有住在公寓楼倒塌部分的51人下落不明。目前工作人员已经完成了搜索，现在正在转向恢复工作。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1655559.d.html</link>
+            <guid>2219694</guid>
+            <pubDate>Thu, 24 Jun 2021 16:30:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利新增927例新冠肺炎确诊病例，新增28例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1654963.d.html</link>
+            <guid>2219693</guid>
+            <pubDate>Thu, 24 Jun 2021 16:25:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫经济顾问：最重要的问题是让所有人重返工作岗位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3053906.d.html</link>
+            <guid>2219692</guid>
+            <pubDate>Thu, 24 Jun 2021 16:24:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据Electrek：特斯拉(TSLA.O)已向挪威官员证实，计划在2022年9月之前向其他汽车制造商开放超级充电网络。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1654943.d.html</link>
+            <guid>2219691</guid>
+            <pubDate>Thu, 24 Jun 2021 16:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫经济顾问：经济数据表明通胀上升是暂时的，可能会在2021年结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3053345.d.html</link>
+            <guid>2219690</guid>
+            <pubDate>Thu, 24 Jun 2021 16:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  新股蛋白降解疗法生物技术研发公司Monte Rosa Therapeutics(GLUE.O)首日上市开涨超17%，报22.3美元，IPO定价为19美元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1654382.d.html</link>
+            <guid>2219689</guid>
+            <pubDate>Thu, 24 Jun 2021 16:20:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫经济顾问：希望将失业率降至3%的区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1654164.d.html</link>
+            <guid>2219687</guid>
+            <pubDate>Thu, 24 Jun 2021 16:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行执委施纳贝尔：短期利率将在相当长一段时间内保持低位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3053089.d.html</link>
+            <guid>2219686</guid>
+            <pubDate>Thu, 24 Jun 2021 16:18:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国贸易代表候选人JAYME WHITE：若欧盟不遵守协议，美国将毫不犹豫地对欧盟采取反补贴措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3053071.d.html</link>
+            <guid>2219685</guid>
+            <pubDate>Thu, 24 Jun 2021 16:18:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国贸易代表候选人JAYME WHITE：对数字保护主义表示担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3052915.d.html</link>
+            <guid>2219683</guid>
+            <pubDate>Thu, 24 Jun 2021 16:16:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利：俄罗斯计划对钢铁、镍、铝、铜实施临时性出口关税，那将利好铝价和美国铝业（AA）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1653984.d.html</link>
+            <guid>2219682</guid>
+            <pubDate>Thu, 24 Jun 2021 16:16:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国贸易代表候选人JAYME WHITE：应该对欧盟对最近达成的飞机补贴协议的遵守情况进行“强有力的监督”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3052886.d.html</link>
+            <guid>2219681</guid>
+            <pubDate>Thu, 24 Jun 2021 16:16:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  纳指涨幅扩大至1%，续刷盘中历史新高，大型科技股、半导体板块齐涨。]]></title>
+            <guid>2219680</guid>
+            <pubDate>Thu, 24 Jun 2021 16:16:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行执委施纳贝尔：欧洲央行不能在气候变化问题上袖手旁观。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3052775.d.html</link>
+            <guid>2219679</guid>
+            <pubDate>Thu, 24 Jun 2021 16:15:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周四（6月24日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）涨0.97%，报55.10欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1653677.d.html</link>
+            <guid>2219678</guid>
+            <pubDate>Thu, 24 Jun 2021 16:13:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[热门中概股普涨。唯品会、雾芯科技涨超7%，哔哩哔哩涨超5%，拼多多涨超4%，爱奇艺、百度涨超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3052606.d.html</link>
+            <guid>2219677</guid>
+            <pubDate>Thu, 24 Jun 2021 16:13:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行执委施纳贝尔：欧洲央行预计供应瓶颈问题将在今年得到解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3052556.d.html</link>
+            <guid>2219676</guid>
+            <pubDate>Thu, 24 Jun 2021 16:12:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国众议院将成立两党委员会 对1月6日国会大厦袭击事件进行调查】美国众议院议长南希·佩洛西当地时间6月24日表示，众议院将成立一个由两党议员组成的特别委员会，对1月6日国会大厦袭击事件进行调查。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1653242.d.html</link>
+            <guid>2219675</guid>
+            <pubDate>Thu, 24 Jun 2021 16:09:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行执委施纳贝尔：生产者价格是否会转嫁给消费者还是个未知数。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3052059.d.html</link>
+            <guid>2219674</guid>
+            <pubDate>Thu, 24 Jun 2021 16:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  新股健康保险公司Bright Health Group(BHG.N)首日上市破发，开跌超4%，报17.2美元，IPO定价为18美元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3051869.d.html</link>
+            <guid>2219671</guid>
+            <pubDate>Thu, 24 Jun 2021 16:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国天然气期货延续涨势，达到2019年1月以来最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1652406.d.html</link>
+            <guid>2219670</guid>
+            <pubDate>Thu, 24 Jun 2021 16:02:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【水泥价格连续多轮下跌，重回年内低点】水泥市场最近开启新一轮降价。多地水泥企业相继发布通知，下调各品种水泥价格，降幅普遍在每吨10-30元左右。而5月下旬以来，这样的降价已经出现多轮，水泥市场进入淡季后，波动幅度超过往年。到6月中旬，水泥价格已经基本回到了3月份涨价前的水平，短短一个月跌幅超过10%，而且下跌趋势还在继续。中国水泥协会执行会长孔祥忠分析：“因为前几个月有点透支了，前几个月比往年正常（价格）增长得太快了，这个月要下降一点也是正常的。现在就下降几个点，也没有特别多。7月上旬会好一点，但是到了7月下旬梅雨季节的时候，（市场）又要停滞一个多月。 ”（央广网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1652004.d.html</link>
+            <guid>2219669</guid>
+            <pubDate>Thu, 24 Jun 2021 15:59:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  服饰销售公司Digital Brands Group(DBGI.O)盘中大涨近70%，此前宣布向亚马逊市场拓展渠道。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3050796.d.html</link>
+            <guid>2219668</guid>
+            <pubDate>Thu, 24 Jun 2021 15:55:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货短线走低0.3美元，现报73.08美元/桶；布伦特原油期货短线走低0.2美元，现报75.34美元/桶。]]></title>
+            <guid>2219666</guid>
+            <pubDate>Thu, 24 Jun 2021 15:52:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行执委施纳贝尔：欧洲央行没有达到有效的利率下限，但更接近了。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1651485.d.html</link>
+            <guid>2219663</guid>
+            <pubDate>Thu, 24 Jun 2021 15:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行执委施纳贝尔：通胀不会持续，除非劳动力不景气的现象有所缓解。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3050382.d.html</link>
+            <guid>2219662</guid>
+            <pubDate>Thu, 24 Jun 2021 15:49:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行执委施纳贝尔：还没有看到工资有持续承压的迹象。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1651086.d.html</link>
+            <guid>2219661</guid>
+            <pubDate>Thu, 24 Jun 2021 15:44:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【欧洲主要股指集体收涨 德国DAX指数涨0.85%】欧洲主要股指集体收涨，德国DAX指数涨0.85%，法国CAC40指数涨1.24%，英国富时100指数涨0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3049901.d.html</link>
+            <guid>2219660</guid>
+            <pubDate>Thu, 24 Jun 2021 15:41:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行执委施纳贝尔：现在，欧盟经济已经迎来了拐点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1650825.d.html</link>
+            <guid>2219659</guid>
+            <pubDate>Thu, 24 Jun 2021 15:40:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：加密货币不是一种好的价值存储方式，因为价格波动很大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1650499.d.html</link>
+            <guid>2219658</guid>
+            <pubDate>Thu, 24 Jun 2021 15:36:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：美联储在利率或货币政策上并没有固定的时间表。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1650492.d.html</link>
+            <guid>2219657</guid>
+            <pubDate>Thu, 24 Jun 2021 15:36:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：美联储需要了解气候变化如何影响经济和金融状况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1650486.d.html</link>
+            <guid>2219656</guid>
+            <pubDate>Thu, 24 Jun 2021 15:36:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  在岸人民币兑美元（CNY）北京时间23:30收报6.4727元，较上一日夜盘收盘涨21点。成交量464.52亿美元，较上一日减少24.29亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1650472.d.html</link>
+            <guid>2219655</guid>
+            <pubDate>Thu, 24 Jun 2021 15:36:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【前5月海南实际使用外资增长527.54%，81个国家和地区在海南省新设外资企业】6月24日从省商务厅获悉，不少国家投资者积极参与海南自贸港建设，海南利用外资实现快速增长。今年前5个月，海南实际使用外资同比增长527.54%，共有81个国家和地区在我省新设外资企业。统计数字显示，1月至5月，我省新设立外商投资企业750家，同比增长393.42%；实际使用外资7.98亿美元。中国香港、中国台湾、加拿大新设外资企业数量居前三名。现代服务业实际使用外资占全省总量的90%以上，商务服务业等实际使用外资保持高速增长。（海南发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3049262.d.html</link>
+            <guid>2219654</guid>
+            <pubDate>Thu, 24 Jun 2021 15:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉日内涨幅扩大至近6%，最高触及695美元，本周迄今累涨超11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1650042.d.html</link>
+            <guid>2219653</guid>
+            <pubDate>Thu, 24 Jun 2021 15:29:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：美联储在评估经济时使用了一系列指标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3048957.d.html</link>
+            <guid>2219652</guid>
+            <pubDate>Thu, 24 Jun 2021 15:28:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：智利发现首例Delta变种新冠病毒感染病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1649973.d.html</link>
+            <guid>2219651</guid>
+            <pubDate>Thu, 24 Jun 2021 15:28:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：加息将以美联储目标的进展为指导。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1649841.d.html</link>
+            <guid>2219649</guid>
+            <pubDate>Thu, 24 Jun 2021 15:27:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国贸易代表White：美国有权利对加拿大实施木材反倾销税。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1649785.d.html</link>
+            <guid>2219648</guid>
+            <pubDate>Thu, 24 Jun 2021 15:26:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【沪深交易所相关负责人就股东信息披露核查问题作出回应】近日，交易所发布了《进一步规范股东信息披露核查的通知》，强调在股东信息披露核查过程中应按照实质重于形式和重大性原则，并量化了重大性原则标准，记者就在核查工作中，将如何将通知要求与证监会前期发布的《监管规则适用指引——发行类第2号》做好衔接的问题采访了交易所相关负责人。沪深交易所相关负责人表示，在证监会指导下，近期沪深交易所发布了IPO股东信息披露核查中应遵循的重大性原则标准，在坚持实质重于形式，切实防范利用上市利益输送、违法违规“造富”的前提下，明确持股较少、不涉及违法违规“造富”等情形的，中介机构实事求是出具意见后，可不穿透核查，纠正中介机构在执行规则时的免责式、简单化等不良倾向。另外，中介机构应当按照通知要求，对重大性原则标准以上的股东严格按规定履行核查程序，切实做到勤勉尽责。对重大性原则标准以下、可能涉及证监会系统离职人员不当入股等情形的，应当严格按照《监管规则适用指引——发行类第2号》等规定履行核查程序并及时报告。前述沪深交易所负责人强调，监管部门在审核注册过程中，将始终坚持刀刃向内、从严监管，发现系统离职人员入股拟上市企业的，不论持股数量多少、比例高低，都将按照防范离职人员不当入股相关规定开展审核、复核等工作。 (证券时报)]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1649777.d.html</link>
@@ -307,238 +545,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3042353.d.html</link>
             <guid>2219585</guid>
             <pubDate>Thu, 24 Jun 2021 14:23:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内钾肥市场供应端紧俏 硫酸钾报价同比涨近四成】生意社数据显示，近期国内硫酸钾市场行情走强，现货价格涨幅较大。截止24日，国内硫酸钾50颗粒样本均价3716.67元/吨，较月初均价水平有21.20%的涨幅，较去年同期有38.94%的涨幅。业内人士指出，硫酸钾整体供应量有限，市场开工小幅降低，罗钾进入检修期，预计9月下旬复产，目前无库存，前期订单发运紧张，形成供给端利好。 (上证报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1643138.d.html</link>
-            <guid>2219584</guid>
-            <pubDate>Thu, 24 Jun 2021 14:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亚马逊上涨0.18%，在FAANMG中涨幅最小；根据亚马逊提供的有限数据，美国银行认为亚马逊为期两天的Prime Day销售增长疲软。美国银行估计销售额同比增长7%，达到95.5亿美元，增幅低于正常水平。]]></title>
-            <guid>2219583</guid>
-            <pubDate>Thu, 24 Jun 2021 14:21:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国上周初请失业金人数实际公布41.1万人高于预期，与此同时，1484.5万美国人仍在领取某种形式的政府救济金，与前一周基本持平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3041925.d.html</link>
-            <guid>2219582</guid>
-            <pubDate>Thu, 24 Jun 2021 14:20:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小鹏汽车美股跌超3%，现报40.28美元。今日招股文件显示其香港公开发行的最高发行价为每股23.19美元（相等于每ADS 46.39美元）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1642774.d.html</link>
-            <guid>2219581</guid>
-            <pubDate>Thu, 24 Jun 2021 14:18:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[汇丰：预计英国央行将在明年加息两次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3041653.d.html</link>
-            <guid>2219580</guid>
-            <pubDate>Thu, 24 Jun 2021 14:17:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院多数党领袖舒默：预算决议也必须向前推进。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1642685.d.html</link>
-            <guid>2219579</guid>
-            <pubDate>Thu, 24 Jun 2021 14:17:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小鹏汽车将在港股上市 造车新势力助推智能化趋势】据港交所披露，小鹏汽车通过上市聆讯，拟发行8075万股股份。此次在港股上市募资，将用于拓展产品组合、开发更先进的技术，例如计划的G3i、P5、第四款智能电动汽车型号等的研发。东吴证券分析师黄细里指出，在行车辅助、泊车辅助等智能化功能渗透率上，造车新势力明显好于传统车企。电动化先行，智能化紧随，将重塑汽车产业链上下游关系和价值分配，也将培养一批具备全球竞争力的优秀企业。相关公司有联创电子、京泉华等。（上证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1642668.d.html</link>
-            <guid>2219578</guid>
-            <pubDate>Thu, 24 Jun 2021 14:17:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈克：美联储的重点不是气候科学，而是应对宏观和微观层面的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1642617.d.html</link>
-            <guid>2219577</guid>
-            <pubDate>Thu, 24 Jun 2021 14:17:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院多数党领袖舒默：参议院将在7月份实施基础设施协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3041510.d.html</link>
-            <guid>2219576</guid>
-            <pubDate>Thu, 24 Jun 2021 14:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股芯片股、集成电路股集体上涨，半导体板块ETF涨1.4%；南太集团涨超6%，莱迪思半导体涨超4%；AMD涨近3%，恩智浦、拉姆研究、微芯科技、美光科技、高通涨超1%。]]></title>
-            <guid>2219575</guid>
-            <pubDate>Thu, 24 Jun 2021 14:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储博斯蒂克：除非我们对宽带和其他基础设施进行投资，否则我们将会看到生产率的下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3041188.d.html</link>
-            <guid>2219574</guid>
-            <pubDate>Thu, 24 Jun 2021 14:13:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储博斯蒂克：对工人的需求是否会减少仍是一个非常开放的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1642204.d.html</link>
-            <guid>2219573</guid>
-            <pubDate>Thu, 24 Jun 2021 14:13:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储博斯蒂克：政策制定者需要以经济增长和可持续性为目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1642130.d.html</link>
-            <guid>2219572</guid>
-            <pubDate>Thu, 24 Jun 2021 14:12:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储博斯蒂克：对基础设施投资的失败将阻碍复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3040908.d.html</link>
-            <guid>2219571</guid>
-            <pubDate>Thu, 24 Jun 2021 14:10:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈克：美国的基建显然存在问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3040659.d.html</link>
-            <guid>2219570</guid>
-            <pubDate>Thu, 24 Jun 2021 14:09:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【物产中大：不存在收购某公司及与某公司合资设立征信公司的事项】物产中大(600704)6月24日晚间公告，近期一些金融服务网站股吧、自媒体等出现了公司收购某公司，或某公司入股公司，以及公司与某公司合资设立征信公司的传闻，严重影响了市场投资者的判断，引发了公司股价异动。经公司自查并向控股股东征询，公司不存在收购某公司，及某公司入股公司，以及公司与某公司合资设立征信公司的事项，在未来六个月内也不存在上述情形。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3040283.d.html</link>
-            <guid>2219569</guid>
-            <pubDate>Thu, 24 Jun 2021 14:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  物产中大：经公司自查，公司不存在收购某公司，及某公司入股本公司，以及公司与某公司合资设立征信公司的事项。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1641010.d.html</link>
-            <guid>2219568</guid>
-            <pubDate>Thu, 24 Jun 2021 14:03:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股中概教育股走高，高途涨7.3%，掌门教育涨4.23%，好未来涨4.14%，新东方涨3.82%，哔哩哔哩涨3.99%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1640809.d.html</link>
-            <guid>2219566</guid>
-            <pubDate>Thu, 24 Jun 2021 14:02:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：美国和俄罗斯代表团在柏林举行的利比亚问题国际会议的间隙举行了会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3039347.d.html</link>
-            <guid>2219565</guid>
-            <pubDate>Thu, 24 Jun 2021 13:58:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【辽宁：大力发展数字经济，深入实施数字产业化和产业数字化】辽宁省委副书记、省长刘宁主持召开省数字辽宁建设工作领导小组会议。会议强调，要全力构建数字政府，持续深化“互联网+政务服务”，强势推进“一网通办”，提高数字化政务服务效能。要大力发展数字经济，深入实施数字产业化和产业数字化，做好结构调整“三篇大文章”，促进实体经济与数字经济深度融合发展，为构建现代经济体系提供持续动力。（辽宁日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1640293.d.html</link>
-            <guid>2219564</guid>
-            <pubDate>Thu, 24 Jun 2021 13:57:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈克：增长强劲时，美联储可以解决很多问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3039164.d.html</link>
-            <guid>2219563</guid>
-            <pubDate>Thu, 24 Jun 2021 13:56:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国民主党参议员曼钦：参议员正在敲定基础设施协议的最终细节。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3038828.d.html</link>
-            <guid>2219562</guid>
-            <pubDate>Thu, 24 Jun 2021 13:53:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【苏伊士运河管理局：有望于下周内释放“长赐”号货轮】据埃及金字塔在线网站报道，苏伊士运河管理局主席乌萨马·拉比耶在24日接受电视台采访时表示，运河管理局预计于下周内与“长赐”号货轮的日本船东签署最终协议，并允许该货轮离开运河。此前一天，“长赐号”船东及保险公司的法律代表表示双方已达成原则性协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3038700.d.html</link>
-            <guid>2219561</guid>
-            <pubDate>Thu, 24 Jun 2021 13:52:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内体外诊断产业市场规模已接近千亿元】近日在上海嘉定举办的第二届长三角体外诊断产业高峰论坛上了解到，国内体外诊断产业市场规模已接近千亿元，成为一个较活跃、发展较快的行业。在论坛讨论中不少专家认为，体外诊断不仅对疾病的预防、诊断和治疗具有积极意义，而且随着全球人口基数、年龄的不断增长，慢性病、肿瘤等发病率不断提高，全球IVD市场规模将进一步扩大。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3038592.d.html</link>
-            <guid>2219560</guid>
-            <pubDate>Thu, 24 Jun 2021 13:51:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外交部：如果(英国海舰侵犯俄罗斯海域)的行为再次发生，英国将为任何后果承担全部责任。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3038035.d.html</link>
-            <guid>2219559</guid>
-            <pubDate>Thu, 24 Jun 2021 13:47:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  证监会6月24日消息，杭州士兰微电子股份有限公司发行股份购买资产事项将于6月30日上会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1638976.d.html</link>
-            <guid>2219557</guid>
-            <pubDate>Thu, 24 Jun 2021 13:45:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港特区政府纾困措施已推出逾3100亿港元】香港特区政府民政事务局局长徐英伟24日在特区立法会会议上表示，特区政府至今通过基金及2020至2021年度《财政预算案》推出的纾困措施，涉及承担额逾3100亿元港币，相当于本地生产总值约11%。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1638877.d.html</link>
-            <guid>2219556</guid>
-            <pubDate>Thu, 24 Jun 2021 13:44:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利富时MIB指数日内涨幅达1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3037450.d.html</link>
-            <guid>2219555</guid>
-            <pubDate>Thu, 24 Jun 2021 13:41:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯就英国海舰运输事件向英国特使发出强烈抗议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3037392.d.html</link>
-            <guid>2219554</guid>
-            <pubDate>Thu, 24 Jun 2021 13:41:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海市委副书记龚正：推动教育综改各项重点任务落地生根、开花结果】上海市委副书记、市长龚正今天调研教育工作时指出，要按照市委部署要求，紧扣教育高质量发展这个主题，紧盯短板弱项，加强改革攻坚，推动教育综改各项重点任务落地生根、开花结果，为全面提升上海城市软实力作出更大贡献。龚正指出，要走好群众路线，制定政策要多听各方意见，特别是多渠道征求公众意见，调动广大教职员工积极性，把群众的实际感受作为重要的评判依据。要加强教育基本建设，优化投入结构和分配机制，为教育改革发展创造更好条件。（上海发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3037383.d.html</link>
-            <guid>2219553</guid>
-            <pubDate>Thu, 24 Jun 2021 13:41:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Luminar(LAZR.O)涨超10%，其激光雷达技术将成为沃尔沃即将推出的全电动旗舰车的标准配备。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1638152.d.html</link>
-            <guid>2219552</guid>
-            <pubDate>Thu, 24 Jun 2021 13:39:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国CAC40指数日内涨幅达1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1637933.d.html</link>
-            <guid>2219551</guid>
-            <pubDate>Thu, 24 Jun 2021 13:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纳指、标普500指数续刷新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3036624.d.html</link>
-            <guid>2219549</guid>
-            <pubDate>Thu, 24 Jun 2021 13:35:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银日内涨幅扩大至1%，现报26.13美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3036239.d.html</link>
-            <guid>2219548</guid>
-            <pubDate>Thu, 24 Jun 2021 13:32:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  百健跌超6%，报347美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1637209.d.html</link>
-            <guid>2219547</guid>
-            <pubDate>Thu, 24 Jun 2021 13:31:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  证监会公告，闻泰科技股份有限公司、贵州川恒化工股份有限公司可转债事项将于6月28日上会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3036108.d.html</link>
-            <guid>2219546</guid>
-            <pubDate>Thu, 24 Jun 2021 13:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈克：美联储的主要职责是建设公平的劳动力市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3036022.d.html</link>
-            <guid>2219545</guid>
-            <pubDate>Thu, 24 Jun 2021 13:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指开盘涨0.5%，标普500涨0.5%，纳指涨0.6%】银行股普涨，瑞士信贷涨2.6%，花旗涨1.0%。优信二手车涨6.5%，中国商务部表示将推动取消对二手车交易不合理限制。小鹏汽车涨1.2%，传小鹏汽车港股最快周五开始招股，筹资约20亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1637067.d.html</link>
-            <guid>2219544</guid>
-            <pubDate>Thu, 24 Jun 2021 13:30:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  证监会公告，青岛食品股份有限公司（首发）获通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3035841.d.html</link>
-            <guid>2219543</guid>
-            <pubDate>Thu, 24 Jun 2021 13:29:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
