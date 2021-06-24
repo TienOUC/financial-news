@@ -4,11 +4,83 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 24 Jun 2021 18:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jun 2021 19:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：美国投资级基金上周净流入2.33亿美元，市政债券基金净流入19亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3067453.d.html</link>
+            <guid>2219780</guid>
+            <pubDate>Thu, 24 Jun 2021 19:17:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：美国高收益率基金上周流入1.89亿美元资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3067448.d.html</link>
+            <guid>2219779</guid>
+            <pubDate>Thu, 24 Jun 2021 19:17:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收涨0.26%，报28904点，高水22点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1667931.d.html</link>
+            <guid>2219778</guid>
+            <pubDate>Thu, 24 Jun 2021 19:05:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国众议院司法委员会投票通过一项反垄断法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3066719.d.html</link>
+            <guid>2219777</guid>
+            <pubDate>Thu, 24 Jun 2021 19:03:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议员Klobuchar：“小而强大”的组织正在试图破坏反垄断。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1667341.d.html</link>
+            <guid>2219776</guid>
+            <pubDate>Thu, 24 Jun 2021 18:54:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议员Klobuchar：企业拆分、剥离应该是调整的选项。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3066289.d.html</link>
+            <guid>2219775</guid>
+            <pubDate>Thu, 24 Jun 2021 18:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议员Klobuchar：国会应该改变（公司）并购标准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3065973.d.html</link>
+            <guid>2219774</guid>
+            <pubDate>Thu, 24 Jun 2021 18:47:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员罗姆尼：预计至少有10名共和党参议员支持两党协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1666716.d.html</link>
+            <guid>2219773</guid>
+            <pubDate>Thu, 24 Jun 2021 18:42:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院多数党领袖舒默：民主党人的基础设施法案应该增加对公司和富人的税收。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3065350.d.html</link>
+            <guid>2219772</guid>
+            <pubDate>Thu, 24 Jun 2021 18:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  联邦快递(FDX.N)涨2%，将于今日盘后公布财报。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1666371.d.html</link>
+            <guid>2219771</guid>
+            <pubDate>Thu, 24 Jun 2021 18:36:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海原油期货主力合约夜盘收涨0.04%，报466.3元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3065107.d.html</link>
+            <guid>2219770</guid>
+            <pubDate>Thu, 24 Jun 2021 18:32:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海黄金交易所黄金T+D 6月25日（周五）晚盘收盘下跌0.45%报370.2元/克；上海黄金交易所白银T+D 6月25日（周五）晚盘收盘下跌0.22%报5354.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3065102.d.html</link>
+            <guid>2219769</guid>
+            <pubDate>Thu, 24 Jun 2021 18:32:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【部委地方年中密集调研把脉经济】 据了解，国家发展改革委、工业和信息化部等多个部委就当前经济形势展开密集摸底，召开上半年经济运行会，不少地方也陆续召开经济运行监测调度会，在分析研判上半年经济形势的基础上，研究部署下一步工作。从这些会议释放的信号看，当前国内经济全面恢复的基础仍不牢固，结构性分化仍在延续，需求持续恢复仍受到制约。稳定工业增长、进一步扩大内需、纾困中小企业等依旧是下一步稳经济的重中之重。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3063916.d.html</link>
@@ -515,71 +587,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1653677.d.html</link>
             <guid>2219678</guid>
             <pubDate>Thu, 24 Jun 2021 16:13:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[热门中概股普涨。唯品会、雾芯科技涨超7%，哔哩哔哩涨超5%，拼多多涨超4%，爱奇艺、百度涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3052606.d.html</link>
-            <guid>2219677</guid>
-            <pubDate>Thu, 24 Jun 2021 16:13:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委施纳贝尔：欧洲央行预计供应瓶颈问题将在今年得到解决。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3052556.d.html</link>
-            <guid>2219676</guid>
-            <pubDate>Thu, 24 Jun 2021 16:12:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国众议院将成立两党委员会 对1月6日国会大厦袭击事件进行调查】美国众议院议长南希·佩洛西当地时间6月24日表示，众议院将成立一个由两党议员组成的特别委员会，对1月6日国会大厦袭击事件进行调查。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1653242.d.html</link>
-            <guid>2219675</guid>
-            <pubDate>Thu, 24 Jun 2021 16:09:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委施纳贝尔：生产者价格是否会转嫁给消费者还是个未知数。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3052059.d.html</link>
-            <guid>2219674</guid>
-            <pubDate>Thu, 24 Jun 2021 16:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新股健康保险公司Bright Health Group(BHG.N)首日上市破发，开跌超4%，报17.2美元，IPO定价为18美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqcfnca3051869.d.html</link>
-            <guid>2219671</guid>
-            <pubDate>Thu, 24 Jun 2021 16:06:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国天然气期货延续涨势，达到2019年1月以来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-25/detail-ikqciyzk1652406.d.html</link>
-            <guid>2219670</guid>
-            <pubDate>Thu, 24 Jun 2021 16:02:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水泥价格连续多轮下跌，重回年内低点】水泥市场最近开启新一轮降价。多地水泥企业相继发布通知，下调各品种水泥价格，降幅普遍在每吨10-30元左右。而5月下旬以来，这样的降价已经出现多轮，水泥市场进入淡季后，波动幅度超过往年。到6月中旬，水泥价格已经基本回到了3月份涨价前的水平，短短一个月跌幅超过10%，而且下跌趋势还在继续。中国水泥协会执行会长孔祥忠分析：“因为前几个月有点透支了，前几个月比往年正常（价格）增长得太快了，这个月要下降一点也是正常的。现在就下降几个点，也没有特别多。7月上旬会好一点，但是到了7月下旬梅雨季节的时候，（市场）又要停滞一个多月。 ”（央广网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1652004.d.html</link>
-            <guid>2219669</guid>
-            <pubDate>Thu, 24 Jun 2021 15:59:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  服饰销售公司Digital Brands Group(DBGI.O)盘中大涨近70%，此前宣布向亚马逊市场拓展渠道。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3050796.d.html</link>
-            <guid>2219668</guid>
-            <pubDate>Thu, 24 Jun 2021 15:55:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油期货短线走低0.3美元，现报73.08美元/桶；布伦特原油期货短线走低0.2美元，现报75.34美元/桶。]]></title>
-            <guid>2219666</guid>
-            <pubDate>Thu, 24 Jun 2021 15:52:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委施纳贝尔：欧洲央行没有达到有效的利率下限，但更接近了。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqciyzk1651485.d.html</link>
-            <guid>2219663</guid>
-            <pubDate>Thu, 24 Jun 2021 15:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委施纳贝尔：通胀不会持续，除非劳动力不景气的现象有所缓解。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-24/detail-ikqcfnca3050382.d.html</link>
-            <guid>2219662</guid>
-            <pubDate>Thu, 24 Jun 2021 15:49:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
