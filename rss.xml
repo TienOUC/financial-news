@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 26 Jun 2021 16:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jun 2021 17:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[英国首相府：英国卫生大臣汉考克辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2051369.d.html</link>
+            <guid>2221575</guid>
+            <pubDate>Sat, 26 Jun 2021 17:15:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多举措保障迎峰度夏煤炭供应 就煤炭保供稳价访国家发展改革委有关负责人】近期，我国煤炭价格高位波动，保供稳价工作受到社会广泛关注。煤炭供应是否有保障？如何应对迎峰度夏需求增长？后期价格走势如何？新华社26日采访了国家发展改革委经济运行调节局有关负责人。相关负责人表示，供应总体稳定，价格不存在大幅上涨基础；迎峰度夏能源供应有保障；预计7月份煤价将进入下降通道。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3449391.d.html</link>
+            <guid>2221565</guid>
+            <pubDate>Sat, 26 Jun 2021 17:10:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国新增新冠肺炎确诊病例18270例 累计确诊4717811例】英国卫生和社会保障部6月26日公布，英国一天内新增新冠肺炎确诊病例18270例，累计确诊4717811例。英国目前每百万人口的感染比例居全球之首，超过美国和印度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3448829.d.html</link>
+            <guid>2221554</guid>
+            <pubDate>Sat, 26 Jun 2021 17:04:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：欧盟表示要将碳市场拓展到航运、住房、交通等领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3447324.d.html</link>
+            <guid>2221548</guid>
+            <pubDate>Sat, 26 Jun 2021 16:49:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【无惧感染 英国伦敦上万人上街游行示威】当地时间26日，英国伦敦有上万人上街游行示威，在商业中心和政府机构周围，示威活动的诉求包括反防疫封锁等，一些示威者还包围了唐宁街首相府。为了预防与示威相关的暴力活动发生，伦敦警方周五开始突袭了三个地方，没收了一些示威用具，其中有用于封锁道路的竹制装置等。警方宣布，已逮捕至少12人。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2048140.d.html</link>
+            <guid>2221535</guid>
+            <pubDate>Sat, 26 Jun 2021 16:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小鹏捷足先登，“蔚小理”正集体“回流”港股？】小鹏汽车登陆美股不到一年便赴港上市，略显着急。但尚未实现收支平衡甚至盈利的造车新势力们，面对国内新能源车市的激烈竞争，需要更多的资金生存下去，当美股市场监管日渐严苛，回港上市未尝不是拓宽融资渠道、降低融资风险的最优解。（21世纪）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2047881.d.html</link>
+            <guid>2221532</guid>
+            <pubDate>Sat, 26 Jun 2021 16:39:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【阿富汗安全部队击毙248名塔利班成员】当地时间26日，阿富汗国防部发布声明表示，过去24小时，阿安全部队与塔利班在坎大哈、卢格尔等十个省份发生冲突，共击毙248名、击伤137名、逮捕12名塔利班成员，并且销毁了塔利班的大量武器弹药和不同类型的地雷炸弹。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2047053.d.html</link>
@@ -419,30 +455,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1982913.d.html</link>
             <guid>2221246</guid>
             <pubDate>Sat, 26 Jun 2021 07:06:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国最大海洋综合科考实习船今天交付】今天（26日）上午，我国最大海洋综合科考实习船“中山大学”号在上海的江南造船厂正式交付。“中山大学”号还对外发布了首航科考任务，计划于今年10月前往南海西沙海域进行科学考察。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1979610.d.html</link>
-            <guid>2221241</guid>
-            <pubDate>Sat, 26 Jun 2021 06:41:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普：印度各州需要政府提供更多的财政支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3377785.d.html</link>
-            <guid>2221240</guid>
-            <pubDate>Sat, 26 Jun 2021 06:41:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：所罗门群岛发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3377132.d.html</link>
-            <guid>2221239</guid>
-            <pubDate>Sat, 26 Jun 2021 06:38:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[捷克在过去24小时内新增138例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3376466.d.html</link>
-            <guid>2221237</guid>
-            <pubDate>Sat, 26 Jun 2021 06:34:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
