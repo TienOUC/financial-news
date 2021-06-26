@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 26 Jun 2021 21:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jun 2021 22:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国累计新冠肺炎确诊病例超过3360万例】根据美国约翰斯·霍普金斯大学于美国东部时间6月26日17时21分（北京时间6月27日5时21分）公布的统计数据显示，美国累计新冠肺炎确诊病例已超过3360万例，达到33607739例。累计死亡病例超过60.3万例，达到603647例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2071649.d.html</link>
+            <guid>2221656</guid>
+            <pubDate>Sat, 26 Jun 2021 22:17:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  智利新增新冠肺炎确诊病例5628例，新增死亡病例215例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3468127.d.html</link>
+            <guid>2221655</guid>
+            <pubDate>Sat, 26 Jun 2021 21:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：美国西部90%以上地区正在遭受历史性干旱的威胁】据美国福克斯新闻当地时间6月26日报道，美国西部90%以上地区都处于历史性的、危及生命的干旱状态中，超5800万居民将受到影响。美国国家海洋和大气局（NOAA）的国家综合干旱信息系统报告称，"极端"和"异常"的干旱水平已经连续第三周创下纪录，49.7%的美国西部地区正在经历“极端”干旱。美国西部地区近几周来一直遭受干旱和高温的影响，野火风险随之增加，多位州长已经宣布进入紧急状态。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3466732.d.html</link>
+            <guid>2221654</guid>
+            <pubDate>Sat, 26 Jun 2021 21:31:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【二季度中国成长股笑傲亚洲市场】① 随着投资者对股市流动性担忧的缓解，成长股居多的中国科创50和创业板指数二季度领跑亚股。进入下半年，尽管涨幅已经可观，科技等成长股仍然被主要券商看好，或再成市场宠儿；② 今年以来，货币政策和流动性变化预期持续主导市场的风险偏好。近期美债收益率回落、中国利率水平总体适宜，同时下半年中国经济增速预期较上半年放慢，都是分析师看好成长股占优的主因。经济趋稳意味着决策者将不急于收紧政策，受益于低利率环境的成长股往往对流动性变化更加敏感。它们的市值通常较大盘蓝筹股更小；③ 不过，随着美联储官员越来越多地为减码量化宽松吹风，潜在的流动性变化或需成为全球市场的警惕信号。招商证券在看好A股成长股表现的同时，也提出四季度后期或面临经济需求弱化和外部流动性压力。汇华理财资产配置总监曾睿指出：“在流动性比较宽裕的前提下，比如现在，市场会比较支持成长风格，直到货币政策回归中性”。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3466033.d.html</link>
@@ -448,24 +466,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3409992.d.html</link>
             <guid>2221286</guid>
             <pubDate>Sat, 26 Jun 2021 10:40:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[工银瑞信基金证实，已接到基金投顾试点批文。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3409688.d.html</link>
-            <guid>2221285</guid>
-            <pubDate>Sat, 26 Jun 2021 10:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万亿市场大动作 新一批基金投顾试点出炉】记者获悉，目前至少有6家券商和6家基金已正式成为新一批获准试点开展基金投顾的公司。其中，基金公司包括：博时基金、兴证全球基金、广发基金、工银瑞信基金、招商基金、交银施罗德基金等多家公募。6家券商分别有兴业证券、招商证券、国信证券、东方证券、中信证券、安信证券等。业内人士认为，新一批机构的加入，将会对投顾业务生态的形成和多元化发展，起到积极的助推作用。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3409675.d.html</link>
-            <guid>2221284</guid>
-            <pubDate>Sat, 26 Jun 2021 10:38:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[即日起，广州天河全面恢复堂食服务。（羊城派）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3406676.d.html</link>
-            <guid>2221282</guid>
-            <pubDate>Sat, 26 Jun 2021 10:13:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
