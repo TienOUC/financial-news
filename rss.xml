@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 26 Jun 2021 09:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jun 2021 10:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[即日起，广州天河全面恢复堂食服务。（羊城派）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3406676.d.html</link>
+            <guid>2221282</guid>
+            <pubDate>Sat, 26 Jun 2021 10:13:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【未来几天云南将出现强降雨过程 局地累积雨量将超250毫米】受低涡切变影响，预计6月27日晚至30日，云南省自北向南将出现大到暴雨局部大暴雨，并伴有雷暴、短时强降水、局地冰雹和大风天气。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk2007982.d.html</link>
+            <guid>2221281</guid>
+            <pubDate>Sat, 26 Jun 2021 10:11:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据法新社：欧洲杯举办城市之一的俄罗斯圣彼得堡单日新增新冠肺炎死亡病例创该国纪录新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk2005802.d.html</link>
+            <guid>2221278</guid>
+            <pubDate>Sat, 26 Jun 2021 09:56:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[根据日前工信部公布的最新消息，华为P50的4G版本目前已经入网公示，并且信息显示该机将出场直接预装鸿蒙系统，这也是华为首款直接预装鸿蒙系统的手机产品。目前工信部页面暂未公布设备图片。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3401700.d.html</link>
+            <guid>2221276</guid>
+            <pubDate>Sat, 26 Jun 2021 09:35:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈电集团正式签订巴基斯坦塔贝拉五期水电扩建项目机电总承包合同】巴基斯坦当地时间6月25日14时，哈电集团国际公司与巴基斯坦水电发展总署（WAPDA）在拉合尔签订了巴基斯坦塔贝拉（Tarbela）五期3×470MW水电项目机电总承包合同。该项目水电机组是巴基斯坦单机容量最大的水电机组，也是哈电集团直接对外出口的单机容量最大的水电机组，主机设备将由哈电集团电机公司生产制造。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk2002571.d.html</link>
+            <guid>2221275</guid>
+            <pubDate>Sat, 26 Jun 2021 09:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新西兰即将暂停与澳大利亚之间的免隔离安全旅行】据新西兰媒体报道，当地时间26日晚，新西兰政府宣布，鉴于澳大利亚新增新冠肺炎确诊病例数不断增加，将暂停与澳大利亚所有州和领地之间的免隔离安全旅行三天，该决定将从新西兰时间26日晚10时30分开始，直到29日晚11时59分结束。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk2002138.d.html</link>
+            <guid>2221274</guid>
+            <pubDate>Sat, 26 Jun 2021 09:26:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[印尼卫生部：印尼新增21095例新冠肺炎确诊病例，单日新增病例创纪录新高。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk2001588.d.html</link>
@@ -435,42 +471,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1908207.d.html</link>
             <guid>2221141</guid>
             <pubDate>Sat, 26 Jun 2021 00:10:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全球最大白银ETF--iShares Silver Trust持仓较上日减少54.8吨，当前持仓量为17395.73吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1907516.d.html</link>
-            <guid>2221140</guid>
-            <pubDate>Sat, 26 Jun 2021 00:06:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【连续两日净投放 央行力保跨季资金平稳】6月25日，央行公告，为维护半年末流动性平稳，以利率招标方式开展了300亿元逆回购操作。期限为7天，中标利率为2.20%。鉴于当日有100亿元逆回购到期，央行实现净投放200亿元。这是继24日央行在时隔近4个月首次加大逆回购操作规模后，再次加大逆回购操作规模。市场普遍认为，虽然200亿元并不多，但具有重要的信号意义，强化市场资金面保持平稳预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3305311.d.html</link>
-            <guid>2221138</guid>
-            <pubDate>Sat, 26 Jun 2021 00:04:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【资本市场改革稳步推进 从严监管基调未变】资本市场稳步运行的力量来自融资端和投资端两个“车轮”。上半年，从推进新股发行常态化和退市常态化到保持强监管定力，再到把握各项配套改革节奏，资本市场改革发展步伐越发稳重从容。展望下半年，可以预期，资本市场服务实体经济的枢纽作用将日益增强，上市公司质量将持续提高，投资者权益保护机制愈加完善。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1907234.d.html</link>
-            <guid>2221137</guid>
-            <pubDate>Sat, 26 Jun 2021 00:04:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北上资金狂买逾200亿元 立讯精密被连续5周净买入】本周，北上资金先抑后扬，先是周初两天小幅净卖出，随后大幅净买入，特别是周五狂买逾141亿元，创年内第五大单日净买入，全周合计净买入209.77亿元，累计净买入再度刷新历史纪录，达14333亿元。申万电气设备行业获得28.32亿元的净买入，为本周最受北上资金青睐的行业。北上资金本周大幅净买入立讯精密14.69亿元，连续第5周净买入，也是本周净买入最多得个股，增持3435万股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1907175.d.html</link>
-            <guid>2221136</guid>
-            <pubDate>Sat, 26 Jun 2021 00:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多家银行跟进“提价”，广州新一轮房贷利率上涨潮来了】继工行之后，多家银行上调广州地区房贷利率。从多家银行独家获悉，民生银行、邮政储蓄银行及平安银行将分别于6月25日、26日及下周一起上调房贷利率。其中，民生银行广州分行于6月25日起首套、二套房贷利率同时上调15个BP。（南方日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3304467.d.html</link>
-            <guid>2221133</guid>
-            <pubDate>Fri, 25 Jun 2021 23:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京6月25日无新增新冠肺炎确诊病例 治愈出院1例】6月25日0时至24时，北京无新增本地确诊病例、疑似病例和无症状感染者；无新增境外输入确诊病例、疑似病例和无症状感染者。治愈出院1例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1905506.d.html</link>
-            <guid>2221131</guid>
-            <pubDate>Fri, 25 Jun 2021 23:53:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
