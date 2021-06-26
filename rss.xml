@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 26 Jun 2021 05:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jun 2021 06:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[香港特区政府卫生署卫生防护中心26日公布，截至当日零时，香港新增2例新冠肺炎确诊病例，均为输入性病例。香港累计报告新冠肺炎确诊病例11911例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3375476.d.html</link>
+            <guid>2221235</guid>
+            <pubDate>Sat, 26 Jun 2021 06:26:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深科技：合肥沛顿存储一期项目封顶】深科技(000021)消息，合肥沛顿存储科技有限公司一期项目圆满封顶。按照建设规划，合肥沛顿存储项目将于今年9月底完成全部建设任务，10月初进驻生产设备，力争于今年年底实现投产并形成有效产能。项目达产后，预计可实现年封测DRAM颗粒5.76亿颗，年封装NAND FLASH 3840万颗，年产内存模组3000万条的生产能力，预计可实现年营收28亿元左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1975280.d.html</link>
+            <guid>2221232</guid>
+            <pubDate>Sat, 26 Jun 2021 06:11:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国台湾新增78例新冠肺炎本土确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3372733.d.html</link>
+            <guid>2221231</guid>
+            <pubDate>Sat, 26 Jun 2021 06:06:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[蔚来：全国第274座蔚来换电站，温州大西洋银泰城换电站今日正式上线。这也是温州首座二代站。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3371926.d.html</link>
+            <guid>2221229</guid>
+            <pubDate>Sat, 26 Jun 2021 06:01:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国新增至少12596例新冠肺炎确诊病例，累计达3377万例，新增至少360例死亡病例，累计达603435例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1973237.d.html</link>
+            <guid>2221227</guid>
+            <pubDate>Sat, 26 Jun 2021 05:57:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【装卸效率提高60倍 陕西首次开行“定制”煤炭专列】昨日，满载3000吨低硫煤的65024次煤炭专列，抵达陕西榆林靖边杨桥畔集运站，这是陕西开行的首趟“定制”煤炭专列。“定制”专列的客户王晶说：“这次‘定制’专列使用的是K18型煤炭漏斗车，这种车辆与我们公司的卸煤场地相匹配，煤炭卸车效率能从每车11分钟，提高到每车11.7秒，装卸效率提高了60倍。并且随着径路调整，运输费用也大幅下降。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1972066.d.html</link>
+            <guid>2221225</guid>
+            <pubDate>Sat, 26 Jun 2021 05:50:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【京杭大运河北京段全线旅游通航】随着停靠在北京市通州区甘棠船闸的游船顺利启航，京杭大运河北京段迎来全线旅游通航，即日起游客可乘船饱览旖旎风光。据了解，目前通州区按照“一短、一长、一夜航”的模式，确定了三条近期游览线路，可满足运河城市段、运河两岸经典景观的水上休闲观光和北京段全程体验的需求。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1969917.d.html</link>
+            <guid>2221220</guid>
+            <pubDate>Sat, 26 Jun 2021 05:36:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【马斯克：特斯拉全自动驾驶套件V9升级将再推迟1周】美国当地时间周五，特斯拉CEO埃隆·马斯克表示，该公司全自动驾驶（FSD）套件测试版的发布时间再推迟一周。马斯克在推特上称：“特斯拉需要在发布FSD V9之前解决几个明显的问题，希望在下周发布。”马斯克还承认，他目前正在自己的私人车辆中使用FSD V9。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3364484.d.html</link>
@@ -445,48 +487,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3290002.d.html</link>
             <guid>2221099</guid>
             <pubDate>Fri, 25 Jun 2021 21:40:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【年内重大项目开工近1.5万个，上市公司积极参与抢抓发展机遇】根据国家发改委发布的数据整理，年内重大项目建设开工数近1.5万个，涉及总投资规模达7.05万亿元。从重大项目开工所涉及领域来看，涵盖了先进制造业、新基建、服务业、文化旅游、城建基础设施、生态环保和民生保障等。悉，2021年上海市共安排重大工程正式项目166项，年度计划投资1730亿元。在科技产业类的59个正式项目中，至少有15家上市公司项目入选。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1891372.d.html</link>
-            <guid>2221097</guid>
-            <pubDate>Fri, 25 Jun 2021 21:31:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议院监督和改革委员会：对渤健的阿尔茨海默症药品Aduhelm的高昂价格感到严重担忧，将对这一药物的审批和定价进行审查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3289571.d.html</link>
-            <guid>2221096</guid>
-            <pubDate>Fri, 25 Jun 2021 21:30:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【329家公司中报预喜，与三大重点政策推动领域较为契合】截至6月25日，共有529家上市公司披露2021年半年报业绩预告，其中，329家公司预喜，占比达62.19%。从业绩增幅来看，有148家上市公司预计上半年净利润同比实现翻倍（以业绩变动上限计算），22家公司预计净利润最高增长超10倍。分行业来看，上述329家业绩预喜的公司中，化学制品、专用设备和汽车零部件行业的公司数量较多。近年来，我国持续推进科技创新、推动“双碳目标”落地、促进新型消费等领域发展，梳理部分业绩预喜公司的公告发现，与上述三大政策重点推动的领域较为契合。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1891277.d.html</link>
-            <guid>2221095</guid>
-            <pubDate>Fri, 25 Jun 2021 21:28:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波士顿联储主席暗示有望于2022年年底加息一次】波士顿联储主席罗森格伦表示，预计我们很有可能在明年年底之前实现美联储的充分就业和通胀目标，这暗示着美联储最早可以在2022年年底进行一次加息。除罗森格伦外，圣路易斯联储主席布拉德、达拉斯联储主席卡普兰和亚特兰大联储主席博斯蒂克也预测美联储将于明年加息。但罗森格伦拒绝透露在点阵图中的位置。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3289486.d.html</link>
-            <guid>2221094</guid>
-            <pubDate>Fri, 25 Jun 2021 21:28:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国政府：没有证据表明不明飞行物来自外星 但不排除这一可能性】美国政府周五发布了一份有关UFO的重要报告。报告称，国防和情报分析人员缺乏足够的数据来确定美军飞行员观察到的神秘飞行物性质。这份报告包含从2004年开始的144次政府官方认定为“未知空中现象”的观测，其中包括美国海军飞行员观测到的不明飞行物。一位美国高级官员表示，在我们处理的144份报告中，没有明确的迹象表明这些飞行物存在任何非地球生物，除了其中一起被认为是“空中杂波”外，其他仍未得到解释，有待进一步分析。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1890882.d.html</link>
-            <guid>2221093</guid>
-            <pubDate>Fri, 25 Jun 2021 21:21:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国五角大楼：将制定计划使"不明空中现象"（UAP）的任务正规化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3288867.d.html</link>
-            <guid>2221092</guid>
-            <pubDate>Fri, 25 Jun 2021 21:15:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国劳工部长马蒂·沃尔什：在基础设施建设方面还有一段路要走。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3288848.d.html</link>
-            <guid>2221090</guid>
-            <pubDate>Fri, 25 Jun 2021 21:15:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
