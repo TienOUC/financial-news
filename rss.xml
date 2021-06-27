@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 27 Jun 2021 12:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Jun 2021 13:25:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据西雅图时报：美国联邦航空管理局（FAA）表示，波音777X可能需要更多的飞行测试。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2195927.d.html</link>
+            <guid>2221884</guid>
+            <pubDate>Sun, 27 Jun 2021 13:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据西雅图时报：美国联邦航空管理局（FAA）推迟了波音777X的认证。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3594090.d.html</link>
+            <guid>2221883</guid>
+            <pubDate>Sun, 27 Jun 2021 13:22:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫顾问Richmond：预计美国总统拜登将签署基建法案和其他（规模）更大的法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3594080.d.html</link>
+            <guid>2221882</guid>
+            <pubDate>Sun, 27 Jun 2021 13:22:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【淮北矿业集团方良才：积极创造紫朔环境公司上市条件】据淮北矿业集团消息，6月27日，集团党委书记、董事长方良才到紫朔环境公司调研指导工作。他表示，要下定决心培育发展壮大新兴产业。尘硫硝一体化技术经过近几年的推广应用，得到了市场认可，一定要把这个品牌打响、擦亮。全力打造上市公司，明确上市目标，确保生产安全、经营安全，以及廉洁安全，积极创造上市的条件和环境。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3591117.d.html</link>
+            <guid>2221880</guid>
+            <pubDate>Sun, 27 Jun 2021 12:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果可能重振10亿美元的爱尔兰数据中心】据爱尔兰商业邮报，苹果公司正在寻求将其在爱尔兰西部戈尔韦的价值8.5亿欧元（10亿美元）的数据中心项目规划许可延长五年。如果成功延期，该公司将在2026年之前建设该项目。而根据目前的规定，苹果公司必须在9月份之前开工建设这一项目。苹果公司预计该数据中心的建设最迟将于2026年11月完成。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3590749.d.html</link>
+            <guid>2221879</guid>
+            <pubDate>Sun, 27 Jun 2021 12:49:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[由于新冠肺炎死亡病例增幅创纪录新高，孟加拉国禁止公共交通运营。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2191424.d.html</link>
+            <guid>2221877</guid>
+            <pubDate>Sun, 27 Jun 2021 12:40:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中国首座下沉庭院式变电站在雄安新区建成投运】中国首座下沉庭院式变电站——河西110千伏变电站27日在雄安新区正式投运。该变电站肩负着为雄安新区容东片区安置房供电的使命，可满足雄安新区容东片区南部地区负荷发展需要。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3589049.d.html</link>
@@ -475,48 +511,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2142849.d.html</link>
             <guid>2221763</guid>
             <pubDate>Sun, 27 Jun 2021 05:42:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国联通：与特变电工签署战略合作协议 将在工业互联网等领域展开合作】据中国联通微博消息，6月23日，中国联通与特变电工在新疆昌吉市签署战略合作协议。根据协议，双方将以企业信息化和工业互联网为重点合作领域，在工业互联网、云计算、大数据、物联网、国际通信业务、企业数字化转型及系统集成等领域展开深度合作，共同打造5G智能制造示范项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3539983.d.html</link>
-            <guid>2221761</guid>
-            <pubDate>Sun, 27 Jun 2021 05:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来：全国第280座蔚来换电站，芜湖奥体中心换电站今日正式上线。这是该区域的首座二代站。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2141024.d.html</link>
-            <guid>2221760</guid>
-            <pubDate>Sun, 27 Jun 2021 05:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【汇丰银行：预计英国央行2022年将加息两次至0.50%】2023年或至少加息一次预计英国央行将在2022年加息两次，明年5月料加息15个基点至0.25%，11月再加息25个基点至0.50%。此外，预计2023年可能至少还会有一次加息。预计英国今年薪资增速为5.3%，而CPI在今年和明年将保持在目标之上。在此背景下，逐步逆转2020年中65个基点的降息似乎并不过分。另外，该行还料将在开始缩减资产负债表上留有一定空间，最早可能在2022年下半年，但也可能在2023年。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3538421.d.html</link>
-            <guid>2221759</guid>
-            <pubDate>Sun, 27 Jun 2021 05:21:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港财政司司长：电子消费券计划将有力推动香港经济朝数码方向转型】6月27日，香港特区政府财政司司长陈茂波发表网上日志表示，消费券计划公布后，无论是政府、储值支付工具营运商或大小商户，都积极解说详情或推广优惠。他自己在外出吃饭或活动时，不时也听到市民在讨论有关消费券的登记程序、不同电子钱包的叠加优惠，或者是各自的消费计划。陈茂波说，可以预期，这股正面的气氛将带动市民的消费意欲，有助消费券计划发挥“乘数效应”，更广泛地提振本地经济。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2139211.d.html</link>
-            <guid>2221757</guid>
-            <pubDate>Sun, 27 Jun 2021 05:14:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日本21处地点河流和地下水有机氟化物超标 大阪市超标约110倍】据日本放送协会当地时间6月27日消息，日本环境省表示，对全国的河流及地下水等水质进行了调查，结果显示，12都府县的21个地点有机氟化物超标，需提醒附近居民不要饮用相关区域的地下水。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3537029.d.html</link>
-            <guid>2221756</guid>
-            <pubDate>Sun, 27 Jun 2021 05:11:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州新能源车上“绿牌”或有新要求】广州市发改委日前发布《关于进一步完善新能源汽车信息管理工作的通知（试行）》（征求意见稿）。根据该通知，今后，广州车主购买新能源车上绿色号牌需要先获得市发改委发放的《广州市新能源汽车信息管理凭证》；新能源车生产企业需向车主提供充换电设施及废旧电池回收服务。征求意见时间为2021年6月22日至2021年7月2日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3535272.d.html</link>
-            <guid>2221755</guid>
-            <pubDate>Sun, 27 Jun 2021 04:59:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kitco的黄金调查结果显示，在13位参与调查的华尔街分析师中，53.8%的人看好下周的金价表现。在剩余的分析师中，持看空和看平预期的分析师各占一半，均为23.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2136898.d.html</link>
-            <guid>2221754</guid>
-            <pubDate>Sun, 27 Jun 2021 04:58:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
