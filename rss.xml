@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 28 Jun 2021 18:35:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Jun 2021 19:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据美国证券交易委员会文件：叮咚买菜将在美股IPO中发行370万股ADS，发行价区间为23.5-25.5美元/ADS。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2436598.d.html</link>
+            <guid>2223041</guid>
+            <pubDate>Mon, 28 Jun 2021 18:56:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构：未来4个月美股或出现两位数的回调】①投行Stifel首席股票策略师Barry Bannister周一表示，从现在到10月底，标普500指数可能会出现高达10%的回调。Bannister强调，回调的预测是短期的观点。回调将在全球货币政策更加鹰派的情况下发生，这将收紧全球金融状况并收缩股票的市盈率倍数；②Bannister说，如果如果我们在全球流动性下降的情况下受到美元冲击，那么高盛金融状况指数将收紧，市场市盈率将下降，目前到10月底之间的某个时间市场将经历高达10%的修正。10%的回调将意味着标普500指数将达到约3850点左右的水平。该指数最后一次处于该水平是在3月份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca3835848.d.html</link>
+            <guid>2223040</guid>
+            <pubDate>Mon, 28 Jun 2021 18:38:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[波音(BA.N)盘中跌幅扩大至3.8%，为表现最差的道指成分股。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2434403.d.html</link>
@@ -526,12 +538,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-28/detail-ikqcfnca3818947.d.html</link>
             <guid>2222942</guid>
             <pubDate>Mon, 28 Jun 2021 15:35:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财政部拍卖三个月期国债，得标利率0.050%，投标倍数3.62。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-28/detail-ikqcfnca3818824.d.html</link>
-            <guid>2222940</guid>
-            <pubDate>Mon, 28 Jun 2021 15:34:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
