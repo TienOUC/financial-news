@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 28 Jun 2021 20:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Jun 2021 21:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【芝加哥农产品期价28日上涨】芝加哥期货交易所玉米、小麦和大豆期价28日全线上涨。当天，芝加哥期货交易所玉米市场交投最活跃的12月合约收于每蒲式耳5.4725美元，比前一交易日上涨28美分，涨幅为5.39%；小麦9月合约收于每蒲式耳6.515美元，比前一交易日上涨10.75美分，涨幅为1.68%；大豆11月合约收于每蒲式耳13.125美元，比前一交易日上涨42.75美分，涨幅为3.37%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2443738.d.html</link>
+            <guid>2223091</guid>
+            <pubDate>Mon, 28 Jun 2021 21:20:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  荷兰合作银行驻伦敦高级外汇策略师Jane Foley表示，若美国6月就业报告再度疲弱，可能无法消除对美国通胀风险的谈论，因市场现在认识到劳动力供应一直在遏制就业增长复苏。这可能意味着，一旦就业报告公布后出现抛售，美元将迅速反弹，而从风险回报的角度看，在数据公布前做空美元可能没有好处。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2442843.d.html</link>
+            <guid>2223090</guid>
+            <pubDate>Mon, 28 Jun 2021 21:09:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥卫生部：墨西哥报告新冠肺炎累计死亡人数升至232608人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2442420.d.html</link>
+            <guid>2223089</guid>
+            <pubDate>Mon, 28 Jun 2021 21:02:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国国务院将对阿联酋的新冠相关旅行建议提高到“4级-不要前往”级别。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca3842457.d.html</link>
+            <guid>2223088</guid>
+            <pubDate>Mon, 28 Jun 2021 21:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股盘后，高盛涨超2%，摩根士丹利涨超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca3842184.d.html</link>
+            <guid>2223087</guid>
+            <pubDate>Mon, 28 Jun 2021 20:54:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世卫组织：全球新冠肺炎确诊病例超过1.808亿例】根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月28日16时47分（北京时间6月28日22时47分），全球累计新冠肺炎确诊病例180817269例，累计死亡病例3923238例。28日全球新冠肺炎确诊病例新增325138例，死亡病例新增6467例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca3842137.d.html</link>
+            <guid>2223086</guid>
+            <pubDate>Mon, 28 Jun 2021 20:53:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国银行宣布计划将其季度普通股股息增加17%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2441923.d.html</link>
+            <guid>2223085</guid>
+            <pubDate>Mon, 28 Jun 2021 20:51:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：风暴“丹尼”可能于今晚在南卡罗来纳南部海岸登陆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2441805.d.html</link>
+            <guid>2223083</guid>
+            <pubDate>Mon, 28 Jun 2021 20:48:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【富时罗素：滴滴或有资格被快速纳入富时罗素全球股票指数系列】富时罗素发布报告称，若滴滴美股ADS在首日上市后的收盘价满足相关门槛，则有望被快速纳入富时罗素全球股票指数系列，随后会在2021年7月7日之后正式纳入。当前获准纳入富时罗素亚太区(日本除外)的最低门槛为总市值不小于76.2亿美元以及25.4亿美元可投资市值。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca3841441.d.html</link>
+            <guid>2223082</guid>
+            <pubDate>Mon, 28 Jun 2021 20:39:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利将季度股息翻倍至70美分，将回购最高120亿美元股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2441317.d.html</link>
+            <guid>2223081</guid>
+            <pubDate>Mon, 28 Jun 2021 20:38:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：美国总统拜登将于7月3日前往密歇根州的特拉弗斯市。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2440595.d.html</link>
@@ -16,7 +76,7 @@
             <pubDate>Mon, 28 Jun 2021 20:21:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统拜登表示，在他的任期内，伊朗永远不会获得核武器。]]></title>
+            <title><![CDATA[美国总统拜登表示，在其任期内，伊朗永远不会获得核武器。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2440588.d.html</link>
             <guid>2223077</guid>
             <pubDate>Mon, 28 Jun 2021 20:20:59 GMT</pubDate>
@@ -500,77 +560,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca3828474.d.html</link>
             <guid>2222992</guid>
             <pubDate>Mon, 28 Jun 2021 17:10:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储巴尔金：认为中期劳动力供应会出现短缺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2428188.d.html</link>
-            <guid>2222991</guid>
-            <pubDate>Mon, 28 Jun 2021 17:10:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国白宫正在制定一项反垄断行政命令，旨在推动政府机构在决策时考虑竞争问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca3828345.d.html</link>
-            <guid>2222990</guid>
-            <pubDate>Mon, 28 Jun 2021 17:09:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储巴尔金：仍然不认为有理由建立新的数字货币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2428029.d.html</link>
-            <guid>2222989</guid>
-            <pubDate>Mon, 28 Jun 2021 17:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油期货日内跌幅达2%，现报74.66美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2427792.d.html</link>
-            <guid>2222987</guid>
-            <pubDate>Mon, 28 Jun 2021 17:05:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储巴尔金：预计员工人数可能在9月增加，填补部分工作岗位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2426973.d.html</link>
-            <guid>2222986</guid>
-            <pubDate>Mon, 28 Jun 2021 16:57:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：拜登打算签署两项有关基础设施支出的法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca3826792.d.html</link>
-            <guid>2222985</guid>
-            <pubDate>Mon, 28 Jun 2021 16:54:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  LME期铜收跌26美元，报9388美元/吨。 LME期铝收涨4美元，报2490美元/吨。 LME期锌收跌2美元，报2905美元/吨。 LME期铅收涨13美元，报2233美元/吨。 LME期镍收跌224美元，报18299美元/吨。 LME期锡收涨378美元，报31152美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2426636.d.html</link>
-            <guid>2222984</guid>
-            <pubDate>Mon, 28 Jun 2021 16:53:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储巴尔金：不知道供应链缺口将会持续到什么时候；随着物价正常化，通胀可能会“倒退”。]]></title>
-            <guid>2222983</guid>
-            <pubDate>Mon, 28 Jun 2021 16:50:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：一直在与民主党领导人就基础设施支出的双轨方案进行接触。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2426193.d.html</link>
-            <guid>2222982</guid>
-            <pubDate>Mon, 28 Jun 2021 16:49:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：拜登与国会两党领导人就基础设施协议进行了交谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2426072.d.html</link>
-            <guid>2222981</guid>
-            <pubDate>Mon, 28 Jun 2021 16:47:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储巴尔金：二手车和航空公司的机票价格可能出现临时性上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2425863.d.html</link>
-            <guid>2222980</guid>
-            <pubDate>Mon, 28 Jun 2021 16:45:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储巴尔金：预计通货膨胀将随着时间的推移逐渐恢复至正常水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca3825928.d.html</link>
-            <guid>2222979</guid>
-            <pubDate>Mon, 28 Jun 2021 16:45:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
