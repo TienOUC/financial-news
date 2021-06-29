@@ -4,11 +4,95 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 29 Jun 2021 21:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jun 2021 22:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  百得利在港交所发布公告，申请通过香港IPO发行1.5亿股股票，将股票发行价指导区间设在每股4.00-4.80港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2659485.d.html</link>
+            <guid>2224190</guid>
+            <pubDate>Tue, 29 Jun 2021 22:20:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日经新闻：日本将放弃重建核电站的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2659125.d.html</link>
+            <guid>2224188</guid>
+            <pubDate>Tue, 29 Jun 2021 22:16:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  环球新材国际在港交所公告称，计划通过香港IPO发行2.907亿股股票，发行价指导区间为每股3.52-4.22港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4059526.d.html</link>
+            <guid>2224187</guid>
+            <pubDate>Tue, 29 Jun 2021 22:15:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据CME“美联储观察”：美联储9月维持利率在0%-0.25%区间的概率为100%，加息25个基点至0.25%-0.50%区间的概率为0%；11月维持利率在0%-0.25%区间的概率为100%，加息25个基点的概率为0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2658209.d.html</link>
+            <guid>2224184</guid>
+            <pubDate>Tue, 29 Jun 2021 22:03:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新基发行再现超募，6月发行份额环比上升84%】6月以来，随着市场回暖，基金发行不断升温。同花顺数据显示，以基金成立日作为统计标准，截至6月29日，6月新基金发行已达170只，发行数量为近三个月最高水平；调整后的发行份额超过2400亿份，环比上升超84%。值得注意的是，不仅权益类基金发行份额大幅增加，多种创新产品相继面市也不断抬升市场热情，相比此前不少基金延长募集期，近日甚至出现基金产品提前结束募集的情形。（经济参考报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2658080.d.html</link>
+            <guid>2224183</guid>
+            <pubDate>Tue, 29 Jun 2021 22:01:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Salesforce(CRM.N)：为首次可持续发展债券发行定价，规模为10亿美元。10亿美元是80亿美元优先债券公开发行的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4058489.d.html</link>
+            <guid>2224182</guid>
+            <pubDate>Tue, 29 Jun 2021 22:00:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构分析：10年期美债收益率年底前可能攀升至2%以上】随着美国经济增长势头再起并且美联储发出缩减资产购买的信号，10年期美国国债收益率可能在2022年达到2.32%的周期性高位。此外，10年期美债收益率或将在年底前攀升至2%以上，这是基于更好但仍不平衡的经济环境占据主导地位。尽管一些FOMC成员预期相对较快的加息，但我们预计美联储首次加息将接近2023年底。随着市场接受这一想法，两年期收益率可能比之前预期的更加受限，而美债收益率的长期下降趋势依然未变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2657663.d.html</link>
+            <guid>2224181</guid>
+            <pubDate>Tue, 29 Jun 2021 21:54:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报6.4659元，较周一纽约尾盘跌46点，盘中整体交投于6.4570-6.4722元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4057722.d.html</link>
+            <guid>2224180</guid>
+            <pubDate>Tue, 29 Jun 2021 21:46:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦航空管理局（FAA）：因直升机侵入，SpaceX公司的火箭发射受阻。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4057599.d.html</link>
+            <guid>2224179</guid>
+            <pubDate>Tue, 29 Jun 2021 21:43:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：06月30日05时33分在山西太原市小店区附近发生3.1级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2656900.d.html</link>
+            <guid>2224178</guid>
+            <pubDate>Tue, 29 Jun 2021 21:36:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国贸易代表戴琪与墨西哥、加拿大贸易代表会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2656822.d.html</link>
+            <guid>2224177</guid>
+            <pubDate>Tue, 29 Jun 2021 21:34:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据报道：滴滴将美国IPO定价设在14美元/ADS，据悉可能扩大美国IPO规模。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4056584.d.html</link>
+            <guid>2224176</guid>
+            <pubDate>Tue, 29 Jun 2021 21:25:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全球最大白银ETF--iShares Silver Trust持仓较上日减少28.84吨，当前持仓量为17366.89吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2656126.d.html</link>
+            <guid>2224174</guid>
+            <pubDate>Tue, 29 Jun 2021 21:23:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东京奥运会菜单有“福岛比目鱼”，韩国代表团将“自备盒饭”】 韩国《中央日报》6月29日报道称，韩国前选手村村长李艾丽莎28日对日本方面的做法提出批评，称：“听说菜单中有福岛比目鱼，真是令我大吃一惊[⋯⋯]不知道日本从哪里来的自信。”韩国奥运会代表团团长张仁华表示，韩国代表团已经在选手村附近成立供餐中心，必要食材已经运到当地，水果、肉类和鱼类会挑选经过日本检验的食材使用。此外，韩国运动员在前往赛场或训练场地时，代表团会为他们提供盒饭。东京奥组委拒绝公开食品来源具体信息，表示为保证食材供应量将在选手村开村前做决定。福岛则打算通过奥运会宣传其食品安全性。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4056462.d.html</link>
+            <guid>2224173</guid>
+            <pubDate>Tue, 29 Jun 2021 21:22:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[巴西报告新增64903例新冠肺炎确诊病例，新增1893例死亡病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2655788.d.html</link>
@@ -427,96 +511,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4037651.d.html</link>
             <guid>2224090</guid>
             <pubDate>Tue, 29 Jun 2021 16:30:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[老牌加密货币交易所Kraken：将数字资产的存款费用下调至零。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4037229.d.html</link>
-            <guid>2224089</guid>
-            <pubDate>Tue, 29 Jun 2021 16:26:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[部分热门中概股上行。知乎涨超11%，拼多多涨超5%，唯品会涨4.5%，老虎证券、京东涨超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2636572.d.html</link>
-            <guid>2224088</guid>
-            <pubDate>Tue, 29 Jun 2021 16:22:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯从Primorsk港口出口的乌拉尔石油7月份出口量减少了10万吨，至300万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4036504.d.html</link>
-            <guid>2224087</guid>
-            <pubDate>Tue, 29 Jun 2021 16:19:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周二（6月29日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）涨0.58%，报55.72欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2635946.d.html</link>
-            <guid>2224085</guid>
-            <pubDate>Tue, 29 Jun 2021 16:17:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO埃隆·马斯克：将在未来几个月首次尝试发射星际飞船。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2635139.d.html</link>
-            <guid>2224084</guid>
-            <pubDate>Tue, 29 Jun 2021 16:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会贸易司总司长Weyand：这届美国政府必须与上届美国政府保持距离。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4034823.d.html</link>
-            <guid>2224083</guid>
-            <pubDate>Tue, 29 Jun 2021 16:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO埃隆·马斯克：Spacex在主要国家与两家电信公司有合作关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4034454.d.html</link>
-            <guid>2224082</guid>
-            <pubDate>Tue, 29 Jun 2021 15:55:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行打造一个由12家银行机构组成的小组，以测试数字卢布。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4034452.d.html</link>
-            <guid>2224081</guid>
-            <pubDate>Tue, 29 Jun 2021 15:55:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：美国政府正在调查与美国房地产市场相关的供应问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4034103.d.html</link>
-            <guid>2224072</guid>
-            <pubDate>Tue, 29 Jun 2021 15:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO埃隆·马斯克：在实现正现金流之前，我们将向星链投资50亿至100亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2633694.d.html</link>
-            <guid>2224071</guid>
-            <pubDate>Tue, 29 Jun 2021 15:50:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO埃隆·马斯克：星链计划明年发射第二代卫星。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4033881.d.html</link>
-            <guid>2224067</guid>
-            <pubDate>Tue, 29 Jun 2021 15:47:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【天奇股份收关注函：要求说明是否存在利用信披配合二级市场炒作情形】天奇股份28日晚间披露，拟投资年产3万吨三元前驱体及1.2万吨电池级碳酸锂的生产项目，项目总投资约为50亿元。深交所29日对公司下发关注函。要求说明公司本次项目的筹划过程和信息保密情况，筹划期间公司是否接受采访调研，说明内幕知情人是否存在交易公司股票的情形。说明公司是否存在利用信息披露配合二级市场炒作的情形。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2633107.d.html</link>
-            <guid>2224056</guid>
-            <pubDate>Tue, 29 Jun 2021 15:42:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[零售货币经纪商Exinity Group首席市场分析师Han Tan：考虑到美联储最近的鹰派倾向，很难对黄金提出强劲的看涨理由。有越来越多的迹象显示，美国将早于预期加息，且在此之前缩减购债规模，这应会给金价带来更多下行压力，有可能令金价降至1730美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqciyzk2632974.d.html</link>
-            <guid>2224055</guid>
-            <pubDate>Tue, 29 Jun 2021 15:40:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  在岸人民币兑美元（CNY）北京时间23:30收报6.4640元，较周一夜盘收盘跌78点。成交量424.48亿美元，较周一增加24.34亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4033225.d.html</link>
-            <guid>2224051</guid>
-            <pubDate>Tue, 29 Jun 2021 15:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧股收盘全线上涨，德国DAX指数涨0.93%，法国CAC40指数涨0.26%，英国富时100指数涨0.23%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-29/detail-ikqcfnca4033171.d.html</link>
-            <guid>2224050</guid>
-            <pubDate>Tue, 29 Jun 2021 15:39:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
