@@ -4,11 +4,83 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 30 Jun 2021 17:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Jun 2021 18:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【银行永续债上半年发行成绩单出炉，22家中小银行获资本补充】 今年上半年，银行永续债发行呈现全面提速的态势，无论是发债银行数量还是发债规模均远超去年同期水平。同花顺iFinD数据显示，截至6月末，年内共有28家银行发行32只永续债，而去年同期的发债银行数量仅为16家。发行规模方面，今年上半年，银行永续债合计发行规模达3105亿元，较去年同期的2871亿元增长8.15%。国海证券首席宏观债券分析师靳毅表示，商业银行尤其是中小银行的永续债发行规模出现明显上升，反映了当前银行补充资本金需求的急迫性。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2856823.d.html</link>
+            <guid>2225231</guid>
+            <pubDate>Wed, 30 Jun 2021 18:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特阿美CFO料将离职，预计将有Al-Murshed接替。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4256869.d.html</link>
+            <guid>2225230</guid>
+            <pubDate>Wed, 30 Jun 2021 18:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥卫生部：墨西哥新冠肺炎死亡病例累计达351376例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2856476.d.html</link>
+            <guid>2225229</guid>
+            <pubDate>Wed, 30 Jun 2021 18:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：拜登仍将支持未纳入基础设施计划的项目，包括电动汽车退税和清洁能源税收抵免等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2856297.d.html</link>
+            <guid>2225228</guid>
+            <pubDate>Wed, 30 Jun 2021 18:12:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX：由于天气原因，今天的小型卫星共乘计划任务将于美东时间下午3点11分（北京时间凌晨3:11）进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2855923.d.html</link>
+            <guid>2225226</guid>
+            <pubDate>Wed, 30 Jun 2021 18:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 8月黄金期货收涨0.5%，报1771.60美元/盎司，6月份乃至2021年上半年都整体下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4255966.d.html</link>
+            <guid>2225225</guid>
+            <pubDate>Wed, 30 Jun 2021 18:04:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国方面表示接受钢铁贸易救济机构的建议，将制定新的法规来保护钢铁行业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2855243.d.html</link>
+            <guid>2225224</guid>
+            <pubDate>Wed, 30 Jun 2021 17:52:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据英国金融时报：金融服务业将被排除在全球税收之外。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2855121.d.html</link>
+            <guid>2225223</guid>
+            <pubDate>Wed, 30 Jun 2021 17:50:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[滴滴涨幅收窄至10%，此前一度涨超20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2854511.d.html</link>
+            <guid>2225221</guid>
+            <pubDate>Wed, 30 Jun 2021 17:41:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美元势创2020年3月以来最大月涨幅，空头措手不及】① 美元即期指数周三上涨0.3%，本月有望累计上涨2.3%，创2020年3月以来最大月涨幅。美元兑G-10货币6月份全线上涨。这是因为通胀信号不断升温，加之美联储货币政策立场最近转向更偏鹰派，迫使交易员回补空头头寸，从而刺激了对美元的需求。最重要的是，对新冠变异毒株的最新担忧继续推动避险需求；② 在期权市场上，尽管隐含波动率仍然温和，但美元指数1个月期风险逆转正在小幅走高，表明交易员在越来越多地对冲美元上涨风险；③ 荷兰合作银行策略师Jane Foley表示，在关于通胀和美联储紧缩步伐的辩论变得明确前还有很长一段路要走。然而美联储对利率的新看法“意义重大，而且已经在讨论2022加息的可能性。只要围绕通胀话题的讨论仍主要集中于美国，美元兑G-10货币就可能得到支撑。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2854212.d.html</link>
+            <guid>2225220</guid>
+            <pubDate>Wed, 30 Jun 2021 17:38:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【众议院民主党人寻求修改参议院基础设施协议】① 美国众议院议长南希·佩洛西和一个关键委员会的主席周三表示，众议院民主党人计划在未来几周通过非正式谈判修改参议院9730亿美元的两党基础设施框架。众议院将在周四通过自己的7150亿美元5年期地面交通和水利基础设施计划；② 与参议院的两党协议不同，众议院法案不包括全套资金安排，但其中包含参议院法案没有的高速公路和气候政策的重大调整。佩洛西说：“我们的党团小组对总统与参议院民主党人和共和党人合作达成的两党协议非常非常满意。就数字而言，它有许多优点，但政策方面不行”；③ 众议院交通委员会主席Peter DeFazio在同一次简报会上说，参议院的方案“非常接近目标，所以我相信我们能够敲定法案中的支出水平，但他们的方案没有附带政策。与其等参议院通过两党协议然后进行正式的两院委员会协商，更希望是立即进行高层会谈以达成妥协。”参议院的方案还在落实法案文本。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2853673.d.html</link>
+            <guid>2225219</guid>
+            <pubDate>Wed, 30 Jun 2021 17:30:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：今年9月，土耳其将从国内市场借入457亿里拉。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqcfnca4253722.d.html</link>
+            <guid>2225218</guid>
+            <pubDate>Wed, 30 Jun 2021 17:29:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【滴滴开盘不到40分钟成交额超20亿美元】滴滴纽交所上市首日，开盘不到40分钟成交额超20亿美元，现涨幅14.5%，报16.02美元/股。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-01/detail-ikqciyzk2853401.d.html</link>
@@ -455,88 +527,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2840420.d.html</link>
             <guid>2225132</guid>
             <pubDate>Wed, 30 Jun 2021 14:56:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国金融业监管局启动了一项3000万美元的计划，以对新的散户投资者进行教育。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4240307.d.html</link>
-            <guid>2225131</guid>
-            <pubDate>Wed, 30 Jun 2021 14:53:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席谢夫乔维奇：对冷冻肉的宽限期只是暂时的解决办法。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4240281.d.html</link>
-            <guid>2225130</guid>
-            <pubDate>Wed, 30 Jun 2021 14:52:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【备案终于开闸 两种化妆品新原材料获批】据报道，近日，国家药监局公布了2种新增的化妆品原料备案信息，分别是N-乙酰神经氨酸、月桂酰丙氨酸。N-乙酰神经氨酸，又称为唾液酸、燕窝酸。化妆品事关“脸面”，安全至关重要，所以对原料的要求极为严格。在2009-2019期间，我国获批的化妆品新原料仅4个。像燕窝酸是可用于食品领域的。备案获批，相关公司有望借化妆品新规的契机，展开相关产品在化妆品领域的相关应用，开启在化妆品领域的新篇章。（中证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4240007.d.html</link>
-            <guid>2225128</guid>
-            <pubDate>Wed, 30 Jun 2021 14:50:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机动车排放召回即将正式实施 碳中和背景下产业链公司迎来机遇】据报道，市场监管总局联合生态环境部发布的《机动车排放召回管理规定》将产品召回由安全召回扩展至排放召回，这一规定将于7月1日起正式实施。业内认为，机动车排放召回符合我国低碳经济发展的要求，也是践行碳中和、碳达峰的务实之举。短期内会给排放技术水平较低的企业带来较大压力。但从长期来看，会倒逼企业主动进行技术升级。随着新规的正式实施及我国碳中和政策的实施，产业链相关公司望迎来机遇。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2839403.d.html</link>
-            <guid>2225127</guid>
-            <pubDate>Wed, 30 Jun 2021 14:46:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国驻联合国副特使：最近几轮维也纳会谈“帮助明确了”伊朗和美国在重返核协议上所需要做出的选择。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4239430.d.html</link>
-            <guid>2225126</guid>
-            <pubDate>Wed, 30 Jun 2021 14:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：上周美国原油制品供应量升至2020年3月以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2839110.d.html</link>
-            <guid>2225125</guid>
-            <pubDate>Wed, 30 Jun 2021 14:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国金融业监管局(FINRA) ：美股经纪商Robinhood没有合理地监督经纪商和交易商相关的技术。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2839060.d.html</link>
-            <guid>2225124</guid>
-            <pubDate>Wed, 30 Jun 2021 14:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：苹果将于7月27日公布第三季度财报。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2838967.d.html</link>
-            <guid>2225123</guid>
-            <pubDate>Wed, 30 Jun 2021 14:41:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：美国中西部炼油厂利用率在上周升至2019年9月以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2838825.d.html</link>
-            <guid>2225122</guid>
-            <pubDate>Wed, 30 Jun 2021 14:40:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国金融业监管局(FINRA) ：美股经纪商Robinhood向用户传达了虚假的误导性信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2838791.d.html</link>
-            <guid>2225121</guid>
-            <pubDate>Wed, 30 Jun 2021 14:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【滴滴今晚在纽交所挂牌上市：每股定价14美元 至少募资44亿美元】滴滴今晚正式在纽交所挂牌上市，股票代码为 "DIDI"。高盛、摩根士丹利、摩根大通、华兴资本担任承销商。据悉，滴滴本次IPO的承销商名单中还有多家中资机构，包括中金、中银国际、交银国际、建银国际、招银国际、工银国际和国泰君安国际等。本次IPO中，滴滴发行价定为14美元，位于13-14美元/ ADS的发行区间上限。滴滴发行3.17亿股ADS，比原计划的2.88亿股多10%。以14美元的发行价计算，滴滴此次至少募资44亿美元，其IPO的估值超670亿美元。另据知情人士透露，滴滴完全稀释后的估值（通常包括限制性股票单位）或超700亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqciyzk2838741.d.html</link>
-            <guid>2225120</guid>
-            <pubDate>Wed, 30 Jun 2021 14:39:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国金融业监管局(FINRA) ：美股经纪商Robinhood没有上报客户的书面投诉。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-30/detail-ikqcfnca4238742.d.html</link>
-            <guid>2225119</guid>
-            <pubDate>Wed, 30 Jun 2021 14:38:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股芯片股多数下跌，半导体板块ETF跌0.11%；AMD涨超4%，西部数据、美光科技涨超1%，此前BMO将美光科技评级上调至跑赢大盘，称该股可能会上涨超30%；意法半导体跌超2%，英特尔跌近2%，恩智浦、拉姆研究、科磊半导体均跌超1%。]]></title>
-            <guid>2225118</guid>
-            <pubDate>Wed, 30 Jun 2021 14:38:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美股经纪商Robinhood因监管失误被美国金融业监管局(FINRA)责令罚款约7000万美元。]]></title>
-            <guid>2225117</guid>
-            <pubDate>Wed, 30 Jun 2021 14:36:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
