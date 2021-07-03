@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 03 Jul 2021 21:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 22:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【Windows 11的微软商店放弃了HTML 以获得完整的XAML体验】微软表示Windows 11商店已经 “从头开始重新设计”。在Windows 11中，微软将用一个新的商店取代现有的商店，这个商店是用XAML/C#编写的，它完全是 “UWP”形式的。这让商店的性能有了明显的改善，下载软件不再容易出现报错。据悉，大型游戏的下载速度将加快。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3404181.d.html</link>
+            <guid>2228755</guid>
+            <pubDate>Sat, 03 Jul 2021 22:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国新冠肺炎确诊人数超3371万】当地时间7月3日，根据美国约翰斯·霍普金斯大学数据，截至美东时间当天17点21分（北京时间7月4日凌晨5点21分），美国累计确诊新冠病毒感染人数达33711940人，因为新冠肺炎感染相关死亡人数累计达605467人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3403681.d.html</link>
+            <guid>2228754</guid>
+            <pubDate>Sat, 03 Jul 2021 21:47:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南非各省市市政费用大幅度上涨 民众不堪重负】据南非媒体当地时间7月3日报道，从7月起南非各地开始提高市政收费，该国民众纷纷表示已难以承受。根据6月份数据，南非普通工人月平均工资为3643.92兰特（约1655元人民币），其中52.3%的收入用于电力和交通开支，剩下的收入仅够购买食品。过去10个月，南非家庭食品的平均成本增加了7.1%，7月开始，南非各地市政府费用均有不同幅度的增长。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3402734.d.html</link>
+            <guid>2228752</guid>
+            <pubDate>Sat, 03 Jul 2021 21:23:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【乡村振兴债发行渐入佳境 金融服务乡村振兴再添“利器”】今年以来，“乡村振兴债”发行渐入佳境，各类市场主体发行踊跃，投资者积极认购。截至目前，市场共发行“乡村振兴债”48只，规模达425亿元，债券品种主要包含中期票据、短期融资券等。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4802220.d.html</link>
@@ -478,29 +496,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4766903.d.html</link>
             <guid>2228654</guid>
             <pubDate>Sat, 03 Jul 2021 12:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[越南新增确诊922例新冠肺炎确诊病例，创记录新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3366340.d.html</link>
-            <guid>2228651</guid>
-            <pubDate>Sat, 03 Jul 2021 11:54:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RJO Futures高级商品经纪Daniel Pavilonis：金价若在下周突破1820美元，将为其再次上涨打开大门。如果下周的收盘价高于1820美元/盎司，金价可能会进一步走高，甚至创下新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3365626.d.html</link>
-            <guid>2228650</guid>
-            <pubDate>Sat, 03 Jul 2021 11:44:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gainesville Coins贵金属分析师Everett Millman：对欧佩克+会议上发生的事情很感兴趣。围绕石油的不确定性可能对通胀产生重大影响，而通胀仍是推动黄金上涨的主要因素之一。如果他们达成限制产量的协议，应该会推高油价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3364606.d.html</link>
-            <guid>2228649</guid>
-            <pubDate>Sat, 03 Jul 2021 11:32:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京签署新版俄罗斯《国家安全战略》 指出核威慑力量要保持足够水平】当地时间7月3日，俄罗斯总统普京签署新版俄罗斯《国家安全战略》并已对外发布。今年6月，俄罗斯联邦安全委员会副秘书长瓦赫鲁科夫表示，俄新版《国家安全战略》草案已完成。新版主要强调以美国为首的北约步步紧逼等威胁，还着重指出核威慑力量要保持在足够水平。]]></title>
-            <guid>2228646</guid>
-            <pubDate>Sat, 03 Jul 2021 11:23:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
