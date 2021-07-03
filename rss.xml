@@ -4,11 +4,101 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 03 Jul 2021 08:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 09:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据英国天空新闻：英国传统银行服务和加密货币交易服务平台REVOLUT正在与软银的基金就筹资事宜进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3351367.d.html</link>
+            <guid>2228610</guid>
+            <pubDate>Sat, 03 Jul 2021 09:19:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【狗狗币创始人Billy Markus建议美国连锁电影院AMC接受狗狗币付款】7月3日，狗狗币创始人之一Billy Markus发推建议美国连锁电影院AMC接受狗狗币付款，并表示自己会使用狗狗币购买爆米花等产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4749939.d.html</link>
+            <guid>2228607</guid>
+            <pubDate>Sat, 03 Jul 2021 09:08:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼新增27913例新冠肺炎确诊病例，单日新增病例创新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4749910.d.html</link>
+            <guid>2228606</guid>
+            <pubDate>Sat, 03 Jul 2021 09:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国产半导体刻蚀机设备龙头中微公司的定增情况出炉】中微公司披露发行情况报告书，最终以每股102.29元的价格发行8022.93万股，合计募得资金82.07亿元。本次定增吸引了众多机构参与。其中，国家大基金二期斥资25亿元认购。这是国家大基金二期成立以来，以定增方式投出的首个项目。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4749753.d.html</link>
+            <guid>2228605</guid>
+            <pubDate>Sat, 03 Jul 2021 09:06:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【王毅谈巴以问题：要还巴勒斯坦人民一个公道正义】国务委员兼外交部长王毅表示，在巴以问题上，最根本的是还巴勒斯坦人民一个迟迟没有到来的公道正义。没有正义的根基，就难以构筑持久的和平。“两国方案”是国际社会的共识，也是公道正义的体现，只有在“两国方案”基础上尽快重启和谈，巴勒斯坦问题才能得到公正的解决，中东地区才能实现持久的和平。（外交部）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3349582.d.html</link>
+            <guid>2228604</guid>
+            <pubDate>Sat, 03 Jul 2021 09:02:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外媒：美知名玩具制造商加大在华投资】路透社日前报道，鉴于中国拥有密集的供应网络、颇具竞争力的劳动力成本优势以及庞大的国内消费市场，美国知名玩具制造商加大在华投资布局力度。报道说，总部位于美国南部佐治亚州首府亚特兰大的美国知名玩具和婴儿用品制造商Kids2近期在华投资2000万美元设立工厂。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4748682.d.html</link>
+            <guid>2228603</guid>
+            <pubDate>Sat, 03 Jul 2021 08:57:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【木材价格回调，港口木材接卸繁忙】今年年初以来，木材价格经历了一拨“过山车”行情，在持续上涨几个月后，从5月下旬开始，美国木材期货价格在一个月内就下跌了42%。日前，记者探访了位于江苏镇江的国内木材进口量最大的单体港——新民洲港。据了解，今年以来港口一直处于满负荷运作的状态。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3348571.d.html</link>
+            <guid>2228602</guid>
+            <pubDate>Sat, 03 Jul 2021 08:53:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[菲律宾新增90例新冠肺炎死亡病例，累计死亡病例达25063例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3348073.d.html</link>
+            <guid>2228601</guid>
+            <pubDate>Sat, 03 Jul 2021 08:49:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[菲律宾新增5908例新冠肺炎确诊病例，累计确诊病例达1430419例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4747727.d.html</link>
+            <guid>2228600</guid>
+            <pubDate>Sat, 03 Jul 2021 08:49:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：预计伊斯帕尼奥拉岛当地的天气将转差。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3347064.d.html</link>
+            <guid>2228599</guid>
+            <pubDate>Sat, 03 Jul 2021 08:40:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风艾尔莎正在接近伊斯帕尼奥拉岛的南海岸。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4746580.d.html</link>
+            <guid>2228598</guid>
+            <pubDate>Sat, 03 Jul 2021 08:38:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国周五新增确诊30398例新冠肺炎病例，累计确诊3388万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3346268.d.html</link>
+            <guid>2228597</guid>
+            <pubDate>Sat, 03 Jul 2021 08:32:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【王毅谈半岛核问题：美方应正视并解决朝方的合理关切】国务委员兼外交部长王毅表示，在朝鲜半岛核问题上，最重要的是坚持平等对话与和平解决的大方向。半岛核问题延宕近30年，几经曲折反复。我们始终认为，对话谈判、和平解决是根本原则，分阶段、同步走是必行之策，并行推进半岛无核化和建立和平机制是正确途径。中方重视朝美双方近期释放的信息，支持一切有利于维护半岛对话缓和势头的言行。美方应反省几十年来对朝鲜持续施加的军事威胁与压力，正视并解决朝方的合理关切。（外交部）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4745909.d.html</link>
+            <guid>2228596</guid>
+            <pubDate>Sat, 03 Jul 2021 08:32:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卢卡申科：面对西方压力，白俄罗斯全力建设与独联体国家和俄中新关系】白俄罗斯总统卢卡申科表示，面对西方压力，明斯克全力建设与独联体国家、俄罗斯和中国的新关系。卢卡申科还提到，“面对西方设置的政治封锁，立足于与欧亚地区、独联体国家、俄罗斯、中国和其他朋友之间建立的久经考验的全新关系，我们将为我们国家的经济和技术发展找到新机遇。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3345475.d.html</link>
+            <guid>2228595</guid>
+            <pubDate>Sat, 03 Jul 2021 08:25:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【湖南岳阳：四县市提至防汛三级应急响应 92座中小型水库溢洪】昨天（2日）8点到今天8点，湖南省岳阳市沿长江岸线普降大到暴雨，部分大暴雨；其中降雨量大于100mm站点9个，大于50mm站点33个，最大降雨量位于临湘市江南镇，达到166.2mm。受持续强降雨影响，岳阳市防指结合当前雨水情形势，将平江县、汨罗市、岳阳县、临湘市的防汛应急响应由四级提升为三级，截至今天早上8点，洞庭湖城陵矶站水位为27.64米，较昨日8时上涨0.31米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4745104.d.html</link>
+            <guid>2228594</guid>
+            <pubDate>Sat, 03 Jul 2021 08:24:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[俄罗斯新增24439例新冠肺炎确诊病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3344765.d.html</link>
@@ -371,83 +461,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3275720.d.html</link>
             <guid>2228501</guid>
             <pubDate>Sat, 03 Jul 2021 01:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股经纪商Robinhood表示，目前遇到加密交易和显示问题，正在努力尽快解决这些问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4673234.d.html</link>
-            <guid>2228500</guid>
-            <pubDate>Sat, 03 Jul 2021 01:03:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委：7月2日0—24时， 31个省（自治区、直辖市）和新疆生产建设兵团报告新增无症状感染者19例（均为境外输入）；当日转为确诊病例8例（均为境外输入）；当日解除医学观察22例（境外输入21例）；尚在医学观察的无症状感染者463例（境外输入457例）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4671767.d.html</link>
-            <guid>2228499</guid>
-            <pubDate>Sat, 03 Jul 2021 00:55:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家卫健委：昨日新增确诊病例23例，均为境外输入病例】7月2日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例23例，均为境外输入病例（四川6例，上海4例，湖南4例，云南4例，广东3例，福建1例，陕西1例）；无新增死亡病例；新增疑似病例7例，均为境外输入病例（均在上海）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4671604.d.html</link>
-            <guid>2228498</guid>
-            <pubDate>Sat, 03 Jul 2021 00:54:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国务院联防联控机制工作组撤离广东】 国家卫健委官网消息：截至7月2日20时，广东省无新增新冠肺炎感染者报告，已连续10天零新增。同一天，国务院联防联控机制综合组广东工作组人员全部撤离广东省。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3268789.d.html</link>
-            <guid>2228496</guid>
-            <pubDate>Sat, 03 Jul 2021 00:39:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上半年387家上市公司斥资656亿元实施回购】今年上半年，A股新增股份回购计划和回购实施金额较去年同期显著增长。其中，新增回购计划250单，同比增长117.74%；实施回购共耗资656.19亿元，较去年同期增长171.63%。市场人士认为，近年来，上市公司股份回购完成度逐年提升。今年上半年，上市公司回购热度提升，主要是由于政策支持和鼓励、公司看好未来业绩增长以及提振股价等三方面原因。但上市公司回购并非股价上涨信号，投资者需要理性看待。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4668511.d.html</link>
-            <guid>2228495</guid>
-            <pubDate>Sat, 03 Jul 2021 00:37:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：对秋季前有更多人返回工作岗位充满信心。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3267503.d.html</link>
-            <guid>2228493</guid>
-            <pubDate>Sat, 03 Jul 2021 00:33:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【6月新房市场销售火热】6月以来，新房市场成交量维持在高位，上海、北京等城市成交面积环比上涨幅度较大。同时，全国土地市场持续火热。业内人士指出，部分城市房贷额度趋紧，而个人按揭贷款是房地产企业重要的资金获得方式。叠加“三道红线”等政策的施行，部分房地产企业资金面临一定压力。（中国证券报）]]></title>
-            <guid>2228492</guid>
-            <pubDate>Sat, 03 Jul 2021 00:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【招商信诺总经理赖军离职，已加入一家外资险企将负责中国业务】招商银行旗下招商信诺人寿总经理赖军离职并加入一家外资保险公司。7月2日，赖军表示，他已加入一家外资保险公司，将负责中国的业务，与以往相比，新的工作有些“退居幕后”，不再直接管理一家保险公司。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3266465.d.html</link>
-            <guid>2228490</guid>
-            <pubDate>Sat, 03 Jul 2021 00:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全球最大黄金ETF--SPDR Gold Trust持仓较上日减少0.58吨，当前持仓量为1042.58吨。全球最大白银ETF--iShares Silver Trust持仓较上日减少7.52吨，当前持仓量为17353.61吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3264733.d.html</link>
-            <guid>2228488</guid>
-            <pubDate>Sat, 03 Jul 2021 00:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【A股半导体公司半年报业绩可期】半导体产业景气度持续向好，上市公司业绩接连预喜。截至7月2日18时，A股10家半导体公司发布了半年度业绩预告，盈利同比增速均在50%及以上，有的公司上半年收入已超去年全年。业绩增长主要受益于需求强劲、产品涨价以及自主可控进程加快等因素。值得关注的是，近期多家芯片设计及原材料公司发布了涨价通知。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4664349.d.html</link>
-            <guid>2228486</guid>
-            <pubDate>Sat, 03 Jul 2021 00:12:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【券商：七月A股震荡上行概率大】7月2日，A股三大股指集体走低，创业板指数下跌逾3%。盘面上，权重股普遍迎来补跌，稀土永磁、充电桩概念受追捧。业内人士表示，当前国内外环境不支持市场继续下行，且盘面上仍不乏强势板块以及涨停股，后市A股大概率震荡上涨。国盛证券资深注册投资顾问谢鸿鸣表示，目前制造业平稳扩张，就业市场持续改善，行业景气度维持较高水平，坚定看好市场中期向上趋势。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4662854.d.html</link>
-            <guid>2228484</guid>
-            <pubDate>Sat, 03 Jul 2021 00:02:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，日本政府委员会称东京地铁应该寻求上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4662588.d.html</link>
-            <guid>2228483</guid>
-            <pubDate>Sat, 03 Jul 2021 00:00:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京7月2日无新增新冠肺炎确诊病例】7月2日0时至24时，北京无新增本地确诊病例、疑似病例和无症状感染者；无新增境外输入确诊病例、疑似病例和无症状感染者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4661728.d.html</link>
-            <guid>2228482</guid>
-            <pubDate>Fri, 02 Jul 2021 23:54:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
