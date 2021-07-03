@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 03 Jul 2021 22:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 23:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【顶流基金经理再现紧急限购】近期，多只绩优基金纷纷“闭门谢客”，包括宝盈优势产业、景顺长城公司治理等主动权益基金，本周公告限制大额申购；也有广发价值领先、华夏能源革新等今年业绩领跑的基金当前处于“暂停大额申购”状态。业内人士认为，通过“限购”控制基金规模，出于保护基金持有人利益考虑，有利于基金经理管理产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3411224.d.html</link>
+            <guid>2228761</guid>
+            <pubDate>Sat, 03 Jul 2021 23:15:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：1、确保党始终成为伟大事业的坚强领导核心；2、百年奋斗成就辉煌 成功经验启迪世界；3、共创中华民族伟大复兴的光明前景；4、多国政党政府领导人等热烈祝贺中国共产党成立100周年；走自己的路，牢牢掌握国家发展进步的命运（和音）；5、全国“两优一先”代表庆祝中国共产党成立一百周年座谈会在京召开；6、第九届世界和平论坛开幕；7、百年伟业——庆祝中国共产党成立100周年大型主题展览在港开幕。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3411113.d.html</link>
+            <guid>2228760</guid>
+            <pubDate>Sat, 03 Jul 2021 23:15:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[今天《人民日报》头版的主要内容有：1、百年梦圆照此心——以习近平同志为核心的党中央引领全面建成小康社会纪实；2、“改一条溜索、修一段公路就能给群众打开一扇脱贫致富的大门”——习近平关心百姓出行的故事；3、中办发出通知要求 认真学习贯彻习近平总书记在庆祝中国共产党成立100周年大会上的重要讲话精神；4、永远把伟大建党精神继承下去发扬光大——论学习贯彻习近平总书记在庆祝中国共产党成立一百周年大会上重要讲话；5、廉洁奉公，永葆共产党人政治本色——论学习贯彻习近平总书记在“七一勋章”颁授仪式上重要讲话；6、京新高速全线通车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4811088.d.html</link>
+            <guid>2228759</guid>
+            <pubDate>Sat, 03 Jul 2021 23:12:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外媒：以色列一货船在印度洋遇袭】当地时间7月3日晚，据与真主党有关联的Al-Mayadeen新闻网站报道，一艘以色列货船在印度洋北部海域被“不明武器”击中。报道称其消息来源可靠，并说“目前没有人表示对此袭击事件负责”。以色列媒体援引消息人士的话说，这艘悬挂利比里亚国旗的货船，名为 CSAV Tyndall。货船受到轻微损坏，目前仍然在海上继续航行。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3405970.d.html</link>
+            <guid>2228757</guid>
+            <pubDate>Sat, 03 Jul 2021 22:27:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【冰箱业加速步入高端】1月至5月冰箱累计零售量1142万台，同比增长12.3%，零售额341亿元，同比增长26.1%。中国家用电器协会秘书长王雷表示，面对成本压力，冰箱企业需要思考怎样调整产品结构转型升级，为消费者提供真正需要的、有价值的产品，同时保证自身利润。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3405655.d.html</link>
+            <guid>2228756</guid>
+            <pubDate>Sat, 03 Jul 2021 22:23:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【Windows 11的微软商店放弃了HTML 以获得完整的XAML体验】微软表示Windows 11商店已经 “从头开始重新设计”。在Windows 11中，微软将用一个新的商店取代现有的商店，这个商店是用XAML/C#编写的，它完全是 “UWP”形式的。这让商店的性能有了明显的改善，下载软件不再容易出现报错。据悉，大型游戏的下载速度将加快。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3404181.d.html</link>
@@ -467,35 +497,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4768863.d.html</link>
             <guid>2228661</guid>
             <pubDate>Sat, 03 Jul 2021 12:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国多城房贷利率走高，专家：“杠杆炒楼时代”一去不返】 今年二季度以来中国多数城市房贷利率持续走高。贝壳研究院数据显示，6月份，贝壳研究院监测的72城主流首套房贷利率为5.52%，二套利率为5.77%，比5月分别上浮5个、4个基点；重点城市首套和二套房利率水平距离2019年11月份的高点已经不远。利率提高的同时，不少银行也出现二手房贷业务排队、放款周期延长的现象。贝壳研究院统计称，6月72个重点城市平均放款周期延长至50天。对房地产业来说，广东省住房政策研究中心首席研究员李宇嘉指出，资金大规模涌入楼市的时代结束了，靠杠杆炒作楼市的时代也一去不复返。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4768825.d.html</link>
-            <guid>2228660</guid>
-            <pubDate>Sat, 03 Jul 2021 12:23:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加拿大168起山火正在燃烧，联邦政府欲派军队支援 】 加拿大西部近期遭遇破纪录高温天气，已造成上百人死亡，山火形势逐渐恶化。加拿大广播公司2日消息称，不列颠哥伦比亚省山火服务部门数据显示，全省共有168起活跃山火，其中9起需要特别关注。位于坎卢普斯市斯帕克湖附近的山火目前最为严重，已被列为失控状态，过火面积预计会达到310平方公里。加拿大公共安全部和国防部官员表示，正在与不列颠哥伦比亚省政府协调，向有需要的地区派出军队（海外网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqciyzk3368516.d.html</link>
-            <guid>2228659</guid>
-            <pubDate>Sat, 03 Jul 2021 12:21:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：印度洋东南海岭发生5.3级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4767798.d.html</link>
-            <guid>2228656</guid>
-            <pubDate>Sat, 03 Jul 2021 12:11:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：飓风位于多米尼加共和国岛约110英里（175公里）处；最大持续风速为每小时75英里(120km/h)。]]></title>
-            <guid>2228655</guid>
-            <pubDate>Sat, 03 Jul 2021 12:04:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：飓风艾尔莎正在迅速向伊斯帕尼奥拉岛南部移动，预计当地天气在未来几小时内会恶化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-03/detail-ikqcfnca4766903.d.html</link>
-            <guid>2228654</guid>
-            <pubDate>Sat, 03 Jul 2021 12:01:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
