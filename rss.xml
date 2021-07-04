@@ -4,11 +4,52 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 04 Jul 2021 20:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jul 2021 21:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[韩国6月外汇储备(亿美元)公布 4541.1，前值 4564.6。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3550491.d.html</link>
+            <guid>2229058</guid>
+            <pubDate>Sun, 04 Jul 2021 21:00:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华泰证券：经济数据或巩固美联储2024年前加息的预期】在美联储6月议息显示首次加息可能“提前”后，今年三季度，市场对联储的政策立场变化更加敏感、将高度关注短期内的就业和通胀数据。我们预计Q3的通胀和就业数据可能进一步巩固美联储在2024年前加息的预期，继续推升5年期以下的美债短端利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca4950478.d.html</link>
+            <guid>2229057</guid>
+            <pubDate>Sun, 04 Jul 2021 20:58:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴艾尔莎将于周一穿过古巴。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca4950099.d.html</link>
+            <guid>2229056</guid>
+            <pubDate>Sun, 04 Jul 2021 20:48:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中泰证券：非农向好不会带来“收水】美国失业率下行缓慢，拖累“收水”进程。非农数据公布后，美元指数回落，美债收益率下行，而美国三大股指集体收涨。虽然新增就业向好，但由于失业率下行相对较为缓慢，或将拖累美联储“收水”的进程，资本市场走势反映出对美元流动性继续保持宽松的预期。不过，随着美国通胀水平的抬头，美联储缩减购债以及进一步收紧货币势在必行。]]></title>
+            <guid>2229055</guid>
+            <pubDate>Sun, 04 Jul 2021 20:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰证交所上半年交易数量同比增加36.5%，交易总金额同比减少2.8%至271亿纽元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3549631.d.html</link>
+            <guid>2229054</guid>
+            <pubDate>Sun, 04 Jul 2021 20:35:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[云南瑞丽7月5日至6日将开展全员核酸检测。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3549376.d.html</link>
+            <guid>2229053</guid>
+            <pubDate>Sun, 04 Jul 2021 20:29:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特能源大臣阿卜杜勒-阿齐兹：我代表的是一个平衡各方利益的国家，作为欧佩克+的主席，我考虑到每个人的利益。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3549103.d.html</link>
+            <guid>2229052</guid>
+            <pubDate>Sun, 04 Jul 2021 20:20:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[沙特能源大臣阿卜杜勒-阿齐兹：石油市场还面临其他不确定性，包括伊朗和委内瑞拉的石油生产缺乏可见度。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca4948991.d.html</link>
@@ -444,48 +485,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3510234.d.html</link>
             <guid>2228953</guid>
             <pubDate>Sun, 04 Jul 2021 11:07:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫发言人：俄罗斯一直希望与北约建立建设性关系，俄罗斯能够也应该与北约对话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3509885.d.html</link>
-            <guid>2228952</guid>
-            <pubDate>Sun, 04 Jul 2021 11:03:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫发言人：俄罗斯与土耳其的关系表明，我们能够而且应该与北约成员国建立伙伴关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3509420.d.html</link>
-            <guid>2228951</guid>
-            <pubDate>Sun, 04 Jul 2021 10:59:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[机构调查：受访的16位经济学家都认为以色列央行在周一将把基准利率维持在0.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4908998.d.html</link>
-            <guid>2228950</guid>
-            <pubDate>Sun, 04 Jul 2021 10:56:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【每秒产生188亿个，中国科学家实现世界最快实时量子随机数发生器】近日，中国科学技术大学教授潘建伟、张军等人联合浙江大学储涛教授研究组，通过研制硅基光子集成芯片和优化处理，实现了速率达18.8Gbps的世界最快实时量子随机数发生器。经传输测试，该量子随机数发生器的实时生成速率达到创世界纪录的18.8Gbps，相当于每秒钟产生188亿个随机数。这个研究成果，为开发低成本的商用量子随机数发生器单芯片奠定了技术基础。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4908712.d.html</link>
-            <guid>2228947</guid>
-            <pubDate>Sun, 04 Jul 2021 10:52:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋能源部长声明：如果减产协议延期，基准参考数据应反映其实际生产能力，而不是过时的2018年10月的生产参考数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3508701.d.html</link>
-            <guid>2228946</guid>
-            <pubDate>Sun, 04 Jul 2021 10:50:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋能源部长声明：阿联酋及其国际合作伙伴已大幅投资来提高生产能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4908437.d.html</link>
-            <guid>2228945</guid>
-            <pubDate>Sun, 04 Jul 2021 10:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗新增新冠肺炎确诊病例13781例 累计确诊3254818例】当地时间7月4日，根据伊朗卫生部最新消息，过去24小时，伊朗新增新冠肺炎确诊病例13781例，新增死亡病例165例。截至4日中午，伊朗累计确诊新冠肺炎病例达3254818例，累计治愈2926266例，累计死亡84792例，现存重症病例3229例。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3507618.d.html</link>
-            <guid>2228944</guid>
-            <pubDate>Sun, 04 Jul 2021 10:39:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
