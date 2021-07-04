@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 04 Jul 2021 04:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jul 2021 05:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[新华社快讯：据外媒4日援引菲律宾军方消息报道，菲律宾一架载有85人的军机坠毁，伤亡情况暂不明。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4868519.d.html</link>
+            <guid>2228833</guid>
+            <pubDate>Sun, 04 Jul 2021 05:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及国际合作部部长：预计埃及今年经济增速将超过5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3466406.d.html</link>
+            <guid>2228832</guid>
+            <pubDate>Sun, 04 Jul 2021 04:57:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高毅等百亿级私募猛发产品酝酿下一次抄底】虽然6月机构调研明显降温，在6月结构性行情背景下，百亿级私募也取得了骄人的业绩，百亿级私募机构发行产品方面可谓是趁热打铁。据基金业协会数据，80家百亿级私募在6月份合计备案了230多只私募新产品。6月份私募新产品发行的冠军是高毅资产，其在6月份合计发行了51只私募产品，而7月才过去的3天，高毅资产再度备案了3只产品。（每日经济新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4865550.d.html</link>
+            <guid>2228829</guid>
+            <pubDate>Sun, 04 Jul 2021 04:49:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据人民日报：北京时间12时09分，航天员刘伯明、汤洪波协同完成空间站舱外全景相机抬升操作。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3460734.d.html</link>
@@ -505,24 +523,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4793237.d.html</link>
             <guid>2228724</guid>
             <pubDate>Sat, 03 Jul 2021 18:01:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【希腊7月3日起全面禁塑 10种塑料产品不能再使用】当地时间7月3日起，希腊全面禁塑令生效，塑料餐具、塑料盘、塑料吸管等10种塑料产品将不能再使用，迈出实现“无塑”目标的重要一步。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4793229.d.html</link>
-            <guid>2228723</guid>
-            <pubDate>Sat, 03 Jul 2021 18:01:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国疾控中心：美国累计新冠肺炎死亡病例数升至603018例，此前一日为602731例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4792530.d.html</link>
-            <guid>2228721</guid>
-            <pubDate>Sat, 03 Jul 2021 17:50:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国疾控中心：美国累计新冠肺炎确诊病例数升至33530880例，此前一日为33514681例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4792502.d.html</link>
-            <guid>2228720</guid>
-            <pubDate>Sat, 03 Jul 2021 17:50:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
