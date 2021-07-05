@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 05 Jul 2021 19:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 20:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【花旗：欧洲央行的PEPP缩减将对欧元区外围国家构成风险】花旗的利率策略师援引花旗6月份的读者调查称，70%的投资者认为，欧洲央行缩减紧急抗疫购债计划（PEPP）是未来6至9个月欧元区政府债券最大的波动来源。花旗预计，意大利和德国的10年期国债利差将在夏季之后开始扩大，2021年第四季度和2022年第二季度平均为120个基点。根据Tradeweb的数据，目前这个利差低于102个基点。花旗表示，希腊政府债券可能更容易受到影响，因为它们符合PEPP的条件，但不符合常规的公共部门债券购买计划（PSPP）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5151078.d.html</link>
+            <guid>2230100</guid>
+            <pubDate>Mon, 05 Jul 2021 20:08:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全球大型资管机构依然认为自己低配了人民币债券，需要将人民币债券配置比例至少达到“标配”水准】众多境外大型资管机构注意到自己的人民币债券配置比例依然较低——相比印度、巴西等新兴市场债券投资占比达到6%-8%，他们持有的人民币债券占比不到4%，明显低于中国的全球经济贡献度；此外，人民币债券的波动性较美债更低，有助于降低他们全球债券投资组合的净值波动性。一位欧洲大型资管机构亚太区首席代表透露，5-6月境外资本增持人民币债券额度之所以低于1-2月，也与全球资本加大新兴市场债券分散化配置存在密切关系。（21世纪经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5151035.d.html</link>
+            <guid>2230099</guid>
+            <pubDate>Mon, 05 Jul 2021 20:07:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【2025年SiC电力电子市场规模将超过30亿美元】根据Yole和Omdia数据，到2025年SiC（碳化硅）电力电子市场规模将超过30亿美元，GaN（氮化镓）电力电子器件市场规模将超过6.8亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5150982.d.html</link>
+            <guid>2230098</guid>
+            <pubDate>Mon, 05 Jul 2021 20:05:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[达美航空(DAL.N)：希思罗机场已向本公司及维珍航空通知，允许在7月15日恢复在3号航站楼的业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5150327.d.html</link>
+            <guid>2230097</guid>
+            <pubDate>Mon, 05 Jul 2021 19:48:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：白宫官员敦促欧佩克+尽快达成折中的解决方案，并表示正在密切关注谈判状况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5149547.d.html</link>
+            <guid>2230096</guid>
+            <pubDate>Mon, 05 Jul 2021 19:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【市场分析：随着美元涨势停滞，铜价开始上涨】伦敦金属交易所（LME）3个月期铜价格上涨1.4%，至9512美元/吨。上周强于预期的美国就业数据公布后，美元指数涨势停滞，目前处于4月以来的最高水平。铜价在今年经历了前五个月上涨后，已出现下跌。不过，盛宝银行大宗商品策略主管Ole Hansen表示，最近的上涨表明，下跌已经结束。他表示，“我们似乎已经看到了铜的大部分回调。接下来我们将花几个月的时间来巩固，因为我们需要看到基本面赶上我们已经看到的价格上涨。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3749486.d.html</link>
+            <guid>2230095</guid>
+            <pubDate>Mon, 05 Jul 2021 19:20:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[戛纳国际电影节策划人Thierry Fremaux周一接受记者采访时表示，目前戛纳对奈飞(NFLX.O)等流媒体企业出品的电影态度过于开放，轻而易举就使其入围电影节，这对传统院线行业造成很大伤害。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3749238.d.html</link>
@@ -498,30 +534,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca5131857.d.html</link>
             <guid>2229932</guid>
             <pubDate>Mon, 05 Jul 2021 15:09:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[协合新能源(00182.HK)：2021年6月权益发电量336.79GWh，按年下跌8.7%。今年首六个月权益发电量2661.8GWh，按年上升8.07%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3731730.d.html</link>
-            <guid>2229924</guid>
-            <pubDate>Mon, 05 Jul 2021 15:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国有A级旅游景区13332个 我国有5A级旅游景区302个】从文化和旅游部获悉，截至2020年末，全国共有A级旅游景区13332个，比上年末增加930个。其中，5A级旅游景区302个，增加22个。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca5131345.d.html</link>
-            <guid>2229919</guid>
-            <pubDate>Mon, 05 Jul 2021 15:03:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首家采用第二套上市标准，迈普医学即将登陆创业板】 广州迈普再生医学科技股份有限公司（简称“迈普医学”）对外发布《首次公开发行股票并在创业板上市提示公告》，这意味着全市场首家按照创业板第二套上市标准申请上市并完成注册的企业开始进入发行程序，即将登陆创业板。迈普医学本次创业板上市的顺利注册，受益于以信息披露为中心的注册制理念和股票上市制度的包容性，体现了注册制改革对成长型创新创业企业的支持。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3731445.d.html</link>
-            <guid>2229917</guid>
-            <pubDate>Mon, 05 Jul 2021 15:02:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国报告新增27334例新冠肺炎确诊病例，新增9例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca5131147.d.html</link>
-            <guid>2229916</guid>
-            <pubDate>Mon, 05 Jul 2021 15:01:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
