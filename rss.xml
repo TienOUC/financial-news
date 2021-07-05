@@ -4,11 +4,147 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 05 Jul 2021 16:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 17:25:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[布伦特9月原油期货收涨0.99美元，涨幅1.30%，报77.16美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5142189.d.html</link>
+            <guid>2230078</guid>
+            <pubDate>Mon, 05 Jul 2021 17:20:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国专注于发展氢能源的投资基金“HydrogenOne Capital Growth”获得来自英国化工巨头英力士至少2500万英镑的基石投资。该基金将不久后在伦交所上市，并会成为伦交所首只“氢能源概念”基金。]]></title>
+            <guid>2230077</guid>
+            <pubDate>Mon, 05 Jul 2021 17:19:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行副行长金多斯：正在监测价格的潜在“二轮效应”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3741989.d.html</link>
+            <guid>2230076</guid>
+            <pubDate>Mon, 05 Jul 2021 17:16:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花旗：上调合生创展目标价至16港元 评级沽售】花旗发表报告，维持对合生创展(00754.HK)的沽售评级，但目标价由11港元上调至16港元，基于料公司资产周转率支持下较好的土地储备变现，对其资产净值折让估值可由原本60%下修至50%，而较高的资产净值是基于去年下半年新增的大量土地和最新的汇率所致。鉴于合生创展强劲的2020财年盈利超过预期，以及考虑到新的投资收入，该行大幅上调2021年至2022财年的每股盈利预测各180.9%及174.2%。不过，该行仍然关注合生创展在上市股票或非上市股权投资方面的新投资业务，认为需要更多关于执行和盈利的证据来证明其在主席变更后新策略的可连续性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3741880.d.html</link>
+            <guid>2230075</guid>
+            <pubDate>Mon, 05 Jul 2021 17:15:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非7月5日报告新冠肺炎确诊病例新增12513例，累计确诊病例2075409例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5141375.d.html</link>
+            <guid>2230074</guid>
+            <pubDate>Mon, 05 Jul 2021 17:10:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：将劳埃德银行(LYG.N)信誉展望调整至稳定，评级确认为A。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5141025.d.html</link>
+            <guid>2230073</guid>
+            <pubDate>Mon, 05 Jul 2021 17:05:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法巴银行：将诺基亚(NOK.N)评级从中性上调至跑赢大市，目标价7.7美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3741022.d.html</link>
+            <guid>2230072</guid>
+            <pubDate>Mon, 05 Jul 2021 17:05:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安：对抗高通胀需要团队合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5140764.d.html</link>
+            <guid>2230071</guid>
+            <pubDate>Mon, 05 Jul 2021 17:02:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安：土耳其央行决心解决高通胀问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5140741.d.html</link>
+            <guid>2230070</guid>
+            <pubDate>Mon, 05 Jul 2021 17:02:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股今日休市一日 美、布两油提前收市】受独立日假期影响，美国股市今日休市一日，CME旗下贵金属、美国原油和外汇合约交易提前于北京时间7月6日（周二）01:00结束，ICE旗下布伦特原油合约交易提前于北京时间周二01:30结束；此外，本周美国API和EIA原油库存数据分别推迟至北京时间7月8日（周四）04:30和23:00公布。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3740807.d.html</link>
+            <guid>2230069</guid>
+            <pubDate>Mon, 05 Jul 2021 17:02:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特计划针对扩张交通运输投资1470亿美元，其中包括推出新的航空公司，以及扩大机场和铁路网络。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3740643.d.html</link>
+            <guid>2230068</guid>
+            <pubDate>Mon, 05 Jul 2021 17:01:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克总理财务顾问：在欧佩克产油国之间缺乏协调和谅解的情况下，价格战的开端将会再次形成。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3740354.d.html</link>
+            <guid>2230067</guid>
+            <pubDate>Mon, 05 Jul 2021 16:57:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克总理财务顾问：欧佩克增产必须“谨慎和高度协调”地进行，以避免供应市场可能出现的过剩，从而可能造成不必要的价格失衡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5140222.d.html</link>
+            <guid>2230066</guid>
+            <pubDate>Mon, 05 Jul 2021 16:56:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  LME期铜收涨134美元，报9511美元/吨。 LME期铝收跌6美元，报2556美元/吨。 LME期锌收涨10美元，报2946美元/吨。 LME期铅收跌14美元，报2286美元/吨。 LME期镍收涨70美元，报18412美元/吨。 LME期锡收涨145美元，报31665美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3740118.d.html</link>
+            <guid>2230065</guid>
+            <pubDate>Mon, 05 Jul 2021 16:53:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“电竞专业”迎来首届毕业生，“打游戏赚钱”企业增速惊人】作为新兴热门行业第一批“吃螃蟹”的人，2017级电竞毕业生流向社会。目前我国现存电竞相关企业超过18000家。从注册量来看，近四年来增长迅速，2020年达到最高，为4378家，2021年上半年电竞热度不减，新增注册超2000家。从地域分布来看，广东、湖南、河南的电竞企业数量分别位于前三位。据统计，电子竞技产业至少涉及9个就业方向，职位类型达36个。除了常见的解说、主持、直播等工作，俱乐部的教练员、运营、领队、战术设计师等岗位也极大拓展了电竞行业的择业方向，为从业者提供了充足的成长空间。总的来看，电竞从业不等于单纯的打游戏，2021年电竞行业热度不减。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3739806.d.html</link>
+            <guid>2230064</guid>
+            <pubDate>Mon, 05 Jul 2021 16:50:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花旗：降呷哺呷哺目标价至13.9港元 评级买入】花旗发表研究报告，指呷哺呷哺(00520.HK)旗下品牌凑凑原行政总裁张振纬今年4月离任，并于5月解任赵怡行政总裁之职务，由董事会主席贺光启兼任，该行料公司分店扩张步伐将放缓。该行下调其2021及2022两财年销售预测分别13%及15%，并下调各财年盈测分别27%及44%，目标价由18.2港元降至13.9港元，考虑估值不高、同店销售增长上行风险，以及市场期望低，维持买入评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3739701.d.html</link>
+            <guid>2230063</guid>
+            <pubDate>Mon, 05 Jul 2021 16:48:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[其总统埃尔多安：土耳其第二季度GDP增长年率约为20％，预计土耳其全年GDP增速将超过8％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3739558.d.html</link>
+            <guid>2230062</guid>
+            <pubDate>Mon, 05 Jul 2021 16:47:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：在石油现货市场异常紧俏的情况下，如果8月份不增产，将很容易导致油价涨超90美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3739542.d.html</link>
+            <guid>2230061</guid>
+            <pubDate>Mon, 05 Jul 2021 16:46:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【受益新能源需求，钴价格持续上涨】生意社发布数据显示，7月5日，广东南储有色现货市场钴（钴含量≥99.8%）报价为383000元/吨，相比月初上涨2.1%，相比4月26日低点344000元/吨，上涨11.3%。另外，其他交易商现货报价如上海华通、长江有色等也同样出现一定增长。伴随着钴价格上涨，相关板块同样表现强势，截至7月5日收盘，钴板块当日上涨3.65%，年内涨幅逾25%。相关上市公司当前也在积极安排开采。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3739452.d.html</link>
+            <guid>2230060</guid>
+            <pubDate>Mon, 05 Jul 2021 16:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大众出售传奇超跑品牌布加迪 组建新电动跑车品牌】大众集团今日宣布出售传奇超跑品牌布加迪股权，并促成大众子公司保时捷与克罗地亚初创电动跑车企业Rimac建立合资公司，新公司将命名为布加迪-Rimac。交易后，Rimac将以55%股权控股新公司。根据双方声明，布加迪和Rimac将继续生产各自原有车型，同时会共同研发新的电动超跑型号。值得一提的是，布加迪的Chiron曾在2020年创下当时的量产车最快速度记录489km/h，而Rimac的Nevera仅需1.85秒即可完成0-100km/h加速，是目前零百加速最快的量产车，此次两个“最快”的合作，未来相当值得期待。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5138991.d.html</link>
+            <guid>2230059</guid>
+            <pubDate>Mon, 05 Jul 2021 16:42:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲央行可能给予银行更多时间重建资本缓冲】欧洲央行监事会主席恩瑞亚周一表示，如果当前危机导致资产质量实质性恶化，欧洲央行愿意给予欧元区银行更多时间来重建资本缓冲。恩瑞亚表示：“我们计划坚持向银行所提供的灵活性，至少在2022年前可使用资本缓冲。但如果资产质量问题出现显著的实质化，我们也可以重新考虑时间路径。”"在危机仍在冲击银行资产负债表时，我们不希望再次开始收紧资本缓冲，" 恩瑞亚补充道。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5138625.d.html</link>
+            <guid>2230057</guid>
+            <pubDate>Mon, 05 Jul 2021 16:38:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  周一（7月5日）欧市尾盘，TTF基准荷兰天然气期货涨5.92%，报38.025欧元/兆瓦时，欧市早盘曾涨至38.500欧元，创历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5138575.d.html</link>
+            <guid>2230055</guid>
+            <pubDate>Mon, 05 Jul 2021 16:38:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【欧洲三大卡车巨头拟投5亿欧元建合资公司开发充电网络】戴姆勒卡车、沃尔沃集团（AB Volvo）与大众集团旗下卡车制造商传拓（Traton）周一宣布，计划组建一家合资公司，开发长途货车和公共汽车使用的充电网络。三公司计划向合资企业投资5亿欧元，并将各拥有三分之一的股份。新公司预计将于2022年投入运营，目标是在5年内安装和运营至少1700个充电站。]]></title>
+            <guid>2230054</guid>
+            <pubDate>Mon, 05 Jul 2021 16:35:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[英国政府首席医疗顾问惠蒂：对我们不利的德尔塔变种病毒的传播能力增加。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5137889.d.html</link>
@@ -385,119 +521,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca5128585.d.html</link>
             <guid>2229881</guid>
             <pubDate>Mon, 05 Jul 2021 14:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行调查：企业预计工资、投入品价格和产出价格增速将超过一年前。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca5128571.d.html</link>
-            <guid>2229880</guid>
-            <pubDate>Mon, 05 Jul 2021 14:32:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：三分之一的公司认为通胀高于3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3728499.d.html</link>
-            <guid>2229878</guid>
-            <pubDate>Mon, 05 Jul 2021 14:30:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【习近平同法国德国领导人举行视频峰会】国家主席习近平5日晚在北京同法国总统马克龙、德国总理默克尔举行视频峰会。德国总理默克尔表示，德方支持尽快召开第二十三次欧盟—中国领导人会晤，希望欧中投资协定尽快得到批准。法国总统马克龙表示，过去几十年来，中国发展取得巨大成就，法方致力于以务实的态度继续推进对华合作，支持达成欧中投资协定，加强人文交流，欢迎中国企业投资法国。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3727975.d.html</link>
-            <guid>2229870</guid>
-            <pubDate>Mon, 05 Jul 2021 14:24:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【金春股份：拟使用超募资金建10MW屋顶分布式光伏发电项目】金春股份公告，公司拟使用超募资金使用建设10MW屋顶分布式光伏发电项目，项目规划投资3840万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca5127731.d.html</link>
-            <guid>2229869</guid>
-            <pubDate>Mon, 05 Jul 2021 14:23:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳国际终止入股苏宁易购】 7月5日晚间，深圳国际发布公告称，与苏宁易购股东方未能就商务合作条件达成最终协议，经综合考虑各方面因素并通过审慎分析论证后决定终止进行潜在收购事项，但双方将继续探索物流业务领域合作的机会。深圳国际表示，终止进行潜在收购将不会对其现有业务或财务状况等构成任何重大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3727685.d.html</link>
-            <guid>2229867</guid>
-            <pubDate>Mon, 05 Jul 2021 14:22:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【收储工作开启，猪市或将迎来转机】 商务部会同国家发展改革委、财政部等近日启动2021年度中央储备猪肉收储工作，定于7月7日公开竞价收储本年度第一批中央储备冻猪肉2万吨。对此，国泰君安期货农产品首席研究员周小球表示，虽然收储数量有限，但在生猪价格跌破自繁自养成本线以后，此举有利于市场信心的恢复。业内人士普遍认为，开启猪肉收储工作，有利于提振养殖端信心，稳定市场情绪。从中长期来看，生猪产能恢复情况向好，猪肉供应充裕，猪价将以稳为主，老百姓“猪肉自由”有保障。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3727280.d.html</link>
-            <guid>2229863</guid>
-            <pubDate>Mon, 05 Jul 2021 14:19:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[缅甸报告新增约3000例新冠肺炎确诊病例，单日增幅刷新历史纪录。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca5126983.d.html</link>
-            <guid>2229859</guid>
-            <pubDate>Mon, 05 Jul 2021 14:16:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克会议尚未召开，美、布两油期货短线走低0.2美元，现分别报75.12美元/桶和76.01美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca5126598.d.html</link>
-            <guid>2229853</guid>
-            <pubDate>Mon, 05 Jul 2021 14:12:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗石油记者Reza Zandi：随着欧佩克+会议陷入僵局，目前是伊朗重回石油市场的有利时机，也是《联合全面行动计划》（JCPOA）签署协议的最佳时机，如果伊朗错过这次机会将会很可惜，如果欧佩克+同意恢复到580万桶/日的产量，伊朗将会面临困境。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca5126577.d.html</link>
-            <guid>2229852</guid>
-            <pubDate>Mon, 05 Jul 2021 14:12:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油期货失守76美元/桶，日内跌幅达0.21%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3726664.d.html</link>
-            <guid>2229851</guid>
-            <pubDate>Mon, 05 Jul 2021 14:12:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为哈勃投资碳化硅企业 第三代半导体前景广阔】碳化硅企业天域半导体变更工商登记，华为哈勃成其新增股东。东兴证券认为，碳化硅材料具备突出的性能优势，可有效提高功率器件的功率密度和效率，降低系统成本，对半导体产业有着全方位带动。机构预计，2025年全球碳化硅功率器件市场规模将增至25.62亿美元，年化复合增速约30%。(上证报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3726635.d.html</link>
-            <guid>2229849</guid>
-            <pubDate>Mon, 05 Jul 2021 14:12:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国移动成立芯片公司 进军物联网芯片制造业】据中移芯片官微披露，中国移动旗下中移物联网全资子公司芯昇科技有限公司于2021年7月正式独立运营。天眼查信息显示，芯昇科技有限公司经营范围包括集成电路芯片及产品销售；集成电路芯片设计及服务；集成电路芯片及产品制造；智能家庭消费设备制造；智能家庭消费设备销售；安防设备销售；安防设备制造；智能车载设备制造；智能车载设备销售等等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3726379.d.html</link>
-            <guid>2229848</guid>
-            <pubDate>Mon, 05 Jul 2021 14:10:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通：预计土耳其央行今年将降息3次，每次50个基点。（此前预计为3次，每次100个基点）]]></title>
-            <guid>2229847</guid>
-            <pubDate>Mon, 05 Jul 2021 14:08:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家市场监管总局重拳严打 业内称大数据“杀熟”或成历史】近日，国家市场监管总局对《价格违法行为行政处罚规定（修订征求意见稿）》公开征求意见。业内人士表示，在新业态中的价格违法领域，征求意见稿明确对“大数据杀熟”、“补贴倾销”等新业态中的价格违法行为“将被给予警告、罚款甚至停业整顿”，这意味对于互联网平台中的大数据“杀熟”等不正当行为或成历史。未来，对于电商平台的监管力度也有望更大严格。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca5125839.d.html</link>
-            <guid>2229844</guid>
-            <pubDate>Mon, 05 Jul 2021 14:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【发改委支持新能源配套送出工程 储能产业迎机遇】发改委近日印发《关于做好新能源配套送出工程投资建设有关事项的通知》提出，对电网企业建设有困难或规划建设时序不匹配的新能源配套送出工程，允许发电企业投资建设，缓解新能源快速发展并网消纳压力。上述新政解决了新能源配送工程建设的痛点，有利于推动新能源更快发展，并促进电网侧大规模独立共享储能电站的建设。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3725912.d.html</link>
-            <guid>2229843</guid>
-            <pubDate>Mon, 05 Jul 2021 14:06:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  上交所就易见股份年报审核相关事项发出监管工作函，涉及对象包括上市公司、董事、监事、高级管理人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca5125479.d.html</link>
-            <guid>2229841</guid>
-            <pubDate>Mon, 05 Jul 2021 14:03:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全球股市迭创新高 贝莱德等资管巨头称上涨行情还未到头】随着各地股市接二连三创新高，贝莱德、State Street Global Markets、瑞银资产管理和摩根资产管理等公司预计下半年股市将继续上涨，许多投资者把目光越来越多地投向美国以外市场以寻求更高回报。尽管MSCI全球指数今年已上涨12%，触及历史新高，但在经济持续复苏的大背景下，股市这一资产类别的吸引力仍令人难以抗拒。虽然高估值让一些市场参与者对回调风险保持警惕，但企业盈利大幅反弹以及央行强有力的支持措施预计将使涨势得以维持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3725313.d.html</link>
-            <guid>2229838</guid>
-            <pubDate>Mon, 05 Jul 2021 14:00:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数下跌 因大型船舶运价下跌】波罗的海干散货运价指数周一下跌，因好角型和巴拿马型船舶运价下跌。波罗的海干散货运价指数跌61点或1.9%，至3224点。海岬型船运价指数跌161点或4.6%，至三周低点，报3349点；日均获利减少1333美元至27773美元。巴拿马型船运价指数跌28点或0.7%，报4241点；日均获利减少252美元至38170美元。超灵便型船运价指数持平，报2935点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqcfnca5123998.d.html</link>
-            <guid>2229836</guid>
-            <pubDate>Mon, 05 Jul 2021 13:49:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧佩克+谈判增加了一份新的情景方案，该方案呼吁欧佩克+在2022年4月前每月恢复40万桶/日的产量。由于这份方案不需要延长目前的减产协议，阿联酋料不会反对。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-05/detail-ikqciyzk3723818.d.html</link>
-            <guid>2229835</guid>
-            <pubDate>Mon, 05 Jul 2021 13:46:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
