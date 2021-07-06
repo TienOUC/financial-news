@@ -4,13 +4,210 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 06 Jul 2021 15:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jul 2021 16:34:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[证监会主席易会满：打击证券违法将明确目标抓住重点。（新华社）]]></title>
+            <title><![CDATA[美国五角大楼叫停JEDI云协议，希望微软与亚马逊分工合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk3942094.d.html</link>
+            <guid>2231180</guid>
+            <pubDate>Tue, 06 Jul 2021 16:33:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货失守73美元/桶，日内跌幅达4.36%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqcfnca5340578.d.html</link>
+            <guid>2231179</guid>
+            <pubDate>Tue, 06 Jul 2021 16:26:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金跌至1790美元/盎司下方，较日高跌超25美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqcfnca5340060.d.html</link>
+            <guid>2231178</guid>
+            <pubDate>Tue, 06 Jul 2021 16:21:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银失守26美元/盎司，日跌幅扩大至1.66%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk3941002.d.html</link>
+            <guid>2231177</guid>
+            <pubDate>Tue, 06 Jul 2021 16:20:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳指跌幅扩大至0.56%，刷新盘中低位，标普500指数跌0.8%，道指跌1.04%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk3940729.d.html</link>
+            <guid>2231175</guid>
+            <pubDate>Tue, 06 Jul 2021 16:17:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金转跌，交投于1792美元/盎司一线，美股盘前曾涨至1815.06美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk3940482.d.html</link>
+            <guid>2231174</guid>
+            <pubDate>Tue, 06 Jul 2021 16:15:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[希腊再次收紧部分措施以控制新冠病毒传播。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk3940181.d.html</link>
+            <guid>2231173</guid>
+            <pubDate>Tue, 06 Jul 2021 16:11:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[迪士尼公司股价下跌 2.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk3940120.d.html</link>
+            <guid>2231172</guid>
+            <pubDate>Tue, 06 Jul 2021 16:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯财政部：截至7月1日，俄罗斯国家财富基金规模为1876亿美元，占俄罗斯2021年GDP预期的11.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk3939755.d.html</link>
+            <guid>2231171</guid>
+            <pubDate>Tue, 06 Jul 2021 16:06:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯财政部：已经完成了从国家财富基金中撤出美元所需的外汇兑换。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk3939739.d.html</link>
+            <guid>2231170</guid>
+            <pubDate>Tue, 06 Jul 2021 16:06:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯财政部：俄罗斯财富基金将美元持有量削减至零。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqciyzk3939676.d.html</link>
+            <guid>2231169</guid>
+            <pubDate>Tue, 06 Jul 2021 16:06:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟委员会提议制定欧盟绿色债券标准 所有欧盟绿色债券须接受外部核查】当地时间7月6日，欧盟委员会通过了一份旨在制定欧盟绿色债券标准的条例草案。据介绍，这将是面向欧盟内外所有私营与公共部门债券发行方的自愿性标准，有助于相关方为能源生产和传输、低碳交通基础设施建设等更多的可持续性项目融资。欧委会拟出台的条例同时规定，所有欧盟绿色债券在合规方面都必须接受外部核查，而这些核查机构又必须在欧洲证券和市场管理局登记注册并受其监管。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqcfnca5338516.d.html</link>
+            <guid>2231165</guid>
+            <pubDate>Tue, 06 Jul 2021 16:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[理想汽车：7月6日，我们将用户座椅上的物质送到专业检测机构进行检测，确认该物质含有汞（俗称水银）。理想汽车要求并陪同用户一同向当地公安机关报案，并将协助公安机关调查事件真相。理想汽车坚持通过司法途径解决问题。对于造谣抹黑者，理想汽车也必将以法律手段维护自己的权益。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-07/detail-ikqcfnca5338161.d.html</link>
+            <guid>2231160</guid>
+            <pubDate>Tue, 06 Jul 2021 16:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中国圣牧：中国蒙牛全资附属公司增持公司12.48%股份】中国圣牧在港交所公告，今日，中国蒙牛的全资附属公司StartGreatt收购本公司共1,045,98万股普通股，占于本公告日期本公司全部已发行股本约12.48%；交易完成后其持股数增至2,513,17万股股份，占于本公告日期本公司全部已发行股本约29.99%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5338050.d.html</link>
+            <guid>2231158</guid>
+            <pubDate>Tue, 06 Jul 2021 15:57:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线下挫近5美元，报1797.67美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5337932.d.html</link>
+            <guid>2231157</guid>
+            <pubDate>Tue, 06 Jul 2021 15:54:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧佩克+谈判陷入危机，油市动荡】由于欧佩克+的谈判陷入危机，市场对该组织下一步的行动感到迷茫，油价今晚暴跌。此前，沙特和阿联酋之间的激烈角力阻止了原油供应的增加，油价一度跃升至6年多来的最高水平。然而，几小时内，油价的涨势逆转，大幅下跌，因为交易员们猜测，谈判的破裂可能会让欧佩克的减产计划彻底瓦解。油价的波动表明，在人们对通胀感到担忧的情况下，该组织的内部分歧威胁着全球经济复苏的稳定，也损害了该组织作为石油市场可靠管理者的自我形象。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5337671.d.html</link>
+            <guid>2231156</guid>
+            <pubDate>Tue, 06 Jul 2021 15:49:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  恐慌指数VIX升1.98点，报17.05点，触及6月22日以来高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5337428.d.html</link>
+            <guid>2231155</guid>
+            <pubDate>Tue, 06 Jul 2021 15:44:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【股市收盘】西班牙IBEX35指数7月6日（周二）收盘下跌82.40点，跌幅0.92%，报8864.00点；意大利富时MIB指数7月6日（周二）收盘下跌220.84点，跌幅0.87%，报25220.50点；英国富时100指数7月6日（周二）收盘下跌62.25点，跌幅0.87%，报7102.66点；法国CAC40指数7月6日（周二）收盘下跌60.06点，跌幅0.91%，报6507.48点；德国DAX30指数7月6日（周二）收盘下跌146.07点，跌幅0.93%，报15515.90点；欧洲斯托克50指数7月6日（周二）收盘下跌35.12点，跌幅0.86%，报4052.25点。]]></title>
+            <guid>2231154</guid>
+            <pubDate>Tue, 06 Jul 2021 15:41:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  在岸人民币兑美元（CNY）北京时间23:30收报6.4788元，较周一夜盘收盘跌149点。成交量344.84亿美元，较周一下降36.62亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3937957.d.html</link>
+            <guid>2231153</guid>
+            <pubDate>Tue, 06 Jul 2021 15:38:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[李想回应“水银事件”车主：理想汽车百分之百支持你去报案，因为汞投毒属于情节严重的刑事犯罪行为。请务必、务必、务必使用法律的手段，绝不要心慈手软。这类刑事案件我们相信执法机关，耐心等待案件的处理结果。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5336958.d.html</link>
+            <guid>2231152</guid>
+            <pubDate>Tue, 06 Jul 2021 15:38:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国财长勒梅尔：我很遗憾欧盟在全球最低企业税协议上的态度不团结。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5336949.d.html</link>
+            <guid>2231151</guid>
+            <pubDate>Tue, 06 Jul 2021 15:38:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国财长勒梅尔：G20有责任建立一个公平有效的国际税收体系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3937915.d.html</link>
+            <guid>2231150</guid>
+            <pubDate>Tue, 06 Jul 2021 15:38:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国财长勒梅尔：在威尼斯举行的G20会议之后，各国必须就最低企业税税率和免税条款敲定细节。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3937904.d.html</link>
+            <guid>2231149</guid>
+            <pubDate>Tue, 06 Jul 2021 15:37:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财政部高级官员：全球最低企业税税率将受到美国税制改革政治进程结果的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5336774.d.html</link>
+            <guid>2231148</guid>
+            <pubDate>Tue, 06 Jul 2021 15:35:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部高级官员：欧盟提出的新数字税与欧盟在经合组织“支柱1”税收协议下的承诺不一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3937765.d.html</link>
+            <guid>2231147</guid>
+            <pubDate>Tue, 06 Jul 2021 15:35:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财政部拍卖三个月期国债，得标利率0.050%，投标倍数2.92。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3937661.d.html</link>
+            <guid>2231146</guid>
+            <pubDate>Tue, 06 Jul 2021 15:33:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部高级官员：目前有几个国家与美国一道推动全球最低企业税税率高于15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5336622.d.html</link>
+            <guid>2231145</guid>
+            <pubDate>Tue, 06 Jul 2021 15:32:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部高级官员：美国财长耶伦正与国会税务委员会合作，通过预算调节立法实施经合组织国际税收协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3937583.d.html</link>
+            <guid>2231144</guid>
+            <pubDate>Tue, 06 Jul 2021 15:32:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部高级官员：美国愿意扩大G20关于债务处理的共同框架，将纳入其他脆弱国家、小岛屿国家和中低收入国家。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5336546.d.html</link>
+            <guid>2231143</guid>
+            <pubDate>Tue, 06 Jul 2021 15:31:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部高级官员：美国将继续敦促G20成员国利用财政刺激措施解决气候变化、收入不平等、经济增长等问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5336494.d.html</link>
+            <guid>2231142</guid>
+            <pubDate>Tue, 06 Jul 2021 15:31:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国30年期国债收益率势创2020年6月以来最大单日跌幅，当日下跌近8个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5336445.d.html</link>
+            <guid>2231141</guid>
+            <pubDate>Tue, 06 Jul 2021 15:30:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[证监会主席易会满：下一阶段的工作，一是突出重点，抓好关键任务落地。切实提高政治站位，落实落细各项措施。二是深化协同，促进形成工作合力。不断强化与立法司法、宏观管理、市场监管等部门以及有关地方的工作协同，切实提高打击资本市场违法犯罪的整体效能。三是加强宣传，营造良好舆论环境。加强政策解读，抓好示范引导，向市场明确传递“零容忍”的鲜明信号，加快推动形成崇法守信的良好市场生态和文化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5336304.d.html</link>
+            <guid>2231140</guid>
+            <pubDate>Tue, 06 Jul 2021 15:28:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[证监会主席易会满：近期，市场各方对以市值管理之名行操纵市场之实等违法行为比较关注。事实上，市值管理与操纵市场有着清晰的边界。证监会将会同公安机关坚决打击“伪市值管理”等违法行为，切实净化市场生态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5336271.d.html</link>
+            <guid>2231139</guid>
+            <pubDate>Tue, 06 Jul 2021 15:28:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证监会主席易会满：打击证券违法将明确目标抓住重点】7月6日，中办、国办公布《关于依法从严打击证券违法活动的意见》，证监会主席易会满表示，依法从严打击证券违法活动，是维护市场“三公”秩序、营造良好市场生态的内在要求。同时，较长一段时间以来，由于制度建设存在短板，证券违法犯罪成本较低。随着注册制改革的逐步全面推行，在放宽前端准入的同时，对加强后端的监管执法提出了更高要求。 （新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5335884.d.html</link>
             <guid>2231138</guid>
             <pubDate>Tue, 06 Jul 2021 15:23:02 GMT</pubDate>
@@ -377,206 +574,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3929875.d.html</link>
             <guid>2231073</guid>
             <pubDate>Tue, 06 Jul 2021 14:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股钢铁板块下挫，克里夫斯天然资源公司(CLF.N)、纽柯钢铁(NUE.N)、美国钢铁(X.N)均跌超3%，安赛乐米塔尔(MT.N)跌2.6%。]]></title>
-            <guid>2231072</guid>
-            <pubDate>Tue, 06 Jul 2021 14:04:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[缅甸预计新冠肺炎确诊病例新增达3602例，新增死亡病例达52例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3929822.d.html</link>
-            <guid>2231071</guid>
-            <pubDate>Tue, 06 Jul 2021 14:03:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【安利股份：耐克将是公司增长的强劲动能 预计2022年会有较大较快增长】安利股份接受调研时表示，安利是耐克在中国大陆唯一一家中资鞋用聚氨酯合成革及复合材料合格供应商。目前公司与耐克保持良好的业务关系，合作趋势向好、长期向好。耐克将是安利未来增长的强劲动能，预计2022年会有较大、较快增长。此外，公司将会持续加大与彪马、亚瑟士、安踏、李宁、特步等国内外品牌客户的开发与合作，不断扩大、提升运动休闲市场份额和影响力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5328888.d.html</link>
-            <guid>2231070</guid>
-            <pubDate>Tue, 06 Jul 2021 14:03:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国6月ISM非制造业PMI60.1，前值64，预期63.5。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3929480.d.html</link>
-            <guid>2231069</guid>
-            <pubDate>Tue, 06 Jul 2021 14:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股汽车股多数下跌，特斯拉(TSLA.O)跌近3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)跌约2.5%，蔚来汽车(NIO.N)、Workhorse(WKHS.O)跌超2%，通用汽车(GM.N)、福特汽车(F.N)跌约1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3929065.d.html</link>
-            <guid>2231068</guid>
-            <pubDate>Tue, 06 Jul 2021 13:56:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  虎牙(HUYA.N)跌4%，斗鱼(DOYU.O)跌13.7%，消息称腾讯合并国内两大直播平台的计划遭反垄断调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3928721.d.html</link>
-            <guid>2231066</guid>
-            <pubDate>Tue, 06 Jul 2021 13:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国10年期国债收益率跌至4月底以来新低，报0.075%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3928506.d.html</link>
-            <guid>2231065</guid>
-            <pubDate>Tue, 06 Jul 2021 13:50:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场研究机构IHS MARKIT首席商业经济学家Chris Williamson评美国6月服务业PMI数据：但是，许多公司报告说，由于供应短缺或难以填补的岗位空缺，商业活动受到限制。因此，未完成订单的积压数量正以该调查历史上前所未有的速度增长，突显出商品和服务的需求大大超过供应的现象。这些产能限制不仅抑制了增长，还推动价格大幅上涨。不过，6月份的商品和服务平均价格涨幅是该调查12年以来的第二大涨幅，从这一涨幅中可以看出一些积极信号。]]></title>
-            <guid>2231064</guid>
-            <pubDate>Tue, 06 Jul 2021 13:50:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【韩正在山东调研 考察稀土催化关键技术研发、科技成果转化等有关情况】7月5日至6日，国务院副总理韩正先后在山东东营、济南调研。韩正走进稀土催化产业园，详细考察稀土催化关键技术研发、科技成果转化等有关情况；前往山东产业技术研究院高科技创新园，了解园区建设情况；来到中国重汽章丘工业园、济南二机床集团有限公司，考察企业生产运营和技术研发情况。韩正强调，要坚持创新驱动发展，加快补齐关键核心技术短板，推动科技成果转化应用。要加大基础研究投入，完善财政科技经费投入体制，改进科技项目组织管理方式，提高科研投入效益。要做好顶层设计，加强科技资源统筹，防止各地重复布局、重复建设。要加快走出去步伐，推动更多中国装备走出国门，更好参与国际合作和竞争。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3928274.d.html</link>
-            <guid>2231063</guid>
-            <pubDate>Tue, 06 Jul 2021 13:48:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国20年期国债收益率跌至2月22日以来的最低水平，报1.171%，当日跌超3个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5327339.d.html</link>
-            <guid>2231062</guid>
-            <pubDate>Tue, 06 Jul 2021 13:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场研究机构IHS MARKIT首席商业经济学家Chris Williamson评美国6月服务业PMI数据：6月份，美国的制造业和服务业又出现了令人印象深刻的产出增长，实现了自2009年首次发布数据以来最强劲的季度扩张。不过，与5月份的创纪录高位相比，6月份的增长速度有所冷却，进一步表明经济复苏反弹已在第二季度见顶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3928208.d.html</link>
-            <guid>2231061</guid>
-            <pubDate>Tue, 06 Jul 2021 13:48:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【埃及当地一法院解除对“长赐”号货轮的扣押货轮将于7日离开苏伊士运河】据埃及金字塔报当地时间7月6日报道，苏伊士运河管理局收到了埃及伊斯梅利亚省一法院的批准，解除对“长赐”号货轮的扣押，允许该货轮于当地时间7月7日从苏伊士运河大苦湖的泊位离开。当地时间7月4日，“长赐”号所有方和承保方证实，已就赔偿事宜与埃及苏伊士运河管理局达成正式协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5327116.d.html</link>
-            <guid>2231060</guid>
-            <pubDate>Tue, 06 Jul 2021 13:46:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【容百科技：拟推2021年限制性股票激励计划】容百科技披露2021年限制性股票激励计划(草案)，拟向激励对象授予权益总计202.2万股，占本激励计划草案公告日公司股本总额4.47,亿股的0.45%。本计划首次授予的第一类限制性股票的授予价格为63.60元/股，首次授予的第二类限制性股票的授予价格为114.35元/股。首次授予的激励对象总人数为135人。各年度业绩考核目标如下表所示：]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3927986.d.html</link>
-            <guid>2231058</guid>
-            <pubDate>Tue, 06 Jul 2021 13:45:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国6月Markit服务业PMI终值64.6，前值64.8，预期64.8。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5327062.d.html</link>
-            <guid>2231057</guid>
-            <pubDate>Tue, 06 Jul 2021 13:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利国债价格涨幅扩大，收益率下跌5个基点至0.76%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3927928.d.html</link>
-            <guid>2231055</guid>
-            <pubDate>Tue, 06 Jul 2021 13:44:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国10年期国债收益率跌破1.4%，为6月21日以来最低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5326976.d.html</link>
-            <guid>2231054</guid>
-            <pubDate>Tue, 06 Jul 2021 13:44:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股油气股走弱，埃克森美孚石油(XOM.N)跌2%，英国石油(BP.N)跌1.8%，雪佛龙(CVX.N)、道达尔(TOT.N)跌1.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5326884.d.html</link>
-            <guid>2231052</guid>
-            <pubDate>Tue, 06 Jul 2021 13:43:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线走低0.2美元，现报26.44美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3927613.d.html</link>
-            <guid>2231051</guid>
-            <pubDate>Tue, 06 Jul 2021 13:41:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【李克强：希望中英双方进一步加强清洁能源等领域合作】国务院总理李克强7月6日下午在中南海紫光阁同英国工商界代表举行视频对话会。李克强表示，希望双方进一步加强清洁能源等领域合作，在保护知识产权的基础上扩大绿色技术合作，共同应对气候变化。改革开放是中国的基本国策，将持续坚定不移推进。中国的制造业已经全面开放，服务业正在有序开放，开放的大门会越开越大。我们在构建新发展格局的进程中，将继续致力于打造市场化、法治化、国际化营商环境，对包括外企在内的各类市场主体一视同仁，欢迎更多外资进入中国。也希望英方为中国企业赴英投资兴业提供公平、公正、非歧视的营商环境。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3927527.d.html</link>
-            <guid>2231050</guid>
-            <pubDate>Tue, 06 Jul 2021 13:41:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  ContextLogic(WISH.O)涨超6%，公司获欧盟支付机构许可证。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5326496.d.html</link>
-            <guid>2231049</guid>
-            <pubDate>Tue, 06 Jul 2021 13:40:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油期货日内跌幅达2%，现报75.62美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5326387.d.html</link>
-            <guid>2231048</guid>
-            <pubDate>Tue, 06 Jul 2021 13:40:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  汽车制造商Stellantis(STLA.N)涨1.82%，公司在英国埃尔斯米尔港工厂投资1亿英镑，将从2022年开始生产电动货车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3926964.d.html</link>
-            <guid>2231047</guid>
-            <pubDate>Tue, 06 Jul 2021 13:36:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数和纳斯达克综合指数一度触及历史高点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3926898.d.html</link>
-            <guid>2231046</guid>
-            <pubDate>Tue, 06 Jul 2021 13:36:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亚马逊(AMZN.O)一度涨近2%，报3590.7美元，续刷历史高位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5325927.d.html</link>
-            <guid>2231045</guid>
-            <pubDate>Tue, 06 Jul 2021 13:35:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概股多数下挫，满帮(YMM.N)跌超20%，老虎证券(TIGR.O)跌超10%，富途控股(FUTU.O)、BOSS直聘(BZ.O)跌超8%，哔哩哔哩(BILI.O)跌超6%，拼多多(PDD.O)跌近5%，百度(BIDU.O)跌超4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3926658.d.html</link>
-            <guid>2231044</guid>
-            <pubDate>Tue, 06 Jul 2021 13:34:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【天奈科技：富国基金等7名投资者受让公司股份】天奈科技披露股东询价转让结果报告书，询价转让价格为105.01元/股，转让股票数量为232万股，占总股本比例的1%，交易金额2.44亿元。富国基金管理有限公司等7名投资者受让。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5325724.d.html</link>
-            <guid>2231043</guid>
-            <pubDate>Tue, 06 Jul 2021 13:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利10年期国债收益率日内下跌4个基点，跌至三周低点0.765%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5325649.d.html</link>
-            <guid>2231042</guid>
-            <pubDate>Tue, 06 Jul 2021 13:32:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日财经TOP10】➊「中共中央办公厅 国务院办公厅印发《关于依法从严打击证券违法活动的意见》」➋「刘鹤主持召开国务院金融稳定发展委员会第五十三次会议」➌「央行发布关于防范虚拟货币交易活动的风险提示」➍「国家发改委：不得新建500米以上超高层建筑」➎「浪尖的北京学区房 有房主连夜降价80万」➏「业绩下滑股价走低 中国平安真的被投资者抛弃了吗？」➐「首创集团原党委书记、董事长李爱庆涉嫌严重违纪违法被查」➑「陆正耀“神州系”商业王国崩塌 神州租车黯然退市」➒「格力“翻盘”无望 空调以外的业务与美的不在一个“段位”」➓「三年亏损超12亿元 瑞尔集团“急切”上市」https://finance.sina.com.cn/china/caijingtop10/2021-07-06/doc-ikqcfnca5324764.shtml]]></title>
-            <guid>2231041</guid>
-            <pubDate>Tue, 06 Jul 2021 13:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指开盘跌0.1%，标普500涨0.01%，纳指涨0.2%】滴滴跌24.1%，滴滴出行App因存在严重违规收集使用个人信息问题而被下架。Uber跌1.3%，Uber为滴滴的第二大股东。满帮跌18.2%，中国网络安全审查办公室宣布对公司旗下平台“运满满”和“货车帮”实施网络安全审查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5325430.d.html</link>
-            <guid>2231040</guid>
-            <pubDate>Tue, 06 Jul 2021 13:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上期所：上半年纸浆期货厂库仓单交割量9000吨】纸浆贸易商厂库业务交流座谈会近日在山东青岛召开。上期所相关负责人在会上表示，目前纸浆期货在山东、江苏、上海、浙江等地共有8家指定交割仓库，11个存放点，3家贸易商厂库，可交割品牌12个。2021年上半年纸浆期货交割32.07万吨，同比增加143.54%，交割金额21.85亿元，同比增加276.72%。其中厂库仓单交割量9000吨，占比仅为3%，后市仍然有较大的发展空间。 (上海证券报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3926292.d.html</link>
-            <guid>2231039</guid>
-            <pubDate>Tue, 06 Jul 2021 13:30:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微博：有关公司私有化的传言不实】中国领先的社交媒体微博公司（纳斯达克股票代码：WB）注意到路透社今天发表的一篇文章，称公司董事长曹国伟先生和一家国有投资方正在谈判将公司私有化。在回应公司询问时，曹国伟先生告知公司，上述信息是不真实的，他没有与任何人讨论过公司的私有化问题。]]></title>
-            <guid>2231037</guid>
-            <pubDate>Tue, 06 Jul 2021 13:29:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国10年期国债收益率创3月11日以来最低，报0.689%，当日下跌2个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5325119.d.html</link>
-            <guid>2231035</guid>
-            <pubDate>Tue, 06 Jul 2021 13:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【机构：OLED笔记本电脑和平板市场增长加速】据市调机构Omdia数据，OLED笔记本电脑市场的规模预计将从2019年的15万台增长到今年的148万台，到2022年将达257万台。与此同时，三星显示器正在提高OLED面板的产量，其OLED面板销量今年预计将增长五倍。OLED面板的加速渗透将催化对上游OLED材料的需求。 (证券时报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3925826.d.html</link>
-            <guid>2231032</guid>
-            <pubDate>Tue, 06 Jul 2021 13:26:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油跌破76美元/桶关口，报75.88美元/桶，日内跌幅达1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3925438.d.html</link>
-            <guid>2231028</guid>
-            <pubDate>Tue, 06 Jul 2021 13:23:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
