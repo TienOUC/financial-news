@@ -4,11 +4,195 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 08 Jul 2021 15:30:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jul 2021 16:40:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国小型信贷机构Carver(CARV.O)现大涨170%，早盘一度涨超250%，市值一举突破1亿美元。据分析，该股近期成为散户做空新目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5754241.d.html</link>
+            <guid>2234010</guid>
+            <pubDate>Thu, 08 Jul 2021 16:40:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：在第三季度航运旺季之前，美国集装箱进口量已创历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4355804.d.html</link>
+            <guid>2234009</guid>
+            <pubDate>Thu, 08 Jul 2021 16:40:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊(AMZN.O)短线拉升，日内转涨，早前亚马逊宣布与康卡斯特(CMCSA.O)达成影视版权授权协议。]]></title>
+            <guid>2234008</guid>
+            <pubDate>Thu, 08 Jul 2021 16:39:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货铂金涨破1080.00美元/盎司关口，最新报1080.02美元/盎司，日图跌0.81%；Nymex铂金期货主力最新报1074.2美元/盎司，日图跌0.71%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5753231.d.html</link>
+            <guid>2234006</guid>
+            <pubDate>Thu, 08 Jul 2021 16:28:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  华尔街资管公司科文：滴滴(DIDI.N)受到调查的事件进一步强化了我们的观点，即中美监管机构没有任何一方就上市公司审计方面有意作出妥协。在美上市中概股摘牌“不可避免”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5753049.d.html</link>
+            <guid>2234005</guid>
+            <pubDate>Thu, 08 Jul 2021 16:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院银行委员会主席布朗：美联储副主席一职将于10月更换。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5752522.d.html</link>
+            <guid>2234003</guid>
+            <pubDate>Thu, 08 Jul 2021 16:18:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰央行维持主要利率维持在0.10％不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4354111.d.html</link>
+            <guid>2234002</guid>
+            <pubDate>Thu, 08 Jul 2021 16:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会参议院银行业委员会主席：美联储理事、负责金融监管事务的副主席夸尔斯不会获得连任。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4353962.d.html</link>
+            <guid>2234001</guid>
+            <pubDate>Thu, 08 Jul 2021 16:15:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：洛杉矶在线会员杂货铺Thrive Markit考虑IPO，寻求获得超过20亿美元的估值。该公司正就此与高盛合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4353946.d.html</link>
+            <guid>2234000</guid>
+            <pubDate>Thu, 08 Jul 2021 16:15:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油期货站上74美元/桶，现涨0.80%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4353825.d.html</link>
+            <guid>2233998</guid>
+            <pubDate>Thu, 08 Jul 2021 16:13:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国公平竞争及市场管理局总裁Andrea Coscelli将在明年辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5752101.d.html</link>
+            <guid>2233997</guid>
+            <pubDate>Thu, 08 Jul 2021 16:12:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周四（7月8日）欧市尾盘，德国10年期国债收益率跌0.9个基点，报-0.307%，欧市盘初曾走软至-0.343%。法国10年期国债收益率涨0.5个基点，报0.042%，欧市早盘曾走软至0.001%。英国10年期国债收益率涨1.2个基点，报0.612%，欧市早盘曾走软至0.547%。意大利10年期国债收益率涨2.2个基点，报0.763%。西班牙10年期国债收益率涨1.8个基点，报0.348%。希腊10年期国债收益率涨1.8个基点，报0.766%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5751773.d.html</link>
+            <guid>2233996</guid>
+            <pubDate>Thu, 08 Jul 2021 16:08:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  纽蒙特矿业(NEM.N)：预计本财年归属本公司黄金产量为650万盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5751708.d.html</link>
+            <guid>2233995</guid>
+            <pubDate>Thu, 08 Jul 2021 16:07:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周四（7月8日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）涨0.19%，报52.66欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4353059.d.html</link>
+            <guid>2233994</guid>
+            <pubDate>Thu, 08 Jul 2021 16:04:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国银行：恢复债务上限将可能加剧美元资金市场的失衡状况】美国银行策略师Mark Cabana在报告中称，即将恢复的债务上限将使美元资金市场流动性宽松状况在未来几个月更加严重。债务上限产生的近期影响主要是，财政部减少现金余额导致准备金增多，以及削减短期国库券发行。减少国库券发行可能会进一步推动短期国库券收益率低于美联储隔夜逆回购工具0.05%的收益率水平，尽管不太可能低2-3个基点。美国银行预计到11月初至中旬有技术性违约风险，但预计债务上限问题将在9月底或10月得到解决，届时将需要新的预算决议，而且民主党将推进其基础设施方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5750884.d.html</link>
+            <guid>2233993</guid>
+            <pubDate>Thu, 08 Jul 2021 15:59:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[部分WSB概念股拉升，维珍银河(SPCE.N)涨10%，AMC院线(AMC.N)涨近5%，高斯电子(KOSS.O)涨2.5%。]]></title>
+            <guid>2233992</guid>
+            <pubDate>Thu, 08 Jul 2021 15:58:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【出狱！徐翔家人：“通知了，明天去接”】7月8日下午，徐翔的妻子应莹确认：徐翔将于明日出狱，家人已经收到通知，会安排去接。（凤凰网财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5750838.d.html</link>
+            <guid>2233991</guid>
+            <pubDate>Thu, 08 Jul 2021 15:58:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：环球影视电影在康卡斯特(CMCSA.O)旗下流媒体平台Peacock上播出后，将在亚马逊(AMZN.O)Prime上线。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4352426.d.html</link>
+            <guid>2233990</guid>
+            <pubDate>Thu, 08 Jul 2021 15:55:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：亚马逊(AMZN.O)与康卡斯特(CMCSA.O)达成电影版权授权协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4352230.d.html</link>
+            <guid>2233989</guid>
+            <pubDate>Thu, 08 Jul 2021 15:51:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：假体和矫形器制造商Ottobock据悉正为2022年进行大规模IPO聘请顾问。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5750391.d.html</link>
+            <guid>2233978</guid>
+            <pubDate>Thu, 08 Jul 2021 15:48:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【浙江发布数字化改革标准化体系建设方案，将于2025年底建成】7月8日，《浙江省数字化改革标准化体系建设方案(2021-2025年)》正式印发。方案提出，到2021年底，浙江将初步建立支撑一体化智能化公共数据平台标准体系，在术语定义、方法标准、编码标准等方面率先形成一批广域通用标准；到2022年底，党政机关整体智治、数字政府、数字经济、数字社会、数字法治五大系统标准体系基本建成；到2025年底，全面建成系统集成、实用高效的标准体系，标准在数字化改革领域广泛实施。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4351943.d.html</link>
+            <guid>2233972</guid>
+            <pubDate>Thu, 08 Jul 2021 15:46:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股三大股指均收窄跌幅，道指跌0.76%，标普500指数跌0.9%，纳指跌1.05%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4351767.d.html</link>
+            <guid>2233962</guid>
+            <pubDate>Thu, 08 Jul 2021 15:42:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【欧洲三大股指大幅收跌】欧洲三大股指大幅收跌，德国DAX指数跌1.73%报15420.64点，创一个多月以来新低；法国CAC40指数跌2.01%报6396.73点，英国富时100指数跌1.68%报7030.66点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5750010.d.html</link>
+            <guid>2233961</guid>
+            <pubDate>Thu, 08 Jul 2021 15:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油期货短线走高0.3美元，现分别报72.56美元/桶和73.76美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5749832.d.html</link>
+            <guid>2233957</guid>
+            <pubDate>Thu, 08 Jul 2021 15:38:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在岸人民币兑美元（CNY）北京时间23:30收报6.4910元，较周三夜盘收盘跌198点。成交量397.43亿美元，较周三增加49.59亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5749776.d.html</link>
+            <guid>2233955</guid>
+            <pubDate>Thu, 08 Jul 2021 15:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国佛罗里达州住宅楼倒塌事故死亡人数升至60人】美国佛罗里达州迈阿密-戴德县县长达丹妮拉·莱雯·卡瓦(Daniella Levine Cava)当地时间7月8日宣布，佛罗里达州住宅楼倒塌事故的死亡人数已上升到60人，仍有80人下落不明；搜救团队8日正式停止搜救工作，过渡为废墟恢复工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4351429.d.html</link>
+            <guid>2233954</guid>
+            <pubDate>Thu, 08 Jul 2021 15:37:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖八周期国债，得标利率0.045%，投标倍数4.15。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5749728.d.html</link>
+            <guid>2233952</guid>
+            <pubDate>Thu, 08 Jul 2021 15:37:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖四周期国债，得标利率0.050%，投标倍数3.37。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4351169.d.html</link>
+            <guid>2233947</guid>
+            <pubDate>Thu, 08 Jul 2021 15:33:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国财政部自2020年以来首次削减国库券招标规模】在7月底可能触及债务上限前，为了缩减现金余额，美国财政部一年多来首次下调国库券发行规模。7月12日财政部计划出售540亿美元的3个月期国库券、510亿美元6个月期国库券，7月13日发行350亿美元的42天期现金管理票据。将52周国库券拍卖规模维持在340亿美元不变，3个月和6个月期国库券的发行规模都缩小了30亿美元，现金管理票据发行规模缩小了50亿美元。预计下调国库券发行规模的速度会在7月加快，因为财政部计划将现金余额控制到4500亿美元。财政部今年迄今累计兑付超过7000亿美元国库券。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5749511.d.html</link>
+            <guid>2233946</guid>
+            <pubDate>Thu, 08 Jul 2021 15:33:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收跌1.94%，报450.61点。德国DAX 30指数初步收跌2.03%，报15375.06点。法国股指初步收跌2.30%，英国股指初步收跌1.92%，意大利股指初步收跌2.77%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4351118.d.html</link>
+            <guid>2233945</guid>
+            <pubDate>Thu, 08 Jul 2021 15:32:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币兑美元刷新日低至6.5001元，日内当前跌幅超过240点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4351099.d.html</link>
+            <guid>2233944</guid>
+            <pubDate>Thu, 08 Jul 2021 15:32:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【李强：更加有力发挥人工智能的“头雁效应”】2021世界人工智能大会今天上午在上海世博中心开幕。上海市委书记李强在开幕式上致辞时指出，要更加有力发挥人工智能的“头雁效应”，把人工智能作为全面推进城市数字化转型的重要驱动力，在打造智能经济、创造智享生活、塑造智慧治理上迈出更大步伐，加快建设更具国际影响力的人工智能“上海高地”，努力成为全球人工智能发展的最佳试验场和重要风向标，让智能时代的美好图景在上海这座城市得到充分演绎和生动展现。（看看新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5749353.d.html</link>
@@ -359,208 +543,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4344878.d.html</link>
             <guid>2233786</guid>
             <pubDate>Thu, 08 Jul 2021 14:19:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【科创板上市委：华之杰首发7月15日上会】科创板上市委公告，苏州华之杰电讯股份有限公司首发7月15日上会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5742961.d.html</link>
-            <guid>2233778</guid>
-            <pubDate>Thu, 08 Jul 2021 14:15:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥政策委员会：大多数委员担心美国通胀预期上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4344575.d.html</link>
-            <guid>2233777</guid>
-            <pubDate>Thu, 08 Jul 2021 14:15:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班代表团成员表示，塔利班政治局代表团已抵达莫斯科参加谈判，将进行为期2日的访问。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5742877.d.html</link>
-            <guid>2233772</guid>
-            <pubDate>Thu, 08 Jul 2021 14:14:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美银证券：将美国运通(AXP.N)目标价上调至140美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4344499.d.html</link>
-            <guid>2233771</guid>
-            <pubDate>Thu, 08 Jul 2021 14:14:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元跌幅扩大至1%，刷新6月11日以来低点至109.52，较日高回落115点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4344411.d.html</link>
-            <guid>2233770</guid>
-            <pubDate>Thu, 08 Jul 2021 14:13:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油短线回弹0.6美元，现分别报72.08美元/桶和73.36美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5742221.d.html</link>
-            <guid>2233759</guid>
-            <pubDate>Thu, 08 Jul 2021 14:09:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股抗疫概念板块拉升，Inovio制药(INO.O)涨5%，Vaxart(VXRT.O)涨4.5%，Ocugen(OCGN.O)、诺瓦瓦克斯医药(NVAX.O)涨约3.5%，Moderna(MRNA.O)涨3%。]]></title>
-            <guid>2233753</guid>
-            <pubDate>Thu, 08 Jul 2021 14:07:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【王晶：中国将构建安全可靠有弹性、有韧性的天然气供应链体系】国际能源署《天然气分析及展望2021-2024》报告发布会在京召开。国家能源局石油天然气司副司长王晶在会上指出，天然气将在全球和中国能源绿色低碳转型中发挥重要的作用，未来中国将继续坚持产供储销的协同发力，大力提升勘探开发力度，加快完善基础设施的布局，加快储气设施的建设，推动市场化改革，努力构建安全可靠有弹性、有韧性的天然气产业链、供应链的体系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4343653.d.html</link>
-            <guid>2233752</guid>
-            <pubDate>Thu, 08 Jul 2021 14:07:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：IBM(IBM.N)将收购一家混合云咨询公司BoxBoat Technologies。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4342970.d.html</link>
-            <guid>2233741</guid>
-            <pubDate>Thu, 08 Jul 2021 14:02:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国抵押贷款利率跌至2.9%，为2月以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4342960.d.html</link>
-            <guid>2233740</guid>
-            <pubDate>Thu, 08 Jul 2021 14:01:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：07月08日21时51分在新疆阿克苏地区沙雅县发生3.1级地震，震源深度18千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4342926.d.html</link>
-            <guid>2233739</guid>
-            <pubDate>Thu, 08 Jul 2021 14:01:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Truist：将英伟达目标价上调至910美元 维持买入评级】Truist分析师William Stein将英伟达(NVDA.O)的目标价从768美元上调至910美元，并维持买入评级。该分析师引用了其为数据中心趋势提供的专有数据点，表示数据显示市场需求正在上升，终端市场应该“继续快速增长”。 Stein将英伟达2022年每股收益的预期从17.08美元上调至18.13美元，并继续认为英伟达是人工智能计算领域的领导者，能够实现结构性增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5740939.d.html</link>
-            <guid>2233736</guid>
-            <pubDate>Thu, 08 Jul 2021 13:58:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：英国与挪威、冰岛、列支敦士登签署自由贸易协定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4342325.d.html</link>
-            <guid>2233735</guid>
-            <pubDate>Thu, 08 Jul 2021 13:55:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据塔斯社：俄罗斯总统普京取消2015年禁止包机前往埃及的法令。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4341887.d.html</link>
-            <guid>2233729</guid>
-            <pubDate>Thu, 08 Jul 2021 13:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  罗素2000小盘股指数跌3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4341869.d.html</link>
-            <guid>2233728</guid>
-            <pubDate>Thu, 08 Jul 2021 13:50:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纳指跌幅扩大至2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4341810.d.html</link>
-            <guid>2233727</guid>
-            <pubDate>Thu, 08 Jul 2021 13:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【南威软件：拟与清华大学联合成立清华-南威联研中心】南威软件公告，同意公司与清华大学联合成立“清华大学-南威软件股份有限公司数字治理信息技术联合研究中心”(“清华-南威联研中心”)，公司累计研发投入总额为5000万元，投资期限5年。公司董事会将授权经营管理层签订相关协议，目前协议尚未正式签订。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5739964.d.html</link>
-            <guid>2233726</guid>
-            <pubDate>Thu, 08 Jul 2021 13:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳发布公积金新规：其他住房消费提取须在深有房】 深圳市公积金中心发布《关于进一步规范我市住房公积金缴存提取等业务管理有关事项的通知》。为进一步规范其他住房消费提取行为，此次新规明确职工需在本市范围内有住房（含商品住房、政策性住房或保障性住房）的前提条件，提取额度和提取方式都不作调整。职工无需提供相关房产证明材料，由深圳市公积金中心通过政务数据信息共享对职工本人或其家庭成员的本市房产信息进行自动核查，核查通过的即可办理其他住房消费提取。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5739699.d.html</link>
-            <guid>2233725</guid>
-            <pubDate>Thu, 08 Jul 2021 13:46:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概在线教育股跌幅居前，好未来(TAL.N)跌9%，有道(DAO.N)跌近6%，高途(GOTU.N)、哔哩哔哩(BILI.O)均跌近5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5739681.d.html</link>
-            <guid>2233724</guid>
-            <pubDate>Thu, 08 Jul 2021 13:46:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油期货短线走低0.6美元，先分别报71.5美元/桶辉瑞72.88美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5739322.d.html</link>
-            <guid>2233723</guid>
-            <pubDate>Thu, 08 Jul 2021 13:43:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  阿里巴巴(BABA.N)跌近4%，股价自去年6月以来首次跌破200美元关口。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5739248.d.html</link>
-            <guid>2233722</guid>
-            <pubDate>Thu, 08 Jul 2021 13:42:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股大型科技股齐跌，Facebook(FB.O)跌1.6%，谷歌A(GOOGL.O)跌1.5%，亚马逊(AMZN.O)跌1.2%，苹果(AAPL.O)跌1%，微软(MSFT.O)、奈飞(NFLX.O)跌约0.5%。]]></title>
-            <guid>2233721</guid>
-            <pubDate>Thu, 08 Jul 2021 13:40:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线走低0.13美元，现报26.02美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5738857.d.html</link>
-            <guid>2233719</guid>
-            <pubDate>Thu, 08 Jul 2021 13:40:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概股多数延续昨日跌势，陆金所(LU.N)跌超15%，新东方(EDU.N)跌超10%，富途控股(FUTU.O)、滴滴(DIDI.N)均跌超7%，蔚来汽车(NIO.N)、小鹏汽车(XPEV.N)均跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5738815.d.html</link>
-            <guid>2233718</guid>
-            <pubDate>Thu, 08 Jul 2021 13:39:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【创业板上市委：趣睡科技等3家公司首发7月15日上会】创业板上市委员会定于7月15日召开2021年第39次上市委员会审议会议，审核成都趣睡科技股份有限公司、浙江雅艺金属科技股份有限公司、厦门唯科模塑科技股份有限公司的首发事项。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4340488.d.html</link>
-            <guid>2233717</guid>
-            <pubDate>Thu, 08 Jul 2021 13:39:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线走低6美元，现报1810.59美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4340328.d.html</link>
-            <guid>2233716</guid>
-            <pubDate>Thu, 08 Jul 2021 13:37:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【OLED驱动芯片短缺加剧 二季度价格又涨20%】全球缺芯潮蔓延至各个领域，OLED驱动芯片也逐渐呈现短缺迹象。继第一季度的价格上涨之后，第二季度又上涨了20%。OLED驱动芯片制造工艺复杂，且每个OLED驱动芯片都需要定制，芯片代工厂无法大规模量产。国内OLED驱动芯片市场将出现巨大需求缺口，国内企业有望迎来巨大成长空间。 (证券时报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4340294.d.html</link>
-            <guid>2233715</guid>
-            <pubDate>Thu, 08 Jul 2021 13:37:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Overstock.com(OSTK.O)涨2.84%，此前获投行Needham给予买入评级，称其营收和利润率都有上升潜力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5738542.d.html</link>
-            <guid>2233714</guid>
-            <pubDate>Thu, 08 Jul 2021 13:36:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在线游戏企业解决方案公司GAN(GAN.O)涨10.3%，公司将全年收入指引提高至 1.25 亿至 1.35 亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4340137.d.html</link>
-            <guid>2233713</guid>
-            <pubDate>Thu, 08 Jul 2021 13:36:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股盘初，科技股普跌，推特跌超3%，美光科技跌2.6%，英伟达跌2.5%，特斯拉跌超2%，Facebook跌近2%，谷歌A跌1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4340069.d.html</link>
-            <guid>2233712</guid>
-            <pubDate>Thu, 08 Jul 2021 13:35:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拉加德：绿色经济是否会推高价格尚未有定论】欧洲央行行长拉加德表示，我认为目前尚未有结论说明绿色经济是否会推高价格，至少就目前而言，欧洲央行尚未就这一主张的任何一方得出结论。她表示，虽然有些人认为绿色转型将推高价格，但其他人认为较低的能源成本和第二轮通胀效应实际上将抑制价格上涨。目前，我们的情况可能属于后者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4340031.d.html</link>
-            <guid>2233711</guid>
-            <pubDate>Thu, 08 Jul 2021 13:35:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：摩根士丹利(MS.N)供应商报告数据泄露。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4340018.d.html</link>
-            <guid>2233710</guid>
-            <pubDate>Thu, 08 Jul 2021 13:35:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  恐慌指数VIX跌超20%，报19.5。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5738196.d.html</link>
-            <guid>2233709</guid>
-            <pubDate>Thu, 08 Jul 2021 13:34:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小鹏汽车跌超6.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5738090.d.html</link>
-            <guid>2233708</guid>
-            <pubDate>Thu, 08 Jul 2021 13:32:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
