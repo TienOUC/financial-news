@@ -4,11 +4,76 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 08 Jul 2021 17:30:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jul 2021 18:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ 基金分析公司理柏（Lipper）：预计市政债基金本周资金流入23亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4364108.d.html</link>
+            <guid>2234046</guid>
+            <pubDate>Thu, 08 Jul 2021 18:21:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：预计美国投资级基金本周资金流入40亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4363389.d.html</link>
+            <guid>2234045</guid>
+            <pubDate>Thu, 08 Jul 2021 18:09:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：预计美国高收益基金本周资金流入7.28亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5761763.d.html</link>
+            <guid>2234044</guid>
+            <pubDate>Thu, 08 Jul 2021 18:09:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行据悉目前暂时搁置拟定政策指引纲要的提议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4363347.d.html</link>
+            <guid>2234043</guid>
+            <pubDate>Thu, 08 Jul 2021 18:09:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰安全局捣毁大型加密货币矿场】据U.today，乌克兰国家安全局周四宣布，在文尼察市发现了该国迄今为止最大的非法采矿设施。该矿场窃取的电力足以导致多个城市地区停电。根据初步估计，每周导致的损失金额可能达到700万格里夫纳（约合25.65万美元）。调查显示，该矿场由基辅和文尼察市的矿工建立，他们篡改电表数据以掩盖其非法活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5761740.d.html</link>
+            <guid>2234042</guid>
+            <pubDate>Thu, 08 Jul 2021 18:08:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美债市场长期通胀预期指标跌至3月以来最低水平】 受通胀预期普遍下滑影响，长期美债收益率本周螺旋式下降。反映未来30年通胀预期的30年期盈亏平衡通胀率跌至2.18%一线，创3月以来最低水平，5月时该利率最高曾达2.41%，投资者不太愿意持有押注通货再膨胀的资产。事实上，所有期限的盈亏平衡通胀率都比上周有所下降。直到前不久，各个资产类别的投资者都一直关注通胀问题。而现在从股市到大宗商品，通胀担忧都在褪去，最明显的是美国国债市场。30年期国债收益率自2月以来首次跌破1.90%，即使美联储会议纪要发布后 ，收益率也没有离开该低位。10年期国债收益率徘徊在1.3%以下，比3月峰值1.77%低约0.5个百分点，也低于上周末的1.42%。10年期实际收益率从上周末的-0.93%跌至约-0.96%。]]></title>
+            <guid>2234041</guid>
+            <pubDate>Thu, 08 Jul 2021 18:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 8月黄金期货收跌0.1%，结束之前连续五个交易日上涨的趋势，报1800.20美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5760578.d.html</link>
+            <guid>2234039</guid>
+            <pubDate>Thu, 08 Jul 2021 17:55:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moderna(MRNA.O)盘中持续走高，涨幅扩大至5%，刷新日高至232.8美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5760486.d.html</link>
+            <guid>2234038</guid>
+            <pubDate>Thu, 08 Jul 2021 17:54:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gores Guggenheim(GGPI.N)短线走高，现涨近7%，此前有消息称极星将与该公司进行合并上市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4360633.d.html</link>
+            <guid>2234037</guid>
+            <pubDate>Thu, 08 Jul 2021 17:35:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至目前，A股市场已有800多家公司发布上半年业绩预告，其中，热景生物以超过800倍的预增幅度成为目前的“预增王”，江苏索普则成为预增榜亚军。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4360605.d.html</link>
+            <guid>2234036</guid>
+            <pubDate>Thu, 08 Jul 2021 17:35:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[汇丰证券：将腾讯音乐(TME.N)目标价从26美元下调至22美元，维持买入评级。公司短期内仍面临短视频的竞争，全民K歌目前在为吸引年轻用户进行社交功能的升级有可能在短期内对营收造成影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4360213.d.html</link>
+            <guid>2234035</guid>
+            <pubDate>Thu, 08 Jul 2021 17:31:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据悉，沃尔沃控股的电动汽车生产商Polestar洽谈与Gores Guggenheim特殊目的收购公司（SPAC）合并。]]></title>
             <guid>2234034</guid>
@@ -469,71 +534,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4349339.d.html</link>
             <guid>2233882</guid>
             <pubDate>Thu, 08 Jul 2021 15:07:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国中西部原油库存跌幅录得2019年9月以来的最大值。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4349221.d.html</link>
-            <guid>2233877</guid>
-            <pubDate>Thu, 08 Jul 2021 15:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百亿私募集中关注15家上市公司 扎堆调研迈瑞医疗等】2021年上半年，2503家私募机构调研了1107家上市公司。最受私募关注的上市公司是迈瑞医疗、传音控股、海康威视，分别有443、353、302家投资机构调研。上半年私募调研最关注行业为：工业机械、电子元件、电气部件与设备、医药等行业。最受关注的是迈瑞医疗，有10家百亿私募调研；澜起科技紧随其后，有9家百亿私募调研。此外，上半年，传音控股、天赐材料各有7家百亿私募调研。]]></title>
-            <guid>2233874</guid>
-            <pubDate>Thu, 08 Jul 2021 15:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党众议员Warren询问美国证交会主席根斯勒有关加密货币交易所风险的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5747360.d.html</link>
-            <guid>2233870</guid>
-            <pubDate>Thu, 08 Jul 2021 15:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国报告新增32551例新冠肺炎确诊病例，新增35例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4348851.d.html</link>
-            <guid>2233868</guid>
-            <pubDate>Thu, 08 Jul 2021 15:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金再度回落至1800美元下方，日内跌幅达0.14%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4348781.d.html</link>
-            <guid>2233865</guid>
-            <pubDate>Thu, 08 Jul 2021 15:02:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油期货短线上扬0.3美元，分别报72.07美元/桶和73.38美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5747160.d.html</link>
-            <guid>2233864</guid>
-            <pubDate>Thu, 08 Jul 2021 15:01:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD短线下挫近20点，现报1.3775，跌0.23%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5747140.d.html</link>
-            <guid>2233863</guid>
-            <pubDate>Thu, 08 Jul 2021 15:01:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国原油产品四周平均供应量为2094.3万桶/日，较去年同期增加17.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5747119.d.html</link>
-            <guid>2233862</guid>
-            <pubDate>Thu, 08 Jul 2021 15:01:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：除却战略储备的商业原油上周进口587.5万桶/日，较前一周减少53.1万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5747106.d.html</link>
-            <guid>2233861</guid>
-            <pubDate>Thu, 08 Jul 2021 15:01:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：上周美国国内原油产量增加20万桶至1130万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5747094.d.html</link>
-            <guid>2233860</guid>
-            <pubDate>Thu, 08 Jul 2021 15:00:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：除却战略储备的商业原油库存减少686.6万桶至4.455亿桶，减少1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5747083.d.html</link>
-            <guid>2233859</guid>
-            <pubDate>Thu, 08 Jul 2021 15:00:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
