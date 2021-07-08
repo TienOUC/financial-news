@@ -4,11 +4,77 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 08 Jul 2021 18:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jul 2021 19:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国共和党参议员图米在提倡减少监管后投资了加密货币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5764921.d.html</link>
+            <guid>2234058</guid>
+            <pubDate>Thu, 08 Jul 2021 19:12:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国5月消费信贷(亿美元)：前值 186.12，预期 184，公布 352.81。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5764415.d.html</link>
+            <guid>2234057</guid>
+            <pubDate>Thu, 08 Jul 2021 19:01:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国新增新冠肺炎确诊32551例，累计确诊5022893例】当地时间7月8日，英国卫生和社会保障部公布最新数据显示，过去24小时英国新增新冠肺炎确诊病例32551例，累计确诊5022893例；新增死亡病例35例，目前累计死亡128336例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5764342.d.html</link>
+            <guid>2234056</guid>
+            <pubDate>Thu, 08 Jul 2021 19:00:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花旗：美元应会走强 但未来一年只会温和上涨】花旗认为美元应该会走强，但在未来一年只会温和上涨。美联储料将在欧洲央行和日本央行之前减少刺激措施，但由于美联储在紧缩政策和经济增长势头指标方面预计仍落后于许多其他央行，美元不太可能大幅升值。“加拿大央行、挪威央行和新西兰联储预计都将先于美联储加息，澳洲联储和英国央行也有可能决定尽快恢复正常。”预计未来6至12个月，美元指数DXY将升至93.28。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5764227.d.html</link>
+            <guid>2234055</guid>
+            <pubDate>Thu, 08 Jul 2021 18:58:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 8月原油期货收涨0.74美元，涨幅1.02%，报72.94美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5763769.d.html</link>
+            <guid>2234054</guid>
+            <pubDate>Thu, 08 Jul 2021 18:48:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：一架载有9人的飞机在瑞典厄勒布鲁郊外起飞后坠毁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4365077.d.html</link>
+            <guid>2234052</guid>
+            <pubDate>Thu, 08 Jul 2021 18:41:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海原油期货主力合约夜盘收跌0.41%，报441.7元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4364607.d.html</link>
+            <guid>2234051</guid>
+            <pubDate>Thu, 08 Jul 2021 18:31:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交易所收盘】上海黄金交易所黄金T+D 7月9日（周五）晚盘收盘下跌0.13%报374.8元/克；上海黄金交易所白银T+D 7月9日（周五）晚盘收盘下跌0.28%报5366.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4364598.d.html</link>
+            <guid>2234050</guid>
+            <pubDate>Thu, 08 Jul 2021 18:31:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油期货涨超1%，现报74.16美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5762941.d.html</link>
+            <guid>2234049</guid>
+            <pubDate>Thu, 08 Jul 2021 18:30:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货涨超1%，现报72.94美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4364584.d.html</link>
+            <guid>2234048</guid>
+            <pubDate>Thu, 08 Jul 2021 18:30:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲央行本周暂时搁置拟定政策指引纲要的提议】据熟悉本周会议辩论的官员透露，政策制定者拒绝了一项建议，即在通胀目标改变后，阐明他们可能在何时、何种情况下准备收紧货币政策。在欧洲央行关于未来利率和资产购买的指引中，有几个部分是与将通胀提升到该行现已经过时的略低于2%的目标有关。在7月22日的政策会议上，这一措辞将需要改变，以反映新的2%的通胀目标和一种可能使物价暂时更快增长的战略。理事会成员在完成策略评估时收到了该项建议。欧洲央行官员表示，由于担心这样的声明会转移人们对评估结果的注意力，这个想法很快就被搁置了。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5762918.d.html</link>
+            <guid>2234047</guid>
+            <pubDate>Thu, 08 Jul 2021 18:30:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ 基金分析公司理柏（Lipper）：预计市政债基金本周资金流入23亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4364108.d.html</link>
@@ -469,71 +535,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5748448.d.html</link>
             <guid>2233906</guid>
             <pubDate>Thu, 08 Jul 2021 15:17:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线下挫4美元，报1794.38美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5748423.d.html</link>
-            <guid>2233905</guid>
-            <pubDate>Thu, 08 Jul 2021 15:16:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  汽车制造商Stellantis(STLA.N)高管：Abarth将在2024年成为集团内第一个转型为全电动的品牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4349930.d.html</link>
-            <guid>2233904</guid>
-            <pubDate>Thu, 08 Jul 2021 15:15:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股白银股持续下挫，First Majestic(AG.N)跌4.5%，Endeavour Silver(EXK.N)跌4.5%，迈力达电子(MAG.A)跌4%，泛美白银(PAAS.O)跌2.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5748267.d.html</link>
-            <guid>2233901</guid>
-            <pubDate>Thu, 08 Jul 2021 15:14:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银跌逾1%，刷新6月30日以来低点至25.86美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4349807.d.html</link>
-            <guid>2233897</guid>
-            <pubDate>Thu, 08 Jul 2021 15:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[螺纹期货夜盘收跌1.20%，热卷收跌0.88%；铁矿石期货收跌2.65%。焦炭夜盘收跌1.99%，焦煤收跌2.29%，动力煤收涨0.24%。橡胶夜盘收涨0.11%，沥青收跌0.47%。豆粕夜盘收涨0.34%，菜粕收跌0.23%。郑棉夜盘收跌0.61%。]]></title>
-            <guid>2233896</guid>
-            <pubDate>Thu, 08 Jul 2021 15:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国财政部压缩债券拍卖规模，为2020年以来首次】美国财政部将发行350亿美元41天现金管理票据。将发行540亿美元三个月期国库券，将发行510亿美元六个月期国库券。将发行340亿美元52周期债券，将发行580亿美元三年期国债，将发行380亿美元10年期国债，将发行240亿美元30年期国债。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4349679.d.html</link>
-            <guid>2233891</guid>
-            <pubDate>Thu, 08 Jul 2021 15:11:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油期货短线走高0.6美元，分别报72.18美元/桶和73.48美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5747906.d.html</link>
-            <guid>2233888</guid>
-            <pubDate>Thu, 08 Jul 2021 15:09:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【富国银行将在未来几周关闭所有现有的个人信贷额度】据悉，富国银行(WFC.N)将终止提供一种热门的消费者贷款产品，并在未来几周关闭所有现有的个人信贷额度。这种循环信贷额度通常允许用户借款3000至10万美元，一般用于合并高息信用卡债务、支付房屋装修费用或避免关联支票账户透支费用。富国银行表示，最近对该产品进行了评估，决定停止提供新的个人和投资组合信贷账户额度，并关闭所有现有账户。此举将使该行专注于信用卡和个人贷款业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqcfnca5747874.d.html</link>
-            <guid>2233887</guid>
-            <pubDate>Thu, 08 Jul 2021 15:09:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国墨西哥湾原油库存上周跌至2020年3月以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4349440.d.html</link>
-            <guid>2233886</guid>
-            <pubDate>Thu, 08 Jul 2021 15:09:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国俄克拉荷马州库欣原油库存跌至2020年3月以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4349418.d.html</link>
-            <guid>2233885</guid>
-            <pubDate>Thu, 08 Jul 2021 15:08:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：上周美国EIA汽油供应达到1000万桶/日，创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-08/detail-ikqciyzk4349339.d.html</link>
-            <guid>2233882</guid>
-            <pubDate>Thu, 08 Jul 2021 15:07:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
