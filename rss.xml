@@ -4,11 +4,101 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 09 Jul 2021 16:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jul 2021 17:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[国际铜夜盘收涨1.70%，沪铜收涨1.57%，沪铝收涨1.28%，沪锌收涨1.03%，沪铅收涨1.24%，沪镍收涨1.58%，沪锡收涨1.09%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4564440.d.html</link>
+            <guid>2235106</guid>
+            <pubDate>Fri, 09 Jul 2021 17:21:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储在固定利率逆回购中接纳了7806亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4563996.d.html</link>
+            <guid>2235104</guid>
+            <pubDate>Fri, 09 Jul 2021 17:16:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国报告新增4580例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5961816.d.html</link>
+            <guid>2235103</guid>
+            <pubDate>Fri, 09 Jul 2021 17:16:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：北溪2号项目将成为总统拜登和德国总理默克尔会谈的议题之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5960865.d.html</link>
+            <guid>2235102</guid>
+            <pubDate>Fri, 09 Jul 2021 17:05:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非7月9日新增22443例新冠肺炎确诊病例，累计达2157687例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4562964.d.html</link>
+            <guid>2235101</guid>
+            <pubDate>Fri, 09 Jul 2021 17:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至7月9日当周总钻井总数(口)公布 479，前值 475，预期 478。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5960422.d.html</link>
+            <guid>2235100</guid>
+            <pubDate>Fri, 09 Jul 2021 17:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至7月9日当周天然气钻井总数(口)公布 101，前值 99，预期 100。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5960395.d.html</link>
+            <guid>2235099</guid>
+            <pubDate>Fri, 09 Jul 2021 17:01:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至7月9日当周石油钻井总数(口)公布 378，前值 376，预期 380。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5960374.d.html</link>
+            <guid>2235098</guid>
+            <pubDate>Fri, 09 Jul 2021 17:01:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国食品药品管理局（FDA）高管Woodcock呼吁调查FDA在阿尔兹海默症药品方面的审批。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4562292.d.html</link>
+            <guid>2235097</guid>
+            <pubDate>Fri, 09 Jul 2021 16:58:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：总统拜登将于7月15日在白宫迎接德国总理默克尔。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5960072.d.html</link>
+            <guid>2235096</guid>
+            <pubDate>Fri, 09 Jul 2021 16:57:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：总统拜登将在下周四讨论经济刺激和减税政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4562156.d.html</link>
+            <guid>2235095</guid>
+            <pubDate>Fri, 09 Jul 2021 16:56:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：总统拜登与俄罗斯总统普京周五进行了通话，谈及了勒索软件攻击。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4561998.d.html</link>
+            <guid>2235092</guid>
+            <pubDate>Fri, 09 Jul 2021 16:54:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[滴滴出行：滴滴诚恳接受并坚决服从相关主管部门的要求，严格按照法律规定，参照国家有关标准，深入排查、认真整改存在的所有问题，切实保障广大用户个人信息安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4561225.d.html</link>
+            <guid>2235091</guid>
+            <pubDate>Fri, 09 Jul 2021 16:45:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【分析师：美债周末前抛盘料暂歇，周一跌势将卷土重来】周五美债市场异常安静，周末前夕的市场似乎缺乏动能，对冲基金解除部分空头头寸。投资者应该为周一抛盘的卷土重来做好心理准备 。市场人士不想在周末前轻举妄动，因为几天来与中国有关的大新闻层出不穷。此前普遍预期财政部将进行的1200亿美元息票债券发行以及期待已久的修正行情将令今天债市承压。但今日的抛盘不足以盖过宽松政策的影响。对冲基金对本周建立的10年和30年期债券空头仓位进行了获利了结，债券价格在盘中低点附近盘整。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5958936.d.html</link>
+            <guid>2235090</guid>
+            <pubDate>Fri, 09 Jul 2021 16:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首次开罚单：科创板网下打新乱报价，6家机构被处罚】7月9日晚间，上交所官网发布消息，对上海嘉恳资产管理有限公司、上海赫富投资有限公司、上海银叶投资有限公司、上海千象资产管理有限公司、上海玖鹏资产管理中心（有限合伙）、上海乘安资产管理有限公司等6家机构采取监管措施，予以监管警示。近期，上交所有针对性地开展了网下询价合规情况专项现场检查工作。根据检查结果，被罚的家等上述报价机构在参与科创板新股网下询价过程中，存在询价决策流程不规范、报价结果缺少研究支持与合理解释、内控制度和业务操作流程不完善等违反交易所业务规则与相关行业规范的行为。据悉，监管部门对于询价机制如何进一步优化完善也在做进一步的研究。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5958917.d.html</link>
+            <guid>2235089</guid>
+            <pubDate>Fri, 09 Jul 2021 16:44:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[法国央行行长维勒鲁瓦：预算政策需要新的规则，这些规则既不能放弃稳定公约的原则，也不能拘泥于旧的模式。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5957634.d.html</link>
@@ -461,95 +551,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5943745.d.html</link>
             <guid>2235004</guid>
             <pubDate>Fri, 09 Jul 2021 14:06:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华峰化学：半年度净利预增441%-486%】华峰化学(002064)7月9日晚间发布业绩预告，预计2021年半年度净利36亿元-39亿元，同比增长441.31%-486.42%。报告期内，行业下游需求复苏，景气度持续上升，公司主导产品产销量、销售价格较上年同期均有较大幅度的增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4545983.d.html</link>
-            <guid>2235003</guid>
-            <pubDate>Fri, 09 Jul 2021 14:05:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  菜籽油期货触及加拿大交易所涨停限制，刷新盘中历史高位至844加元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5943353.d.html</link>
-            <guid>2235001</guid>
-            <pubDate>Fri, 09 Jul 2021 14:03:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油期货日内涨幅达2%，现报74.40美元/桶，布伦特原油期货涨幅达1.65%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4545740.d.html</link>
-            <guid>2235000</guid>
-            <pubDate>Fri, 09 Jul 2021 14:02:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【紫光集团回应：下属公司各项生产经营活动均正常开展】7月9日，紫光集团方面向e公司记者表示，集团将依法全面配合法院进行司法审查，积极推进债务风险化解工作，支持法院依法维护债权人合法权益。目前紫光集团在行业中处于领先地位，竞争优势明显、创新研发能力强劲。被债权人申请重整未对集团下属公司日常生产经营造成直接影响，各项生产经营活动均正常开展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5942953.d.html</link>
-            <guid>2234999</guid>
-            <pubDate>Fri, 09 Jul 2021 14:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  G20可能会针对应对气候变化问题承认碳价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5942851.d.html</link>
-            <guid>2234998</guid>
-            <pubDate>Fri, 09 Jul 2021 13:59:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  道琼斯指数涨幅扩大至1%。30只成分股中有28只上涨，高盛以3%涨幅领涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5942731.d.html</link>
-            <guid>2234997</guid>
-            <pubDate>Fri, 09 Jul 2021 13:57:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国财长肖尔茨：将很快完成税收协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4544820.d.html</link>
-            <guid>2234996</guid>
-            <pubDate>Fri, 09 Jul 2021 13:55:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[秘鲁5月白银出口同比增长10.57％至47万盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4544334.d.html</link>
-            <guid>2234995</guid>
-            <pubDate>Fri, 09 Jul 2021 13:50:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[秘鲁5月黄金出口同比增长125.84%至38.8万盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5941958.d.html</link>
-            <guid>2234994</guid>
-            <pubDate>Fri, 09 Jul 2021 13:50:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华宝证券取得基金投顾试点资格 第二批试点券商增至20家】华宝证券今日收到证监会出具的复函，正式获批基金投资顾问业务试点资格。至此，第二批取得基金投顾试点资格的券商已达20家，分别是中信证券、招商证券、国信证券、东方证券、兴业证券、安信证券、浙商证券、平安证券、光大证券、中泰证券、国金证券、中银证券、山西证券、东兴证券、南京证券、华安证券、东方财富证券、财通证券、华西证券、华宝证券。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4543923.d.html</link>
-            <guid>2234993</guid>
-            <pubDate>Fri, 09 Jul 2021 13:47:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股钢铁板块拉升，通用钢铁(GSIH)在场外市场涨18%，美国钢铁(X.N)涨5.4%，克里夫斯天然资源公司(CLF.N)涨4.5%，纽柯钢铁(NUE.N)涨近3%。]]></title>
-            <guid>2234992</guid>
-            <pubDate>Fri, 09 Jul 2021 13:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【专家：降准或缓解房贷放款压力，但房地产资金面紧张难获改变】“对房地产市场而言，本次降准后，银行贷款资金总量增加，近期银行购房贷款放款缓慢问题或将有所改善，企业融资成本有望回落。” 中指研究院指数事业部分析师毛大鹏如此表示，但他也指出，当前房地产金融监管仍在持续强化，去年年底出台的房地产贷款集中度管理制度，今年3月下旬发布的《关于防止经营用途贷款违规流入房地产领域的通知》，都明确要加强对资金流入房地产领域的监管，本次降准对房地产市场的利好或有限。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4543357.d.html</link>
-            <guid>2234990</guid>
-            <pubDate>Fri, 09 Jul 2021 13:42:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家发改委副主任：将推出东北振兴更多政策举措】国家发改委副主任宁吉喆8日在长春表示，随着企业向北投资增加，所谓投资不过山海关逐渐成为历史。“十四五”时期，东北全面振兴将形成新突破。宁吉喆表示，近年来中央和地方已经出台了一系列支持东北振兴的重要政策文件，下一步将不断完善东北振兴的政策体系，推出更多政策举措和工作方案，推动东北振兴取得新进展。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4543053.d.html</link>
-            <guid>2234989</guid>
-            <pubDate>Fri, 09 Jul 2021 13:40:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：印尼米纳哈萨县发生6.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqciyzk4542714.d.html</link>
-            <guid>2234987</guid>
-            <pubDate>Fri, 09 Jul 2021 13:37:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概股多数反弹，陆金所涨超6%，叮咚买菜涨5.5%，新东方、滴滴涨超4%，哔哩哔哩、富途控股涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-09/detail-ikqcfnca5940192.d.html</link>
-            <guid>2234986</guid>
-            <pubDate>Fri, 09 Jul 2021 13:36:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
