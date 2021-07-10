@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 10 Jul 2021 20:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jul 2021 21:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【东京奥运会允许观众入内的赛场只剩三个】东京奥组委10日宣布，在福岛举行的棒球和垒球比赛以及在札幌举行的足球比赛都将禁止观众入内，这样允许观众观看的奥运会比赛只剩下场地自行车和足球两个项目，赛场只剩下三个。另外，东京奥组委表示，在札幌巨蛋体育场举行的奥运会足球比赛也将闭门举行。（央视新闻）]]></title>
+            <guid>2235455</guid>
+            <pubDate>Sat, 10 Jul 2021 21:20:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥新冠肺炎死亡病例升至234907例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4735282.d.html</link>
+            <guid>2235454</guid>
+            <pubDate>Sat, 10 Jul 2021 20:51:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥新增9581例新冠肺炎确诊病例，累计确诊2586721例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4734618.d.html</link>
+            <guid>2235453</guid>
+            <pubDate>Sat, 10 Jul 2021 20:33:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[希腊新增新冠肺炎确诊病例2327例，累计确诊437345例；新增死亡病例2例，累计死亡12787例。]]></title>
             <guid>2235452</guid>
@@ -461,18 +478,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6081726.d.html</link>
             <guid>2235346</guid>
             <pubDate>Sat, 10 Jul 2021 09:37:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家计算机病毒应急处理中心监测发现18款违法移动应用】国家计算机病毒应急处理中心近期通过互联网监测，发现18款移动应用存在隐私不合规行为，违反网络安全法相关规定，涉嫌超范围采集个人隐私信息，将对它们采取通报整改等处理举措。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6079543.d.html</link>
-            <guid>2235343</guid>
-            <pubDate>Sat, 10 Jul 2021 09:20:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡将于7月12日收紧对印尼的入境限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4680673.d.html</link>
-            <guid>2235341</guid>
-            <pubDate>Sat, 10 Jul 2021 09:08:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
