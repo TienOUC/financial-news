@@ -4,11 +4,83 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 10 Jul 2021 03:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jul 2021 04:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据日本放送协会NHK：日本发现入境奥运官员感染新冠病毒。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4642645.d.html</link>
+            <guid>2235261</guid>
+            <pubDate>Sat, 10 Jul 2021 04:24:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ARK基金减持诺华制药、虎牙。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6037861.d.html</link>
+            <guid>2235259</guid>
+            <pubDate>Sat, 10 Jul 2021 04:13:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家网信办：掌握超过100万用户个人信息的运营者赴国外上市 必须向网络安全审查办公室申报网络安全审查】国家互联网信息办公室发布关于《网络安全审查办法（修订草案征求意见稿）》公开征求意见的通知。《办法》提出，掌握超过100万用户个人信息的运营者赴国外上市，必须向网络安全审查办公室申报网络安全审查。承诺不利用提供产品和服务的便利条件非法获取用户数据、非法控制和操纵用户设备，无正当理由不中断产品供应或必要的技术支持服务等。网络安全审查重点评估采购活动、数据处理活动以及国外上市可能带来的国家安全风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4638741.d.html</link>
+            <guid>2235258</guid>
+            <pubDate>Sat, 10 Jul 2021 04:05:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国加州方面表示，电网恢复稳定，敦促进一步节约能源。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4636063.d.html</link>
+            <guid>2235256</guid>
+            <pubDate>Sat, 10 Jul 2021 03:50:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【女装月租平台衣二三宣布关停，曾获红杉、IDG、真格等投资】女性时装月租平台“衣二三”发布消息称，因业务调整，将于8月15日关闭服务，并将在7月13日0时停止会员下单，7月23日0时关闭衣箱归还预约通道。8月1日0时起，客服将开启统一退还会员费的通道，8月15日0时将截止操作退费。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6033180.d.html</link>
+            <guid>2235255</guid>
+            <pubDate>Sat, 10 Jul 2021 03:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山东招远金矿事故涉事27人被追责问责】山东省人民政府9日发布关于烟台招远曹家洼金矿“2·17”较大火灾事故调查报告的批复，认定该事故是一起由于企业违规动火作业引发的较大生产安全责任事故，对涉事27人进行追责问责。批复中显示，招远市曹家洼金矿法定代表人王敬志、招远市曹家洼金矿矿长李进桂已被公安机关采取措施，建议司法机关依法追究其刑事责任。2月17日6时，山东招远市夏甸镇曹家洼金矿因井下设备检修发生火灾。事故共造成6人遇难，4人成功升井。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6032972.d.html</link>
+            <guid>2235254</guid>
+            <pubDate>Sat, 10 Jul 2021 03:49:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国宝武工业互联网人工智能中台发布】7月10日，在2021年世界人工智能大会上，宝信软件自主研发的中国宝武工业互联网人工智能中台发布。该平台将为xIn3Plat增添全新动力，助力非AI专业人员快速、便捷、高效地生成人工智能解决方案，加速智慧制造2.0进程，引领智慧制造工业变革，在打造智能经济、塑造智慧治理上迈出更大步伐。（中证网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4634746.d.html</link>
+            <guid>2235253</guid>
+            <pubDate>Sat, 10 Jul 2021 03:44:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【蚂蚁集团副总裁、智能科技事业群总裁蒋国飞：区块链单一技术很难满足产业发展需求】今日，在2021世界人工智能大会区块链论坛上，蚂蚁集团副总裁、智能科技事业群总裁蒋国飞表示，靠区块链单一的技术是很难去满足产业发展的需求，应该是以客户的价值为先，很多技术创新融合来解决商业中的现实问题，这成为整个区块链技术发展的趋势，产业区块链正在到来。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4633498.d.html</link>
+            <guid>2235252</guid>
+            <pubDate>Sat, 10 Jul 2021 03:37:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印度新增42766例新冠肺炎确诊病例 累计达3079.57万例】据印度卫生部10日公布的最新数据，印度新冠肺炎确诊病例升至30795716例。在过去24小时内，印度新增确诊病例42766例；新增死亡病例1206例，累计死亡407145例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4633251.d.html</link>
+            <guid>2235251</guid>
+            <pubDate>Sat, 10 Jul 2021 03:36:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【清华大学朱旭峰：建议在有条件有需求的地区试行公民数据分红权】清华大学全球可持续发展研究院执行院长朱旭峰今天在2021世界人工智能大会上建议，对于城市治理中使用生物特征识别技术，要在鼓励发展、预防先行的策略之下，探索建立生物特征识别技术风险分级的预防机制，在有条件有需求的地区，试行公民数据分红权，实验如何撬动政府的使用权、企业的开发权和公民的数据分红权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4633225.d.html</link>
+            <guid>2235250</guid>
+            <pubDate>Sat, 10 Jul 2021 03:36:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华宝证券：全面降准，突出降低融资成本的功能】华宝证券认为，降准可以带来融资成本的降低是确定的，但是否向市场释放增量资金，需要观察接下来MLF到期续作的规模；宽货币环境下，若要有效引导大宗商品价格走低，宽财政的空间并不大；全面降准相比定向降准对企业融资的支持效率更高，需关注后续企业融资需求是否会明现恢复，警惕资金脱实向虚；流动性环境继续保持宽松的环境下，股市仍有结构性机会，风格会继续偏向成长和中小盘细分行业龙头。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4631592.d.html</link>
+            <guid>2235248</guid>
+            <pubDate>Sat, 10 Jul 2021 03:27:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【楚江新材：公司生产的退役锂电材料清洁回收处理系统已在格林美等企业实现运用】楚江新材(002171)在互动平台表示，公司不直接从事锂电池的回收与拆解，公司在锂电池回收与拆解领域上主要是为下游企业提供退役锂电池清洁回收成套装备及整体解决方案。公司生产的退役锂电材料清洁回收处理系统主要用于锂电材料的清洁回收与热解过程中的污染控制，目前已在格林美等企业实现运用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4631244.d.html</link>
+            <guid>2235247</guid>
+            <pubDate>Sat, 10 Jul 2021 03:25:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【北京冬奥组委与能源基金会签署战略合作框架协议】北京冬奥组委与能源基金会9日签署战略合作框架协议。该战略合作框架协议旨在推动北京冬奥会可持续性工作的深入开展，促进北京冬奥会可持续性成果在国际社会的交流与传播。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4629367.d.html</link>
@@ -477,77 +549,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4572899.d.html</link>
             <guid>2235142</guid>
             <pubDate>Fri, 09 Jul 2021 19:39:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月6日当周，COMEX铜期货投机性净多头头寸增加4930手至32506手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5970620.d.html</link>
-            <guid>2235141</guid>
-            <pubDate>Fri, 09 Jul 2021 19:34:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月6日当周，投机者将CBOT美国10年期国债期货合约净空头头寸减少34367手至25593手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5970577.d.html</link>
-            <guid>2235140</guid>
-            <pubDate>Fri, 09 Jul 2021 19:33:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月6日当周，WTI原油期货投机性净多头头寸减少34423手至383913手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5970572.d.html</link>
-            <guid>2235139</guid>
-            <pubDate>Fri, 09 Jul 2021 19:33:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月6日当周，COMEX白银期货投机性净多头头寸增加2416手至35557手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5970501.d.html</link>
-            <guid>2235138</guid>
-            <pubDate>Fri, 09 Jul 2021 19:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月6日当周，COMEX黄金期货投机性净多头头寸增加20487手至93004手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4572532.d.html</link>
-            <guid>2235137</guid>
-            <pubDate>Fri, 09 Jul 2021 19:31:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  小牛电动尾盘涨幅扩大至10%，最高报33.32美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5970357.d.html</link>
-            <guid>2235136</guid>
-            <pubDate>Fri, 09 Jul 2021 19:28:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦贸易委员会主席Lina Khan：当前的企业合并指引需要“重点审核”。]]></title>
-            <guid>2235135</guid>
-            <pubDate>Fri, 09 Jul 2021 19:23:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拜登签署行政命令以促进美国各行业竞争】美国总统拜登当地时间7月9日签署了一项行政命令，以促进美国各行业的竞争。这项法案针对科技、医疗和其他领域的反竞争做法提出了指导和限制措施，同时意在提高工人收入，为消费者提供保护。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4571869.d.html</link>
-            <guid>2235133</guid>
-            <pubDate>Fri, 09 Jul 2021 19:17:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  恒指期货夜盘收涨1.69%，报27707点，高水362点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5969396.d.html</link>
-            <guid>2235132</guid>
-            <pubDate>Fri, 09 Jul 2021 19:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西经济部长盖德斯：我们不会增税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4570857.d.html</link>
-            <guid>2235131</guid>
-            <pubDate>Fri, 09 Jul 2021 19:02:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：特斯拉(TSLA.O)与布鲁克菲尔德资管公司将在得州奥斯丁建立太阳能社区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4570849.d.html</link>
-            <guid>2235130</guid>
-            <pubDate>Fri, 09 Jul 2021 19:02:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  凯投宏观：投资者最终将会对通胀上升和进一步加息之间的某种组合产生怀疑，因为他们预计美联储将采取更多措施，以将通胀重新置于其控制之下。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4570843.d.html</link>
-            <guid>2235129</guid>
-            <pubDate>Fri, 09 Jul 2021 19:02:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
