@@ -4,13 +4,32 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 10 Jul 2021 14:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jul 2021 15:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[美国财长耶伦：G20在（应对）气候变化方面取得了进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6113061.d.html</link>
+            <guid>2235407</guid>
+            <pubDate>Sat, 10 Jul 2021 15:18:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特媒体：沙特当局将设定国内汽油价格上限，7月10日起当地汽油价格不超过6月的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6112862.d.html</link>
+            <guid>2235406</guid>
+            <pubDate>Sat, 10 Jul 2021 15:14:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国新增32367例新冠肺炎确诊病例，新增34例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4714618.d.html</link>
+            <guid>2235405</guid>
+            <pubDate>Sat, 10 Jul 2021 15:04:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【上海发布经济数字化转型三年行动方案，将打造“50+”市值超百亿元流量型企业】 7月10日在2021世界人工智能大会闭幕式上，上海市城市数字化转型工作领导小组办公室发布了《推进上海经济数字化转型 赋能高质量发展行动方案（2021-2023年）》，拟推进上海经济数字化转型，重点聚焦12个专项行动、形成40项重点任务，集中突破“100+”关键技术、形成“100+”标准化算法产品、培育“100+”智能硬件产品，打造“50+”市值超百亿元的流量型企业。到2023年，将上海打造成为世界级的创新型产业集聚区、数字经济与实体经济融合发展示范区、经济数字化转型生态建设引领区，成为数字经济国际创新合作典范之城。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6108843.d.html</link>
             <guid>2235403</guid>
             <pubDate>Sat, 10 Jul 2021 14:18:29 GMT</pubDate>
         </item>
@@ -460,30 +479,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4660752.d.html</link>
             <guid>2235291</guid>
             <pubDate>Sat, 10 Jul 2021 06:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陕西发现1例外地输入新冠病毒无症状感染者】陕西发现1例输入性新冠无症状感染者，系广东东莞务工人员，曾乘坐CZ3215次航班至咸阳机场，9日核酸检测阳性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4658442.d.html</link>
-            <guid>2235290</guid>
-            <pubDate>Sat, 10 Jul 2021 06:18:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[捷克共和国报告新增278例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4658086.d.html</link>
-            <guid>2235289</guid>
-            <pubDate>Sat, 10 Jul 2021 06:14:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上半年海南猪肉蔬菜价格整体呈现下降趋势】从海南省发展改革委获悉，上半年海南省蔬菜零售平均价格为3.70元/500克，较去年同期下降4.39%。猪肉价格也明显回落，海南省农贸市场鲜猪肉(精瘦肉、肋条肉、排骨)零售均价每 500克由1月份的35.30元，回落至6月份的28.72元，降幅为18.64%。（e公司）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4657899.d.html</link>
-            <guid>2235288</guid>
-            <pubDate>Sat, 10 Jul 2021 06:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美商务部决定制裁更多俄罗斯企业 俄驻美大使：这是对抗行为】据俄罗斯塔斯社10日报道，俄罗斯驻美国大使安东诺夫9日在社交媒体上发布声明说，美国方面决定将更多俄罗斯企业列入出口管制“实体清单”，其中包括多家俄罗斯微电子公司，这是刻意限制俄罗斯国内企业获得国外高精尖技术的又一对抗步骤。(央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4657408.d.html</link>
-            <guid>2235287</guid>
-            <pubDate>Sat, 10 Jul 2021 06:10:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
