@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 10 Jul 2021 18:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jul 2021 19:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[赞比亚新增新冠肺炎确诊病例2384例，累计确诊174789例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6127023.d.html</link>
+            <guid>2235448</guid>
+            <pubDate>Sat, 10 Jul 2021 18:36:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国疾控中心：截至7月10日，美国新冠肺炎确诊病例累计达33659974例，死亡病例累计达604596例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4728566.d.html</link>
@@ -462,18 +468,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6074085.d.html</link>
             <guid>2235337</guid>
             <pubDate>Sat, 10 Jul 2021 08:36:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日本《朝日新闻》：相关人士透露，福岛县政府确定方针，在县内举行的棒球与垒球东京奥运会比赛将以无观众空场形式举办。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6073755.d.html</link>
-            <guid>2235336</guid>
-            <pubDate>Sat, 10 Jul 2021 08:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为音乐与环球音乐集团中国公司达成版权合作协议】 日前，华为音乐与环球音乐集团中国公司宣布达成版权合作协议，环球音乐的海量优质曲库将在华为音乐上线，这标志着双方首次在中国内地达成授权合作。通过此次合作，用户可通过手机、手表、音箱、耳机、智慧屏、车载等不同华为终端，在丰富的场景下聆听到环球音乐旗下知名艺术家们的高品质音乐。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6073662.d.html</link>
-            <guid>2235335</guid>
-            <pubDate>Sat, 10 Jul 2021 08:33:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
