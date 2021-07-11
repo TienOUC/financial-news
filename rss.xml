@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://tienouc.github.io/financial-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 11 Jul 2021 16:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jul 2021 17:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://tienouc.github.io/financial-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国西部热浪持续 山火加剧 2名消防员因飞机失事丧生】当地时间7月10日，美国亚利桑那州2名消防员在执行消防任务中丧生。亚利桑那州土地管理局在一份声明中表示，2名消防队员在对普雷斯科特国家森林附近的雪松盆地火灾进行空中侦察时，因飞机失事而丧生。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4879487.d.html</link>
+            <guid>2235824</guid>
+            <pubDate>Sun, 11 Jul 2021 17:12:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两部门：2021年底移动网络 IPv6流量占比将超20%】日前工信部、中央网信办印发《IPv6流量提升三年专项行动计划（2021-2023年）》，围绕IPv6流量提升总体目标，明确了未来三年的重点发展任务，其中到2021年底，移动网络IPv6流量占比超过20%，固定网络IPv6流量规模较2020年底提升20%以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4878862.d.html</link>
+            <guid>2235823</guid>
+            <pubDate>Sun, 11 Jul 2021 17:06:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【也门里亚尔对美元汇率历史性跌破1000大关】当地时间11日傍晚，也门政府控制区的里亚尔汇率历史性跌破1000里亚尔兑1美元大关。也门在2015年大规模内战爆发前，汇率一直稳定在215里亚尔兑1美元上下，随着战争的爆发也门货币持续贬值，6年来也门里亚尔已经贬值了近五倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6274864.d.html</link>
+            <guid>2235822</guid>
+            <pubDate>Sun, 11 Jul 2021 17:00:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯国防部：俄军苏-30SM和苏-27在黑海上空拦截了美国空军的EP-3E“白羊座”电子侦察机和CL-600“挑战者”侦察机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqcfnca6273755.d.html</link>
+            <guid>2235820</guid>
+            <pubDate>Sun, 11 Jul 2021 16:47:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“昆仑号”完成首条高铁架梁任务】7月11日，在新建福厦铁路湄洲湾跨海大桥建设现场，中铁十一局工人协同“昆仑号”千吨级运架一体机架设该线路最后一孔40米箱梁。当日，我国自主研发的“昆仑号”千吨级运架一体机在中铁十一局承建的新建福厦铁路湄洲湾跨海大桥建设现场，圆满完成最后一孔40米高铁箱梁架梁任务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4876608.d.html</link>
+            <guid>2235819</guid>
+            <pubDate>Sun, 11 Jul 2021 16:41:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【多家纺织服装企业中报高增长】截至7月9日收盘，申万纺织服装板块98家上市公司中已有18家企业发布业绩预告，其中多家公司中报净利润增幅超过一倍。例如，兴业科技预计中报实现归属于上市公司股东的净利润1亿元-1.2亿元，同比增长4681.49%-5637.78%；森马服饰预计中报实现归属于上市公司股东的净利润5.8亿元-7.2亿元，同比增长2585.65%-3233.90%。除上述两家公司外，百隆东方、富春纺织、金发拉比等企业净利润预增幅度也超过一倍，华孚时尚、朗姿股份实现扭亏。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-12/detail-ikqciyzk4875983.d.html</link>
@@ -480,30 +510,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6232390.d.html</link>
             <guid>2235616</guid>
             <pubDate>Sun, 11 Jul 2021 09:00:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【希努尔：拟变更公司名称和证券简称】希努尔公告，鉴于公司控股股东变更和业务结构发生重大变化，公司拟变更公司名称和证券简称，将公司名称变更为“雪松发展股份有限公司”，公司证券简称变更为“雪松发展”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4835289.d.html</link>
-            <guid>2235615</guid>
-            <pubDate>Sun, 11 Jul 2021 08:59:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【朗新科技：上半年净利同比预增25%-35%】朗新科技公告，预计2021年上半年净利润为1.02亿元–1.10亿元，同比增长25%-35%。报告期内，公司营业收入预计较去年同期增长约45%。报告期内，公司的能源互联网服务平台价值凸显，2C的平台运营业务不断突破。以公司的电动汽车聚合充电业务为例，截至2021年二季度末，平台已累计接入充电运营商超300家，在运营充电桩数量超过20万，服务新能源充电车主数超过105万。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6232216.d.html</link>
-            <guid>2235614</guid>
-            <pubDate>Sun, 11 Jul 2021 08:59:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信证券：建议在中报季继续紧抓新能源、半导体等高景气成长制造主线】中信证券指出，经济阶段性扰动增多，超预期政策调整做出应对，投资者对弱经济和强流动性预期转向一致，短期市场极致分化接近尾声，7月中下旬或有阶段性修正，而彻底逆转预计发生在三季度末。配置上，建议在中报季继续紧抓新能源、半导体等高景气成长制造主线，并把握阶段性修正带来的入场时机，此外重点关注军工、计算机板块里部分中报高景气但相对滞涨的细分行业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6231614.d.html</link>
-            <guid>2235612</guid>
-            <pubDate>Sun, 11 Jul 2021 08:53:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【乐普医疗：上半年净利同比预增50%-70%】乐普医疗公告，预计2021年上半年的净利润为17.11亿元–19.39亿元，同比增长50%-70%。报告期内，随着国家组织冠脉支架集中带量采购的实施，传统支架业务显著下降，但介入无植入创新产品组合实现了非常显著的增长，实现销售收入3.64亿元，较去年同期增长1951.6%，报告期内二季度较一季度环比增幅75.6%，二季度支架业务板块基本恢复到2019年的正常水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6231395.d.html</link>
-            <guid>2235611</guid>
-            <pubDate>Sun, 11 Jul 2021 08:51:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
